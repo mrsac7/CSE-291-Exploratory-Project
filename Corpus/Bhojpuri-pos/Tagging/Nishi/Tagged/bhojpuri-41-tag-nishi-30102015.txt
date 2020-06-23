@@ -1,0 +1,12853 @@
+<document id="null">
+<head>
+
+</head>
+<Sentence id=''''>
+1	((	NP	
+1.1	लाल	NN	<fs af=',,,,,,,'>
+1.2	पीयर	NN	<fs af=',,,,,,,'>
+1.3	फूलन	NN	
+1.4	से	PSP	
+	))
+2	((	NP	
+2.1	सजल	JJ	
+2.2	कार	NN	
+2.3	में	PSP	
+	))
+3	((	NP	
+3.1	फैसन	JJ	
+3.2	गठरी	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	बनि	VM	
+4.2	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	बइठल	VM	
+5.2	रहली	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	JJP	<fs af=',,,,,,,'>
+1.1	लकदक	JJ	
+1.2	भारी	JJ	
+	))
+2	((	NP	
+2.1	बनारसी	JJ	
+2.2	साड़ी	NN	
+2.3	,	SYM	
+	))
+3	((	NP	
+3.1	ऊपर	NST	
+3.2	से	PSP	
+	))
+4	((	JJP	<fs af=',,,,,,,'>
+4.1	ओहू	PRP	
+4.2	से	PSP	
+4.3	भारी	JJ	
+	))
+5	((	NP	
+5.1	सान्तीपुरी	JJ	
+5.2	चादर	NN	
+5.3	के	PSP	
+	))
+6	((	NP	
+6.1	लमहर	JJ	
+6.2	घुघ्घुट-	NN	
+	))
+7	((	NP	
+7.1	‘फैसन’	NN	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	जीव	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	अफनात	VM	
+9.2	रहे	VAUX	
+9.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एही	PRP	<fs af=',,,,,,,'>
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	एतना	QF	
+2.2	नगीचे	NST	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	बइठल	VM	<fs af=',,,,,,,'>
+	))
+4	((	NP	
+4.1	एगो	QC	
+4.2	मरद	NN	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	रतिए	NN	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	फैसन	NN	
+2.2	साँसति	NN	
+2.3	में	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	पड़ल	VM	
+3.2	बाड़ी	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	<fs af=',,,,,,,'>
+1.1	ई	PRP	
+1.2	बिधि	NN	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	ऊ	PRP	
+2.2	बिधि	NN	
+2.3	सब	QF	
+2.4	में	PSP	
+	))
+3	((	NP	
+3.1	ई	PRP	
+3.2	मरद	NN	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	आ	CC	<fs af=',,,,,,,'>
+	))
+5	((	NP	
+5.1	ई	PRP	
+5.2	पहिराउरि	JJ	
+5.3	फैसन	NN	
+5.4	के	PSP	
+5.5	पाछे	NST	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	पड़ल	VM	
+6.2	बा	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मन	NN	
+1.2	त	RP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	करता	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	इनिके	PRP	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	कोहनियाइ	VM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	के	PSP	
+1.2	चित्त	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	करीं	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	घुघ्घुट	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	फेंकी	VM	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	आ	CC	<fs af=',,,,,,,'>
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	दउरत	VM	
+	))
+7	((	NP	
+7.1	बाबा	NN	
+7.2	लगे	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	भागि	VM	
+8.2	जाईं	VAUX	
+8.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	सोचते	VM	
+2.2	रहली	VAUX	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	आँखि	NN	<fs af=',,,,,,,'>
+4.2	का	PSP	
+4.3	आगे	NST	
+	))
+5	((	NP	
+5.1	बाबा	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	आ	VM	
+6.2	गइले	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कार	NN	
+1.2	का	PSP	
+1.3	लगे	PSP	
+	))
+2	((	NP	<fs af=',,,,,,,'>
+2.1	बाबा	NN	<fs af=',,,,,,,'>
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	आइल	VM	
+3.2	रहले	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	माथे	NN	
+1.2	पर	PSP	
+	))
+2	((	NP	
+2.1	हाथ	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	धइले	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	”बेटी“	NN	
+1.2	-	SYM	
+	))
+2	((	NP	
+2.1	बस	RP	
+2.2	एतने	QF	
+2.3	फैसन	NN	
+2.4	का	PSP	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	सुनाइल	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NN	
+1.2	बाबा	NN	
+1.3	के	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	देखिओ	VM	
+2.2	ना	NEG	
+2.3	पवली	VM	
+2.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ई	PRP	
+1.2	घुघ्घुट	NN	
+1.3	मलेच्छ	NN	
+1.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाबा	NN	
+1.2	के	PSP	
+	))
+2	((	JJP	<fs af=',,,,,,,'>
+2.1	आवाज	NN	
+2.2	बड़ा	JJ	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	डूबल	VM	
+3.2	डूबल	RDP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहे	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कइसे	WQ	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	होइहें	VM	
+	))
+3	((	NP	
+3.1	बाबा	NN	
+3.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बहरा	NST	
+1.2	बड़ा	JJ	
+1.3	गहमा	NN	
+1.4	गहमी	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रहे	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कई	QF	
+1.2	लोगन	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	आवाज	NN	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘नीबिया	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	डाढि़’	NN	
+2.2	का	PSP	
+	))
+3	((	NP	
+3.1	बाद	NST	
+3.2	”इयरी	NN	
+3.3	पियरी	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	पेन्हि	VM	
+4.2	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	निकल	VM	
+	))
+6	((	NP	
+6.1	भगमानो	JJ	
+6.2	सासु	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	हो	VM	
+7.2	,	SYM	
+	))
+8	((	BLK	<fs af=',,,,,,,'>
+8.1	आरे	INJ	
+	))
+9	((	VGNF	<fs af=',,,,,,,'>
+9.1	परिछऽ	VM	
+9.2	ना	NEG	
+	))
+10	((	NP	
+10.1	पूत	NN	
+10.2	बहुआरि	NN	
+10.3	त	RP	
+10.4	घरवा	NN	
+10.5	के	PSP	
+	))
+11	((	NP	
+11.1	लछिमी“	NN	
+11.2	सुरू	NN	
+	))
+12	((	VGF	<fs af=',,,,,,,'>
+12.1	हो	VM	
+12.2	गइल	VAUX	
+12.3	रहे	VAUX	
+12.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	साथे	NN	<fs af=',,,,,,,'>
+1.2	साथे	RDP	<fs af=',,,,,,,'>
+1.3	माँग	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बहोरले	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	बिधि	NN	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सासु	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	नाम	NN	
+2.2	भगमानो	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	हऽ	VM	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	फैसन	NNP	
+4.2	का	PSP	
+	))
+5	((	NP	
+5.1	पता	NN	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	चलल	VM	
+	))
+7	((	CCP	<fs af=',,,,,,,'>
+7.1	आ	CC	
+	))
+8	((	NP	
+8.1	ऊ	PRP	
+8.2	घर	NN	
+8.3	के	PSP	
+	))
+9	((	NP	
+9.1	लछिमी	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	हई	VM	
+10.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ससुरा	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	मान-सम्मान	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	मिली	VM	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	फैसन	NNP	
+4.2	अन्दाज	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	लगवली	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अगिली	NST	
+1.2	बिधि	NN	
+1.3	दउरी	NN	
+1.4	में	PSP	
+	))
+2	((	NP	
+2.1	डेग	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	डरला	VM	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहे	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सासु	NN	
+1.2	अँकवारी	NN	
+1.3	में	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	भरले	VM	
+	))
+3	((	NP	
+3.1	डेग	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	डलवावे	VM	
+4.2	लगली	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आगे	NST	<fs af=',,,,,,,'>
+1.2	आगे	RDP	<fs af=',,,,,,,'>
+	))
+2	((	NP	
+2.1	उनकर	PRP	
+2.2	बेटा	NN	
+2.3	हाथे	NN	
+2.4	में	PSP	
+	))
+3	((	NP	
+3.1	दही	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	नदिया	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	लिहले	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	पाछे	NST	
+1.2	पाछे	RDP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	निहुरल	VM	
+	))
+3	((	NP	
+3.1	फैसन	NNP	
+3.2	सिन्होरा	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	सम्हरले	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दहिने	NST	<fs af=',,,,,,,'>
+1.2	बायें	NST	<fs af=',,,,,,,'>
+	))
+2	((	NP	
+2.1	कुछु	QF	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	लउकत	VM	
+3.2	ना	NEG	
+3.3	रहे	VM	
+3.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कब्बो	NST	<fs af=',,,,,,,'>
+1.2	कब्बो	NST	<fs af=',,,,,,,'>
+	))
+2	((	NP	
+2.1	अगिली	NST	
+2.2	दउरी	NN	
+2.3	में	PSP	
+2.4	से	PSP	
+	))
+3	((	VGNN	<fs af=',,,,,,,'>
+3.1	उठत	VM	
+	))
+4	((	VGNN	<fs af=',,,,,,,'>
+4.1	रँगल	VM	
+	))
+5	((	NP	
+5.1	मरदाना	NN	
+5.2	एड़ी	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	झलकि	VM	
+6.2	जाव	VM	
+	))
+7	((	NP	
+7.1	एँड़ी	NN	
+	))
+8	((	NP	
+8.1	तनिके	QF	
+8.2	ऊपर	NST	
+8.3	हड्डी	NN	
+8.4	के	PSP	
+	))
+9	((	NP	
+9.1	एगो	QC	
+9.2	लमछर	JJ	
+9.3	उभार	NN	
+9.4	,	SYM	
+	))
+10	((	NP	
+10.1	तनी	QF	
+10.2	अउरी	QF	
+10.3	ऊपर	NST	
+10.4	मसुगर	NN	
+10.5	गोड़	NN	
+10.6	,	SYM	
+	))
+11	((	NP	
+11.1	ओपर	PRP	
+11.2	करिआ	JJ	
+11.3	करिआ	RDP	
+11.4	रोआँ	NN	
+	))
+12	((	CCP	<fs af=',,,,,,,'>
+12.1	आ	CC	
+	))
+13	((	NP	
+13.1	आरी	NN	
+13.2	आरी	RDP	
+	))
+14	((	VGNF	<fs af=',,,,,,,'>
+14.1	फहरत	VM	
+	))
+15	((	NP	
+15.1	पियरी	JJ	
+15.2	के	PSP	
+15.3	कोर	NN	
+15.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	रोआँ	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ठाढ़	VM	
+3.2	हो	VAUX	
+3.3	गइल	VAUX	
+3.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	गीत	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	चलत	VM	
+2.2	रहे-	VAUX	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	‘नइ	VM	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	चलऽ	VM	
+	))
+5	((	NP	
+5.1	दुलहिन	NN	
+5.2	,	SYM	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	नइ	VM	
+6.2	के	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	चलऽ	VM	
+7.2	हो	VAUX	
+7.3	,	SYM	
+	))
+8	((	NP	
+8.1	जइसे	PRP	
+8.2	बँसवा	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	नवेला	VM	
+	))
+10	((	NP	
+10.1	ओइसे	PRP	
+	))
+11	((	VGNF	<fs af=',,,,,,,'>
+11.1	नइ	VM	
+11.2	के	PSP	
+	))
+12	((	VGF	<fs af=',,,,,,,'>
+12.1	चलऽ	VM	
+12.2	हो	VAUX	
+12.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	सुनते	VM	
+	))
+3	((	NP	
+3.1	फैसन	NNP	
+3.2	तनी	QF	
+3.3	अउरी	QF	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	निहुरि	VM	
+4.2	गइली	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ध्यान	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बँटि	VM	
+2.2	गइल	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जीव	NN	
+1.2	अफना	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	गइल	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘केतना	WQ	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	नईं	VM	
+2.2	,	SYM	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	नइए	VM	
+3.2	के	PSP	
+3.3	त	RP	
+	))
+4	((	NP	
+4.1	इहाँ	NST	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	आइल	VM	
+5.2	बानीं’-	VAUX	
+	))
+6	((	NP	
+6.1	फैसन	NNP	
+6.2	अपने	PRP	
+6.3	से	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	कइली	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मन	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	कइल	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	तनि	QF	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	खड़ा	VM	
+4.2	हो	VAUX	
+4.3	जासु	VAUX	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	आ	CC	
+	))
+6	((	RBP	<fs af=',,,,,,,'>
+6.1	जोर	RB	
+6.2	से	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	कहसु-	VM	
+7.2	‘देखीं	VM	
+	))
+8	((	NP	
+8.1	सभे	QF	
+8.2	,	SYM	
+	))
+9	((	NP	
+9.1	रउरे	PRP	
+9.2	दुलहवा	NN	
+9.3	से	PSP	
+	))
+10	((	NP	
+10.1	तनिको	QF	
+10.2	उन्नइस	QC	
+	))
+11	((	VGF	<fs af=',,,,,,,'>
+11.1	नइखीं	VM	
+11.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	बाति	NN	
+2.2	मनें	NN	
+2.3	में	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रहि	VM	
+3.2	गइल	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+	))
+2	((	NP	
+2.1	अपना	PRP	
+2.2	माई-बाप	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	अकेल	QF	
+3.2	संतान	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहली	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	डील-डौल	NN	
+1.2	में	PSP	
+	))
+2	((	JJP	<fs af=',,,,,,,'>
+2.1	ऊंच	JJ	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	अतिसे	NN	
+	))
+4	((	NP	
+4.1	निर्भीक	JJ	
+4.2	फैसन	NNP	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	नैन-नक्स	NN	
+5.2	त	RP	
+	))
+6	((	NP	
+6.1	साधारण	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	रहे	VM	
+	))
+8	((	CCP	<fs af=',,,,,,,'>
+8.1	बाकी	CC	
+	))
+9	((	NP	
+9.1	अजीब	JJ	
+9.2	मोहनी	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	रहे	VM	
+	))
+11	((	NP	
+11.1	फैसन	NNP	
+11.2	में	PSP	
+	))
+12	((	CCP	<fs af=',,,,,,,'>
+12.1	कि	CC	
+	))
+13	((	NP	<fs af=',,,,,,,'>
+13.1	एक	QC	
+13.2	बेर	NN	
+	))
+14	((	VGF	<fs af=',,,,,,,'>
+14.1	देख	VM	
+14.2	ले	VAUX	
+	))
+15	((	BLK	<fs af=',,,,,,,'>
+15.1	त	RP	
+	))
+16	((	NP	
+16.1	बेर-बेर	NN	
+	))
+17	((	VGNF	<fs af=',,,,,,,'>
+17.1	देखे	VM	
+17.2	के	PSP	
+	))
+18	((	NP	
+18.1	मन	NN	
+	))
+19	((	VGF	<fs af=',,,,,,,'>
+19.1	करे	VM	
+19.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जवने	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	पहिरें	VM	
+2.2	,	SYM	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	उगि	VM	
+3.2	जास	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एही	PRP	
+1.2	गुने	NN	
+1.3	फैसन	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहइली	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	JJP	<fs af=',,,,,,,'>
+1.1	छोटपन	JJ	
+1.2	में	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	खेलत	VM	
+	))
+3	((	NP	
+3.1	फैसन	NNP	
+3.2	के	PSP	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	देखि	VM	
+4.2	,	SYM	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	राही-बटोही	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	पूछि	VM	
+6.2	बइठें-	VM	
+	))
+7	((	NP	
+7.1	‘केकरि	WQ	
+7.2	बेटी	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	ह	VM	
+8.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	उमिर	NN	
+1.3	का	PSP	
+	))
+2	((	NP	
+2.1	साथ	NN	
+2.2	फैसन	NNP	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	ई	PRP	
+3.2	खासियत	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	बढ़त	VM	
+4.2	गइल	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	माई	NN	<fs af=',,,,,,,'>
+1.2	बाप	NN	<fs af=',,,,,,,'>
+1.3	का	PSP	
+	))
+2	((	NP	
+2.1	दुलार	NN	
+2.2	से	PSP	
+	))
+3	((	NP	
+3.1	ढिठाइओ	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	बढ़त	VM	
+4.2	गइल	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जवन	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	चाहें	VM	
+	))
+3	((	NP	
+3.1	तवने	PRP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	करें	VM	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	जइसे	PRP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	चाहे	VM	
+	))
+7	((	NP	
+7.1	तइसे	PRP	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	रहें	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	टोला	NN	
+1.2	मोहल्ला	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	लोग	NN	
+2.2	बोल	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	बोले	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	केहू	WQ	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहे-	VM	
+	))
+3	((	NP	
+3.1	‘बेटा	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	पोसाताड़ी	VM	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	आन	NN	
+5.2	घरे	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	ना	NEG	
+6.2	जइहें	VM	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+1.2	आन	NN	
+1.3	घरे	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	गइल	VM	
+2.2	चाहतो	VAUX	
+2.3	ना	NEG	
+2.4	रहली	VM	
+2.5	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	छोटाइये	NN	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	रसोई	NN	
+2.2	रसोई	RDP	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	खेलत	VM	
+	))
+4	((	NP	
+4.1	फैसन	NNP	
+4.2	से	PSP	
+	))
+5	((	NP	
+5.1	जब	NST	
+5.2	केहू	WQ	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	पूछे-	VM	
+	))
+7	((	NP	
+7.1	‘का	WQ	
+	))
+8	((	VGNF	<fs af=',,,,,,,'>
+8.1	बनता	VM	
+8.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहें	VM	
+2.2	-	SYM	
+	))
+3	((	NP	
+3.1	‘पूड़ी	NN	
+3.2	हलुवा’	NN	
+	))
+4	((	NP	
+4.1	‘के	WQ	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	खाई’	VM	
+	))
+6	((	NP	
+6.1	‘सब	QF	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	खाई	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	<fs af=',,,,,,,'>
+1.1	’	SYM	
+1.2	जो	PRP	
+1.3	केहू	WQ	
+1.4	ई	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहि	VM	
+2.2	दे-	VAUX	
+	))
+3	((	NP	
+3.1	‘ससुरे	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	चलि	VM	
+4.2	जइबू	VM	
+	))
+5	((	NP	
+5.1	तब	NST	
+5.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	सब	QF	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	फेंकि	VM	
+3.2	फाँकि	ECH	
+3.3	के	PSP	
+	))
+4	((	NP	
+4.1	फैसन	NNP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	रूसि	VM	
+5.2	जास	VAUX	
+5.3	-	SYM	
+	))
+6	((	NP	
+6.1	‘ससुरा	NN	
+6.2	आन	NN	
+6.3	घर	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	हऽ	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आन	NN	
+1.2	घरे	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	जाइब	VM	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ईहें	PRP	
+1.2	पूड़ी	NN	
+1.3	हलुवा	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बनाइब	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	सबके	QF	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	खिआइब	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	बाबा	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	हँसे	VM	
+2.2	लागें	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रोवे	VM	
+2.2	लागें	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	माई	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	समुझावे	VM	
+2.2	लागें-	VAUX	
+	))
+3	((	NP	
+3.1	‘जहिया	PRP	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	बाति	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	बा	VM	
+	))
+6	((	NP	<fs af=',,,,,,,'>
+6.1	तहिया	PRP	
+6.2	के	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बा	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आजुये	NN	
+1.2	का	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बिसूरे	VM	
+2.2	लगलू	VAUX	
+2.3	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	एक	QC	
+1.3	दिन	NN	
+1.4	ऊहो	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	आ	VM	
+2.2	गइल	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	माई	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	सूतल	VM	
+	))
+3	((	NP	
+3.1	बाबा	NN	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	जगावे	VM	
+4.2	लगली-	VAUX	
+	))
+5	((	NP	
+5.1	‘पराया	NN	
+5.2	धन	NN	
+5.3	कहिया	WQ	
+5.4	ले	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	जोगइबि	VM	
+6.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कहीं	WQ	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	देखीं	VM	
+2.2	सुनीं	VM	
+2.3	,	SYM	
+	))
+3	((	NP	
+3.1	बेटी	NN	
+3.2	बिआह	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	जोग	VM	
+4.2	भइलीं	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	बाबा	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	नीन	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	टूटल-	VM	
+3.2	‘हँ	RP	
+3.3	हो	RP	
+3.4	,	SYM	
+	))
+4	((	NP	
+4.1	दिन	NN	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	बीतत	VM	
+	))
+6	((	NP	
+6.1	देर	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	ना	NEG	
+7.2	लागल	VM	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	फैसन	NNP	
+1.3	माई	NN	
+1.4	लगे	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	पहुँचली-	VM	
+	))
+3	((	NP	
+3.1	‘पराया	NN	
+3.2	धन	NN	
+3.3	कहिया	WQ	
+3.4	से	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	हो	VM	
+4.2	गइनीं	VAUX	
+4.3	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	‘जहिया	PRP	
+1.3	भुइयाँ	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	गिरलू	VM	
+	))
+3	((	NP	
+3.1	तहिये	PRP	
+3.2	से	PSP	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बेटी	NN	
+1.2	पराये	NN	
+1.3	धन	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	होली	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	पालि	NN	
+1.2	पोस	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	उनुके	PRP	
+2.2	जोग	NN	
+2.3	पुरुष	NN	
+2.4	के	PSP	
+	))
+3	((	NP	
+3.1	बाँहीं	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	धरावल	VM	
+	))
+5	((	NP	
+5.1	माई-बाप	NN	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	धरम	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	ह	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	-माई	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	समुझवली	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘आजो	NN	
+1.2	हम	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	धरीं	VM	
+	))
+3	((	NP	
+3.1	तब	NST	
+3.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’-निरभीक	NN	
+1.2	फैसन	NNP	
+1.3	सवाल	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	क	VM	
+2.2	उठली	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘मुँहे	NN	
+1.2	करिखा	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	पोतबू	VM	
+2.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	का	WQ	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कही	VM	
+	))
+3	((	NP	
+3.1	गाँव-जवार	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	लोग	NN	
+4.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	केहू	WQ	
+1.2	कुँवार	JJ	
+1.3	बेटी	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रखले	VM	
+2.2	बा	VAUX	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	हम	PRP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	राखब	VM	
+5.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	माई	NN	
+1.3	एक	QC	
+1.4	सँसिये	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बोलली	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाति	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	अझुरात	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	देखि	VM	
+	))
+4	((	NP	
+4.1	फैसन	NNP	
+4.2	बाबा	NN	
+4.3	आगे	NST	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	अइली	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘बाबा	NN	
+1.2	,	SYM	
+	))
+2	((	NP	
+2.1	हम	PRP	
+2.2	बिआह	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	करब	VM	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	फैसन	NNP	
+	))
+3	((	NEGP	<fs af=',,,,,,,'>
+3.1	बिना	NEG	
+	))
+4	((	RBP	<fs af=',,,,,,,'>
+4.1	असमंजस	RB	
+4.2	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	बोलत	VM	
+5.2	रहली-	VAUX	
+5.3	के	PSP	
+	))
+6	((	NP	
+6.1	तुहन	PRP	
+6.2	लोगन	NN	
+6.3	के	PSP	
+	))
+7	((	NP	
+7.1	आगे-पाछे	NST	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	बा	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हम	PRP	
+1.2	तुहरे	PRP	
+	))
+2	((	NP	
+2.1	लोगन	NN	
+2.2	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	लगे	VM	
+3.2	रहब	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एक	QC	
+1.2	आदमी	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	रोटी	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	दे	VM	
+3.3	सकेल	VAUX	
+	))
+4	((	NP	
+4.1	तूँ	PRP	
+4.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	‘राम	NN	
+2.2	अइसन	PRP	
+2.3	रोजी	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	करें	VM	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तूँ	PRP	
+1.2	अपना	PRP	
+1.3	घरे	NN	
+	))
+2	((	NP	
+2.1	अमला	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	फइला	VM	
+3.2	से	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रह	VM	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	इहे	PRP	
+5.2	हमार	PRP	
+5.3	धन्नि	NN	
+5.4	भागि	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	होई	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+1.2	-	SYM	
+	))
+2	((	NP	
+2.1	बाबा	NN	
+2.2	बाति	NN	
+2.3	के	PSP	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	सझुरावे	VM	
+3.2	की	PSP	
+	))
+4	((	NP	
+4.1	कोसिस	NN	
+4.2	में	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	रहलें	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘तुहूँ	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहताड़ऽ	VM	
+	))
+3	((	NP	
+3.1	ई	PRP	
+3.2	हमार	PRP	
+	))
+4	((	NP	
+4.1	आपन	PRP	
+4.2	घर	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	ना	NEG	
+5.2	हऽ	VM	
+5.3	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तुहूँ	PRP	
+1.2	बेटी-बेटा	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	अन्तर	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	करताड़ऽ	VM	
+3.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	फैसन	NNP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	जिरह	VM	
+3.2	करे	VAUX	
+3.3	लगली	VAUX	
+3.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बेटी	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	रोख	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	देखि	VM	
+	))
+4	((	NP	
+4.1	बाबा	NN	
+	))
+5	((	RBP	<fs af=',,,,,,,'>
+5.1	थहराइ	RB	
+5.2	के	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बइठि	VM	
+6.2	गइलें	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ईहे	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहबू	VM	
+2.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘कब्बो	NST	
+1.2	तुहके	PRP	
+1.3	बेटी	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बूझिके	VM	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	पोसलीं	VM	
+3.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कब्बो	WQ	
+1.2	गँसलीं	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	सजलीं	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	तुहके	PRP	
+3.2	कवनो	WQ	
+3.3	सासना	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	ताड़ना	VM	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	दिहनीं	VAUX	
+5.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकी	RP	
+	))
+2	((	NP	
+2.1	कइसे	WQ	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	भुला	VM	
+3.2	जाईं	VAUX	
+	))
+4	((	NP	
+4.1	आपन	PRP	
+4.2	धरम	NN	
+4.3	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तोहरे	PRP	
+1.2	जोग	NN	
+1.3	बर	NN	
+1.4	के	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	खोजि	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	तुहार	PRP	
+3.2	बिआह	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	कइल	VM	
+	))
+5	((	NP	
+5.1	हमार	PRP	
+5.2	धरम	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	है	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तुहके	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बिदा	VM	
+2.2	कइल	VAUX	
+	))
+3	((	NP	
+3.1	हमार	PRP	
+3.2	सपना	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ह	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	बाबा	NN	
+	))
+2	((	RBP	<fs af=',,,,,,,'>
+2.1	थम्हि	RB	
+2.2	थम्हि	RDP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	बोलत	VM	
+3.2	रहलें	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	महसूस	VM	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	करत	VAUX	
+3.2	रहली	VAUX	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	बाबा	NN	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	मुँह	NN	
+	))
+7	((	VGNF	<fs af=',,,,,,,'>
+7.1	सूख	VM	<fs af=',,,,,,,'>
+7.2	गइल	VAUX	
+7.3	बा	VAUX	
+7.4	,	SYM	
+	))
+8	((	NP	
+8.1	ओठे	NN	
+8.2	फेफरी	NN	
+	))
+9	((	VGNF	<fs af=',,,,,,,'>
+9.1	फाटि	VM	
+9.2	गइल	VAUX	
+9.3	बा	VAUX	
+9.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाबा	NN	
+1.2	फैसन	NNP	
+1.3	का	PSP	
+	))
+2	((	NP	
+2.1	माथे	NN	
+2.2	पर	PSP	
+	))
+3	((	NP	
+3.1	हाथ	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	फेरत	VM	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	कहलें-	VM	
+	))
+6	((	NP	
+6.1	‘जो	PRP	
+6.2	तूँ	PRP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	ना	NEG	
+7.2	चहबू	VM	
+7.3	त	RP	
+	))
+8	((	VGNF	<fs af=',,,,,,,'>
+8.1	ना	NEG	
+8.2	होई	VM	
+	))
+9	((	NP	
+9.1	बिआह	NN	
+9.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तुहरे	PRP	
+1.2	खातिर	PSP	
+	))
+2	((	NP	
+2.1	जमाना	NN	
+2.2	से	PSP	
+	))
+3	((	NP	
+3.1	उल्टा	NST	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	चलब	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सबकर	QF	
+1.2	जबाब	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	दे	VM	
+2.2	लेब	VAUX	
+2.3	,	SYM	
+	))
+3	((	NP	
+3.1	सबसे	QF	
+3.2	हिसाब	NN	
+3.3	किताब	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	क	VM	
+4.2	लेब	VAUX	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	बाकी	CC	
+	))
+6	((	NP	
+6.1	तोहसे	PRP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	ना	NEG	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	‘फैसन	NNP	
+1.3	का	PSP	
+	))
+2	((	NP	
+2.1	कपारे	NN	
+2.2	पर	PSP	
+	))
+3	((	NP	
+3.1	दूइ	QC	
+3.2	बून	NN	
+3.3	पानी	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	चुवल	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	फैसन	NNP	
+1.3	नइ	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	गइली	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एक	QC	
+1.2	चिटुकी	NN	
+	))
+2	((	NP	
+2.1	सेनुर	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	ई	PRP	
+3.2	असर	NN	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अस	PRP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	गाँठि	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	जोड़ाइल	VM	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	मन	NN	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	सब	QC	
+6.2	गांठि	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	खुलि	VM	
+7.2	गइल	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जवन	PRP	
+1.2	जनम	NN	
+1.3	से	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बान्हि-छान्हि	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	जोगवल	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहल	VM	
+	))
+5	((	NP	
+5.1	फैसन	NNP	
+5.2	का	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बुझाए	VM	
+	))
+7	((	NP	
+7.1	सब	QF	
+7.2	ओन्ह	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	दें	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एही	PRP	
+1.2	दिन	NN	
+1.3	खातिर	PSP	
+	))
+2	((	BLK	<fs af=',,,,,,,'>
+2.1	त	RP	
+	))
+3	((	NP	
+3.1	सब	QF	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	जोगवल	VM	
+4.2	रहे	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कुछु	QF	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बांचि	VM	
+2.2	न	NEG	
+2.3	जाए	VM	
+2.4	,	SYM	
+	))
+3	((	NEGP	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+	))
+4	((	NP	
+4.1	तन	NN	
+4.2	में	PSP	
+	))
+5	((	NEGP	<fs af=',,,,,,,'>
+5.1	ना	NEG	
+	))
+6	((	NP	
+6.1	मन	NN	
+6.2	में	PSP	
+6.3	,	SYM	
+	))
+7	((	NP	
+7.1	रत्ती	NN	
+7.2	रत्ती	RDP	
+7.3	,	SYM	
+	))
+8	((	NP	
+8.1	मासा	NN	<fs af=',,,,,,,'>
+8.2	मासा	RDP	<fs af=',,,,,,,'>
+8.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+1.2	एतना	QF	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	नवली	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	एतना	QF	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	नवली	VM	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	कि	CC	
+	))
+6	((	NP	<fs af=',,,,,,,'>
+6.1	तारवा	NN	
+6.2	तर	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	लोटि	VM	
+7.2	गइली	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	इहें	PRP	
+1.2	उनुकर	PRP	
+1.3	गति	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बा	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	मति	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	बा	VM	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	जीवन	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बा	VM	
+6.2	,	SYM	
+	))
+7	((	NP	
+7.1	मरन	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	बा	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	पति	NN	
+	))
+2	((	NP	
+2.1	उनुकर	PRP	
+2.2	परमेसर	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	हो	VM	
+3.2	गइलें	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	नवीनो	NNP	
+	))
+2	((	NP	
+2.1	एह	PRP	
+2.2	जोग	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रहले	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जेतने	QF	
+1.2	तन	NN	
+1.3	से	PSP	
+	))
+2	((	NP	
+2.1	सुन्नर	NN	
+2.2	ओतने	QF	
+2.3	मन	NN	
+2.4	से	PSP	
+2.5	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आपन	PRP	
+1.2	आन	PRP	
+	))
+2	((	NP	
+2.1	सबके	QF	
+2.2	खयाल	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	करे	VM	
+3.2	वाला	PSP	
+3.3	,	SYM	
+	))
+4	((	NP	<fs af=',,,,,,,'>
+4.1	गाँव	NN	
+4.2	जवार	NN	
+4.3	सबके	QF	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	जाने	VM	
+5.2	समुझे	VM	
+5.3	वाला	PSP	
+5.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+1.2	जब	NST	
+1.3	अपना	PRP	
+	))
+2	((	NP	
+2.1	माई	NN	
+2.2	बाबा	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	चिन्ता	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	करें	VM	
+4.2	त	RP	
+	))
+5	((	NP	
+5.1	नवीन	NNP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	तोख	VM	
+6.2	दें-	VAUX	
+	))
+7	((	NP	
+7.1	‘कइसन	WQ	
+7.2	बात	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	सोचेलू	VM	
+8.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अपना	PRP	
+1.2	माई-भाई	NN	
+1.3	के	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	पूछब	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	NP	
+4.1	तुहरी	PRP	
+4.2	माई-बाबा	NN	
+4.3	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	छोड़	VM	
+5.2	देब	VAUX	
+5.3	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सब	QF	
+1.2	ठीक	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रही	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	निस्चिन्त	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रहऽ	VM	
+2.2	!	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	फैसन	NNP	
+	))
+2	((	CCP	<fs af=',,,,,,,'>
+2.1	आ	CC	
+	))
+3	((	NP	
+3.1	नवीन	NNP	
+3.2	के	PSP	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	देखिके	VM	
+	))
+5	((	NP	
+5.1	सासु	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	कहें	VM	
+	))
+7	((	NP	
+7.1	सिव-पार्वती	NN	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	जोड़ी	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	ह	VM	
+	))
+10	((	NP	
+10.1	फैसन	NNP	
+10.2	के	PSP	
+	))
+11	((	NP	
+11.1	आसीर्वाद	NN	
+	))
+12	((	VGF	<fs af=',,,,,,,'>
+12.1	दें-	VM	
+	))
+13	((	NP	
+13.1	‘पार्वती	NN	
+13.2	सम	NN	
+13.3	पति	NN	
+13.4	प्रिय	NN	
+	))
+14	((	VGF	<fs af=',,,,,,,'>
+14.1	होहू	VM	
+14.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	’	SYM	
+1.2	सच्चे	NN	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	दूनूँ	QC	
+2.2	जने	NN	
+2.3	में	PSP	
+	))
+3	((	NP	
+3.1	अछोर	JJ	
+3.2	प्रेम	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहे	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+1.2	का	PSP	
+	))
+2	((	NP	
+2.1	ई	PRP	
+2.2	जिनिगी	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	भावे	VM	
+3.2	लागल	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	JJP	<fs af=',,,,,,,'>
+1.1	बहुत	INTF	
+1.2	कुछ	JJ	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बदलल	VM	
+	))
+3	((	NP	
+3.1	फैसन	NNP	
+3.2	का	PSP	
+	))
+4	((	NP	
+4.1	भीतर	NST	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	JJP	<fs af=',,,,,,,'>
+1.1	नटखट	JJ	
+1.2	,	SYM	
+	))
+2	((	JJP	<fs af=',,,,,,,'>
+2.1	हठी	JJ	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	किसोरी	JJ	
+3.2	फैसन	NNP	
+3.3	का	PSP	
+	))
+4	((	NP	
+4.1	जगह	NN	
+4.2	अब	NST	
+	))
+5	((	JJP	<fs af=',,,,,,,'>
+5.1	गढू	JJ	
+5.2	गम्भीर	JJ	
+5.3	,	SYM	
+	))
+6	((	NP	<fs af=',,,,,,,'>
+6.1	विवेकी	JJ	
+6.2	फैसन	NNP	
+	))
+7	((	NP	
+7.1	पूरमपूर	JJ	
+7.2	औरत	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	बन	VM	
+8.2	गइली	VAUX	
+8.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जइसे	PRP	
+1.2	गंगा	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	वेग	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	सिवजी	NN	
+3.2	अपना	PRP	
+	))
+4	((	NP	
+4.1	जटा-जूट	NN	
+4.2	में	PSP	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	सम्हारि	VM	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	धरती	NN	
+6.2	पर	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	भेजले	VM	
+7.2	होईं	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बहुत	QF	
+1.2	कुछ	QF	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बदलल	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	फैसल	NN	
+3.2	का	PSP	
+	))
+4	((	NP	
+4.1	बाहर	NST	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	नइहर	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	गाँव	NN	
+2.2	सीवान	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	छूटि	VM	
+3.2	गइल	VAUX	
+3.3	,	SYM	
+	))
+4	((	NP	
+4.1	सखी	NN	
+4.2	सलेहरि	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	छूटि	VM	
+5.2	गइली	VAUX	
+5.3	,	SYM	
+	))
+6	((	NP	
+6.1	माई	NN	
+6.2	बाबा	NN	
+6.3	के	PSP	
+	))
+7	((	NP	
+7.1	नेह	NN	
+7.2	छोह	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	छूटि	VM	
+8.2	गइल	VAUX	
+8.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	सोचें-	VM	
+	))
+3	((	NP	
+3.1	”सचहूँ	NN	
+3.2	का	WQ	
+3.3	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	“	SYM	
+	))
+2	((	NP	
+2.1	जबाब	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	मिले-	VM	
+3.2	‘ना	NEG	
+3.3	,	SYM	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	छूटल	VM	
+4.2	ना	NEG	
+4.3	,	SYM	
+	))
+5	((	NP	
+5.1	मन	NN	
+5.2	का	PSP	
+	))
+6	((	NP	
+6.1	भितरी	NST	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	समा	VM	
+7.2	गइल	VAUX	
+7.3	,	SYM	
+	))
+8	((	NP	
+8.1	अउरी	QF	
+8.2	गहिरा	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	गइल	VM	
+9.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आ	RP	
+	))
+2	((	NP	
+2.1	ओहूका	PRP	
+2.2	भीतर	NST	
+2.3	से	PSP	
+	))
+3	((	NP	
+3.1	बाबा	NN	
+3.2	के	PSP	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	भींजल	VM	
+	))
+5	((	NP	
+5.1	आवाज	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	आवे-	VM	
+	))
+7	((	NP	
+7.1	तुहार	PRP	
+7.2	बिआह	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	क	VM	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	का	WQ	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	जानी	VM	
+	))
+11	((	JJP	<fs af=',,,,,,,'>
+11.1	नीक	JJ	
+	))
+12	((	VGF	<fs af=',,,,,,,'>
+12.1	कइनीं	VM	
+	))
+13	((	CCP	<fs af=',,,,,,,'>
+13.1	कि	CC	
+	))
+14	((	JJP	<fs af=',,,,,,,'>
+14.1	बाउर	JJ	
+14.2	,	SYM	
+	))
+15	((	NP	
+15.1	अब	NST	
+15.2	हमार	PRP	
+15.3	इज्जति	NN	
+	))
+16	((	NP	
+16.1	तोहरे	PRP	
+16.2	हाथे	NN	
+16.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	”फैसन	NNP	
+2.2	भूईं	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	लोटि	VM	
+3.2	जइहें	VAUX	
+3.3	,	SYM	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	बाकी	CC	
+	))
+5	((	NP	
+5.1	बाबा	NN	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	इज्जति	NN	
+6.2	अकासे	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	चढ़इहें	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	“-फैसन	NNP	
+1.2	अपना	PRP	
+1.3	से	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहें	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	घर	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	कुल	QF	
+2.2	चार	QC	
+2.3	परानी	NN	
+2.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दू	QC	
+1.2	मरद	NN	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	दू	QC	
+2.2	मेहरारू	NN	
+	))
+3	((	NP	
+3.1	मुसमाति	NN	
+3.2	सासु	NN	
+3.3	,	SYM	
+	))
+4	((	NEGP	<fs af=',,,,,,,'>
+4.1	बिना	NEG	
+	))
+5	((	NP	
+5.1	बिआहल	NN	
+5.2	भसुर	NN	
+5.3	,	SYM	
+	))
+6	((	NP	
+6.1	फैसन	NNP	
+	))
+7	((	CCP	<fs af=',,,,,,,'>
+7.1	आ	CC	
+	))
+8	((	NP	
+8.1	नवीन	NNP	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+1.2	का	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	अइला	VM	
+2.2	से	PSP	
+	))
+3	((	NP	
+3.1	ई	PRP	
+3.2	घर	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	भरि	VM	
+4.2	गइल	VAUX	
+4.3	,	SYM	
+	))
+5	((	NP	
+5.1	जिनिगी	NN	
+5.2	ढरहर	NN	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	हो	VM	
+6.2	गइल	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	पहिले	NST	
+1.2	रोटी	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बनावत	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	कब्बो	NST	
+3.2	नवीन	NNP	
+3.3	की	PSP	
+	))
+4	((	NP	
+4.1	माई	NN	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	हाथ	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	जरे	VM	
+	))
+7	((	NP	
+7.1	कब्बो	NST	
+7.2	रोटी	NN	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	JJP	<fs af=',,,,,,,'>
+1.1	अब	NST	
+1.2	सोन्ह	JJ	
+1.3	सोन्ह	RDP	
+	))
+2	((	JJP	<fs af=',,,,,,,'>
+2.1	पातर	JJ	
+2.2	पातर	RDP	
+	))
+3	((	NP	
+3.1	रोटी	NN	
+3.2	का	PSP	
+	))
+4	((	NP	
+4.1	साथे	NN	
+4.2	अनिवन	NN	
+4.3	बेंजन	NN	
+4.4	से	PSP	
+	))
+5	((	NP	
+5.1	थरिया	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	भरल	VM	
+6.2	रहे	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	माई	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहें	VM	
+	))
+3	((	NP	
+3.1	फैसन	NNP	
+3.2	का	PSP	
+	))
+4	((	NP	
+4.1	हाथ	NN	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	जादू	NN	
+	))
+6	((	NP	
+6.1	बा	VM	
+6.2	,	SYM	
+	))
+7	((	NP	
+7.1	नवीन	NNP	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	कहें	VM	
+	))
+9	((	NP	
+9.1	मोसल्लम	NN	
+9.2	फैसन	NNP	
+9.3	में	PSP	
+	))
+10	((	NP	
+10.1	जादू	NN	
+	))
+11	((	VGF	<fs af=',,,,,,,'>
+11.1	बा	VM	
+11.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसनो	NNP	
+1.2	मगन	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रहली	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGNF	<fs af=',,,,,,,'>
+1.1	बना	VM	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	सबके	QF	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	खिअवला	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	बचपन	NN	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	उनुकर	PRP	
+5.2	सपना	NN	
+	))
+6	((	NP	
+6.1	एह	PRP	
+6.2	अँगना	NN	
+6.3	में	PSP	
+	))
+7	((	NP	
+7.1	पूरा	QF	
+	))
+8	((	VGNF	<fs af=',,,,,,,'>
+8.1	भइल	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एक्के	QC	
+1.2	चीज	NN	
+	))
+2	((	NP	
+2.1	उनुका	PRP	
+2.2	साले	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	परोसत	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	उनुकर	PRP	
+4.2	अँगुरी	NN	
+	))
+5	((	NP	
+5.1	भसुर	NN	
+5.2	जी	RP	
+5.3	की	PSP	
+	))
+6	((	NP	
+6.1	अंगुरी	NN	
+6.2	से	PSP	
+	))
+7	((	VGNF	<fs af=',,,,,,,'>
+7.1	छुवा	VM	
+	))
+8	((	NP	
+8.1	काहें	WQ	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	जाला	VM	
+9.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हर	QF	
+1.2	बेर	NN	
+	))
+2	((	NP	
+2.1	फैसन	NNP	
+2.2	कोसिस	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	करेली	VM	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	ऊपरे	NST	
+5.2	से	PSP	
+	))
+6	((	NP	
+6.1	रोटी	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	दोहरा	VM	
+7.2	दें	VAUX	
+7.3	,	SYM	
+	))
+8	((	NP	
+8.1	थरिया	NN	
+8.2	लामहीं	NN	
+8.3	से	PSP	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	खिसका	VM	
+9.2	दें	VAUX	
+	))
+10	((	NP	
+10.1	तब्बो	NST	
+10.2	कवनो	WQ	
+	))
+11	((	NEGP	<fs af=',,,,,,,'>
+11.1	ना	NEG	
+	))
+12	((	NP	<fs af=',,,,,,,'>
+12.1	कवनो	WQ	
+12.2	बिधि	NN	
+12.3	फैसन	NNP	
+	))
+13	((	VGF	<fs af=',,,,,,,'>
+13.1	छुआइये	VM	
+13.2	जाली	VAUX	
+13.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	जानत	VM	
+2.2	रहली	VAUX	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	ई	PRP	
+4.2	पाप	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	ह	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+1.2	अबहिन	NST	
+	))
+2	((	NP	
+2.1	एह	PRP	
+2.2	अधेड़बुन	NN	
+2.3	में	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रहबे	VM	
+3.2	कइली	VAUX	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	गजब	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	हो	VM	
+6.2	गइल	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ओसारा	NN	
+1.2	में	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बइठल	VM	
+	))
+3	((	NP	
+3.1	फैसन	NNP	
+3.2	केस	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	झारत	VM	
+4.2	रहली	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	चोटी	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	गुथला	VM	
+2.2	का	PSP	
+	))
+3	((	NP	
+3.1	बाद	NST	
+3.2	सिन्होरा	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	खोलि	VM	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	सेनुर	NN	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGNF	<fs af=',,,,,,,'>
+1.1	छुवे	VM	
+1.2	खातिर	PSP	
+	))
+2	((	NP	
+2.1	सींक	NN	
+2.2	पर	PSP	
+	))
+3	((	NP	
+3.1	सेनुर	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	उठवलही	VM	
+4.2	रहली	VAUX	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	कि	CC	
+	))
+6	((	NP	
+6.1	सामने	NST	
+6.2	अपना	PRP	
+	))
+7	((	NP	
+7.1	भसुर	NN	
+7.2	जी	RP	
+7.3	के	PSP	
+	))
+8	((	NP	
+8.1	ठाढ़	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	देखली	VM	
+9.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	ना	NEG	
+1.2	खोंखल	VM	
+1.3	,	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	ना	NEG	
+1.2	खँखारल	VM	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	कब	WQ	
+2.2	इहाँ	PRP	
+2.3	का	PSP	
+	))
+3	((	NP	
+3.1	अँगना	NN	
+3.2	में	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	आ	VM	
+4.2	गइनीं	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फैसन	NNP	
+1.2	का	PSP	
+	))
+2	((	NP	
+2.1	उनुकी	PRP	
+2.2	आँखी	NN	
+2.3	में	PSP	
+	))
+3	((	NP	
+3.1	पिसाच	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	लउकल	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	RBP	<fs af=',,,,,,,'>
+1.1	झट	RB	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	फैसन	NNP	
+2.2	माथ	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	तोपली	VM	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	आ	CC	
+	))
+5	((	NP	
+5.1	घर	NN	
+5.2	में	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	भगली	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बड़ी	QF	
+1.2	देर	NN	
+1.3	ले	PSP	
+	))
+2	((	NP	
+2.1	उनुकर	PRP	
+2.2	तरे	NST	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	सांस	NN	
+3.2	तरे	NST	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	आ	CC	
+	))
+5	((	NP	
+5.1	ऊपर	NST	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	सांस	NN	
+6.2	ऊपर	NST	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	भइल	VM	
+7.2	रहे	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	का	WQ	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	करें	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	केसे	WQ	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	कहें	VM	
+4.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अम्मा	NN	
+1.2	जी	RP	
+1.3	से	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	कहे	VM	
+2.2	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	चाहीं	VM	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	बाकी	CC	
+	))
+5	((	NP	
+5.1	कइसे	WQ	
+5.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGNF	<fs af=',,,,,,,'>
+1.1	सोचत	VM	
+1.2	बिचारत	VM	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	राति	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	सासु	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	गोड़	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	चाँतत	VM	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	बात	NN	
+	))
+7	((	VGNF	<fs af=',,,,,,,'>
+7.1	उठवली-	VM	
+	))
+8	((	NP	
+8.1	”अम्मा	NN	
+8.2	जी	RP	
+	))
+9	((	NP	
+9.1	भइया	NN	
+9.2	जी	RP	
+9.3	के	PSP	
+	))
+10	((	NP	
+10.1	बिआह	NN	
+10.2	रउरा	PRP	
+10.3	काहें	WQ	
+	))
+11	((	VGF	<fs af=',,,,,,,'>
+11.1	ना	NEG	
+11.2	कइनीं	VM	
+11.3	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	“	SYM	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	ओठङहल	VM	
+	))
+3	((	NP	
+3.1	सासु	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	उठि	VM	
+4.2	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	बइठि	VM	
+5.2	गइली	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘तूँ	PRP	
+1.2	ई	PRP	
+1.3	बाति	NN	
+1.4	काहें	WQ	<fs af=',,,,,,,'>
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	पूछताड़ू	VM	
+2.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	सवाल	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	करत	VM	
+	))
+4	((	NP	
+4.1	सासु	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	हाँफे	VM	
+5.2	लगली	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘का	WQ	
+1.2	बिआह	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	करीं	VM	
+	))
+3	((	NP	
+3.1	ओकर	PRP	
+3.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	केकरे	WQ	
+1.2	बेटी	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	जिनिगी	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	जारीं	VM	
+3.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NEGP	<fs af=',,,,,,,'>
+1.1	ना	NEG	
+	))
+2	((	NP	
+2.1	कवनो	WQ	
+2.2	रोजी	NN	
+	))
+3	((	NEGP	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+	))
+4	((	NP	
+4.1	रोजगार	NN	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	दिन-राति	NN	
+5.2	बयाल्ला	NN	
+5.3	अस	PRP	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	छिछिआइल	VM	
+6.2	,	SYM	
+	))
+7	((	NEGP	<fs af=',,,,,,,'>
+7.1	ना	NEG	
+	))
+8	((	NP	
+8.1	बेटी	NN	
+	))
+9	((	VGNF	<fs af=',,,,,,,'>
+9.1	चीन्हे	VM	
+9.2	के	PSP	
+	))
+10	((	NEGP	<fs af=',,,,,,,'>
+10.1	ना	NEG	
+	))
+11	((	NP	
+11.1	बहिन	NN	
+11.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	माई	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	कोखि	NN	
+2.2	कोंहारे	NN	
+2.3	को	PSP	
+	))
+3	((	NP	
+3.1	आँवौ	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	हं	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एही	PRP	
+1.2	कोखी	NN	
+1.3	नवीन	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	जनमलें	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	एही	PRP	
+3.2	कोखी	NN	
+	))
+4	((	NP	
+4.1	ई	PRP	
+4.2	मलेच्छ	NN	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एकरा	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	जनमले	VM	
+	))
+3	((	NP	
+3.1	हमरी	PRP	
+3.2	मुँहे	NN	
+3.3	करिखा	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	पोताइ	VM	
+4.2	गइल	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकी	RP	
+	))
+2	((	NP	
+2.1	तूँ	PRP	
+2.2	ई	PRP	
+2.3	बाति	NN	
+2.4	काहें	WQ	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	पूछलू	VM	
+3.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	-सासू	NN	
+	))
+2	((	RBP	<fs af=',,,,,,,'>
+2.1	एकसंसिये	RB	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	बोलत	VM	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	चल	VM	
+4.2	गइली	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	फैसन	NNP	
+2.2	दिन	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	बाति	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	दोहरा	VM	
+4.2	दीहली	VM	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सासु	NN	
+	))
+2	((	NP	
+2.1	भारी	JJ	
+2.2	साँस	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	खींचत	VM	
+3.2	कहली	VM	
+	))
+4	((	BLK	<fs af=',,,,,,,'>
+4.1	हूँ	INJ	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दोसरा	QO	
+1.2	दिने	NN	
+	))
+2	((	NP	
+2.1	दूनूँ	QC	
+2.2	भाई	NN	
+2.3	चउका	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	बइठल	VM	
+	))
+4	((	NP	
+4.1	भोजन	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	करत	VM	
+5.2	रहे	VAUX	
+	))
+6	((	NP	
+6.1	लोग	NN	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सासु	NN	
+1.2	बाति	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	उठवली-	VM	
+	))
+3	((	NP	
+3.1	”बड़	JJ	
+3.2	जेठ	NN	
+3.3	का	PSP	
+	))
+4	((	NP	
+4.1	आपन	PRP	
+4.2	धरम	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	निबाहे	VM	
+5.2	के	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	चाहीं	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	भयहू	NN	
+1.2	बेटी	NN	
+1.3	बरोबर	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	होले	VM	
+	))
+3	((	NP	
+3.1	अँगना	NN	
+3.2	में	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	आवत	VM	
+4.2	के	PSP	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	बोलि	VM	
+5.2	के	PSP	
+	))
+6	((	CCP	<fs af=',,,,,,,'>
+6.1	भा	CC	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	खोंखिके	VM	
+7.2	आवे	VM	
+7.3	के	PSP	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	चाहीं	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	“	SYM	
+	))
+2	((	NP	
+2.1	अबहिन	NST	
+2.2	बतिओ	NN	
+2.3	पूरा	QF	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	भइल	VM	
+3.3	रहे	VAUX	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	सुनवइया	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बोल	VM	
+6.2	पड़ल	VAUX	
+6.3	-	SYM	
+	))
+7	((	NP	
+7.1	”ई	PRP	
+7.2	त	RP	
+7.3	फैसन	NNP	
+7.4	का	PSP	
+	))
+8	((	VGNF	<fs af=',,,,,,,'>
+8.1	सोचे	VM	
+8.2	के	PSP	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	चाहीं	VM	
+9.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अँगना	NN	
+1.2	ओसारा	NN	
+1.3	माथ	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	उघार	VM	
+2.2	के	PSP	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	बइठला	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	मतलब	NN	
+4.2	का	WQ	
+4.3	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सिंगार	NN	
+1.2	पटार	ECH	
+	))
+2	((	NP	
+2.1	घर	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	के	PSP	
+3.2	चीज	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ह	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	केहू	WQ	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	देखाई	VM	
+2.2	त	RP	
+	))
+3	((	NP	
+3.1	सब	QF	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	देखबे	VM	
+4.2	करीं	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	“	SYM	
+	))
+2	((	NP	
+2.1	रसोई	NN	
+2.2	में	PSP	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	बइठल	VM	
+	))
+4	((	NP	
+4.1	फैसन	NNP	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	एँड़ी	NN	
+5.2	से	PSP	
+	))
+6	((	NP	
+6.1	कपार	NN	
+6.2	ले	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	जरि	VM	
+7.2	गइल	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आगि	NN	
+1.2	में	PSP	
+1.3	से	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	निकलल	VM	
+	))
+3	((	NP	
+3.1	बचपन	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	निर्भीक	JJ	
+4.2	फैसन	NNP	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अपना	PRP	
+1.2	बाबा	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	पगड़ी	NN	
+2.2	अकासे	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	उठवले	VM	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	तनि	QF	
+4.2	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	बोलली-	VM	
+	))
+6	((	NP	
+6.1	”अँगना-घर	NN	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	भेद	NN	
+	))
+8	((	VGNF	<fs af=',,,,,,,'>
+8.1	समझवला	VM	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	जरूरत	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	नइखे	VM	
+10.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	देखवइया	NN	
+1.2	की	PSP	
+	))
+2	((	NP	
+2.1	आँखी	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	टेकुआ	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	डारे	VM	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	ढंग	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बा	VM	
+	))
+7	((	NP	
+7.1	हमरा	PRP	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	“	SYM	
+	))
+2	((	NP	
+2.1	फैसन	NNP	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	ई	PRP	
+3.2	नया	JJ	
+3.3	तेवर	NN	
+3.4	,	SYM	
+	))
+4	((	NP	
+4.1	नया	JJ	
+4.2	रूप	NN	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	देखि	VM	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	जेठ	NN	
+6.2	जी	RP	
+6.3	त	RP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	सहमिये	VM	
+7.2	गइलन	VAUX	
+7.3	;	SYM	
+	))
+8	((	NP	
+8.1	नवीन	NNP	
+	))
+9	((	CCP	<fs af=',,,,,,,'>
+9.1	आ	CC	
+	))
+10	((	NP	
+10.1	उनुकी	PRP	
+10.2	माइयो	NN	
+10.3	के	PSP	
+	))
+11	((	NP	<fs af=',,,,,,,'>
+11.1	माथ	NN	
+11.2	ऊँच	JJ	
+	))
+12	((	VGF	<fs af=',,,,,,,'>
+12.1	हो	VM	
+12.2	गइल	VAUX	
+12.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGNF	<fs af=',,,,,,,'>
+1.1	उतरत	VM	
+	))
+2	((	NP	
+2.1	जाड़ा	NN	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	फागुन	NN	
+3.2	क	PSP	
+	))
+4	((	NP	
+4.1	महीना	NN	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	गँहू	NN	
+5.2	की	PSP	
+	))
+6	((	NP	
+6.1	खेतन	NN	
+6.2	में	PSP	
+	))
+7	((	VGNF	<fs af=',,,,,,,'>
+7.1	गोटाइल	VM	
+	))
+8	((	NP	
+8.1	बालि	NN	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अभी	NST	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	पाके	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	काटे	VM	
+	))
+5	((	NP	
+5.1	में	PSP	
+5.2	कुछ	QF	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	टाइम	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रहे	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	घूमन	NNP	
+1.2	शुरूए	NN	
+1.3	से	PSP	
+	))
+2	((	NP	
+2.1	घूमन्तू	NN	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	ए	PRP	
+3.2	घरी	NN	
+3.3	खालिए	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहलँऽ	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NEGP	<fs af=',,,,,,,'>
+1.1	न	NEG	
+	))
+2	((	NP	
+2.1	ढेर	JJ	
+2.2	जाड़ा	NN	
+2.3	,	SYM	
+	))
+3	((	NEGP	<fs af=',,,,,,,'>
+3.1	न	NEG	
+	))
+4	((	NP	
+4.1	ढेर	JJ	
+4.2	गर्मी	NN	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अइसना	PRP	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	उनकर	PRP	
+2.2	मन	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	घूमे	VM	
+3.2	खातिर	PSP	
+	))
+4	((	NP	
+4.1	बेचैन	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	रहे	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बिलारी	NN	
+1.2	की	PSP	
+	))
+2	((	NP	
+2.1	भागे	NN	
+2.2	सिकहर	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	टूटल	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	रसड़ा	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	दरभंगियाँ	JJ	
+2.2	रामलीला	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	तम्मू	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	गिर	VM	
+4.2	गइल	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	घूमन	NNP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	देखे	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	मन	NN	
+	))
+4	((	NP	
+4.1	बना	VM	
+4.2	लिहलँऽ	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दिन	NN	
+1.2	की	PSP	
+	))
+2	((	NP	
+2.1	दू	QC	
+2.2	बजे	NN	
+2.3	पैदले	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	चलि	VM	
+3.2	दिहलँऽ	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	छोटका	JJ	
+1.2	लइका	NN	
+	))
+2	((	NP	
+2.1	नन्हकुआ	NN	
+2.2	साथे	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	लागि	VM	
+3.2	गइल	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	थोडि़के	QF	
+1.2	दूर	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	गइला	VM	
+2.2	पर	PSP	
+	))
+3	((	NP	
+3.1	एगो	QC	
+3.2	खँड़हर	NN	
+3.3	नियर	PRP	
+3.4	घर	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	लउकल	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	बुझात	VM	
+1.2	रहे	VAUX	
+	))
+2	((	CCP	<fs af=',,,,,,,'>
+2.1	कि	CC	
+	))
+3	((	NP	
+3.1	पहिले	NST	
+3.2	क	PSP	
+	))
+4	((	NP	
+4.1	कवनों	WQ	
+4.2	सुनर	JJ	<fs af=',,,,,,,'>
+4.3	सुघर	JJ	<fs af=',,,,,,,'>
+4.4	इमारत	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	रहल	VM	
+5.2	होई	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ओके	PRP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	देखि	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	नन्हकुआ	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	पुछलसि	VM	
+4.2	.	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	.	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	.	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘ए	PRP	
+1.2	बाबू	NN	
+1.3	जी	RP	
+1.4	,	SYM	
+	))
+2	((	NP	
+2.1	ई	PRP	
+2.2	केकर	WQ	
+2.3	घर	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ह	VM	
+3.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	घूमन	NNP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	कहलँऽ	VM	
+3.2	-	SYM	
+	))
+4	((	NP	
+4.1	ए	PRP	
+4.2	घर	NN	
+4.3	क	PSP	
+	))
+5	((	NP	
+5.1	बहुते	INTF	
+5.2	बड़	JJ	
+5.3	कहानी	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बा	VAUX	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	चल	VM	
+1.2	,	SYM	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बतवतो	VM	
+2.2	बानी	VAUX	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	NP	
+4.1	रस्तो	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	कटि	VM	
+5.2	जाई	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	घूमन	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहे	VM	
+2.2	लगलँऽ	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	नन्हकुआ	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	सुने	VM	
+2.2	लागल	VAUX	
+	))
+3	((	NP	
+3.1	पचीस	QC	
+3.2	तीस	QC	
+3.3	बिगहा	NN	
+	))
+4	((	NP	
+4.1	जमीन	NN	
+4.2	क	PSP	
+	))
+5	((	NP	
+5.1	मालिक	NN	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दुआरे	NN	
+1.2	चारि	QC	
+1.3	गो	CL	
+	))
+2	((	NP	
+2.1	बैल	NN	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	दू	QC	
+3.2	गो	CL	
+3.3	गाइ	NN	
+3.4	,	SYM	
+	))
+4	((	NP	
+4.1	एगो	QC	
+4.2	भईंस	NN	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दू	QC	
+1.2	गो	CL	
+1.3	हरवाह	NN	
+1.4	,	SYM	
+	))
+2	((	NP	
+2.1	एगो	QC	
+2.2	नोकर	NN	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	पुरान	JJ	
+1.2	जमींदार	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रहलँऽ	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बड़े	JJ	
+1.2	बड़े	RDP	
+1.3	आँखि	NN	
+	))
+2	((	CCP	<fs af=',,,,,,,'>
+2.1	आ	CC	
+	))
+3	((	NP	
+3.1	बड़की	JJ	
+3.2	बड़की	RDP	
+3.3	मोंछि	NN	
+3.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जेकरी	PRP	
+1.2	ओरि	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ताकि	VM	
+2.2	देसु	VAUX	
+2.3	,	SYM	
+	))
+3	((	NP	
+3.1	ओकर	PRP	
+3.2	पेसाब	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	उतर	VM	
+4.2	जाय	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जइसने	PRP	
+1.2	डेरावन	JJ	
+1.3	रोबदार	JJ	
+1.4	चेहरा	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रहे	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	ओइसने	PRP	
+3.2	उनकर	PRP	
+3.3	नाँव	NN	
+	))
+4	((	NP	
+4.1	ठाकुर	NN	
+4.2	रुद्र	NNP	
+4.3	प्रताप	NNP	
+4.4	सिंह	NNP	
+4.5	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	गाँव	NN	
+1.2	प्रधान	NN	
+	))
+2	((	CCP	<fs af=',,,,,,,'>
+2.1	आ	CC	
+	))
+3	((	NP	
+3.1	सरपंच	NN	
+3.2	हरदम	QF	
+3.3	निर्विरोधे	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	चुनासु	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उनकी	PRP	
+1.2	विरोध	NN	
+1.3	में	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	खाड़ा	VM	
+2.2	होखे	VAUX	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	केहूके	WQ	
+3.2	हिम्मत	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ना	NEG	
+4.2	रहे	VM	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकी	RP	
+	))
+2	((	NP	
+2.1	जबसे	PRP	
+2.2	गुप्त	NN	
+2.3	मतदान	NN	
+2.4	पेटी	NN	
+2.5	में	PSP	
+	))
+3	((	NP	
+3.1	पर्ची	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	डालि	VM	
+4.2	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	होखे	VM	
+5.2	लागल	VAUX	
+5.3	,	SYM	
+	))
+6	((	NP	
+6.1	ठाकुर	NN	
+6.2	साहेब	NN	
+6.3	परधानी	NN	
+6.4	खातिर	PSP	
+	))
+7	((	NP	
+7.1	कबो	NST	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	खाड़ा	VM	
+8.2	ना	NEG	
+8.3	भइलँऽ	VM	
+8.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तबो	NST	
+1.2	परधान	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बनावला	VM	
+2.2	बिगड़ला	VM	
+2.3	में	PSP	
+	))
+3	((	NP	
+3.1	उनकर	PRP	
+3.2	राय-	NN	
+3.3	मसविरा	NN	
+	))
+4	((	NP	
+4.1	अबो	NST	
+4.2	एगो	QC	
+4.3	माने	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	रखे	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बीचे	NST	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	नन्हकुआ	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	टोकि	VM	
+3.2	दिहलसि-	VAUX	
+	))
+4	((	NP	
+4.1	बाबू	NN	
+4.2	जी	RP	
+4.3	,	SYM	
+	))
+5	((	NP	
+5.1	ई	PRP	
+5.2	मतदान	NN	
+5.3	का	WQ	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	होला	VM	
+6.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बीचे	NST	
+1.2	में	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	टोकला	VM	
+2.2	से	PSP	
+	))
+3	((	NP	
+3.1	घूमन	NNP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	झुँझला	VM	
+4.2	गइलँऽ-	VAUX	
+4.3	‘सुन	VM	
+	))
+5	((	NP	
+5.1	बउचट	NN	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	अबे	NST	
+6.2	लइके	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	रहि	VM	
+7.2	गइले	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मतदाने	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	नइखे	VM	
+2.2	जानत	VM	
+2.3	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	नन्हकुआ	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	सिटपिटा	VM	
+3.2	गइल-	VAUX	
+	))
+4	((	NP	
+4.1	अच्छा	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	कहऽ	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	फिर	RP	
+	))
+2	((	NP	
+2.1	का	WQ	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	भइल	VM	
+3.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एगो	QC	
+1.2	इनार	NN	
+1.3	पर	PSP	
+	))
+2	((	NP	
+2.1	ढेकुलि	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	देखि	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	घूमन	NNP	
+4.2	क	PSP	
+	))
+5	((	NP	
+5.1	पियासि	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	जागि	VM	
+6.2	गइल	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	कहलँऽ-	VM	
+1.2	रुक	VM	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	पानी	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	पी	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	सुहता	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	लीहल	VM	
+5.2	जा	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	रहिला	NN	
+1.2	क	PSP	
+	))
+2	((	NP	
+2.1	भूजा	NN	
+2.2	गुड़	NN	
+2.3	की	PSP	
+	))
+3	((	NP	
+3.1	साथे	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	खा	VM	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	पानी	NN	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	पी	VM	
+6.2	के	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	सुहताइल	VM	
+	))
+8	((	NP	
+8.1	लो	NN	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ऊ	PRP	
+1.2	सुर्तीं	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बनवलँऽ	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	चुटकी	NN	
+1.2	भर	QF	
+1.3	ओठे	NN	
+1.4	की	PSP	
+	))
+2	((	NP	
+2.1	तरे	NST	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	दाबि	VM	
+3.2	के	PSP	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	चललँऽ	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	फिर	RP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहे	VM	
+2.2	लगलँऽ-	VAUX	
+	))
+3	((	NP	
+3.1	ठाकुर	NN	
+3.2	साहेब	NN	
+3.3	,	SYM	
+	))
+4	((	NP	
+4.1	उनकर	PRP	
+4.2	जनाना	NN	
+4.3	इन्द्रावती	NNP	
+4.4	,	SYM	
+	))
+5	((	NP	
+5.1	चारि	QC	
+5.2	गो	CL	
+5.3	लइका	NN	
+5.4	,	SYM	
+	))
+6	((	NP	
+6.1	तीन	QC	
+6.2	गो	CL	
+6.3	लइकनी	NN	
+6.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	इहे	PRP	
+1.2	उनकर	PRP	
+1.3	परिवार	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रहे	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जइसे	PRP	
+1.2	जइसे	RDP	
+	))
+2	((	NP	
+2.1	लइका	NN	
+2.2	लइकनी	NN	
+2.3	बड़	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	होत	VM	
+3.2	गइलँस	VAUX	
+3.3	,	SYM	
+	))
+4	((	NP	
+4.1	ओइसहीं	PRP	
+4.2	खर्चा	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	बढ़े	VM	
+5.2	लागल	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बड़का	JJ	
+1.2	लइका	NN	
+	))
+2	((	NP	
+2.1	तनी	QF	
+2.2	ठस	NN	
+2.3	दिमाग	NN	
+2.4	क	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रहलँऽ	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ढेर	JJ	
+1.2	पढि़	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	पवलँऽ	VM	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दूसरा	QO	
+1.2	तिसरा	QO	
+1.3	जाना	NN	
+1.4	मार्तण्ड	NNP	
+1.5	मार्कण्डे	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	पढ़े	VM	
+2.2	लिखे	VM	
+2.3	में	PSP	
+	))
+3	((	NP	
+3.1	ठीक	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहल	VM	
+	))
+5	((	NP	
+5.1	लो	NN	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	गांव	NN	
+1.2	की	PSP	
+	))
+2	((	NP	
+2.1	स्कूल	NN	
+2.2	से	PSP	
+	))
+3	((	NP	
+3.1	पास	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	कइला	VM	
+4.2	की	PSP	
+	))
+5	((	NP	
+5.1	बाद	NST	
+5.2	आगे	NST	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	पढ़े	VM	
+6.2	खातिर	PSP	
+	))
+7	((	NP	
+7.1	उहँलोके	PRP	
+7.2	गाँव	NN	
+	))
+8	((	VGNF	<fs af=',,,,,,,'>
+8.1	छोडि़	VM	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	शहर	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	जाएके	VM	
+10.2	परल	VAUX	
+10.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ऊ	PRP	
+1.2	लोग	NN	
+1.3	ठीक	NN	
+1.4	से	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	पढि़	VM	
+2.2	लिहल	VAUX	
+	))
+3	((	NP	
+3.1	लोग	NN	
+3.2	,	SYM	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	बाकी	CC	
+	))
+5	((	NP	
+5.1	दुनो	QC	
+5.2	जाने	NN	
+5.3	की	PSP	
+	))
+6	((	NP	
+6.1	पढ़ाई	NN	
+6.2	में	PSP	
+	))
+7	((	NP	
+7.1	कुछ	QF	
+7.2	खेतो	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	बिका	VM	
+8.2	गइल	VAUX	
+8.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	छोटका	JJ	
+1.2	लइका	NN	
+	))
+2	((	NP	
+2.1	अखण्ड	NNP	
+2.2	माई-बाप	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	दुलरूआ	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहलँऽ	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	पढ़े	NN	
+1.2	में	PSP	
+	))
+2	((	BLK	<fs af=',,,,,,,'>
+2.1	त	RP	
+	))
+3	((	NP	
+3.1	तेज	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहलँऽ	VM	
+4.2	,	SYM	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	बाकी	CC	
+	))
+6	((	NP	
+6.1	दुलारे	NN	
+6.2	में	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	रहि	VM	
+7.2	गइलहँऽ	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	सराहले	VM	
+	))
+2	((	NP	
+2.1	धिया	NN	
+2.2	डोम	NN	
+2.3	घरे	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	जाली	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	गाँव	NN	
+1.2	की	PSP	
+	))
+2	((	NP	
+2.1	स्कूल	NN	
+2.2	से	PSP	
+	))
+3	((	NP	
+3.1	आगे	NST	
+	))
+4	((	NEGP	<fs af=',,,,,,,'>
+4.1	ना	NEG	
+	))
+5	((	NP	
+5.1	पढि़	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	पवलँऽ	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तीनो	QC	
+1.2	लइकनी	NN	
+1.3	चिट्ठी	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	लिखे-पढ़े	VM	
+	))
+3	((	NP	
+3.1	भर	QF	
+3.2	क	PSP	
+	))
+4	((	NP	
+4.1	घरहीं	NN	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	रहि	VM	
+5.2	के	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	सिखली	VM	
+6.2	स	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ठाकुर	NN	
+1.2	साहेब	NN	
+1.3	क	PSP	
+	))
+2	((	NP	
+2.1	रुतबा	NN	
+2.2	अरियात	NN	
+2.3	करियात	NN	
+2.4	में	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रहबे	VM	
+3.2	कइल	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एसे	PRP	
+1.2	बड़का	JJ	
+1.3	लइका	NN	
+	))
+2	((	NP	
+2.1	प्रचण्ड	NNP	
+2.2	की	PSP	
+	))
+3	((	NP	
+3.1	बियाह	NN	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	कवनों	WQ	
+4.2	ढेर	JJ	
+4.3	दिक्कत	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	ना	NEG	
+5.2	भइल	VM	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मार्तण्ड	NNP	
+	))
+2	((	CCP	<fs af=',,,,,,,'>
+2.1	आ	CC	
+	))
+3	((	NP	
+3.1	मार्कण्डे	NNP	
+3.2	क	PSP	
+	))
+4	((	NP	
+4.1	बियाह	NN	
+4.2	दुआबा	NN	
+4.3	की	PSP	
+	))
+5	((	NP	
+5.1	एगो	QC	
+5.2	बड़	JJ	
+5.3	जमींदार	NN	
+	))
+6	((	NP	
+6.1	ठाकुर	NN	
+6.2	रघुराज	NNP	
+6.3	सिंह	NNP	
+6.4	की	PSP	
+	))
+7	((	NP	
+7.1	जेऊवाँ	NN	
+7.2	लइकनिन	NN	
+7.3	से	PSP	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	भइल	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	छोटका	JJ	
+1.2	लइका	NN	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	अखण्ड	NNP	
+2.2	क	PSP	
+	))
+3	((	NP	
+3.1	बियाह	NN	
+3.2	ठाकुर	NN	
+3.3	रघुराज	NNP	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सिंह	NN	
+1.2	की	PSP	
+	))
+2	((	NP	
+2.1	सार	NN	
+2.2	की	PSP	
+	))
+3	((	NP	
+3.1	लइकनी	NN	
+3.2	से	PSP	
+	))
+4	((	NEGP	<fs af=',,,,,,,'>
+4.1	बिना	NEG	
+	))
+5	((	NP	
+5.1	दाने	NN	
+5.2	दहेज	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	लिहले	VM	
+6.2	हो	VM	
+6.3	गइल	VAUX	
+6.4	,	SYM	
+	))
+7	((	NP	
+7.1	काहें	WQ	
+	))
+8	((	CCP	<fs af=',,,,,,,'>
+8.1	कि	CC	
+	))
+9	((	NP	
+9.1	समधी	NN	
+9.2	की	PSP	
+	))
+10	((	NP	
+10.1	सार	NN	
+10.2	क	PSP	
+	))
+11	((	NP	
+11.1	माली	NN	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हालत	NN	
+1.2	ओतना	QF	
+1.3	बढि़याँ	NN	
+	))
+2	((	NP	
+2.1	ना	NEG	
+2.2	रहे	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	NP	
+4.1	समधी	NN	
+4.2	जी	RP	
+4.3	क	PSP	
+	))
+5	((	NP	
+5.1	बड़ा	QF	
+5.2	दबाव	NN	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	पड़ल	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ए	PRP	
+1.2	चारो	QC	
+1.3	बियाह	NN	
+1.4	में	PSP	
+	))
+2	((	NP	
+2.1	ठाकुर	NN	
+2.2	साहेब	NN	
+	))
+3	((	NP	
+3.1	बड़ा	JJ	
+3.2	धूमधाम	NN	
+3.3	से	PSP	
+3.4	,	SYM	
+	))
+4	((	NP	
+4.1	सज-बज	NN	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	बरात	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	ले	VM	
+6.2	गइलँऽ	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	चार	QC	
+1.2	पाँच	QC	
+1.3	गो	CL	
+1.4	हाथी	NN	
+1.5	,	SYM	
+	))
+2	((	NP	
+2.1	सात	QC	
+2.2	आठ	QC	
+2.3	गो	CL	
+2.4	घोड़ा	NN	
+2.5	,	SYM	
+	))
+3	((	NP	
+3.1	दू	QC	
+3.2	दू	RDP	
+3.3	गो	CL	
+3.4	ऊँट	NN	
+3.5	,	SYM	
+	))
+4	((	NP	
+4.1	डेढ	QF	
+4.2	दू	QC	
+4.3	सौ	NN	
+4.4	बराती	NN	
+4.5	,	SYM	
+	))
+5	((	NP	
+5.1	सबकी	QF	
+5.2	खातिर	PSP	
+	))
+6	((	NP	
+6.1	बैलगाड़ी	NN	
+6.2	में	PSP	
+	))
+7	((	NP	
+7.1	छाँटी	NN	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	द्वार	NN	
+1.2	पूजा	NN	
+1.3	की	PSP	
+	))
+2	((	NP	
+2.1	पहिले	NST	
+2.2	हाथी	NN	
+2.3	,	SYM	
+	))
+3	((	NP	
+3.1	घोड़ा	NN	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	आ	CC	
+	))
+5	((	NP	
+5.1	ऊँटन	NN	
+5.2	क	PSP	
+	))
+6	((	NP	
+6.1	जब	NST	
+6.2	पैसारी	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	भइल	VM	
+7.2	त	RP	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	बुझात	VM	
+8.2	रहे	VAUX	
+	))
+9	((	CCP	<fs af=',,,,,,,'>
+9.1	कि	CC	
+	))
+10	((	NP	
+10.1	आन्हीं	NN	
+	))
+11	((	VGF	<fs af=',,,,,,,'>
+11.1	आ	VM	
+11.2	गइल	VAUX	
+11.3	बा	VAUX	
+11.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	RBP	<fs af=',,,,,,,'>
+1.1	गजबे	RB	
+1.2	क	PSP	
+	))
+2	((	NP	
+2.1	समां	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	बन्हाइल	VM	
+3.2	रहे	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ओ	PRP	
+1.2	समय	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	बस	QF	
+2.2	कार	NN	
+	))
+3	((	NP	
+3.1	कहिएँ	NST	
+3.2	कहीं	NST	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	देखे	VM	
+4.2	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	मिलँसऽ	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकी	RP	
+	))
+2	((	NP	
+2.1	ठाकुर	NN	
+2.2	साहेब	NN	
+2.3	क	PSP	
+	))
+3	((	NP	
+3.1	एगो	QC	
+3.2	पुरान	JJ	
+3.3	जान	NN	
+3.4	पहिचान	NN	
+3.5	तसीलदार	NN	
+3.6	साहेब	NN	
+3.7	एहू	PRP	
+3.8	के	PSP	
+	))
+4	((	NP	
+4.1	इंतजाम	NN	
+4.2	हर	QF	
+4.3	बेरी	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	कइए	VM	
+5.2	दिहलँऽ	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जब	NST	
+1.2	लइकनिन	NN	
+1.3	की	PSP	
+	))
+2	((	NP	
+2.1	बियाह	NN	
+2.2	क	PSP	
+	))
+3	((	NP	
+3.1	पारी	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	आइल	VM	
+4.2	त	RP	
+	))
+5	((	NP	
+5.1	उनके	PRP	
+5.2	बहुते	QF	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	धावे	VM	
+6.2	धूपे	ECH	
+6.3	के	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	परल	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एड़ी	NN	
+1.2	चोटी	NN	
+1.3	क	PSP	
+	))
+2	((	NP	
+2.1	जोर	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	लगावे	VM	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	परल	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	खासकर	JJ	
+1.2	बड़की	NN	
+1.3	क	PSP	
+	))
+2	((	NP	
+2.1	बर	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	खोजे	VM	
+3.2	में	PSP	
+	))
+4	((	BLK	<fs af=',,,,,,,'>
+4.1	त	RP	
+	))
+5	((	NP	
+5.1	कई	QF	
+5.2	कई	QF	
+5.3	गो	CL	
+5.4	पनही	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	खिया	VM	
+6.2	गइलीसऽ	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उनकर	PRP	
+1.2	मलिकाइन	NN	
+	))
+2	((	NP	
+2.1	इंद्रावती	NNP	
+2.2	हरदम	QF	
+2.3	उनसे	PRP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	कहसु-	VM	
+3.2	घबड़इला	VM	
+3.3	के	PSP	
+	))
+4	((	NP	
+4.1	काम	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	नइखे	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	होइहें	VM	
+	))
+2	((	NP	
+2.1	सोई	NN	
+2.2	जो	PRP	
+	))
+3	((	NP	
+3.1	राम	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रचि	VM	
+4.2	राखा	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बबुनियाँ	NN	
+1.2	क	PSP	
+	))
+2	((	NP	
+2.1	बियाह	NN	
+	))
+3	((	NP	
+3.1	बढि़एँ	JJ	
+3.2	घर	NN	
+3.3	में	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	तय	VM	
+4.2	करबि	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आखिरकार	QF	
+1.2	बबुनियाँ	NN	
+1.3	क	PSP	
+	))
+2	((	NP	
+2.1	बियाह	NN	
+2.2	ठाकुर	NN	
+2.3	साहेब	NN	
+2.4	की	PSP	
+	))
+3	((	NP	
+3.1	फुआ	NN	
+3.2	की	PSP	
+	))
+4	((	NP	
+4.1	लइकनी	NN	
+4.2	की	PSP	
+	))
+5	((	NP	
+5.1	लइका	NN	
+5.2	से	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	तय	VM	
+6.2	हो	VAUX	
+6.3	गइल	VAUX	
+6.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGNF	<fs af=',,,,,,,'>
+1.1	कहे	VM	
+1.2	खातिर	PSP	
+	))
+2	((	NP	
+2.1	त	CL	
+2.2	फूआ	NN	
+2.3	की	PSP	
+	))
+3	((	NP	
+3.1	लइकनिए	NN	
+3.2	की	PSP	
+	))
+4	((	NP	
+4.1	इहाँ	PRP	
+4.2	बियाह	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	होत	VM	
+5.2	रहे	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कुछ	QF	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	लेबे	VM	
+2.2	देबे	VM	
+2.3	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	रहे	VM	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	लेकिन	RP	
+	))
+2	((	NP	
+2.1	ऊ	PRP	
+2.2	मरम	NN	
+2.3	त	RP	
+	))
+3	((	NP	
+3.1	ठाकुरे	NN	
+3.2	साहेब	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	जानत	VM	
+4.2	रहलँऽ	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बरइछा	NN	
+1.2	क	PSP	
+	))
+2	((	NP	
+2.1	दिन	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	धरा	VM	
+3.2	गइल	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ओ	PRP	
+1.2	दिने	NN	
+1.3	नऊआ	NN	
+1.4	के	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बोला	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	मलिकाइन	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	कहली	VM	
+	))
+5	((	NP	
+5.1	एगो	QC	
+5.2	सेनस	NN	
+	))
+6	((	NP	
+6.1	नवकी	JJ	
+6.2	समधिन	NN	
+6.3	(	SYM	
+	))
+7	((	NP	
+7.1	उ	PRP	
+7.2	बेवा	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	रहली	VM	
+8.2	)	SYM	
+8.3	से	PSP	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	कहि	VM	
+9.2	दिहऽ	VAUX	
+	))
+10	((	CCP	<fs af=',,,,,,,'>
+10.1	कि	CC	
+	))
+11	((	NP	
+11.1	एगो	QC	
+11.2	जमींदार	NN	
+11.3	किहाँ	PRP	
+11.4	बारात	NN	
+	))
+12	((	VGF	<fs af=',,,,,,,'>
+12.1	भेजत	VM	
+12.2	बाड़ी	VAUX	
+12.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	साज	NN	
+1.2	बाज	NN	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	गाजा	NN	
+2.2	बाजा	NN	
+2.3	,	SYM	
+	))
+3	((	NP	
+3.1	बर	NN	
+3.2	बरात	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	भेजला	VM	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	कवनो	WQ	
+5.2	कसर	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	मति	NEG	
+6.2	छोडि़हँऽ	VM	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	इज्जत	NN	
+1.2	क	PSP	
+	))
+2	((	NP	
+2.1	सवाल	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	बा	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	कहे	VM	
+	))
+2	((	NP	
+2.1	खाती	PSP	
+2.2	त	RP	
+2.3	फुआ	NN	
+	))
+3	((	NP	
+3.1	अपनी	PRP	
+3.2	भतीजा	NN	
+3.3	क	PSP	
+	))
+4	((	NP	
+4.1	बहुते	QF	
+4.2	उबार	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	कइली	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकी	RP	
+	))
+2	((	NP	
+2.1	अपनी	PRP	
+2.2	बेटी	NN	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	NP	
+4.1	भतीजा	NN	
+4.2	की	PSP	
+	))
+5	((	NP	
+5.1	बेटी	NN	
+5.2	की	PSP	
+	))
+6	((	NP	
+6.1	इज्जत	NN	
+6.2	क	PSP	
+	))
+7	((	NP	
+7.1	सवाल	NN	
+	))
+8	((	VGNF	<fs af=',,,,,,,'>
+8.1	बता	VM	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	आठ	QC	
+9.2	भर	QF	
+	))
+10	((	NP	
+10.1	खाँटी	NN	
+10.2	सोना	NN	
+10.3	क	PSP	
+	))
+11	((	NP	
+11.1	गहना	NN	
+11.2	बीखो	NN	
+	))
+12	((	NP	
+12.1	अपनी	PRP	
+12.2	आँखी	NN	
+12.3	की	PSP	
+	))
+13	((	NP	
+13.1	सोझा	NST	
+13.2	सोनार	NN	
+13.3	की	PSP	
+	))
+14	((	NP	
+14.1	इहाँ	PRP	
+14.2	ठाकुर	NN	
+14.3	साहेब	NN	
+14.4	से	PSP	
+	))
+15	((	VGF	<fs af=',,,,,,,'>
+15.1	बनववली	VM	
+15.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अपनी	PRP	
+1.2	बेटी	NN	
+1.3	के	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	देले	VM	
+2.3	रहली	VAUX	
+	))
+3	((	NP	
+3.1	ऊ	PRP	
+3.2	साध	NN	
+	))
+4	((	NP	
+4.1	आज	NST	
+4.2	पूरा	QF	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	क	VM	
+5.2	लिहली	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बारात	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	आइल	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बियाह	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	भइल	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अरियात	NN	
+1.2	करियात	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	बारात	NN	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	NP	
+4.1	ओकरी	PRP	
+4.2	आव	NN	
+4.3	भगत	NN	
+4.4	क	PSP	
+	))
+5	((	NP	
+5.1	बहुत	QF	
+5.2	दिन	NN	
+5.3	ले	PSP	
+	))
+6	((	NP	
+6.1	चर्चा	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	रहे	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकी	RP	
+	))
+2	((	NP	
+2.1	ठाकुर	NN	
+2.2	साहेब	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	ए	PRP	
+3.2	बियाह	NN	
+3.3	में	PSP	
+	))
+4	((	NP	
+4.1	दाल	NN	
+4.2	चाउर	NN	
+4.3	क	PSP	
+	))
+5	((	NP	
+5.1	भाव	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बुझा	VM	
+6.2	गइल	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दू	QC	
+1.2	बिगहा	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बिका	VM	
+2.2	गइल	VAUX	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	RBP	<fs af=',,,,,,,'>
+4.1	चुपे-चाप	RB	
+	))
+5	((	NP	
+5.1	एक	QC	
+5.2	बिगहा	NN	
+	))
+6	((	NP	
+6.1	कस्बा	NN	
+6.2	की	PSP	
+	))
+7	((	NP	
+7.1	बनियाँ	NN	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	रेहन	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	रखि	VM	
+9.2	दिहलँऽ	VAUX	
+9.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	केतना	QF	
+1.2	पानी	NN	
+1.3	में	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बानी	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	उनके	PRP	
+3.2	अपनी	PRP	
+3.3	बेंवत	NN	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	अउर	CC	
+	))
+5	((	NP	
+5.1	औकात	NN	
+5.2	दूनों	QC	
+5.3	क	PSP	
+	))
+6	((	NP	
+6.1	थाह	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	लागि	VM	
+7.2	गइल	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एही	PRP	
+1.2	बीचे	NST	
+1.3	मार्तण्ड-मार्कण्डे	NNP	
+1.4	क	PSP	
+	))
+2	((	NP	
+2.1	नोकरी	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	लागि	VM	
+3.2	गइल	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ऊ	PRP	
+1.2	अपनी	PRP	
+1.3	अपनी	RDP	
+1.4	मेहरी	NN	
+1.5	के	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	लेके	VM	
+	))
+3	((	NP	
+3.1	शहर	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	चलि	VM	
+4.2	गइल	VAUX	
+	))
+5	((	NP	
+5.1	लो	NN	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	प्रचण्ड	NNP	
+1.2	अखण्ड	NNP	
+	))
+2	((	NP	
+2.1	खेती	NN	
+2.2	बारी	NN	
+2.3	क	PSP	
+	))
+3	((	NP	
+3.1	काम	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	देखे	VM	
+4.2	लागल	VAUX	
+	))
+5	((	NP	
+5.1	लो	NN	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ठाकुर	NN	
+1.2	साहेब	NN	
+1.3	के	PSP	
+	))
+2	((	JJP	<fs af=',,,,,,,'>
+2.1	दीन	NN	
+2.2	दसा	NN	
+2.3	खराब	JJ	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	हो	VM	
+3.2	गइल	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दूनों	QC	
+1.2	छोटकिन	NN	
+1.3	क	PSP	
+	))
+2	((	NP	
+2.1	बियाह	NN	
+2.2	ओही	PRP	
+2.3	हिसाब	NN	
+2.4	से	PSP	
+	))
+3	((	NP	
+3.1	तय	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	कइलँऽ	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मलिकाइन	NN	
+1.2	क	PSP	
+	))
+2	((	NP	
+2.1	ए	PRP	
+2.2	बेरी	NN	
+2.3	ओतना	QF	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	चलल	VM	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ठाकुर	NN	
+1.2	साहेब	NN	
+1.3	के	PSP	
+	))
+2	((	BLK	<fs af=',,,,,,,'>
+2.1	त	RP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	दबा	VM	
+3.2	ले	VAUX	
+3.3	जासु	VAUX	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	बाकी	CC	
+	))
+5	((	NP	
+5.1	नौकरी	NN	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	करे	VM	
+6.2	वाला	PSP	
+	))
+7	((	NP	
+7.1	लइकन	NN	
+7.2	क	PSP	
+	))
+8	((	NP	
+8.1	बाति	NN	
+8.2	उनका	PRP	
+	))
+9	((	VGNF	<fs af=',,,,,,,'>
+9.1	माने	VM	
+9.2	के	PSP	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	परल	VM	
+10.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दूनों	QC	
+1.2	की	PSP	
+	))
+2	((	NP	
+2.1	बियाह	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	मार्तण्ड	NNP	
+3.2	मार्कण्डे	NNP	
+3.3	खर्चा	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	उठावल	VM	
+	))
+5	((	NP	
+5.1	लोग	NN	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बड़कियो	JJ	
+1.2	बबुनियाँ	NN	
+1.3	सास	NN	
+1.4	की	PSP	
+	))
+2	((	RBP	<fs af=',,,,,,,'>
+2.1	चुपे	RB	
+2.2	चुपे	RDP	
+	))
+3	((	NP	
+3.1	रुपया	NN	
+3.2	पैसा	NN	
+3.3	,	SYM	
+	))
+4	((	NP	
+4.1	कपड़ा	NN	
+4.2	लत्ता	ECH	
+4.3	जेतना	QF	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	सपरल	VM	
+	))
+6	((	NP	
+6.1	मदद	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	कइलसि	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ठाकुर	NN	
+1.2	साहेब	NN	
+1.3	बड़की	NN	
+1.4	से	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहलँऽ-	VM	
+	))
+3	((	NP	
+3.1	बियाह	NN	
+3.2	बाद	NST	
+	))
+4	((	NP	
+4.1	तोर	PRP	
+4.2	पाई-पाई	NN	
+4.3	चुकता	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	क	VM	
+5.2	देइब	VAUX	
+	))
+6	((	NP	
+6.1	लइकी	NN	
+6.2	क	PSP	
+	))
+7	((	NP	
+7.1	धन	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	खाइल	VM	
+8.2	ना	NEG	
+8.3	जाला	VM	
+8.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकी	RP	
+	))
+2	((	NP	
+2.1	कबो	NST	
+2.2	एको	QC	
+2.3	कउड़ी	NN	
+2.4	वापस	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	कइलँऽ	VM	
+3.3	,	SYM	
+	))
+4	((	NEGP	<fs af=',,,,,,,'>
+4.1	न	NEG	
+	))
+5	((	NP	
+5.1	वापस	NN	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	करे	VM	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	मन्सा	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	रहे	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	समय	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	जात	VM	
+	))
+3	((	NP	
+3.1	देरी	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ना	NEG	
+4.2	लागेला	VM	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आदमी	NN	
+1.2	जन	NN	
+1.3	की	PSP	
+	))
+2	((	NP	
+2.1	जगह	NN	
+2.2	मशीन	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	आ	VM	
+3.2	गइली	VAUX	
+3.3	स	VAUX	
+3.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ठाकुरो	NN	
+1.2	साहेब	NN	
+1.3	जमाना	NN	
+1.4	की	PSP	
+	))
+2	((	NP	
+2.1	साथे	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	चले	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	कोशिश	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	कइलँऽ	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बैल	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बेचा	VM	
+2.2	गइलँसऽ	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हरवाह	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	हटा	VM	
+2.2	दिहल	VAUX	
+2.3	गइलँस	VAUX	
+2.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बैंक	NN	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	कर्जा	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	लियाइल	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ट्रैक्टर	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	किनाइल	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कुछ	QF	
+1.2	दिन	NN	
+1.3	ले	PSP	
+	))
+2	((	BLK	<fs af=',,,,,,,'>
+2.1	त	RP	
+	))
+3	((	NP	
+3.1	एगो	QC	
+3.2	ड्राइबर	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रखल	VM	
+4.2	रहे	VAUX	
+4.3	,	SYM	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	बाकी	CC	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	पोसाइल	VM	
+6.2	ना	NEG	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हारि	NN	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	पाछि	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	प्रचण्ड	NNP	
+2.2	ट्रैक्टर	NN	
+2.3	ड्राइबर	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	बनि	VM	
+3.2	गइलँऽ	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कभी	NST	
+1.2	गाड़ी	NN	
+1.3	नाव	NN	
+1.4	पर	PSP	
+1.5	,	SYM	
+	))
+2	((	NP	
+2.1	कभी	NST	
+2.2	नाव	NN	
+2.3	गाड़ी	NN	
+2.4	पर	PSP	
+2.5	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एगो	QC	
+1.2	समय	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रहे	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	चमटोली	NN	
+4.2	क	PSP	
+	))
+5	((	NP	
+5.1	चमार	NN	
+5.2	ठाकुर	NN	
+5.3	रुद्र	NNP	
+5.4	प्रताप	NNP	
+5.5	की	PSP	
+	))
+6	((	NP	
+6.1	इहाँ	PRP	
+6.2	हरवाह	NN	
+	))
+7	((	VGNF	<fs af=',,,,,,,'>
+7.1	बने	VM	
+7.2	खातिर	PSP	
+	))
+8	((	NP	
+8.1	जुगत	NN	
+8.2	जोगाड़	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	लगावत	VM	
+9.2	फिरँसऽ	VM	
+9.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अब	NST	
+1.2	हाल	NN	
+1.3	ई	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	हो	VM	
+2.2	गइल	VAUX	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	चमटोली	NN	
+4.2	क	PSP	
+	))
+5	((	NP	
+5.1	कुछ	QF	
+5.2	चमार	NN	
+	))
+6	((	NP	
+6.1	जिनकर	PRP	
+6.2	माली	NN	
+6.3	हालत	NN	
+6.4	ठीक	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	हो	VM	
+7.2	गइल	VAUX	
+7.3	रहे	VAUX	
+7.4	,	SYM	
+	))
+8	((	NP	
+8.1	जमीन	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	कीन	VM	
+9.2	लेले	VAUX	
+9.3	रहलँसऽ	VAUX	
+9.4	,	SYM	
+	))
+10	((	NP	
+10.1	खेत	NN	
+10.2	ट्रैक्टर	NN	
+10.3	से	PSP	
+	))
+11	((	VGF	<fs af=',,,,,,,'>
+11.1	जोतवावेंसऽ	VM	
+11.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आ	RP	
+1.2	ओ	PRP	
+1.3	ट्रैक्टर	NN	
+1.4	क	PSP	
+	))
+2	((	NP	
+2.1	ड्राइबर	NN	
+2.2	कवनो	WQ	
+2.3	चमार	NN	
+	))
+3	((	NEGP	<fs af=',,,,,,,'>
+3.1	नाहीं	NEG	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	ठाकुर	NN	
+4.2	साहेब	NN	
+4.3	क	PSP	
+	))
+5	((	NP	
+5.1	बड़का	JJ	
+5.2	लइका	NN	
+5.3	प्रचण्डे	NNP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	रहलँ	VM	
+6.2	ऽ	SYM	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ठाकुर	NN	
+1.2	साहेब	NN	
+	))
+2	((	NP	
+2.1	अब	NST	
+2.2	बुढ़ा	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	गइलँऽ	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	साथे	NN	
+1.2	साथे	RDP	
+	))
+2	((	NP	
+2.1	ऊ	PRP	
+2.2	सुनर	JJ	
+2.3	सुघर	JJ	
+2.4	महल	NN	
+2.5	लेखा	PRP	
+2.6	उनकर	PRP	
+2.7	घर	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	गिरे	VM	
+3.2	परे	VM	
+3.3	लागल	VAUX	
+3.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तबो	NST	
+1.2	उपरे	NST	
+1.3	से	PSP	
+	))
+2	((	NP	
+2.1	सही	NN	
+2.2	घर	NN	
+2.3	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रँगा	VM	
+3.2	बन्हा	VM	
+3.3	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	राखसु	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	भीतर	NST	
+1.2	कइसन	WQ	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बा	VM	
+	))
+3	((	NP	
+3.1	केहू	WQ	
+3.2	का	WQ	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	जानी	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हाथी	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	दाँत	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	खाएके	VM	
+	))
+4	((	NP	
+4.1	दूसर	QO	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	आ	CC	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	देखावेके	VM	
+	))
+7	((	NP	
+7.1	दूसर	QO	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ठाकुर	NN	
+1.2	साहेब	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	अब	NST	
+2.2	ढेर	QF	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	चलियो	VM	
+3.2	फिर	VM	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ना	NEG	
+4.2	जाव	VM	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बरामदा	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	एगो	QC	
+2.2	पुरान	JJ	
+2.3	आराम	NN	
+2.4	कुर्सी	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	लगा	VM	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	बइठल	VM	
+4.2	रहसु	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उनकी	PRP	
+1.2	कान	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	कबो	NST	
+2.2	कबो	RDP	
+2.3	एगो	QC	
+2.4	गीत	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	गूँजल	VM	
+3.2	करे-	VAUX	
+	))
+4	((	NP	
+4.1	‘उपरा	NST	
+4.2	से	PSP	
+	))
+5	((	NP	
+5.1	ठटरी	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	दिहल	VM	
+	))
+7	((	NP	
+7.1	रँगाई	NN	
+7.2	,	SYM	
+	))
+8	((	NP	
+8.1	भितरा	NST	
+8.2	त	RP	
+8.3	छेद	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	बा	VM	
+9.2	!	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एमे	PRP	
+1.2	कवनो	WQ	
+1.3	भेद	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बा	VM	
+2.2	!	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	कबो	NST	
+2.2	कबो	RDP	
+2.3	त	RP	
+	))
+3	((	NP	
+3.1	कुछ	QF	
+3.2	मनढींठ	JJ	
+3.3	लइका	NN	
+3.4	उनकी	PRP	
+3.5	दुवारे	NN	
+3.6	से	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	दउरत	VM	
+4.2	कहत	VM	
+4.3	भागि	VM	
+4.4	जाँसऽ	VAUX	
+	))
+5	((	NP	
+5.1	कुर्सी	NN	
+5.2	पर	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बैठे	VM	
+6.2	हैं	VAUX	
+6.3	,	SYM	
+	))
+7	((	NP	
+7.1	मूछों	NN	
+7.2	को	PSP	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	ऐंठे	VM	
+8.2	हैं	VAUX	
+8.3	,	SYM	
+	))
+9	((	NP	
+9.1	सुबह	NN	
+	))
+10	((	CCP	<fs af=',,,,,,,'>
+10.1	व	CC	
+	))
+11	((	NP	
+11.1	शाम	NN	
+11.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ठाकुर	NN	
+1.2	साहेब	NN	
+1.3	लाचारी	NN	
+1.4	में	PSP	
+	))
+2	((	NP	
+2.1	दाँत	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	पीस	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	मन	NN	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	मसोसि	VM	
+5.2	के	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	रहि	VM	
+6.2	जासु	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कवनो	WQ	
+1.2	चारा	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	रहे	VM	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मनढींठ	JJ	
+1.2	लइकन	NN	
+1.3	क	PSP	
+	))
+2	((	NP	
+2.1	का	PSP	
+2.2	उपाय	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	करसु	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एक	QC	
+1.2	दिन	NN	
+1.3	सबेरहीं	NN	
+1.4	ओही	PRP	
+1.5	बरामदा	NN	
+1.6	में	PSP	
+	))
+2	((	NP	
+2.1	कुर्सिए	NN	
+2.2	पर	PSP	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	बइठल	VM	
+3.2	बइठल	RDP	
+	))
+4	((	NP	
+4.1	लकडि़या	NN	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	गइलन	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	केहू	WQ	
+1.2	कुछ	QF	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बूझि	VM	
+2.2	ना	NEG	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	पावल	VM	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	उनके	PRP	
+4.2	का	WQ	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	हो	VM	
+5.2	गइल	VAUX	
+5.3	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उनकी	PRP	
+1.2	तेरही	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	चारो	QC	
+2.2	भाई	NN	
+2.3	परिवार	NN	
+2.4	की	PSP	
+	))
+3	((	NP	
+3.1	साथे	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	बटुरा	VM	
+4.2	गइल	VAUX	
+	))
+5	((	NP	
+5.1	लो	NN	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तेरही	NN	
+1.2	की	PSP	
+	))
+2	((	NP	
+2.1	बाद	NST	
+2.2	चारों	QC	
+2.3	गोतिन	NN	
+2.4	में	PSP	
+	))
+3	((	NP	
+3.1	हाँऊ	NN	
+3.2	हाँऊ	ECH	
+3.3	,	SYM	
+	))
+4	((	NP	
+4.1	किच	NN	
+4.2	किच	ECH	
+4.3	,	SYM	
+	))
+5	((	NP	
+5.1	उघटा	NN	
+5.2	पुरान	NN	
+5.3	,	SYM	
+	))
+6	((	NP	
+6.1	ईहाँ	PRP	
+6.2	तक	PSP	
+	))
+7	((	CCP	<fs af=',,,,,,,'>
+7.1	कि	CC	
+	))
+8	((	NP	
+8.1	झोंटा	NN	
+8.2	झोंटवलो	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	हो	VM	
+9.2	गइल	VAUX	
+9.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ई	PRP	
+1.2	इहँवें	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	रुकल	VM	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	चारो	QC	
+1.2	भइअवनों	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	लाठा-लाठी	NN	
+2.2	क	PSP	
+	))
+3	((	NP	
+3.1	नउबत	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	आ	VM	
+4.2	गइल	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	<fs af=',,,,,,,'>
+1.1	ठाकुर	NN	
+1.2	साहेब	NN	
+1.3	क	PSP	
+	))
+2	((	NP	<fs af=',,,,,,,'>
+2.1	बेवा	NN	
+2.2	,	SYM	
+	))
+3	((	NP	<fs af=',,,,,,,'>
+3.1	इन्द्रावती	NNP	
+3.2	ठेंगुंरी	NN	
+3.3	की	PSP	
+	))
+4	((	NP	<fs af=',,,,,,,'>
+4.1	सहारे	NN	
+4.2	कबो	NST	
+4.3	इहाँ	PRP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	बइठसु	VM	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	कबो	NST	
+6.2	उहाँ	PRP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बइठसु	VM	
+	))
+8	((	CCP	<fs af=',,,,,,,'>
+8.1	आ	CC	
+	))
+9	((	NP	
+9.1	अपनी	PRP	
+9.2	किस्मत	NN	
+9.3	पर	PSP	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	रोवल	VM	
+10.2	धोवल	VM	
+10.3	करसु	VAUX	
+10.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	पंच	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बटुरल	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सभे	QC	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	कहल	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	ए	PRP	
+4.2	रोज-रोज	NN	
+4.3	की	PSP	
+	))
+5	((	NP	
+5.1	कचाइन	NN	
+5.2	से	PSP	
+	))
+6	((	JJP	<fs af=',,,,,,,'>
+6.1	अच्छा	JJ	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बा-	VM	
+	))
+8	((	CCP	<fs af=',,,,,,,'>
+8.1	कि	CC	
+	))
+9	((	NP	
+9.1	‘जमीन	NN	
+9.2	जायदाद	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	बाँट	VM	
+10.2	ल	VAUX	
+10.3	जा	VAUX	
+	))
+11	((	CCP	<fs af=',,,,,,,'>
+11.1	आ	CC	
+	))
+12	((	NP	
+12.1	चैन	NN	
+12.2	से	PSP	
+	))
+13	((	VGF	<fs af=',,,,,,,'>
+13.1	रहऽ	VM	
+13.2	जा	VAUX	
+13.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+2	((	NP	
+2.1	बँटावारा	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	ट्रैक्टर	NN	
+3.2	की	PSP	
+	))
+4	((	NP	
+4.1	कर्जा	NN	
+4.2	क	PSP	
+	))
+5	((	NP	
+5.1	झमेला	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	रहे	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एगो	QC	
+1.2	गैरेज	NN	
+1.3	वाला	PSP	
+	))
+2	((	NP	
+2.1	मिस्त्री	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	औने-पौने	NN	
+3.2	दाम	NN	
+3.3	में	PSP	
+	))
+4	((	NP	
+4.1	ट्रैक्टर	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	बेंचा	VM	
+5.2	गइल	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कस्बा	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	बनियवों	NN	
+2.2	क	PSP	
+	))
+3	((	NP	
+3.1	कर्जा	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहे	VM	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	आ	CC	
+	))
+6	((	NP	
+6.1	रेहन	NN	
+6.2	खेतवो	NN	
+6.3	अभी	NST	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	ना	NEG	
+7.2	छूटल	VM	
+7.3	रहे	VAUX	
+7.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ओही	PRP	
+1.2	बनिया	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	खेत	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	बेंचि	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	दूनों	QC	
+4.2	कर्जा	NN	
+4.3	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	निपटावल	VM	
+5.2	गइल	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGNF	<fs af=',,,,,,,'>
+1.1	बँचल	VM	
+	))
+2	((	NP	
+2.1	खेत	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	बँटा	VM	
+3.2	गइल	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	घर-दुवार	NN	
+	))
+2	((	NP	<fs af=',,,,,,,'>
+2.1	बँटा	VM	
+2.2	गइल	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बर्तन	NN	
+1.2	भांड़	NN	
+1.3	प्रचण्ड	NNP	
+1.4	अखण्ड	NNP	
+1.5	के	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	दिया	VM	
+2.2	गइल	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ऊ	PRP	
+1.2	लो	NN	
+1.3	अभी	NST	
+1.4	एके	QC	
+1.5	साथे	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	रहे	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	राजी	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहे	VM	
+	))
+5	((	NP	
+5.1	लो	NN	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मार्तण्ड	NNP	
+1.2	,	SYM	
+	))
+2	((	NP	
+2.1	मार्कण्डे	NNP	
+2.2	अपनी-अपनी	PRP	
+2.3	हिस्सा	NN	
+2.4	की	PSP	
+	))
+3	((	NP	
+3.1	घर	NN	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	ताला	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	लगा	VM	
+5.2	के	PSP	
+5.3	,	SYM	
+	))
+6	((	NP	
+6.1	अपनी-अपनी	PRP	
+6.2	हिस्सा	NN	
+6.3	क	PSP	
+	))
+7	((	NP	
+7.1	खेत	NN	
+7.2	अतवारू	NNP	
+7.3	,	SYM	
+	))
+8	((	NP	
+8.1	कतवारू	NNP	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	बँटाई	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	देके	VM	
+	))
+11	((	NP	
+11.1	परिवार	NN	
+11.2	समेत	NN	
+11.3	नोकरी	NN	
+11.4	पर	PSP	
+	))
+12	((	VGF	<fs af=',,,,,,,'>
+12.1	चलि	VM	
+12.2	गइल	VAUX	
+	))
+13	((	NP	
+13.1	लो	NN	
+13.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अनाज	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बँटवावे	VM	
+	))
+3	((	NP	
+3.1	साल	NN	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	एक	QC	
+4.2	दू	QC	
+4.3	बेर	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	आवे	VM	
+	))
+6	((	NP	
+6.1	लोग	NN	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अनाज	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बेंचला	VM	
+2.2	पर	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	मिले	VM	
+3.2	का	PSP	
+	))
+4	((	BLK	<fs af=',,,,,,,'>
+4.1	त	RP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	आवे-जाए	VM	
+	))
+6	((	NP	
+6.1	भर	QF	
+6.2	क	PSP	
+	))
+7	((	NP	
+7.1	भाड़ा	NN	
+7.2	,	SYM	
+	))
+8	((	CCP	<fs af=',,,,,,,'>
+8.1	आ	CC	
+	))
+9	((	NP	
+9.1	एक	QC	
+9.2	दू	QC	
+	))
+10	((	NP	
+10.1	किलो	NN	
+10.2	मीठा	NN	
+10.3	क	PSP	
+	))
+11	((	NP	
+11.1	पइसा	NN	
+11.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तबो	PRP	
+1.2	उन्हलोग	PRP	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	मरम	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	बुझाव	VM	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अतवारू-कतवारू	NNP	
+1.2	क	PSP	
+	))
+2	((	NP	
+2.1	चानीं	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रहे	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कुछ	QF	
+1.2	दिन	NN	
+1.3	ले	PSP	
+	))
+2	((	NP	
+2.1	प्रचण्ड-अखण्ड	NNP	
+2.2	एकही	QC	
+2.3	में	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रहे	VM	
+	))
+4	((	NP	
+4.1	लो	NN	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	देवरानी	NN	
+1.2	,	SYM	
+	))
+2	((	NP	
+2.1	जेठानी	NN	
+2.2	से	PSP	
+	))
+3	((	JJP	<fs af=',,,,,,,'>
+3.1	तनी	QF	
+3.2	तेज	JJ	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	मनावसु	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	रोज	QF	
+1.2	रोज	RDP	
+1.3	कुछ	QF	
+	))
+2	((	NEGP	<fs af=',,,,,,,'>
+2.1	न	NEG	
+	))
+3	((	NP	
+3.1	कुछ	QF	
+3.2	हूँ-टूँ	RP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	होइए	VM	
+4.2	जाव	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ढेर	JJ	
+1.2	दिन	NN	
+1.3	साथे	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	कटल	VM	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ईहो	PRP	
+1.2	दूनों	QC	
+1.3	भाई	NN	
+1.4	बँटवारा	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	क	VM	
+2.2	लिहल	VAUX	
+	))
+3	((	NP	
+3.1	लो	NN	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कई	QF	
+1.2	गो	CL	
+1.3	लकड़ी	NN	
+1.4	जबले	PRP	
+1.5	एक	QC	
+1.6	साथे	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बान्हल	VM	
+2.2	रहेलीसऽ	VAUX	
+2.3	,	SYM	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	टूटेलीसऽ	VM	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGNF	<fs af=',,,,,,,'>
+1.1	छितरइला	VM	
+1.2	पर	PSP	
+	))
+2	((	NP	
+2.1	जहाँ	PRP	
+2.2	से	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	चाह	VM	
+	))
+4	((	RBP	<fs af=',,,,,,,'>
+4.1	झट-झट	RB	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	तूरि	VM	
+5.2	दऽ	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	रुतबा	NN	
+1.2	दबदबा	NN	
+1.3	खतम	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	हो	VM	
+2.2	गइल	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाप	NN	
+1.2	दादा	NN	
+1.3	की	PSP	
+	))
+2	((	NP	
+2.1	समय	NN	
+2.2	क	PSP	
+	))
+3	((	NP	
+3.1	इज्जत	NN	
+3.2	आबरू	NN	
+	))
+4	((	NP	
+4.1	सगरी	QF	
+4.2	माटी	NN	
+4.3	में	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	मिल	VM	
+5.2	गइल	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	खेत	NN	
+1.2	बारी	NN	
+1.3	त	RP	
+	))
+2	((	NP	
+2.1	बराबर	QF	
+2.2	बराबर	RDP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	बँटा	VM	
+3.2	गइल	VAUX	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	बाकी	CC	
+	))
+5	((	NP	
+5.1	बर्तन	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बाटे	VM	
+6.2	में	PSP	
+	))
+7	((	NP	
+7.1	झमेला	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	हो	VM	
+8.2	गइल	VAUX	
+8.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एक	QC	
+1.2	एक	RDP	
+1.3	गो	CL	
+1.4	फुलही	NN	
+1.5	बटुली	NN	
+1.6	,	SYM	
+	))
+2	((	NP	
+2.1	एक	QC	
+2.2	एक	RDP	
+2.3	गो	CL	
+2.4	परात	NN	
+2.5	कठवत	NN	
+2.6	,	SYM	
+	))
+3	((	NP	
+3.1	एक	QC	
+3.2	एक	RDP	
+3.3	गो	CL	
+3.4	कलछुल	NN	
+3.5	,	SYM	
+	))
+4	((	NP	
+4.1	तीन	QC	
+4.2	तीन	RDP	
+4.3	गो	CL	
+4.4	थरिया	NN	
+4.5	कटोरी	NN	
+4.6	गिलास	NN	
+4.7	त	RP	
+	))
+5	((	NP	
+5.1	बराबर	QF	
+	))
+6	((	CCP	<fs af=',,,,,,,'>
+6.1	आ	CC	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	गइल	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकी	RP	
+	))
+2	((	NP	
+2.1	कराही	NN	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	NP	
+4.1	तावा	NN	
+4.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अखण्ड	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहलँऽ-	VM	
+	))
+3	((	NP	
+3.1	हम	PRP	
+3.2	छोट	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहलीं	VM	
+	))
+5	((	NP	
+5.1	तबे	NST	
+5.2	से	PSP	
+	))
+6	((	NP	
+6.1	भऊजी	NN	
+6.2	एही	PRP	
+6.3	कराही	NN	
+6.4	में	PSP	
+	))
+7	((	NP	
+7.1	तरकारी	NN	
+	))
+8	((	CCP	<fs af=',,,,,,,'>
+8.1	आ	CC	
+	))
+9	((	NP	
+9.1	एही	PRP	
+9.2	तावा	NN	
+9.3	पर	PSP	
+	))
+10	((	NP	
+10.1	रोटी	NN	
+	))
+11	((	VGF	<fs af=',,,,,,,'>
+11.1	सेंकि	VM	
+	))
+12	((	NP	
+12.1	के	PSP	
+12.2	हमके	PRP	
+	))
+13	((	VGF	<fs af=',,,,,,,'>
+13.1	खियवले	VM	
+13.2	बाड़ी	VAUX	
+13.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हम	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहब	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	ई	PRP	
+4.2	कराही	NN	
+4.3	लावा	NN	
+4.4	भऊजिए	NN	
+4.5	की	PSP	
+	))
+5	((	NP	
+5.1	पास	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	रहि	VM	
+6.2	जाव	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तबले	NST	
+1.2	हंटुवा	NNP	
+1.3	क	PSP	
+	))
+2	((	NP	
+2.1	माई	NN	
+2.2	,	SYM	
+2.3	(	SYM	
+	))
+3	((	NP	
+3.1	आजकल	NN	
+3.2	अइसने	PRP	
+	))
+4	((	NEGP	<fs af=',,,,,,,'>
+4.1	बिना	NEG	
+	))
+5	((	NP	
+5.1	अर्थ	NN	
+5.2	क	PSP	
+	))
+6	((	NP	
+6.1	नाँव	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	रखे	VM	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	रिवाज	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	चलि	VM	
+9.2	गइल	VAUX	
+9.3	बा	VAUX	
+9.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	)	SYM	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	निकलि	VM	
+2.2	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	कर्कसइले	VM	
+3.2	कहलसि-	VM	
+3.3	बाँटि	VM	
+3.4	गइल	VAUX	
+3.5	,	SYM	
+	))
+4	((	BLK	<fs af=',,,,,,,'>
+4.1	तऽ	RP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	फाटि	VM	
+5.2	गइल	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	भऊजी	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	होइहें	VM	
+	))
+3	((	NP	
+3.1	तोहार	PRP	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हमार	PRP	
+1.2	केहू	WQ	
+	))
+2	((	NEGP	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हमके	PRP	
+1.2	करहियो	NN	
+1.3	में	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	चाँहीं	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	NP	
+4.1	तऊवो	NN	
+4.2	में	PSP	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बड़का	JJ	
+1.2	भाई	NN	
+1.3	प्रचण्ड	NNP	
+1.4	डेढ़सेरी	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	उठा	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	कराही	NN	
+3.2	पर	PSP	
+	))
+4	((	NP	
+4.1	अइसन	PRP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	मरलेंऽ	VM	
+	))
+6	((	CCP	<fs af=',,,,,,,'>
+6.1	कि	CC	
+	))
+7	((	NP	
+7.1	कराही	NN	
+7.2	क	PSP	
+	))
+8	((	NP	
+8.1	चारि	QC	
+8.2	खँड़ा	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	हो	VM	
+9.2	गइल	VAUX	
+9.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	छोटका	JJ	
+1.2	भाई	NN	
+1.3	अखण्ड	NNP	
+1.4	आरी	NN	
+1.5	से	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	काटि	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	तावा	NN	
+3.2	क	PSP	
+	))
+4	((	NP	
+4.1	दू	QC	
+4.2	टूक	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	क	VM	
+5.2	दिहलँऽ	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	देवरानि	NN	
+1.2	जेठानि	NN	
+1.3	दू	QC	
+1.4	दू	RDP	
+1.5	टूक	NN	
+1.6	कराही	NN	
+1.7	क	PSP	
+	))
+2	((	CCP	<fs af=',,,,,,,'>
+2.1	आ	CC	
+	))
+3	((	NP	
+3.1	एक	QC	
+3.2	एक	RDP	
+3.3	टूक	NN	
+3.4	तावा	NN	
+3.5	क	PSP	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	उठा	VM	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	भीतर	NST	<fs af=',,,,,,,'>
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	हो	VM	
+6.2	गइल	VAUX	
+	))
+7	((	NP	
+7.1	लो	NN	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	घूमन	NNP	
+1.2	आगे	NST	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहलँऽ-	VM	
+	))
+3	((	NP	
+3.1	बाप	NN	
+3.2	में	PSP	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	आ	CC	
+	))
+5	((	NP	
+5.1	बड़का	JJ	
+5.2	लइका	NN	
+5.3	में	PSP	
+	))
+6	((	NP	
+6.1	कबो	PRP	
+6.2	पटरी	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	ना	NEG	
+7.2	होखेला	VM	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	माई	NN	
+1.2	छोटका	JJ	
+1.3	लइका	NN	
+1.4	क	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	छोडि़	VM	
+	))
+3	((	NP	
+3.1	दूसरा	QO	
+3.2	इहाँ	PRP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ना	NEG	
+4.2	रहि	VM	
+4.3	सकेले	VAUX	
+4.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सास-पतोहि	NN	
+1.2	सुभाव	NN	
+1.3	से	PSP	
+	))
+2	((	NP	
+2.1	एक	QC	
+2.2	दूसरा	QO	
+2.3	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	फूटलो	VM	
+	))
+4	((	NP	
+4.1	आँखि	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	ना	NEG	
+5.2	सोहाला	VM	
+	))
+6	((	NP	
+6.1	लो	NN	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बुढि़या	JJ	
+1.2	माई	NN	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	मालकिन	NN	
+2.2	अब	NST	
+2.3	बुढि़या	JJ	
+2.4	माई	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	कहासु	VM	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	छोटका	JJ	
+4.2	लइका	NN	
+4.3	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	छोडि़	VM	
+	))
+6	((	NP	
+6.1	दूसरा	QO	
+6.2	इहाँ	PRP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	रहे	VM	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	तैयार	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	ना	NEG	
+9.2	भइली	VM	
+9.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	घूमन	NNP	
+	))
+2	((	CCP	<fs af=',,,,,,,'>
+2.1	आ	CC	
+	))
+3	((	NP	
+3.1	नन्हकुवा	NNP	
+3.2	के	PSP	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	चलत	VM	
+4.2	चलत	RDP	
+	))
+5	((	NP	
+5.1	साँझि	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	हो	VM	
+6.2	गइल	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	किरिन	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	डूबे	VM	
+2.2	लागल	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	रसड़ा	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	पहुँचला	VM	
+2.2	पर	PSP	
+	))
+3	((	NP	
+3.1	नन्हकुआ	NNP	
+	))
+4	((	NP	
+4.1	देखलसि	VM	
+	))
+5	((	NP	
+5.1	सूट-बूट	NN	
+5.2	में	PSP	
+	))
+6	((	NP	
+6.1	दू	QC	
+6.2	गो	CL	
+6.3	आदमी	NN	
+6.4	,	SYM	
+	))
+7	((	NEGP	<fs af=',,,,,,,'>
+7.1	बिना	NEG	
+	))
+8	((	NP	
+8.1	मोछि-दाढ़ी	NN	
+8.2	क	PSP	
+8.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ओकर	PRP	
+1.2	हँसी	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	अड़ाइल	VM	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	कहलसि	VM	
+	))
+2	((	NP	
+2.1	‘ए	INJ	
+2.2	बाबूजी	NN	
+2.3	,	SYM	
+	))
+3	((	NP	
+3.1	ए	INJ	
+3.2	बाबूजी	NN	
+3.3	!	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हऊ	PRP	
+1.2	दूगो	QC	
+1.3	कइसन	WQ	
+1.4	आदमी	NN	
+1.5	!	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	घूमन	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	मुसकी	VM	
+2.2	काटि	VAUX	
+2.3	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	कहलँऽ-	VM	
+	))
+4	((	NP	
+4.1	सवाल	NN	
+4.2	पर	PSP	
+	))
+5	((	NP	
+5.1	सवाल	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	पूछले	VM	
+6.2	जात	VAUX	
+6.3	बाड़े	VAUX	
+6.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तोरा	PRP	
+1.2	पेट	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	दाढ़ी	NN	
+2.2	मोंछि	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	बा	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कवनो	WQ	
+1.2	अफसर	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बुझाता	VM	
+	))
+3	((	NP	
+3.1	लोग	NN	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NEGP	<fs af=',,,,,,,'>
+1.1	’	SYM	
+1.2	बिना	NEG	
+	))
+2	((	NP	
+2.1	मोछिओ	NN	
+2.2	वाला	PSP	
+	))
+3	((	NP	
+3.1	लोग	NN	
+3.2	रोबगर	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	होला	VM	
+4.2	,	SYM	
+	))
+5	((	JJP	<fs af=',,,,,,,'>
+5.1	जइसन	PRP	
+5.2	रोबगर	JJ	
+	))
+6	((	NP	
+6.1	मोछि	NN	
+6.2	वाला	PSP	
+	))
+7	((	NP	
+7.1	ठाकुर	NN	
+7.2	साहेब	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	रहलँऽ	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	फिर	RP	
+	))
+2	((	NP	
+2.1	एगो	QC	
+2.2	घर	NN	
+2.3	की	PSP	
+	))
+3	((	NP	
+3.1	ओर	NN	
+3.2	इसारा	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	कइलँ-	VM	
+4.2	देख	VM	
+	))
+5	((	NP	
+5.1	उहे	PRP	
+5.2	बनियाँ	NN	
+5.3	क	PSP	
+	))
+6	((	NP	
+6.1	घर	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	ह	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उहँवे	PRP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	चलि	VM	
+2.2	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रहल	VM	
+3.2	जाई	VAUX	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	आ	CC	
+	))
+5	((	NP	
+5.1	रात	NN	
+5.2	में	PSP	
+	))
+6	((	NP	
+6.1	दरभंगिया	JJ	
+6.2	रामलीला	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	देखल	VM	
+7.2	जाई	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उहँवा	PRP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	पहुँच	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	नन्हकुवा	NNP	
+3.2	फूआ	NN	
+3.3	क	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	गोड़	VM	
+4.2	लगलसि	VAUX	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	आ	CC	
+	))
+6	((	NP	
+6.1	घूमन	NNP	
+6.2	सलाम	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	कइलँ	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फूआ	NN	
+	))
+2	((	RBP	<fs af=',,,,,,,'>
+2.1	छू-छू	RB	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	नन्हकुवा	NNP	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	दुलरली	VM	
+4.2	,	SYM	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	पुचकरली	VM	
+	))
+6	((	CCP	<fs af=',,,,,,,'>
+6.1	आ	CC	
+	))
+7	((	NP	
+7.1	उन्हनलोके	PRP	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	खियवली	VM	
+8.2	,	SYM	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	पियवली	VM	
+9.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	रात	NN	
+1.2	नौ	QC	
+1.3	बजे	NN	
+1.4	से	PSP	
+	))
+2	((	NP	
+2.1	एक	QC	
+2.2	डेढ़	NN	
+2.3	बजे	NN	
+2.4	तक	PSP	
+	))
+3	((	NP	
+3.1	रामलीला	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	देखल	VM	
+	))
+5	((	NP	
+5.1	लोग	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	आके	VM	
+6.2	सुतल	VM	
+	))
+7	((	NP	
+7.1	लोग	NN	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सबेर	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	भइल	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	किरिन	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	फुटला	VM	
+2.2	ले	PSP	
+	))
+3	((	NP	
+3.1	नन्हकुवा	NNP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	सुतले	VM	
+4.2	रहे	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दतुवन	NN	
+1.2	कुल्ला	NN	
+1.3	की	PSP	
+	))
+2	((	NP	
+2.1	बाद	NST	
+2.2	नन्हकुवा	NNP	
+2.3	क	PSP	
+	))
+3	((	NP	
+3.1	फूआ	NN	
+3.2	भाई-भतीजा	NN	
+3.3	के	PSP	
+	))
+4	((	NP	
+4.1	सतुवा	NN	
+4.2	गुर	NN	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	मीस	VM	
+5.2	के	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	खियवली	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ऊपर	NST	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	दू-दू	QC	
+2.2	गिलास	NN	
+2.3	माठा	NN	
+2.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाप	NN	
+1.2	बेटा	NN	
+1.3	क	PSP	
+	))
+2	((	NP	
+2.1	पेट	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	भरि	VM	
+3.2	गइल	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	फूआ	NN	
+1.2	भतीजा	NN	
+1.3	के	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रोकल	VM	
+2.2	चहली	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘फेर	PRP	
+1.2	कबो	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रहि	VM	
+2.2	जाई’	VAUX	
+	))
+3	((	NP	
+3.1	घूमन	NNP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	कहत	VM	
+	))
+5	((	NP	
+5.1	बहरियइलन	NN	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	राह	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	फेरु	PRP	
+2.2	खँडहर	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	परल	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	नन्हकुआ	NNP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	फेर	PRP	
+2.2	कहनी	NN	
+2.3	मन	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	परल	VM	
+3.2	;	SYM	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	पुछलस-	VM	
+	))
+5	((	NP	
+5.1	”ए	INJ	
+5.2	बाबू	NN	
+5.3	करहिया-	NN	
+5.4	तउवा	NN	
+5.5	का	WQ	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	भइल	VM	
+6.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	“	SYM	
+	))
+2	((	NP	
+2.1	अउँजाइल	NN	
+2.2	घूमन	NNP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	कहलँऽ-	VM	
+	))
+4	((	NP	
+4.1	‘तू	PRP	
+	))
+5	((	RBP	<fs af=',,,,,,,'>
+5.1	एकदम	RB	
+5.2	से	PSP	
+	))
+6	((	NP	
+6.1	गान्हीं	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	हउवे	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जवना	PRP	
+1.2	चीज	NN	
+1.3	के	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	पकडि़	VM	
+2.2	लेबे	VAUX	
+	))
+3	((	NP	
+3.1	पाहि	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	लगा	VM	
+4.2	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	छोड़बे	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	“	SYM	
+	))
+2	((	NP	
+2.1	तबले	PRP	
+2.2	बाप	NN	
+2.3	बेटा	NN	
+2.4	क	PSP	
+	))
+3	((	NP	
+3.1	नजर	NN	
+3.2	खँड़हर	NN	
+3.3	की	PSP	
+	))
+4	((	NP	
+4.1	ओर	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	गइल	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	देखल	VM	
+	))
+2	((	NP	
+2.1	लोग	NN	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि-	CC	
+	))
+4	((	NP	
+4.1	देवरानि-जेठानी	NN	
+4.2	फुटलकी	JJ	
+4.3	कराही	NN	
+4.4	की	PSP	
+	))
+5	((	NP	
+5.1	टुकड़ा	NN	
+5.2	में	PSP	
+	))
+6	((	NP	
+6.1	दुनो	QC	
+6.2	ओर	NN	
+6.3	से	PSP	
+	))
+7	((	NP	
+7.1	लइकन	NN	
+7.2	क	PSP	
+	))
+8	((	NP	
+8.1	मइला	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	फेके	VM	
+9.2	जात	VAUX	
+9.3	रहे	VAUX	
+	))
+10	((	NP	
+10.1	लो	NN	
+10.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	पीछे	NST	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	हंटुवा	NNP	
+2.2	अपना	PRP	
+2.3	तावा	NN	
+2.4	की	PSP	
+	))
+3	((	NP	
+3.1	टुकड़ा	NN	
+3.2	की	PSP	
+	))
+4	((	NP	
+4.1	बदला	NN	
+4.2	रूइया	NN	
+4.3	वाला	PSP	
+	))
+5	((	NP	
+5.1	मिठाई	NN	
+5.2	खातिर	PSP	
+	))
+6	((	NP	
+6.1	कबाड़ी	NN	
+6.2	वाला	PSP	
+	))
+7	((	NP	
+7.1	से	PSP	
+	))
+8	((	NP	
+8.1	पइसा	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	लेत	VM	
+9.2	रहे	VAUX	
+9.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	’	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बसिया	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	इयाद	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	मत	NEG	
+3.2	करीं	VM	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जवन	PRP	
+1.2	सोझा	NST	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बा	VM	
+	))
+3	((	NP	
+3.1	उहे	PRP	
+3.2	टटका	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	बा	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ओही	PRP	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	संतोष	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	करे	VM	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	बा	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मंगरइल	NNP	
+1.2	बाबा	NN	
+1.3	के	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	देखते	VM	
+2.2	बानी	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	नब्बे	QC	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	पुलुंगी	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	छूए-छूए	VM	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	भइल	VM	
+4.2	बाड़े	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तबो	PRP	
+1.2	उनकरा	PRP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बुझाला	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	दुनिया	NN	
+4.2	में	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	देखे	VM	
+5.2	खातिर	PSP	
+	))
+6	((	NP	
+6.1	अभी	NST	
+6.2	बहुते	QF	
+6.3	कुछ	QF	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बाकी	VM	
+7.2	बा	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ससुरारी	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	जाए	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	दुइये	QC	
+3.2	हाली	NN	
+3.3	मौका	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	मिलल	VM	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	दस	QC	
+5.2	बीस	QC	
+5.3	गो	CL	
+	))
+6	((	NP	
+6.1	पहुनाइओ	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	गइल	VM	
+7.2	होइहें	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकिर	RP	
+	))
+2	((	NP	
+2.1	जब	NST	
+2.2	पहुनाई	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	बारे	NN	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	बखान	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	करे	VM	
+5.2	लागेले	VAUX	
+	))
+6	((	BLK	<fs af=',,,,,,,'>
+6.1	त	RP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बुझाला	VM	
+	))
+8	((	NP	
+8.1	अभी	NST	
+8.2	काल्हे	NN	
+8.3	के	PSP	
+	))
+9	((	NP	
+9.1	घटना	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	ह	VM	
+10.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एगो	QC	
+1.2	साली	NN	
+	))
+2	((	NP	
+2.1	मंगरइल	NNP	
+2.2	बाबा	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	चेहरा	NN	
+3.2	पर	PSP	
+	))
+4	((	NP	
+4.1	जब	NST	
+4.2	हरदी	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	लभेर	VM	
+5.2	देहली	VAUX	
+	))
+6	((	BLK	<fs af=',,,,,,,'>
+6.1	त	RP	
+	))
+7	((	NP	
+7.1	ससुरारी	NN	
+7.2	भर	QF	
+7.3	में	PSP	
+	))
+8	((	NP	
+8.1	चर्चा	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	होखे	VM	
+9.2	लागल	VAUX	
+9.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाबा	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	बेटा	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	इ	PRP	
+3.2	सब	QF	
+3.3	बतिया	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	सुनत	VM	
+	))
+5	((	JJP	<fs af=',,,,,,,'>
+5.1	अच्छा	JJ	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	ना	NEG	
+6.2	लागे	VM	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	कहले-	VM	
+	))
+2	((	NP	
+2.1	जइसे	PRP	
+2.2	जइसे	RDP	
+2.3	बुढ़ौती	NN	
+2.4	के	PSP	
+	))
+3	((	NP	
+3.1	चढ़ाई	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	होत	VM	
+4.2	बा	VAUX	
+	))
+5	((	NP	
+5.1	इहां	PRP	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	दिमाग	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	घिसकल	VM	
+7.2	जाता	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	RBP	<fs af=',,,,,,,'>
+1.1	चुपचाप	RB	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बइठ	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	भगवान	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	भजन	NN	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	करे	VM	
+5.2	के	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	चाहीं	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	इहांका	PRP	
+1.2	त	RP	
+	))
+2	((	NP	
+2.1	गाँव	NN	
+2.2	भर	QF	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	कथा-कहानी	NN	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	मन	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	फंसवले	VM	
+5.2	रहतानी	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अधीरजी	NN	
+1.2	ओतने	QF	
+1.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कवनो	WQ	
+1.2	काम	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	देरी	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	भइल	VM	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	आहुंड़	NN	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	कूट	VM	
+6.2	के	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	ध	VM	
+7.2	दीहें	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	नदी	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	पंवड़े	NN	
+2.2	खातिर	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ढुकल	VM	
+3.2	बानी	VAUX	
+	))
+4	((	BLK	<fs af=',,,,,,,'>
+4.1	त	RP	
+	))
+5	((	NP	
+5.1	कबो-कबो	PRP	
+5.2	उजबिजियाइयो	NN	
+5.3	के	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	परेला	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	घर	NN	
+1.2	गृहस्थी	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	काम	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	देर-सवेर	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	लागले	VM	
+4.2	रहेला	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	इहां	PRP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	तामादी	NN	
+2.2	से	PSP	
+	))
+3	((	NP	
+3.1	घर	NN	
+3.2	भर	QF	
+3.3	परेसान	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहेला	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दुआर	NN	
+1.2	पर	PSP	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	पुरनका	JJ	
+2.2	ताखा	NN	
+2.3	में	PSP	
+	))
+3	((	NEGP	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+	))
+4	((	NP	
+4.1	मालूम	NN	
+4.2	इहां	PRP	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	का	WQ	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	भुलाइल	VM	
+6.2	रहेला	VAUX	
+	))
+7	((	NP	
+7.1	जे	PRP	
+7.2	बेर-बेर	NN	
+	))
+8	((	NP	
+8.1	ओकरे	PRP	
+8.2	ओर	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	ताकत	VM	
+9.2	रहिले	VAUX	
+	))
+10	((	CCP	<fs af=',,,,,,,'>
+10.1	आ	CC	
+	))
+11	((	NP	
+11.1	संझलौका	NN	
+11.2	में	PSP	
+	))
+12	((	NP	
+12.1	तनिको	QF	
+12.2	देरी	NN	
+	))
+13	((	VGF	<fs af=',,,,,,,'>
+13.1	हो	VM	
+13.2	जाला	VAUX	
+	))
+14	((	BLK	<fs af=',,,,,,,'>
+14.1	त	RP	
+	))
+15	((	NP	
+15.1	दीया	NN	
+	))
+16	((	VGNF	<fs af=',,,,,,,'>
+16.1	जरावे	VM	
+16.2	खातिर	PSP	
+	))
+17	((	NP	
+17.1	बेचैनी	NN	
+	))
+18	((	VGF	<fs af=',,,,,,,'>
+18.1	बढ़	VM	
+18.2	जाला	VAUX	
+18.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	बुझाला	VM	
+	))
+2	((	NP	
+2.1	जे	PRP	
+2.2	घर	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	नइखीं	VM	
+	))
+4	((	NP	
+4.1	अगोरत	NN	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	ताखा	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	अगोरत	VM	
+6.2	बानी	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाबा	NN	
+1.2	जब	NST	
+	))
+2	((	NP	
+2.1	ब्लाॅक	NN	
+2.2	आफिस	NN	
+2.3	से	PSP	
+	))
+3	((	NP	
+3.1	रिटायर	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	भहनी	VM	
+4.2	त	RP	
+	))
+5	((	NP	
+5.1	फिकिर	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	ढुकल	VM	
+	))
+7	((	CCP	<fs af=',,,,,,,'>
+7.1	कि	CC	
+	))
+8	((	NEGP	<fs af=',,,,,,,'>
+8.1	ना	NEG	
+	))
+9	((	NP	
+9.1	मालूम	NN	
+9.2	एह	PRP	
+	))
+10	((	NP	
+10.1	कुर्सी	NN	
+10.2	पर	PSP	
+	))
+11	((	NP	
+11.1	अब	NST	
+11.2	के	PSP	
+	))
+12	((	VGF	<fs af=',,,,,,,'>
+12.1	बइठी	VM	
+12.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGNF	<fs af=',,,,,,,'>
+1.1	सुने	VM	
+1.2	में	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	आइल	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	बी	NN	
+4.2	.	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	डी	NN	
+1.2	.	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ओ	NN	
+1.2	.	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	साहेब	NN	
+1.2	खुद	NN	
+	))
+2	((	NP	
+2.1	अपना	PRP	
+2.2	साढ़ू	NN	
+2.3	भाई	NN	
+2.4	खातिर	PSP	
+	))
+3	((	NP	
+3.1	सिफारिस	NN	
+3.2	में	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	लागल	VM	
+4.2	बाड़े	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाबा	NN	
+1.2	बड़ा	NN	
+1.3	बाबू	NN	
+1.4	के	PSP	
+	))
+2	((	NP	
+2.1	कुर्सी	NN	
+2.2	पर	PSP	
+	))
+3	((	NP	
+3.1	तेरह	QC	
+3.2	साल	NN	
+3.3	तक	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	बइठनी	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	केतना	WQ	
+1.2	केतना	RDP	
+	))
+2	((	NP	
+2.1	पब्लिक	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	काम	NN	
+3.2	उहां	PRP	
+3.3	के	PSP	
+	))
+4	((	NP	
+4.1	कलम	NN	
+4.2	से	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	भइल	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अधरी	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	रजिस्टर	NN	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	NP	
+4.1	फाइल	NN	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	बीचे	NST	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	बइठल	VM	
+	))
+7	((	NP	
+7.1	मंगरइल	NNP	
+7.2	बाबा	NN	
+	))
+8	((	NP	
+8.1	अपना	PRP	
+8.2	ड्यूटी	NN	
+8.3	में	PSP	
+	))
+9	((	NP	
+9.1	कोताही	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	ना	NEG	
+10.2	कइनीं	VM	
+10.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आफिस	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	हमेशा	QF	
+2.2	लोग	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	घेरले	VM	
+3.2	रहे	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘ए	INJ	
+1.2	बड़े	JJ	
+1.3	बाबू	NN	
+1.4	,	SYM	
+	))
+2	((	NP	
+2.1	जवन	PRP	
+2.2	सेवा-पानी	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	लागी	VM	
+	))
+4	((	NP	
+4.1	तवन	PRP	
+4.2	दियाई	NN	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	बाकिर	CC	
+	))
+6	((	NP	
+6.1	हमार	PRP	
+6.2	कमवाँ’	NN	
+6.3	फाइनल	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	करा	VM	
+7.2	दीं	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	लोगन	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	बात	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	सुनके	VM	
+	))
+4	((	NP	
+4.1	बाबा	NN	
+4.2	थोरिक	QF	
+	))
+5	((	NP	
+5.1	देर	NN	
+5.2	ले	PSP	
+	))
+6	((	NP	
+6.1	आँख	NN	
+6.2	मूंद	NN	
+6.3	के	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	सोचीं	VM	
+	))
+8	((	NP	
+8.1	फेन	PRP	
+8.2	मुंह	NN	
+8.3	में	PSP	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	फेंटाइल	VM	
+	))
+10	((	NP	
+10.1	पान	NN	
+10.2	के	PSP	
+	))
+11	((	NP	
+11.1	पीक	NN	
+11.2	देवाल	NN	
+11.3	के	PSP	
+	))
+12	((	NP	
+12.1	कोना	NN	
+12.2	में	PSP	
+	))
+13	((	VGF	<fs af=',,,,,,,'>
+13.1	जाके	VM	
+	))
+14	((	RBP	<fs af=',,,,,,,'>
+14.1	फच्	RB	
+14.2	दे	PSP	
+	))
+15	((	VGNF	<fs af=',,,,,,,'>
+15.1	फेंक	VM	
+15.2	के	PSP	
+	))
+16	((	NP	
+16.1	कुर्सी	NN	
+16.2	पर	PSP	
+	))
+17	((	VGF	<fs af=',,,,,,,'>
+17.1	आके	VM	
+17.2	बइठ	VM	
+17.3	जाईं	VAUX	
+17.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ममिला	NN	
+1.2	तय	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	करे	VM	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	अब	NST	
+3.2	आसानी	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	हो	VM	
+4.2	जाव	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बातचीत	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	होखे	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	फेन	RP	
+	))
+2	((	NP	
+2.1	समिलाते	NN	
+2.2	रसगुल्ला	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	दोकान	NN	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	इमिरती-रसगुल्ला	NN	
+4.2	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	चभाई	VM	
+5.2	होखे	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सिफारिश	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	करे	VM	
+2.2	वाला	PSP	
+	))
+3	((	NP	
+3.1	आदमी	NN	
+3.2	हलवाई	NN	
+3.3	के	PSP	
+	))
+4	((	NP	
+4.1	हिसाब	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	करस	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ब्लाॅक	NN	
+1.2	आफिस	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	पब्लिक	NN	
+2.2	सर्विस	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	इहे	PRP	
+3.2	दस्तूर	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	रहे	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	आॅफिस	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	जेतना	PRP	
+2.2	स्टाफ	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रहे	VM	
+	))
+4	((	NP	
+4.1	ओमें	PRP	
+4.2	मंगरइल	NNP	
+	))
+5	((	NP	
+5.1	बाबा	NN	
+5.2	फरके	NN	
+5.3	से	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बर	VM	
+6.2	जास	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मूंड़ी	NN	
+1.2	पर	PSP	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	केस	NN	
+2.2	रूई	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	फाहा	NN	
+3.2	नीयर	PRP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	फहरात	VM	
+4.2	रहे	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	करिया	JJ	
+1.2	कुच-कुच	JJ	
+1.3	देह	NN	
+1.4	के	PSP	
+	))
+2	((	NP	
+2.1	करियो	NN	
+2.2	कुर्ता	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	तोप	VM	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ना	NEG	
+4.2	सकत	VM	
+4.3	रहे	VAUX	
+4.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उनकरे	PRP	
+1.2	देह	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	रंगे	NN	
+2.2	खातिर	PSP	
+	))
+3	((	NP	
+3.1	भगवान	NN	
+3.2	जी	RP	
+	))
+4	((	NP	
+4.1	करिया	NN	
+4.2	रंग	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	बनवले	VM	
+5.2	रहले	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मंगरइल	NN	
+1.2	रंग	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	भइला	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	कारण	NN	
+3.2	लोग	NN	
+	))
+4	((	NP	
+4.1	उनकरा	PRP	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	लइकांइए	NN	
+5.2	से	PSP	
+	))
+6	((	NP	
+6.1	मंगरइल	NNP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	कहे	VM	
+7.2	लागल	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाप-महतारी	NN	
+1.2	के	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	धइल	VM	
+	))
+3	((	NP	
+3.1	नाम	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	तोपा	VM	
+4.2	गइल	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	इस्कूल	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	सार्टिफिकेट	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	उनकर	PRP	
+3.2	नाम	NN	
+3.3	सुन्दरलाल	NNP	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	लिखल	VM	
+4.2	देखल	VM	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	गइल	VAUX	
+5.2	रहे	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	देह	NN	
+1.2	करिया	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	होखे	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	भा	CC	
+	))
+4	((	NP	
+4.1	गोर	NN	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	जवानी	NN	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	उमड़ला	VM	
+6.2	पर	PSP	
+	))
+7	((	NP	
+7.1	आँख	NN	
+7.2	बेचैन	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	हो	VM	
+8.2	जाला	VAUX	
+8.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बिछौना	NN	
+1.2	पर	PSP	
+	))
+2	((	NP	
+2.1	ऊँधी	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	रह	VM	
+3.2	रह	RDP	
+3.3	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	टूटे	VM	
+4.2	लागेला	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाप-महतारी	NN	
+1.2	के	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	रहला	VM	
+2.3	से	PSP	
+	))
+3	((	NP	
+3.1	आपन	PRP	
+3.2	बियाह	NN	
+3.3	के	PSP	
+	))
+4	((	NP	
+4.1	फिकिर	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	ढुक	VM	
+5.2	गइल	VAUX	
+5.3	रहे	VAUX	
+5.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दुनिया	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	लोग	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	शादी-बियाह	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	होत	VM	
+4.2	रहे	VAUX	
+4.3	,	SYM	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	मगर	CC	
+	))
+6	((	NP	
+6.1	मंगरइल	NN	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	दुआर	NN	
+7.2	पर	PSP	
+	))
+8	((	NP	
+8.1	केहू	WQ	
+8.2	झूठहूं	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	पूछे	VM	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	ना	NEG	
+10.2	आवे	VM	
+	))
+11	((	CCP	<fs af=',,,,,,,'>
+11.1	कि	CC	
+	))
+12	((	NP	
+12.1	एहू	PRP	
+12.2	घर	NN	
+12.3	में	PSP	
+	))
+13	((	NP	
+13.1	एगो	QC	
+13.2	कुंवार	NN	
+13.3	लइका	NN	
+	))
+14	((	VGF	<fs af=',,,,,,,'>
+14.1	बइठल	VM	
+14.2	बाड़े	VAUX	
+14.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	समय	NN	
+1.2	त	RP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बइठल	VM	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	रहेला	VM	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कोमल	JJ	
+1.2	जवानी	NN	
+	))
+2	((	NP	
+2.1	हरांठ-मोराठ	JJ	
+2.2	देह	NN	
+2.3	में	PSP	
+	))
+3	((	NP	
+3.1	बदले	NN	
+3.2	के	PSP	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	शुरु	VM	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	हो	VAUX	
+5.2	गइल	VAUX	
+5.3	रहे	VAUX	
+5.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	इ	PRP	
+1.2	अइसन	PRP	
+	))
+2	((	NP	
+2.1	दुख	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रहे	VM	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	मंगरइल	NNP	
+5.2	केहू	WQ	
+5.3	से	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	कहहूं	VM	
+6.2	में	PSP	
+	))
+7	((	NP	
+7.1	लजास	NN	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	आ	RP	
+	))
+2	((	NP	
+2.1	ससुरी	NN	
+2.2	लाज	NN	
+	))
+3	((	NP	
+3.1	अइसन	PRP	
+3.2	चीजे	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ह	VM	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	कि	CC	
+	))
+6	((	NP	
+6.1	लइकाईं	NN	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	लंगटा	NN	
+7.2	देह	NN	
+7.3	से	PSP	
+	))
+8	((	NP	
+8.1	बुढ़ौती	NN	
+8.2	तक	PSP	
+	))
+9	((	NP	
+9.1	आदमी	NN	
+9.2	के	PSP	
+	))
+10	((	NP	
+10.1	साथे	NN	
+	))
+11	((	VGF	<fs af=',,,,,,,'>
+11.1	लागल	VM	
+11.2	रहेले	VAUX	
+11.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	लाज	NN	
+1.2	कबो	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बुढ़ाले	VM	
+2.2	ना	NEG	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एने	PRP	
+1.2	ओने	PRP	
+	))
+2	((	NP	
+2.1	जवानी	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	भार	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ढोअत	VM	
+	))
+5	((	NP	
+5.1	कवनो	WQ	
+5.2	लड़की	NN	
+5.3	के	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	देखस	VM	
+6.2	त	RP	
+	))
+7	((	NP	
+7.1	मंगरइल	NNP	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	मन	NN	
+8.2	हरियर	NN	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	हो	VM	
+9.2	जाव	VAUX	
+9.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	हो	VM	
+1.2	ना	NEG	
+1.3	हो	VM	
+	))
+2	((	NP	
+2.1	तनी	QF	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	पता	VM	
+3.2	लगावल	VAUX	
+3.3	जाइत	VAUX	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	इ	PRP	
+5.2	केकरा	WQ	
+5.3	घरे	NN	
+5.4	के	PSP	
+	))
+6	((	NP	
+6.1	बेटी	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	ह	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कवनो	WQ	
+1.2	दोस्त	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कह	VM	
+2.2	देव	VAUX	
+	))
+3	((	NP	
+3.1	का	WQ	
+3.2	ओने	NST	
+3.3	लार	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	टपकावत	VM	
+4.2	बाड़	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उ	PRP	
+1.2	तहरा	PRP	
+	))
+2	((	NP	
+2.1	जात	NN	
+2.2	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	हियऽ	VM	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मंगरइल	NNP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	मन	NN	
+2.2	जातपांत	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	खूंटो	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	तूरे	VM	
+4.2	खातिर	PSP	
+	))
+5	((	NP	
+5.1	बछरू	NN	
+5.2	नीयर	PRP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	छड़पे	VM	
+6.2	लागे	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जब	NST	
+1.2	कवनो	WQ	
+1.3	उपाय	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	लउकल	VM	
+2.3	त	RP	
+	))
+3	((	NP	
+3.1	मँगरइल	NNP	
+3.2	गाँवे	NN	
+3.3	के	PSP	
+	))
+4	((	NP	
+4.1	एगो	QC	
+4.2	बाबू	NN	
+4.3	साहेब	NN	
+4.4	के	PSP	
+	))
+5	((	NP	
+5.1	दरबार	NN	
+5.2	में	PSP	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	हाजिर	VM	
+6.2	होके	VAUX	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	गुहार	VM	
+7.2	लगवले	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	RBP	<fs af=',,,,,,,'>
+1.1	लजात	RB	
+1.2	लजात	RDP	
+	))
+2	((	NP	
+2.1	आपन	PRP	
+2.2	लालसा	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	जाहिर	VM	
+3.2	कइले	VAUX	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	आ	CC	
+	))
+5	((	NP	
+5.1	इहो	PRP	
+	))
+6	((	CCP	<fs af=',,,,,,,'>
+6.1	कि	CC	
+	))
+7	((	NEGP	<fs af=',,,,,,,'>
+7.1	बिना	NEG	
+	))
+8	((	NP	
+8.1	घरनी	NN	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	उनकर	PRP	
+9.2	घर	NN	
+9.3	भूत	NN	
+9.4	के	PSP	
+	))
+10	((	NP	
+10.1	डेरा	NN	
+	))
+11	((	VGF	<fs af=',,,,,,,'>
+11.1	बन	VM	
+11.2	गइल	VAUX	
+11.3	बा	VAUX	
+11.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मन	NN	
+	))
+2	((	RBP	<fs af=',,,,,,,'>
+2.1	रह	RB	
+2.2	रह	RDP	
+2.3	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	चंउक	VM	
+3.2	जाता	VAUX	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	एह	PRP	
+5.2	सउंसे	QF	
+5.3	घर	NN	
+5.4	में	PSP	
+	))
+6	((	NP	
+6.1	एक	QC	
+6.2	दिन	NN	
+6.3	भूत-प्रेत	NN	
+6.4	चुड़इल	NN	
+6.5	के	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बास	VM	
+7.2	होइए	VAUX	
+7.3	के	PSP	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	रही	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मँगरइल	NNP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	पार	NN	
+2.2	घाट	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	लगावे	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	पावर	NN	
+4.2	अब	NST	
+	))
+5	((	NP	
+5.1	बाबुए	NN	
+5.2	साहेब	NN	
+5.3	में	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	बा	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाबू	NN	
+1.2	साहेब	NN	
+	))
+2	((	NP	
+2.1	साठ	QC	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	उमिर	NN	
+3.2	तक	PSP	
+	))
+4	((	NP	
+4.1	देस	NN	
+4.2	दुनिया	NN	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	बढि़यां	NN	
+5.2	से	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	समझ	VM	
+6.2	गइल	VAUX	
+6.3	रहले	VAUX	
+6.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	जवार	NN	
+1.2	में	PSP	
+	))
+2	((	NEGP	<fs af=',,,,,,,'>
+2.1	नाहियों	NEG	
+	))
+3	((	BLK	<fs af=',,,,,,,'>
+3.1	त	RP	
+	))
+4	((	NP	
+4.1	चालीस	QC	
+4.2	पचास	QC	
+4.3	गो	CL	
+	))
+5	((	NP	
+5.1	बियाह	NN	
+5.2	उनकरे	PRP	
+	))
+6	((	NP	
+6.1	अगुवई	NN	
+6.2	में	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	भइल	VM	
+7.2	रहे	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कवन	WQ	
+1.2	लइका	NN	
+1.3	परी	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ना	NEG	
+2.2	चाहेला	VM	
+2.3	,	SYM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	भा	CC	
+	))
+4	((	NP	
+4.1	कवना	WQ	
+4.2	लइकी	NN	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	मन	NN	
+5.2	कामदेव	NN	
+5.3	जइसन	PRP	
+5.4	पति	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	पावे	VM	
+6.2	ना	NEG	
+6.3	करेला	VM	
+6.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाबू	NN	
+1.2	साहेब	NN	
+	))
+2	((	NP	
+2.1	अपना	PRP	
+2.2	बात	NN	
+2.3	में	PSP	
+	))
+3	((	NP	
+3.1	अइसन	PRP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	लपेटस	VM	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	कि	CC	
+	))
+6	((	NP	
+6.1	शादी	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	तइये	VM	
+7.2	हो	VAUX	
+7.3	जाव	VAUX	
+7.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	इहे	PRP	
+1.2	भरोसा	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	लेके	VM	
+	))
+3	((	NP	
+3.1	मंगरइल	NNP	
+3.2	उनका	PRP	
+	))
+4	((	NP	
+4.1	दुआर	NN	
+4.2	पर	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	हाजिर	VM	
+5.2	भइल	VAUX	
+5.3	रहले	VAUX	
+5.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाबू	NN	
+1.2	साहेब	NN	
+1.3	मंगरइल	NNP	
+1.4	के	PSP	
+	))
+2	((	NP	
+2.1	रूप	NN	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	NP	
+4.1	मन	NN	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	देख	VM	
+5.2	के	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	छोहा	VM	
+6.2	गइले	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	महीना	NN	
+1.2	भर	QF	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	एगो	QC	
+2.2	गरीब	NN	
+2.3	परिवार	NN	
+2.4	के	PSP	
+	))
+3	((	NP	
+3.1	लड़की	NN	
+3.2	से	PSP	
+	))
+4	((	NP	
+4.1	शादी	NN	
+	))
+5	((	VGNF	<fs af=',,,,,,,'>
+5.1	तय	VM	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	करा	VAUX	
+6.2	देहले	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	गरीब	JJ	
+1.2	बाप	NN	
+1.3	महतारी	NN	
+	))
+2	((	NP	
+2.1	पहिले	NST	
+2.2	त	RP	
+	))
+3	((	NEGP	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+	))
+4	((	NP	
+4.1	नुकूर	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	गइल	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाप	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहले	VM	
+2.2	-	SYM	
+	))
+3	((	NP	
+3.1	कोयला	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	खान	NN	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	हम	PRP	
+5.2	आपन	PRP	
+	))
+6	((	NP	
+6.1	सोना	NN	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	कंगना	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	ना	NEG	
+8.2	फेंकब	VM	
+8.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तबो	PRP	
+1.2	उनका	PRP	
+1.3	के	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	समझावल	VM	
+2.2	गइल	VAUX	
+2.3	-	SYM	
+	))
+3	((	NP	
+3.1	रूप	NN	
+3.2	रंग	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	लेके	VM	
+	))
+5	((	NP	
+5.1	का	WQ	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	चाटे	VM	
+6.2	के	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बा	VM	
+7.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	लड़की	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	बर-घर	NN	
+2.2	अइसन	PRP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	मिलो	VM	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	ओकरा	PRP	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	खाए	VM	
+6.2	पिये	VM	
+6.3	,	SYM	
+	))
+7	((	VGNF	<fs af=',,,,,,,'>
+7.1	पेन्हे-ओढ़े	VM	
+7.2	में	PSP	
+	))
+8	((	NP	
+8.1	कमी	QF	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	ना	NEG	
+9.2	होखो	VM	
+9.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	धन-दउलत	NN	
+1.2	अइसन	PRP	
+1.3	चीजे	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ह	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	सभकर	QF	
+4.2	दुख	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	हर	VM	
+5.2	लेला	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मंगरइल	NNP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	लगे	NN	
+2.2	एगो	QC	
+2.3	रंगे	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	नू	NEG	
+3.2	नइखे	VM	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	बाकिर	CC	
+	))
+5	((	NP	
+5.1	अउर	QF	
+5.2	कवन	WQ	
+	))
+6	((	NP	
+6.1	चीज	NN	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	कमी	QF	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	बा	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कुछ	QF	
+1.2	बात	NN	
+1.3	भगवान	NN	
+	))
+2	((	CCP	<fs af=',,,,,,,'>
+2.1	आ	CC	
+	))
+3	((	NP	
+3.1	किस्मतो	NN	
+3.2	पर	PSP	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	छोड़	VM	
+4.2	देबे	VAUX	
+4.3	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	चाहीं	VM	
+5.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ऊँच-खाल	NST	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	समझवला	VM	
+2.2	पर	PSP	
+	))
+3	((	NP	
+3.1	बाप	NN	
+3.2	आखिर	QF	
+3.3	में	PSP	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	तइयार	VM	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	हो	VAUX	
+5.2	गइले	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मंगरइल	NNP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	बारात	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	सजल	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एक	QC	
+1.2	जना	NN	
+	))
+2	((	NP	
+2.1	दोस्त	NN	
+2.2	मंगरइल	NNP	
+2.3	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	समझवले	VM	
+3.2	-	SYM	
+	))
+4	((	NP	<fs af=',,,,,,,'>
+4.1	जवना	PRP	
+4.2	गाँवे	NN	
+4.3	बारात	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	जाता	VM	
+	))
+6	((	NP	
+6.1	ओहिजा	PRP	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	लोग	NN	
+7.2	थोरिको	QF	
+7.3	सा	CL	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	उरेब	VM	
+8.2	भइला	VAUX	
+8.3	पर	PSP	
+	))
+9	((	NP	
+9.1	गारी-गरीयांव	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	करे	VM	
+10.2	लागेला	VAUX	
+10.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तहरा	PRP	
+1.2	रंग	NN	
+1.3	पर	PSP	
+	))
+2	((	NP	
+2.1	बोल	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	उठबे	VM	
+3.2	करी	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	मगर	RP	
+	))
+2	((	NP	
+2.1	तू	PRP	
+2.2	धीरज	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	रखिह	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एह	PRP	
+1.2	मौका	NN	
+1.3	पर	PSP	
+	))
+2	((	NP	
+2.1	आपन	PRP	
+2.2	मतलब	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	देखे	VM	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	बा	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	नीमन	NN	
+1.2	त	RP	
+1.3	इ	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	होई	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	कान	NN	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	रूई	NN	
+	))
+6	((	VGNF	<fs af=',,,,,,,'>
+6.1	ठूंस	VM	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	पालकी	NN	
+7.2	पर	PSP	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	बइठिह	VM	
+8.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाहर	NST	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	आन्ही-पानी	NN	
+2.2	कुछ	QF	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	सुनइबे	VM	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ना	NEG	
+4.2	करी	VM	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सब	QF	
+1.2	बीमारी	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	देखले-सुनले	VM	
+2.2	से	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	होला	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मंगरइल	NNP	
+1.2	सेही	PRP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कइले	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बियाह	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	हो	VM	
+2.2	गइल	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मेहरारू	NN	
+1.2	उनकरा	PRP	
+1.3	आगे	NST	
+	))
+2	((	NP	
+2.1	करिया	NN	
+2.2	हंडि़या	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	ध	VM	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	देहली	VAUX	
+4.2	सन	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	घर	NN	
+1.2	में	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बइठल	VM	
+	))
+3	((	NP	
+3.1	मरदू	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	सूरत	NN	
+4.2	पर	PSP	
+	))
+5	((	NP	
+5.1	नवकी	JJ	
+5.2	कनिया	NN	
+	))
+6	((	NP	
+6.1	तीन	QC	
+6.2	दिन	NN	
+6.3	ले	PSP	
+	))
+7	((	NP	
+7.1	लोर	NN	
+	))
+8	((	VGF	<fs af=',,,,,,,'>
+8.1	बहवली	VM	
+	))
+9	((	CCP	<fs af=',,,,,,,'>
+9.1	आ	CC	
+	))
+10	((	NP	
+10.1	शिवजी	NN	
+10.2	के	PSP	
+	))
+11	((	RBP	<fs af=',,,,,,,'>
+11.1	रहरह	RB	
+11.2	के	PSP	
+	))
+12	((	VGF	<fs af=',,,,,,,'>
+12.1	कोसली	VM	
+12.2	-	SYM	
+	))
+13	((	NP	
+13.1	हमरा	PRP	
+13.2	करम	NN	
+13.3	में	PSP	
+	))
+14	((	NP	
+14.1	तू	PRP	
+14.2	अइसने	PRP	
+	))
+15	((	NP	
+15.1	करियाठ	JJ	
+15.2	मरद	NN	
+	))
+16	((	VGF	<fs af=',,,,,,,'>
+16.1	ठोक	VM	
+16.2	देहलऽ	VAUX	
+16.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दसों	QC	
+1.2	साल	NN	
+	))
+2	((	NP	
+2.1	शिवरात	NN	
+2.2	ब्रत	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	कइला	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	तू	PRP	
+4.2	अइसन	PRP	
+	))
+5	((	NP	
+5.1	फल	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	दिहलऽ	VM	
+6.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मंगरइल	NNP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	मन	NN	
+2.2	अपना	PRP	
+	))
+3	((	NP	
+3.1	जनाना	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	खूबसूरती	NN	
+4.2	पर	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	अगराइल	VM	
+5.2	रहे	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	RBP	<fs af=',,,,,,,'>
+1.1	धीरे	RB	
+1.2	धीरे	RDP	
+	))
+2	((	NP	
+2.1	सब	QF	
+2.2	ठीक	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	हो	VM	
+3.2	गइल	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	भीतर	NST	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	प्रेम-मोहब्बत	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	आगे	NST	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	चलके	VM	
+	))
+5	((	NP	
+5.1	जइसे	PRP	
+5.2	भूंड़	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	फूट	VM	
+6.2	गइल	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हहा	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	मेहरारू	NN	
+2.2	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	माने	VM	
+3.2	लगले	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तबे	NST	
+1.2	उर्मिलो	NNP	
+1.3	महसूस	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कइली	VM	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	हेतना	QF	
+4.2	नेह-प्रेम	NN	
+	))
+5	((	BLK	<fs af=',,,,,,,'>
+5.1	भला	RP	
+	))
+6	((	NP	
+6.1	दोसर	QO	
+6.2	मरद	NN	
+6.3	के	WQ	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	दीहि	VM	
+7.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एक	QC	
+1.2	रात	NN	
+	))
+2	((	NP	
+2.1	मंगरइल	NNP	
+2.2	अपना	PRP	
+2.3	उर्मिला	NNP	
+2.4	के	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	समझवले	VM	
+3.2	-	SYM	
+	))
+4	((	NP	
+4.1	ताखा	NN	
+4.2	पर	PSP	
+4.3	के	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	जरत	VM	
+	))
+6	((	NP	
+6.1	दीया	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	देखत	VM	
+7.2	बाड़ू	VAUX	
+7.3	नू	NEG	
+7.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	अपना	PRP	
+1.2	लाफ	NN	
+1.3	से	PSP	
+	))
+2	((	NP	
+2.1	दीया	NN	
+2.2	संउसे	QF	
+	))
+3	((	NP	
+3.1	ताखा	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	करिया	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	क	VM	
+5.2	देले	VAUX	
+5.3	बा	VAUX	
+5.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकिर	RP	
+	))
+2	((	NP	
+2.1	अँजोर	NN	
+2.2	ओकरे	PRP	
+2.3	से	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	होता	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	करिया	JJ	
+1.2	ताखा	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	गोदी	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	अंजोर	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	बइठल	VM	
+4.2	बा	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हमार	PRP	
+1.2	अंजोर	NN	
+	))
+2	((	NP	
+2.1	तू	PRP	
+2.2	ही	PSP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	बाड़ू	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तीन	QC	
+1.2	गो	CL	
+1.3	बाल-बच्चा	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	भइल	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	सभके	QF	
+1.2	शादी-बियाह	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	भइल	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बेटा-लोग	NN	
+1.2	परदेश	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	गइल	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	बेटी	NN	
+3.2	अपना	PRP	
+3.3	ससुरा	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	गइली	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उमिर	NN	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	चढ़ला	VM	
+2.2	पर	PSP	
+	))
+3	((	NP	
+3.1	मंगरइल	NNP	
+3.2	बाबा	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	कहाये	VM	
+4.2	लगले	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बाबा	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	कहाइल	VM	
+	))
+3	((	NP	
+3.1	उनकर	PRP	
+3.2	नीमन	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	ना	NEG	
+4.2	लागे	VM	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	नौकरी	NN	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	रिटायरो	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	भइला	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	बाद	NST	
+4.2	अपना	PRP	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	एगो	QC	
+5.2	जवान	NN	
+5.3	से	PSP	
+	))
+6	((	NP	
+6.1	इचिको	QF	
+6.2	दब	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	ना	NEG	
+7.2	बूझस	VM	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उर्मिला	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	हंसस	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उहो	PRP	
+1.2	त	RP	
+	))
+2	((	NP	
+2.1	अब	NST	
+2.2	नानी-दादी	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	बन	VM	
+3.2	गइली	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दूनू	QC	
+1.2	बेकत	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	मेल-प्रेम	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	देख	VM	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	गाँव	NN	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	परतर	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	दीहल	VM	
+6.2	जाव	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मंगरइल	NNP	
+1.2	बाबा	NN	
+	))
+2	((	NP	
+2.1	एक	QC	
+2.2	दिन	NN	
+	))
+3	((	NP	
+3.1	उर्मिला	NNP	
+3.2	से	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	कहले	VM	
+4.2	-	SYM	
+	))
+5	((	NP	
+5.1	तहरा	PRP	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	भगवान	NN	
+6.2	हमरे	PRP	
+6.3	खातिर	PSP	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बनवले	VM	
+7.2	रहले	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उनका	PRP	
+1.2	बात	NN	
+1.3	पर	PSP	
+	))
+2	((	NP	
+2.1	उर्मिला	NNP	
+2.2	खूब	QF	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	हँसली	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	लेकिन	RP	
+	))
+2	((	NP	
+2.1	भगवानो	NN	
+2.2	कबो	NST	
+2.3	कबो	RDP	
+2.4	निठुर	JJ	
+2.5	मजाक	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	क	VM	
+3.2	बइठेले	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बुढ़ौती	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	रीढ़	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	टेढुआए	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	पहिलही	NST	
+4.2	उर्मिला	NNP	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	कठिन	JJ	
+5.2	बीमारी	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	ध	VM	
+6.2	लेहलस	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दवा-बीरो	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	कवनो	WQ	
+2.2	कमी	QF	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	भइल	VM	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उर्मिला	NNP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	मन	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	निरास	VM	
+3.2	होखे	VAUX	
+3.3	लागल	VAUX	
+3.4	-	SYM	
+	))
+4	((	NP	
+4.1	दिन	NN	
+4.2	पर	PSP	
+	))
+5	((	NP	
+5.1	दिन	NN	
+5.2	देह	NN	
+5.3	के	PSP	
+	))
+6	((	NP	
+6.1	कमजोरी	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बढ़े	VM	
+7.2	लागल	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एक	QC	
+1.2	दिन	NN	
+	))
+2	((	NP	
+2.1	उ	PRP	
+2.2	अपना	PRP	
+2.3	पति	NN	
+2.4	के	PSP	
+	))
+3	((	NP	
+3.1	बड़ी	QF	
+3.2	गौर	NN	
+3.3	से	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	देखे	VM	
+4.2	लगली	VAUX	
+4.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	मंगरइल	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	चंउकले	VM	
+2.2	-	SYM	
+	))
+3	((	NP	
+3.1	हमरा	PRP	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	एह	PRP	
+4.2	तरें	NN	
+	))
+5	((	NP	
+5.1	काहे	WQ	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	देखत	VM	
+6.2	बाड़ू	VAUX	
+	))
+7	((	NP	
+7.1	उर्मिला	NNP	
+7.2	?	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उर्मिला	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बोलली	VM	
+2.2	-	SYM	
+	))
+3	((	NP	
+3.1	हम	PRP	
+3.2	का	WQ	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	कहीं	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हमरा	PRP	
+1.2	बड़ी	QF	
+1.3	अफसोस	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	बा	VM	
+2.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हम	PRP	
+1.2	राउर	PRP	
+	))
+2	((	NP	
+2.1	रंग	NN	
+2.2	रूप	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	केतना	WQ	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	कोसनी	VM	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	राउर	PRP	
+5.2	हृदया	NN	
+5.3	के	PSP	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	ना	NEG	
+6.2	पहचननी	VM	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हमरा	PRP	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	जब	NST	
+2.2	जब	RDP	
+	))
+3	((	NP	
+3.1	गलती	NN	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	भइल	VM	
+	))
+5	((	CCP	<fs af=',,,,,,,'>
+5.1	भा	CC	
+	))
+6	((	NP	
+6.1	मुँह	NN	
+6.2	से	PSP	
+	))
+7	((	NP	
+7.1	हरुस-पातर	NN	
+	))
+8	((	VGNF	<fs af=',,,,,,,'>
+8.1	निकलल	VM	
+8.2	,	SYM	
+	))
+9	((	NP	
+9.1	रउआ	PRP	
+9.2	ओकर	PRP	
+9.3	मांख	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	ना	NEG	
+10.2	कइनी	VM	
+10.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हमरा	PRP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	क्षमा	NN	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	कर	VM	
+3.2	दीहनी	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGF	<fs af=',,,,,,,'>
+1.1	बुझात	VM	
+1.2	बा	VAUX	
+	))
+2	((	NP	
+2.1	जे	PRP	
+2.2	हमार	PRP	
+	))
+3	((	NP	
+3.1	नाव	NN	
+3.2	अब	NST	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	डूबे	VM	
+4.2	चाहत	VAUX	
+4.3	बा	VAUX	
+4.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	कुछ	QF	
+1.2	साल	NN	
+	))
+2	((	NP	
+2.1	अउरी	QF	
+2.2	राउर	PRP	
+2.3	सेवा	NN	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	करे	VM	
+3.2	के	PSP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	लालसा	VM	
+4.2	रहल	VAUX	
+4.3	ह	VAUX	
+4.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	बाकिर	RP	
+	))
+2	((	NP	
+2.1	भगवान	NN	
+2.2	जी	RP	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	मर्जी	NN	
+3.2	जवन	PRP	
+	))
+4	((	VGF	<fs af=',,,,,,,'>
+4.1	होखे	VM	
+4.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हमरा	PRP	
+1.2	वश	NN	
+1.3	में	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रहित	VM	
+	))
+3	((	BLK	<fs af=',,,,,,,'>
+3.1	त	RP	
+	))
+4	((	NP	
+4.1	ताखा	NN	
+4.2	पर	PSP	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	करिखा	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	पोंछ	VM	
+6.2	देतीं	VAUX	
+	))
+7	((	CCP	<fs af=',,,,,,,'>
+7.1	आ	CC	
+	))
+8	((	NP	
+8.1	दीया	NN	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	अंजोरे	NN	
+	))
+10	((	VGF	<fs af=',,,,,,,'>
+10.1	छोड़	VM	
+10.2	के	PSP	
+	))
+11	((	VGF	<fs af=',,,,,,,'>
+11.1	जइतीं	VM	
+11.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	पर	RP	
+	))
+2	((	NP	
+2.1	आपन	PRP	
+	))
+3	((	VGNF	<fs af=',,,,,,,'>
+3.1	सोचल	VM	
+	))
+4	((	NP	
+4.1	कहाँ	WQ	
+4.2	पूर	NN	
+4.3	.	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	.	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	.	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	उर्मिला	NNP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	रोए	VM	
+2.2	लगली	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	VGNF	<fs af=',,,,,,,'>
+1.1	-चुप	VM	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	हो	VAUX	
+2.2	जा	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बोखार	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	ज्यादा	QF	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	ना	NEG	
+3.2	बोले	VM	
+3.3	के	PSP	
+3.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	तू	PRP	
+1.2	ठीक	NN	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	हो	VM	
+2.2	जइबू	VAUX	
+	))
+3	((	NP	
+3.1	उर्मिला	NNP	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	हमार	PRP	
+1.2	अंजोर	NN	
+	))
+2	((	NP	
+2.1	तूँ	PRP	
+2.2	ही	RP	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	हऊ	VM	
+3.2	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	बोखार	NN	
+1.2	उर्मिला	NNP	
+1.3	के	PSP	
+	))
+2	((	VGF	<fs af=',,,,,,,'>
+2.1	ले	VM	
+2.2	गइल	VAUX	
+2.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	दुअरा	NN	
+1.2	पर	PSP	
+	))
+2	((	VGNF	<fs af=',,,,,,,'>
+2.1	बइठल-बइठल	VM	
+	))
+3	((	NP	
+3.1	नब्बे	QC	
+3.2	साल	NN	
+3.3	के	PSP	
+	))
+4	((	NP	
+4.1	मंगरइल	NNP	
+4.2	बाबा	NN	
+	))
+5	((	NP	
+5.1	ओसारा	NN	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	ताखा	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	देखत	VM	
+7.2	रहले	VAUX	
+7.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	धुँआइल	JJ	
+1.2	ताखा	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	अंकवारी	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	दीया	NN	
+3.2	अपना	PRP	
+	))
+4	((	NP	
+4.1	लाफ	NN	
+4.2	से	PSP	
+	))
+5	((	NP	
+5.1	अंजोर	NN	
+	))
+6	((	VGF	<fs af=',,,,,,,'>
+6.1	कइले	VM	
+6.2	रहे	VAUX	
+6.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	ओही	PRP	
+1.2	अंजोर	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	उर्मिला	NNP	
+2.2	कहीं	WQ	
+	))
+3	((	VGF	<fs af=',,,,,,,'>
+3.1	लुकाइल	VM	
+3.2	रहली	VAUX	
+3.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	विमर्श	NN	
+1.2	/	SYM	
+	))
+2	((	NP	
+2.1	आलोचना	NN	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	BLK	<fs af=',,,,,,,'>
+1.1	(	SYM	
+	))
+2	((	NP	
+2.1	‘बउधायन’	NN	
+2.2	का	PSP	
+	))
+3	((	NP	
+3.1	प्रकाशन	NN	
+3.2	पूर्व	NN	
+	))
+4	((	NP	
+4.1	1980	QC	
+4.2	में	PSP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	लिखाइल	VM	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	समीक्षात्मक	JJ	
+6.2	सम्मति	NN	
+6.3	के	PSP	
+	))
+7	((	NP	
+7.1	अविकल	NN	
+7.2	प्रस्तुति	NN	
+7.3	)	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	‘बौद्धायन’	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	सम्पूर्ण	NN	
+2.2	अध्ययन-अवलोकन	NN	
+	))
+3	((	BLK	<fs af=',,,,,,,'>
+3.1	त	RP	
+	))
+4	((	NP	
+4.1	हम	PRP	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	नइखीं	VM	
+5.2	कइले	VAUX	
+	))
+6	((	NP	
+6.1	एसे	PRP	
+6.2	सम्भव	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बा	VM	
+	))
+8	((	NP	
+8.1	हमरा	PRP	
+8.2	से	PSP	
+8.3	कुछ	QF	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	JJP	<fs af=',,,,,,,'>
+1.1	कम	JJ	
+1.2	,	SYM	
+	))
+2	((	JJP	<fs af=',,,,,,,'>
+2.1	बेसी	JJ	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	भा	CC	
+	))
+4	((	NP	
+4.1	उँच	NST	
+4.2	नीच	NST	
+4.3	कहा	WQ	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	जाव	VM	
+5.2	,	SYM	
+	))
+6	((	CCP	<fs af=',,,,,,,'>
+6.1	बाकिर	CC	
+	))
+7	((	NP	
+7.1	ओकर	PRP	
+7.2	जेतना	QF	
+7.3	रूप	NN	
+	))
+8	((	NP	
+8.1	हमरा	PRP	
+8.2	सोझा	NST	
+	))
+9	((	VGF	<fs af=',,,,,,,'>
+9.1	आइल	VM	
+9.2	बा	VAUX	
+9.3	,	SYM	
+	))
+10	((	NP	
+10.1	ओकरा	PRP	
+10.2	आधार	NN	
+10.3	पर	PSP	
+	))
+11	((	NP	
+11.1	ई	PRP	
+	))
+12	((	VGF	<fs af=',,,,,,,'>
+12.1	कहे	VM	
+12.2	में	PSP	
+	))
+13	((	NP	
+13.1	हमरा	PRP	
+13.2	इचिको	QF	
+13.3	हिचकिचाहट	NN	
+	))
+14	((	VGF	<fs af=',,,,,,,'>
+14.1	नइखे	VM	
+	))
+15	((	CCP	<fs af=',,,,,,,'>
+15.1	कि	CC	
+	))
+16	((	NP	
+16.1	‘बौद्धायन’	NN	
+16.2	इतिहास	NN	
+16.3	,	SYM	
+	))
+17	((	NP	
+17.1	परम्परा	NN	
+	))
+18	((	CCP	<fs af=',,,,,,,'>
+18.1	आ	CC	
+	))
+19	((	NP	
+19.1	समसामयिकता	NN	
+19.2	के	PSP	
+	))
+20	((	NP	
+20.1	नेईं	NN	
+20.2	पर	PSP	
+	))
+21	((	VGNF	<fs af=',,,,,,,'>
+21.1	खड़ा	VM	
+	))
+22	((	NP	
+22.1	अइसन	PRP	
+22.2	विशाल	JJ	
+22.3	महल	NN	
+	))
+23	((	VGF	<fs af=',,,,,,,'>
+23.1	बा	VM	
+23.2	,	SYM	
+	))
+24	((	NP	
+24.1	जवना	PRP	
+24.2	के	PSP	
+	))
+25	((	NP	
+25.1	निर्माण	NN	
+25.2	आधुनिक	JJ	
+25.3	दृष्टि	NN	
+25.4	से	PSP	
+	))
+26	((	VGF	<fs af=',,,,,,,'>
+26.1	भइल	VM	
+26.2	बा	VAUX	
+26.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	एम्में	PRP	
+1.2	बौद्ध	NN	
+	))
+2	((	NP	
+2.1	युगीन	NN	
+2.2	धर्म	NN	
+2.3	संस्कृति	NN	
+2.4	,	SYM	
+	))
+3	((	NP	
+3.1	दर्शन	NN	
+3.2	आचार-विचार	NN	
+	))
+4	((	CCP	<fs af=',,,,,,,'>
+4.1	आ	CC	
+	))
+5	((	NP	
+5.1	दृष्टिकोण	NN	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	अइसन	PRP	
+6.2	मौलिक	JJ	
+6.3	विवेचन	NN	
+	))
+7	((	VGF	<fs af=',,,,,,,'>
+7.1	बा	VM	
+7.2	,	SYM	
+	))
+8	((	CCP	<fs af=',,,,,,,'>
+8.1	कि	CC	
+	))
+9	((	NP	
+9.1	ई	PRP	
+9.2	ओह	PRP	
+	))
+10	((	NP	
+10.1	युग	NN	
+10.2	जीवन	NN	
+10.3	का	PSP	
+	))
+11	((	NP	
+11.1	जीवन-मूल्यन	NN	
+11.2	के	PSP	
+	))
+12	((	NP	
+12.1	दस्तावेज	NN	
+	))
+13	((	VGF	<fs af=',,,,,,,'>
+13.1	हो	VM	
+13.2	गइल	VAUX	
+13.3	बा	VAUX	
+13.4	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	गुलदस्ता	NN	
+1.2	,	SYM	
+	))
+2	((	NP	
+2.1	फुलवारी	NN	
+	))
+3	((	CCP	<fs af=',,,,,,,'>
+3.1	आ	CC	
+	))
+4	((	NP	
+4.1	बगइचा	NN	
+4.2	अलग-अलग	NN	
+4.3	चीज	NN	
+	))
+5	((	VGF	<fs af=',,,,,,,'>
+5.1	हउवन	VM	
+5.2	स	VAUX	
+5.3	।	SYM	
+	))
+</Sentence>
+
+<Sentence id=''''>
+1	((	NP	
+1.1	केहू	WQ	
+1.2	गुलदस्ता	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	दस-पाँच	QC	
+2.2	गो	CL	
+	))
+3	((	NP	
+3.1	फूल	NN	
+3.2	पतई	NN	
+	))
+4	((	VGNF	<fs af=',,,,,,,'>
+4.1	खोंसि	VM	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	छणिक	JJ	
+5.2	सौन्दर्य	NN	
+	))
+6	((	CCP	<fs af=',,,,,,,'>
+6.1	या	CC	
+	))
+7	((	NP	
+7.1	सुगन्ध	NN	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	सृष्टि	NN	
+	))
+9	((	NP	
+9.1	कर	VM	
+9.2	सकेला	VAUX	
+	))
+10	((	CCP	<fs af=',,,,,,,'>
+10.1	बाकि	CC	
+	))
+11	((	NP	
+11.1	फुलवारी	NN	
+	))
+12	((	CCP	<fs af=',,,,,,,'>
+12.1	भा	CC	
+12.2	,	SYM	
+	))
+13	((	NP	
+13.1	बगइचा	NN	
+	))
+14	((	VGF	<fs af=',,,,,,,'>
+14.1	तैयार	VM	
+14.2	करे	VAUX	
+14.3	में	PSP	
+	))
+15	((	NP	
+15.1	मेहनत	NN	
+	))
+16	((	CCP	<fs af=',,,,,,,'>
+16.1	आ	CC	
+	))
+17	((	NP	
+17.1	समय	NN	
+	))
+18	((	VGF	<fs af=',,,,,,,'>
+18.1	लागेला	VM	
+18.2	।	SYM	
+	))
+</Sentence>
+
+</document>

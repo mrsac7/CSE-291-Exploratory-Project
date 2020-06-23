@@ -1,0 +1,7039 @@
+<document id="null">
+<head>
+
+</head>
+<Sentence id=''''>
+1	﻿	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लठमारी	NN	
+2	जमींदारी	NN	
+3	हे	VAUX	
+4	लठमारी	NN	
+5	तागद	NN	
+6	के	RP	
+7	खेल	NN	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	गेंदा	NN	
+2	जी	NN	
+3	बाबा	NN	
+4	सामने	NN	
+5	कहथिन	VM	
+6	या	CC	
+7	कहूँ	VM	
+8	उकसैथिन	VM	
+9	-	SYM	
+10	देखऽ	VM	
+11	मालिक	NN	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	राड़	NN	
+2	जात	NN	
+3	लतियइले	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	छुछुंदर	NN	
+2	के	RP	
+3	माथा	NN	
+4	में	PSP	
+5	चमेली	NN	
+6	के	RP	
+7	तेल	NN	
+8	लगइबऽ	VM	
+9	त	RP	
+10	ऊ	DEM	
+11	आउ	CC	
+12	छुछुअइतो	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	लड़कोरी	NN	
+6	छोटगर	JJ	
+7	किसान	NN	
+8	के	RP	
+9	जिनगी	NN	
+10	अइसन	NN	
+11	कि	RP	
+12	पेउन	NN	
+13	न	NEG	
+14	छूटे	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एने	NN	
+2	छेद	NN	
+3	देखाई	VM	
+4	देलक	VAUX	
+5	पेउन	NN	
+6	लगइलूँ	VM	
+7	तलगु	NN	
+8	ओने	DEM	
+9	फट	VM	
+10	गेल	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कहाँ-कहाँ	RDP	
+2	सियल	VM	
+3	जाय	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोग-बिमारी	NN	
+2	लगले	VM	
+3	रहे	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आधा	JJ	
+2	बुतरू	NN	
+3	सउरे	NN	
+4	मरे	VM	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पानी	NN	
+2	पइते	VM	
+3	आधा	JJ	
+4	लड़कोरी	NN	
+5	मर	VM	
+6	जाय	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फसली	NN	
+2	प्लेग	NN	
+3	शूल	NN	
+4	संघरणी	NN	
+5	शीतल	JJ	
+6	ज्वर-वेद	NN	
+7	फँकी	NN	
+8	बाँटे	VM	
+9	बाकि	CC	
+10	मौते	NN	
+11	ईश्वर	NN	
+12	के	RP	
+13	साम्राज्य	NN	
+14	रहे	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	लपलपाना	VM	
+6	बकड़िया	NN	
+7	कुल्ले	INTF	
+8	लतिया	NN	
+9	लपलपा	VM	
+10	गेलो	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	लाय	NN	
+6	हमरा	PRP	
+7	लाय	NN	
+8	बड़	JJ	
+9	अच्चा	JJ	
+10	लगऽ	VM	
+11	हइ	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	लिट्टा	NN	
+6	अजलत	NN	
+7	के	RP	
+8	खिस्सा	NN	
+9	भात	NN	
+10	पर	PSP	
+11	लिट्टा	NN	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	लूर-लच्छन	JJ	
+6	न	NEG	
+7	जी	NN	
+8	कउनो	WQ	
+9	खास	JJ	
+10	बात	NN	
+11	न	NEG	
+12	हे	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	NN	
+2	तो	RP	
+3	तोरे	PRP	
+4	लूर-लच्छन	JJ	
+5	से	PSP	
+6	बरमहल	NN	
+7	उदास	NN	
+8	हो	VM	
+9	जाही	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	लेखा	NN	
+6	घर-घर	RDP	
+7	देखा	VM	
+8	एके	QC	
+9	~	SYM	
+10	माय	NN	
+11	महेसरी	NN	
+12	लोर	NN	
+13	चुआवित	VM	
+14	घिघिआयल	VM	
+15	-	SYM	
+16	चंद्रकांती	NN	
+17	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाप	NN	
+2	के	RP	
+3	पगड़ी	NN	
+4	के	RP	
+5	लाज	NN	
+6	बचा	VM	
+7	लऽ	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोरे	PRP	
+2	ला	RP	
+3	नफीस	NN	
+4	दस	QC	
+5	कट्ठा	NN	
+6	के	RP	
+7	पलौट	NN	
+8	पर	PSP	
+9	टिकिया	NN	
+10	रख	VM	
+11	देली	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जा	VM	
+2	सबके	INTF	
+3	बिआह	NN	
+4	में	PSP	
+5	आझ	NST	
+6	एहे	DEM	
+7	देखे	VM	
+8	के	RP	
+9	मिलइत	VM	
+10	हे	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	घर-घर	RDP	
+2	देखा	VM	
+3	एके	QC	
+4	लेखा	NN	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	'	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	लोढ़ी-सिलउटी	NN	
+7	इहे	DEM	
+8	तरह	NN	
+9	देखलिअइ	VM	
+10	कि	RP	
+11	कत्ते	QF	
+12	गोटा	NN	
+13	हीं	RP	
+14	दुर्लभ	JJ	
+15	मूर्ति	NN	
+16	लोढ़ी-सिलउटी	NN	
+17	के	RP	
+18	रूप	NN	
+19	में	PSP	
+20	उपयोग	NN	
+21	में	PSP	
+22	आ	VM	
+23	रहले	VM	
+24	हल	VAUX	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	तो	RP	
+3	बस	NN	
+4	एगो	CL	
+5	नमूना	NN	
+6	हलइ	VM	
+7	धरोहर	NN	
+8	के	RP	
+9	दुर्दशा	NN	
+10	के	RP	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	लोहराइन	NN	
+6	लोहराइन	NN	
+7	गमके	VM	
+8	के	RP	
+9	चलते	VM	
+10	मछली	NN	
+11	नञ्	NEG	
+12	पसंद	NN	
+13	करऽ	VM	
+14	हियो	VAUX	
+15	बकि	CC	
+16	मीट-मुरगा	NN	
+17	खा	VM	
+18	हिअइ	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	लौंडा	NN	
+6	बैंड	NN	
+7	बाजा	NN	
+8	पर	PSP	
+9	सड़क	NN	
+10	के	RP	
+11	किनारे	NN	
+12	चुहो-चुटरी	NN	
+13	डांस	NN	
+14	कर	VM	
+15	रहल	VAUX	
+16	हे	VAUX	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रामटहल	NN	
+2	लौंडा	NN	
+3	के	RP	
+4	फेल	NN	
+5	कयले	VM	
+6	हथ	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	लौंद	NN	
+6	मगह	NN	
+7	के	RP	
+8	कुंभ	NN	
+9	हे	VAUX	
+10	लौंद	NN	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	वीख	NN	
+6	बिख	NN	
+7	विष	NN	
+8	"	SYM	
+9	कलजुग	NN	
+10	में	PSP	
+11	वर्णाश्रम	NN	
+12	धर्म	NN	
+13	भरठ	NN	
+14	रहलो	VM	
+15	ह	VAUX	
+16	न	NEG	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सब	INTF	
+2	वरण	NN	
+3	अप्पन	PRP	
+4	क्षण	NN	
+5	बदल	VM	
+6	देतो	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाभन	NN	
+2	भीख	NN	
+3	माँगतो	NN	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	क्षत्री	NN	
+2	हर	NN	
+3	जोततो	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	वैश्य	NN	
+2	वीख	NN	
+3	पादतो	VM	
+4	आउ	CC	
+5	शूद्रवन	NN	
+6	तोरा	PRP	
+7	अइसन	NN	
+8	के	RP	
+9	टाँग	NN	
+10	उठइतो	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	इ	DEM	
+3	कहके	VM	
+4	बाबा	NN	
+5	खीं-खीं	RDP	
+6	हँसला	VM	
+7	आउर	CC	
+8	गेंदाजी	NN	
+9	जय	NN	
+10	जजमान	NN	
+11	कहके	VM	
+12	दोसर	NN	
+13	दुआरी	NN	
+14	झाँके	VM	
+15	चलला	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	शौख	NN	
+6	शौक	NN	
+7	ई	DEM	
+8	घर	NN	
+9	में	PSP	
+10	बेटा	NN	
+11	के	RP	
+12	बिआह	NN	
+13	करके	VM	
+14	एको	QC	
+15	शौख	NN	
+16	न	NEG	
+17	पूरा	VM	
+18	होयल	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	समधी	NN	
+2	हमर	PRP	
+3	एगो	CL	
+4	हीत-नाता	NN	
+5	के	RP	
+6	पैरपूजी	NN	
+7	में	PSP	
+8	अच्छा	JJ	
+9	कपड़ा	NN	
+10	न	NEG	
+11	देलन	VM	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बराती	NN	
+2	के	RP	
+3	स्वागत-सत्कार	NN	
+4	में	PSP	
+5	भी	RP	
+6	कमी	JJ	
+7	रह	VM	
+8	गेल	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सँभरना	NN	
+6	परिवार	NN	
+7	के	RP	
+8	नीक	JJ	
+9	तरी	NN	
+10	चलावे	VM	
+11	के	RP	
+12	सरजाम	NN	
+13	तू	PRP	
+14	कभी	NST	
+15	जुटैलऽ	VM	
+16	हे	VAUX	
+17	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सब्भे	INTF	
+2	लोग	NN	
+3	तोर	PRP	
+4	बेढंगी	JJ	
+5	गिरहत्ती	NN	
+6	के	RP	
+7	खिल्ली	NN	
+8	उड़ावऽ	VM	
+9	हथ	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जेकरा	PRP	
+2	से	PSP	
+3	दू	QC	
+4	गो	CL	
+5	बेटा	NN	
+6	न	NEG	
+7	सँभरल	VM	
+8	ऊ	DEM	
+9	आउ	CC	
+10	कउन	WQ	
+11	काम	NN	
+12	कर	VM	
+13	सकऽ	VAUX	
+14	हे	VAUX	
+15	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	संघत	NN	
+6	संगत	NN	
+7	संगति	NN	
+8	जइसन	NN	
+9	संघत	NN	
+10	में	PSP	
+11	लोग	NN	
+12	बइठऽ	VM	
+13	हे	VAUX	
+14	ओकर	PRP	
+15	बुद्धि	NN	
+16	भी	RP	
+17	ओइसने	NN	
+18	हो	VM	
+19	जाहे	VAUX	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जिनगी	NN	
+2	भर	NST	
+3	तूँ	PRP	
+4	एक्को	NN	
+5	लुरगर	JJ	
+6	इयर-दोस	NN	
+7	रखलऽ	VM	
+8	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सउर	NN	
+6	प्रसूति-गृह	NN	
+7	जिज्ञासु	NN	
+8	के	RP	
+9	सउर	NN	
+10	में	PSP	
+11	कि	RP	
+12	डालल	VM	
+13	गेल	VAUX	
+14	ह	VAUX	
+15	कि	RP	
+16	ऊ	DEM	
+17	जिनगी	NN	
+18	भर	NST	
+19	घुमक्कड़	NN	
+20	बनल	VM	
+21	हका	VAUX	
+22	-	SYM	
+23	भटकत	VM	
+24	रहना	VAUX	
+25	उनकर	NN	
+26	शगल	NN	
+27	बन	VM	
+28	गेल	VAUX	
+29	ह	VAUX	
+30	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	;	SYM	
+2	छोटगर	JJ	
+3	किसान	NN	
+4	के	RP	
+5	जिनगी	NN	
+6	अइसन	NN	
+7	कि	RP	
+8	पेउन	NN	
+9	न	NEG	
+10	छूटे	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एने	DEM	
+2	छेद	NN	
+3	देखाई	VM	
+4	देलक	VAUX	
+5	पेउन	NN	
+6	लगइलूँ	VM	
+7	तलगु	NN	
+8	ओने	NST	
+9	फट	VM	
+10	गेल	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कहाँ-कहाँ	RDP	
+2	सियल	VM	
+3	जाय	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोग-बिमारी	NN	
+2	लगले	VM	
+3	रहे	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आधा	JJ	
+2	बुतरू	NN	
+3	सउरे	NN	
+4	मरे	VM	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पानी	NN	
+2	पइते	VM	
+3	आधा	JJ	
+4	लड़कोरी	NN	
+5	मर	VM	
+6	जाय	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	सकलदीपी	NN	
+7	शाकद्वीप	NN	
+8	के	RP	
+9	निवासी	NN	
+10	ब्राह्मण	NN	
+11	;	SYM	
+12	ब्राह्मणों	NN	
+13	का	RP	
+14	एक	QC	
+15	भेद	NN	
+16	जो	NN	
+17	चिकित्सा	NN	
+18	शास्त्र	NN	
+19	में	PSP	
+20	निपुण	NN	
+21	होते	VM	
+22	हैं	VAUX	
+23	गाम-घर	NN	
+24	में	PSP	
+25	केतना	WQ	
+26	जात-पात	NN	
+27	छूआ-छूत	NN	
+28	हे	VAUX	
+29	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	चमरा	NN	
+2	असराफ	NN	
+3	के	RP	
+4	कुइँया	NN	
+5	पर	PSP	
+6	न	NEG	
+7	चढ़े	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सरोतरी	NN	
+2	सकलदीपी	NN	
+3	के	RP	
+4	बनल	VM	
+5	न	NEG	
+6	खाय	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बभनन	NN	
+2	के	RP	
+3	इ	DEM	
+4	ठस्सा	NN	
+5	कि	RP	
+6	कुरमी	NN	
+7	के	RP	
+8	कहे	VM	
+9	सतुआ	NN	
+10	जात	VM	
+11	आउ	CC	
+12	कोयरी	NN	
+13	के	RP	
+14	कहे	VM	
+15	सगहा	NN	
+16	जात	VM	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओने	DEM	
+2	कोयरी-कुरमी	NN	
+3	के	RP	
+4	गाम	NN	
+5	में	PSP	
+6	डोम-चमार	NN	
+7	माल-मुसहर	NN	
+8	दुसाध-बेलदार	NN	
+9	के	RP	
+10	तो	RP	
+11	बाते	NN	
+12	छोड़	VM	
+13	द	RP	
+14	बाबाजी	NN	
+15	भी	RP	
+16	बेचारन	JJ	
+17	सहमल	VM	
+18	रहथन	VAUX	
+19	-	SYM	
+20	न	NEG	
+21	जाने	VM	
+22	कब	WQ	
+23	भाला-गड़ाँसा	NN	
+24	निकाल	VM	
+25	देत	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सगहा	NN	
+6	~	SYM	
+7	जात	NN	
+8	गाम-घर	NN	
+9	में	PSP	
+10	केतना	WQ	
+11	जात-पात	NN	
+12	छूआ-छूत	NN	
+13	हे	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	चमरा	NN	
+2	असराफ	NN	
+3	के	RP	
+4	कुइँया	NN	
+5	पर	PSP	
+6	न	NEG	
+7	चढ़े	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सरोतरी	NN	
+2	सकलदीपी	NN	
+3	के	RP	
+4	बनल	VM	
+5	न	NEG	
+6	खाय	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बभनन	NN	
+2	के	RP	
+3	इ	DEM	
+4	ठस्सा	NN	
+5	कि	RP	
+6	कुरमी	NN	
+7	के	RP	
+8	कहे	VM	
+9	सतुआ	NN	
+10	जात	VM	
+11	आउ	CC	
+12	कोयरी	NN	
+13	के	RP	
+14	कहे	VM	
+15	सगहा	NN	
+16	जात	VM	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओने	DEM	
+2	कोयरी-कुरमी	NN	
+3	के	RP	
+4	गाम	NN	
+5	में	PSP	
+6	डोम-चमार	NN	
+7	माल-मुसहर	NN	
+8	दुसाध-बेलदार	NN	
+9	के	RP	
+10	तो	RP	
+11	बाते	NN	
+12	छोड़	VM	
+13	द	VAUX	
+14	बाबाजी	NN	
+15	भी	RP	
+16	बेचारन	JJ	
+17	सहमल	VM	
+18	रहथन	VAUX	
+19	-	SYM	
+20	न	NEG	
+21	जाने	VM	
+22	कब	WQ	
+23	भाला-गड़ाँसा	NN	
+24	निकाल	VM	
+25	देत	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सटना-पटना	NN	
+6	चल	VM	
+7	सट-पट	NN	
+8	के	RP	
+9	सुत	NN	
+10	जाम	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जाड़ा	NST	
+2	के	RP	
+3	तो	RP	
+4	दिन	NN	
+5	हइ	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सटाक-सटाक	RB	
+6	~	SYM	
+7	मारना	VM	
+8	काहे	WQ	
+9	ल	RP	
+10	घोंड़वा	NN	
+11	के	RP	
+12	सटाक-सटाक	RB	
+13	मार	VM	
+14	रहलहो	VAUX	
+15	हऽ	VAUX	
+16	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सटाना	VM	
+6	चिपकाना	VM	
+7	मिलाना	VM	
+8	स्पर्श	NN	
+9	कराना	VM	
+10	;	SYM	
+11	बकाया	NN	
+12	सधाना	VM	
+13	वसूल	NN	
+14	करना	VM	
+15	बेटी	NN	
+16	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मान	NN	
+2	जो	VM	
+3	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अप्पन	PRP	
+2	हठ	NN	
+3	छोड़	VM	
+4	दे	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जउन	NN	
+2	सामान	NN	
+3	हम	PRP	
+4	दे	VM	
+5	चुकली	VAUX	
+6	ओकरा	PRP	
+7	सटावे	VM	
+8	में	PSP	
+9	ठीक	JJ	
+10	न	NEG	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकर	PRP	
+2	दाम	NN	
+3	भी	RP	
+4	न	NEG	
+5	मिलत	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सतुआ	NN	
+6	~	SYM	
+7	जात	NN	
+8	गाम-घर	NN	
+9	में	PSP	
+10	केतना	WQ	
+11	जात-पात	NN	
+12	छूआ-छूत	NN	
+13	हे	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	चमरा	NN	
+2	असराफ	NN	
+3	के	RP	
+4	कुइँया	NN	
+5	पर	PSP	
+6	न	NEG	
+7	चढ़े	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सरोतरी	NN	
+2	सकलदीपी	NN	
+3	के	RP	
+4	बनल	VM	
+5	न	NEG	
+6	खाय	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बभनन	NN	
+2	के	RP	
+3	इ	DEM	
+4	ठस्सा	NN	
+5	कि	RP	
+6	कुरमी	NN	
+7	के	RP	
+8	कहे	VM	
+9	सतुआ	NN	
+10	जात	VM	
+11	आउ	CC	
+12	कोयरी	NN	
+13	के	RP	
+14	कहे	VM	
+15	सगहा	NN	
+16	जात	VM	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओने	DEM	
+2	कोयरी-कुरमी	NN	
+3	के	RP	
+4	गाम	NN	
+5	में	PSP	
+6	डोम-चमार	NN	
+7	माल-मुसहर	NN	
+8	दुसाध-बेलदार	NN	
+9	के	RP	
+10	तो	RP	
+11	बाते	NN	
+12	छोड़	VM	
+13	द	VAUX	
+14	बाबाजी	NN	
+15	भी	RP	
+16	बेचारन	JJ	
+17	सहमल	VM	
+18	रहथन	VAUX	
+19	-	SYM	
+20	न	NEG	
+21	जाने	VM	
+22	कब	WQ	
+23	भाला-गड़ाँसा	NN	
+24	निकाल	VM	
+25	देत	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सधाना	NN	
+6	महामार	NN	
+7	काहे	WQ	
+8	कर	VM	
+9	रहलहीं	VAUX	
+10	हे	VAUX	
+11	तों	RP	
+12	सब	INTF	
+13	असल	JJ	
+14	के	RP	
+15	होबइ	VM	
+16	त	RP	
+17	सधा	VM	
+18	लेबइ	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	समुच्चा	QF	
+6	समूचा	QF	
+7	महादे	NN	
+8	-	SYM	
+9	जदि	CC	
+10	हम	PRP	
+11	जहर	NN	
+12	न	NEG	
+13	पीती	VM	
+14	हल	VAUX	
+15	तब	NN	
+16	समुच्चे	NN	
+17	संसर	NN	
+18	भसम	NN	
+19	हो	VM	
+20	जात	VAUX	
+21	हल	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	/	SYM	
+2	पारबती	NN	
+3	-	SYM	
+4	तब	NN	
+5	बचावे	VM	
+6	के	RP	
+7	जिमवारी	NN	
+8	न	NEG	
+9	लेके	VM	
+10	समुच्चा	QF	
+11	संसार	NN	
+12	के	RP	
+13	नाश	NN	
+14	करे	VM	
+15	के	RP	
+16	काम	NN	
+17	तूँ	PRP	
+18	अप्पन	PRP	
+19	माथा	NN	
+20	पर	PSP	
+21	काहे	WQ	
+22	लादले	VM	
+23	फिरऽ	VM	
+24	ह	VAUX	
+25	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	समुच्चे	QF	
+6	समूचे	QF	
+7	महादे	NN	
+8	-	SYM	
+9	जदि	NN	
+10	हम	PRP	
+11	जहर	NN	
+12	न	NEG	
+13	पीती	VM	
+14	हल	VAUX	
+15	तब	NN	
+16	समुच्चे	QF	
+17	संसर	NN	
+18	भसम	NN	
+19	हो	VM	
+20	जात	VAUX	
+21	हल	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	/	SYM	
+2	पारबती	NN	
+3	-	SYM	
+4	तब	NN	
+5	बचावे	VM	
+6	के	RP	
+7	जिमवारी	NN	
+8	न	NEG	
+9	लेके	VM	
+10	समुच्चा	QF	
+11	संसार	NN	
+12	के	RP	
+13	नाश	NN	
+14	करे	VM	
+15	के	RP	
+16	काम	NN	
+17	तूँ	PRP	
+18	अप्पन	PRP	
+19	माथा	NN	
+20	पर	PSP	
+21	काहे	WQ	
+22	लादले	VM	
+23	फिरऽ	VM	
+24	ह	VAUX	
+25	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	समुन्नर	NN	
+6	समुन्दर	NN	
+7	;	SYM	
+8	समुद्र	NN	
+9	पारबती	NN	
+10	-	SYM	
+11	गाल	NN	
+12	काहे	WQ	
+13	बजा	VM	
+14	रहलऽ	VAUX	
+15	हे	VAUX	
+16	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तू	PRP	
+2	तो	RP	
+3	जिनगी	NN	
+4	भर	NN	
+5	अलबलाहे	NN	
+6	रह	VM	
+7	गेलऽ	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	समुन्नर	NN	
+2	के	RP	
+3	मथे	NN	
+4	से	PSP	
+5	जे	NN	
+6	चौदह	QC	
+7	गो	CL	
+8	रतन	NN	
+9	निकलल	VM	
+10	हल	VAUX	
+11	ओकरा	DEM	
+12	में	PSP	
+13	एक	QC	
+14	भी	RP	
+15	नीमन	JJ	
+16	चीज	NN	
+17	तोरा	PRP	
+18	परापित	NN	
+19	भेल	VM	
+20	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सम्हारना	VM	
+6	सँभालना	VM	
+7	काला	JJ	
+8	राम	NN	
+9	के	RP	
+10	सम्हारल	VM	
+11	गोरा	JJ	
+12	गूह	NN	
+13	के	RP	
+14	चपोतल	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सर-सामान	NN	
+6	अब	NST	
+7	गौना	NN	
+8	में	PSP	
+9	का	WQ	
+10	होत	VM	
+11	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकरो	PRP	
+2	में	PSP	
+3	बचल-खुचल	NN	
+4	तिलक	NN	
+5	पूरा	NN	
+6	करे	VM	
+7	पड़त	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सर-सामान	NN	
+2	से	PSP	
+3	लादे	VM	
+4	पड़त	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	गौना	NN	
+2	में	PSP	
+3	भी	RP	
+4	अब	NN	
+5	कम	JJ	
+6	नाज-नखरा	NN	
+7	न	NEG	
+8	हे	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	;	SYM	
+2	हम्मर	PRP	
+3	घर	NN	
+4	बसवे	VM	
+5	ला	VAUX	
+6	हम्मर	PRP	
+7	बाबूजी	NN	
+8	के	RP	
+9	घर	NN	
+10	उजड़	VM	
+11	गेल	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	गहना-गुड़िया	NN	
+3	कपड़ा-लत्ता	NN	
+4	सर-सामान	NN	
+5	सब	INTF	
+6	बाबूजी	NN	
+7	के	RP	
+8	खून	NN	
+9	में	PSP	
+10	सनल	VM	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	;	SYM	
+2	काननप्रिया	NN	
+3	तब	NST	
+4	बोलल	VM	
+5	हल	VAUX	
+6	"	SYM	
+7	त	RP	
+8	सुन	VM	
+9	ल	VAUX	
+10	माय	NN	
+11	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जब	NST	
+2	तक	NST	
+3	ई	DEM	
+4	तिलक	NN	
+5	के	RP	
+6	सर-सामान	NN	
+7	हम्मर	PRP	
+8	बाप-माय	NN	
+9	के	RP	
+10	लौटा	VM	
+11	न	NEG	
+12	देबऽ	VM	
+13	तब	NST	
+14	तक	NST	
+15	हम	PRP	
+16	तोहर	PRP	
+17	घर	NN	
+18	के	RP	
+19	अन्न-पानी	NN	
+20	ग्रहण	VM	
+21	न	NEG	
+22	करबो	VM	
+23	चाहे	VM	
+24	हम्मर	PRP	
+25	जान	NN	
+26	काहे	WQ	
+27	न	NEG	
+28	चल	VM	
+29	जाय	VAUX	
+30	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	सरोतरी	NN	
+7	श्रोत्रिय	NN	
+8	~	SYM	
+9	बर्हामन	NN	
+10	बाबा	NN	
+11	के	RP	
+12	भरगर	NN	
+13	संबोधन	NN	
+14	से	PSP	
+15	गेंदा	NN	
+16	पांडे	NN	
+17	पुलपुला	VM	
+18	गेला	VAUX	
+19	-	SYM	
+20	"	SYM	
+21	हाँ	NN	
+22	जजमान	NN	
+23	अपने	PRP	
+24	ठीके	JJ	
+25	कहऽ	VM	
+26	हथिन	VAUX	
+27	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	पढ़लिअइ	VM	
+3	कहाँ	WQ	
+4	जजमान	NN	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लिख	NN	
+2	लोढ़ा	NN	
+3	पढ़	VM	
+4	पत्थल	NN	
+5	रह	VM	
+6	गेलिअइ	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अपने	PRP	
+2	नियन	NN	
+3	जजमनका	NN	
+4	हइ	VAUX	
+5	-	SYM	
+6	बाबू-माय	NN	
+7	मंदिरे	NN	
+8	में	PSP	
+9	ठेका	VM	
+10	देलका	VAUX	
+11	-	SYM	
+12	गुरुपिंडा	NN	
+13	के	RP	
+14	दरसने	NN	
+15	न	NEG	
+16	भेल	VM	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आउ	CC	
+2	हकियो	VM	
+3	सरोतरी	NN	
+4	बर्हामन	NN	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	/	SYM	
+3	बाबा	NN	
+4	के	RP	
+5	बकार	NN	
+6	फूटल	VM	
+7	-	SYM	
+8	"	SYM	
+9	एही	DEM	
+10	तो	RP	
+11	कलजुग	NN	
+12	के	RP	
+13	परभाव	NN	
+14	हे	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तूँ	PRP	
+2	बर्हामन	NN	
+3	होके	VM	
+4	न	NEG	
+5	पढ़लऽ	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	वेद	NN	
+2	के	RP	
+3	श्रुति	NN	
+4	कहल	VM	
+5	जाहे	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोहनहीं	PRP	
+2	सरोतरी	NN	
+3	के	RP	
+4	माने	VM	
+5	हे	VAUX	
+6	जे	NN	
+7	श्रुति	NN	
+8	यानी	CC	
+9	वेद	NN	
+10	पढ़े	VM	
+11	ओही	DEM	
+12	सरोतरी	NN	
+13	हे	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि	CC	
+2	कलजुगवा	NN	
+3	केकरो	PRP	
+4	छोड़तो	VM	
+5	बाबाजी	NN	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	ससारना	VM	
+7	लावऽ	VM	
+8	ससार	VM	
+9	दे	VAUX	
+10	हियो	DEM	
+11	दस	QC	
+12	मिनट	NST	
+13	में	PSP	
+14	ठीक	JJ	
+15	हो	VM	
+16	जइबऽ	VAUX	
+17	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अपने	PRP	
+2	न	NEG	
+3	अपना	PRP	
+4	के	RP	
+5	काम	NN	
+6	दे	VM	
+7	हे	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	ससुरइतिन	NN	
+6	सरिता	NN	
+7	अब	NN	
+8	ससुरइतिन	NN	
+9	हो	VM	
+10	गेल	VAUX	
+11	हल	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ससुरार	NN	
+2	में	PSP	
+3	सरिता	NN	
+4	के	RP	
+5	खूब	QF	
+6	मान-मरजाद	NN	
+7	हल	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सानी	NN	
+6	बाबा	NN	
+7	काशी	NN	
+8	आउ	CC	
+9	प्रयागराज	NN	
+10	के	RP	
+11	तीरथ	NN	
+12	करे	VM	
+13	दूसर-तीसर	QC	
+14	बरस	NST	
+15	जरूर	NN	
+16	जा	VM	
+17	हका	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कहथुन	VM	
+2	-	SYM	
+3	"	SYM	
+4	हमन्हीं	PRP	
+5	मगहियन	NN	
+6	के	RP	
+7	हुआँ	SYM	
+8	बुड़बक	JJ	
+9	समझऽ	VM	
+10	हइ	VAUX	
+11	हो	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अजोध्या	NN	
+2	जी	NN	
+3	में	PSP	
+4	महन	NN	
+5	जी	NN	
+6	कहथुन	VM	
+7	-	SYM	
+8	मगह	NN	
+9	के	RP	
+10	लोग	NN	
+11	बुड़बकवा	NN	
+12	सुक्कुर	NN	
+13	के	RP	
+14	कहे	VM	
+15	भुरुकवा	NN	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	ठीके	JJ	
+3	सानी	NN	
+4	चलावे	VM	
+5	ला	VAUX	
+6	श्री	NN	
+7	महतो	NN	
+8	उठथुन	VM	
+9	त	RP	
+10	हल्ला	VM	
+11	करथुन	VAUX	
+12	-	SYM	
+13	"	SYM	
+14	उठ	VM	
+15	रे	INJ	
+16	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उठ	VM	
+2	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अरे	NN	
+2	महवा	NN	
+3	इनरा	NN	
+4	उठ	VM	
+5	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भुरुकवा	NN	
+2	उग	VM	
+3	गेलउ	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	सान्ही	NST	
+7	शंकर	NN	
+8	बाबा	NN	
+9	जब	NST	
+10	तांडव	NN	
+11	करे	VM	
+12	लगऽ	VAUX	
+13	हथिन	VAUX	
+14	तब	NST	
+15	केकरो	PRP	
+16	कोई	NN	
+17	ब्यौंत	NN	
+18	न	NEG	
+19	लगऽ	VM	
+20	हे	VAUX	
+21	सिवा	NN	
+22	टुकुर-टुकुर	RDP	
+23	तके	VM	
+24	के	RP	
+25	चाहे	VM	
+26	कोठी	NN	
+27	के	RP	
+28	सान्ही	NST	
+29	में	PSP	
+30	लुका	VM	
+31	जायके	VAUX	
+32	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सायत	NN	
+6	शायद	NN	
+7	हम्मर	PRP	
+8	बाबा	NN	
+9	हलन	VM	
+10	छोटे-मोटे	ECH	
+11	जमींदार	NN	
+12	बाकि	CC	
+13	जमींदारी	NN	
+14	के	RP	
+15	ठस्सा	NN	
+16	कि	RP	
+17	होवऽ	VM	
+18	हे	VAUX	
+19	इ	DEM	
+20	हम	PRP	
+21	खूब	QF	
+22	जान	VM	
+23	गेलूँ	VAUX	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	छोटे	JJ	
+2	घर	NN	
+3	के	RP	
+4	हम्मर	PRP	
+5	माई	NN	
+6	ई	DEM	
+7	बड़का	JJ	
+8	घर	NN	
+9	में	PSP	
+10	का	WQ	
+11	का	WQ	
+12	भोगलक	VM	
+13	-	SYM	
+14	इ	DEM	
+15	बखाने	NN	
+16	में	PSP	
+17	सायत	NN	
+18	बेचारी	JJ	
+19	सरसती	NN	
+20	लजा	VM	
+21	जइथन	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सासत	NN	
+6	चंद्रकांती	NN	
+7	के	RP	
+8	का	WQ	
+9	पता	NN	
+10	माय-बाप	NN	
+11	के	RP	
+12	एतना	QF	
+13	सासत	NN	
+14	भोगे	VM	
+15	पड़ित	VAUX	
+16	हे	VAUX	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	देह	NN	
+2	में	PSP	
+3	हरदी	NN	
+4	के	RP	
+5	उबटन	NN	
+6	तो	RP	
+7	लगल	VM	
+8	बाकि	CC	
+9	दिल-दिमाग	NN	
+10	भी	RP	
+11	पियरा	VM	
+12	गेल	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोरी	PRP	
+2	फुला	VM	
+3	रहल	VAUX	
+4	हे	VAUX	
+5	सबके	PRP	
+6	आँख	NN	
+7	में	PSP	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सीटना	NN	
+6	डींग	NN	
+7	हाँकना	VM	
+8	जादे	QF	
+9	सीटे	NN	
+10	के	RP	
+11	कोरसिस	NN	
+12	नञ्	NEG	
+13	कर	VM	
+14	हम	PRP	
+15	तोहनिन	PRP	
+16	के	RP	
+17	बारे	NN	
+18	में	PSP	
+19	सब	INTF	
+20	जानऽ	VM	
+21	हिअउ	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सुक्कुर	NN	
+6	शुक्र	NN	
+7	ग्रह	NN	
+8	बाबा	NN	
+9	काशी	NN	
+10	आउ	CC	
+11	प्रयागराज	NN	
+12	के	RP	
+13	तीरथ	NN	
+14	करे	VM	
+15	दूसर-तीसर	QC	
+16	बरस	NST	
+17	जरूर	NN	
+18	जा	VM	
+19	हका	VAUX	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कहथुन	VM	
+2	-	SYM	
+3	"	SYM	
+4	हमन्हीं	PRP	
+5	मगहियन	NN	
+6	के	RP	
+7	हुआँ	DEM	
+8	बुड़बक	NN	
+9	समझऽ	VM	
+10	हइ	VAUX	
+11	हो	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अजोध्या	NN	
+2	जी	NN	
+3	में	PSP	
+4	महन	NN	
+5	जी	NN	
+6	कहथुन	VM	
+7	-	SYM	
+8	मगह	NN	
+9	के	RP	
+10	लोग	NN	
+11	बुड़बकवा	NN	
+12	सुक्कुर	NN	
+13	के	RP	
+14	कहे	VM	
+15	भुरुकवा	NN	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	ठीके	JJ	
+3	सानी	NN	
+4	चलावे	VM	
+5	ला	VAUX	
+6	श्री	NN	
+7	महतो	NN	
+8	उठथुन	VM	
+9	त	RP	
+10	हल्ला	VM	
+11	करथुन	VAUX	
+12	-	SYM	
+13	"	SYM	
+14	उठ	VM	
+15	रे	INJ	
+16	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उठ	VM	
+2	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अरे	NN	
+2	महवा	NN	
+3	इनरा	NN	
+4	उठ	VM	
+5	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भुरुकवा	NN	
+2	उग	VM	
+3	गेलउ	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	सुखाड़	NN	
+7	अनावृष्टि	NN	
+8	असाढ़	NST	
+9	माह	NST	
+10	में	PSP	
+11	अकास	NN	
+12	में	PSP	
+13	बादर	NN	
+14	देख	VM	
+15	के	RP	
+16	किसान	NN	
+17	जतने	NN	
+18	खुश	NN	
+19	होके	VM	
+20	मोर	NN	
+21	लेखा	NN	
+22	नाचऽ	VM	
+23	हे	VAUX	
+24	ओतने	NN	
+25	सुखाड़	NN	
+26	के	RP	
+27	अंदेशा	NN	
+28	से	PSP	
+29	घबड़ाइत	NN	
+30	भी	RP	
+31	रहऽ	VM	
+32	हे	VAUX	
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तिलेसरी	NN	
+2	माय	NN	
+3	के	RP	
+4	हिया	DEM	
+5	हाँड़ी	NN	
+6	के	RP	
+7	अदहन	NN	
+8	लेखा	NN	
+9	खउलइत	VM	
+10	रहइत	VM	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सुटकल	NN	
+6	जजमान	NN	
+7	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सच्चे	NN	
+2	अजगुत	NN	
+3	देखलियो	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	गंगाजी	NN	
+3	में	PSP	
+4	नहा	VM	
+5	रहलियो	VAUX	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सूरज	NN	
+2	भगवान	NN	
+3	ई	DEM	
+4	जड़वो	NN	
+5	में	PSP	
+6	तावे	NN	
+7	में	PSP	
+8	हला	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भोरे	NST	
+2	से	PSP	
+3	सुटकल	NN	
+4	हलूँ	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सोचलियो	VM	
+2	-	SYM	
+3	अब	NST	
+4	जरा	QF	
+5	दिनमा	NN	
+6	गरमयले	VM	
+7	ह	VAUX	
+8	त	RP	
+9	मकर	NN	
+10	के	RP	
+11	नहान	NN	
+12	कर	VM	
+13	लूँ	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि	CC	
+2	डुबकी	NN	
+3	लगइलियो	VM	
+4	कि	RP	
+5	हहा	NN	
+6	के	RP	
+7	सामने	NN	
+8	से	PSP	
+9	गंगाजी	NN	
+10	गायब	NN	
+11	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	तो	RP	
+3	अकबका	NN	
+4	के	RP	
+5	बइठ	VM	
+6	गेलियो	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सुन्न	NN	
+6	दिमाग	NN	
+7	~	SYM	
+8	होना	VM	
+9	जजमान	NN	
+10	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सच्चे	NN	
+2	अजगुत	NN	
+3	देखलियो	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	गंगाजी	NN	
+3	में	PSP	
+4	नहा	VM	
+5	रहलियो	VAUX	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सूरज	NN	
+2	भगवान	NN	
+3	ई	DEM	
+4	जड़वो	NN	
+5	में	PSP	
+6	तावे	NN	
+7	में	PSP	
+8	हला	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भोरे	NST	
+2	से	PSP	
+3	सुटकल	NN	
+4	हलूँ	VM	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सोचलियो	VM	
+2	-	SYM	
+3	अब	NST	
+4	जरा	QF	
+5	दिनमा	NN	
+6	गरमयले	VM	
+7	ह	VAUX	
+8	त	RP	
+9	मकर	NN	
+10	के	RP	
+11	नहान	NN	
+12	कर	VM	
+13	लूँ	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि	CC	
+2	डुबकी	NN	
+3	लगइलियो	VM	
+4	कि	RP	
+5	हहा	VM	
+6	के	RP	
+7	सामने	NN	
+8	से	PSP	
+9	गंगाजी	NN	
+10	गायब	NN	
+11	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	तो	RP	
+3	अकबका	NN	
+4	के	RP	
+5	बइठ	VM	
+6	गेलियो	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कुछ	QF	
+2	क्षण	NST	
+3	ला	RP	
+4	दिमाग	NN	
+5	एकदम	NN	
+6	सुन्न	NN	
+7	हो	VM	
+8	गेलो	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सुरूम	NN	
+6	शुरू	NN	
+7	तोरा	PRP	
+8	तो	RP	
+9	केउ	NN	
+10	नाच	NN	
+11	सिखइबो	VM	
+12	न	NEG	
+13	कइलक	VM	
+14	हे	VAUX	
+15	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तूँ	PRP	
+2	तो	RP	
+3	अप्पन	PRP	
+4	बुद्धि	NN	
+5	से	PSP	
+6	लास्य	NN	
+7	नाच	NN	
+8	सिरजलऽ	VM	
+9	आ	CC	
+10	कइलऽ	VM	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	तो	RP	
+3	तंड	NN	
+4	नाम	NN	
+5	के	RP	
+6	रिसी	NN	
+7	से	PSP	
+8	सीख	VM	
+9	के	RP	
+10	तांडो	NN	
+11	नाच	NN	
+12	सुरूम	NN	
+13	कइली	VM	
+14	हल	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सूखना-पखना	NN	
+6	अपने	PRP	
+7	के	RP	
+8	ई	DEM	
+9	जान	VM	
+10	के	RP	
+11	हैरानी	NN	
+12	होतइ	VM	
+13	कि	RP	
+14	जउन	NN	
+15	देश	NN	
+16	में	PSP	
+17	भात	NN	
+18	खाय	VM	
+19	के	RP	
+20	चलन	NN	
+21	नञ्	NEG	
+22	हइ	VAUX	
+23	ऊ	DEM	
+24	देश	NN	
+25	में	PSP	
+26	डब्बाबंद	NN	
+27	माड़	NN	
+28	बिक	VM	
+29	रहले	VAUX	
+30	हे	VAUX	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	त	RP	
+2	अमरीका	NN	
+3	माड़	NN	
+4	बेच	VM	
+5	सकले	VM	
+6	हे	VAUX	
+7	आउ	CC	
+8	हमनहीं	PRP	
+9	गुड़मार	NN	
+10	आउ	CC	
+11	भुइआँवला	NN	
+12	जइसन	NN	
+13	औषधीय	NN	
+14	पौधा	NN	
+15	के	RP	
+16	सूख-पख	NN	
+17	जाय	VM	
+18	दे	VAUX	
+19	रहलिए	VM	
+20	हे	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सेल	NN	
+6	कबड्डी	NN	
+7	खेत	NN	
+8	में	PSP	
+9	कबड्डी	NN	
+10	जमल	NN	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दुनहूँ	QC	
+2	पाटी	NN	
+3	में	PSP	
+4	बूढ़ा-जवान-उगलरेख	NN	
+5	सब	INTF	
+6	सेल	NN	
+7	कबड्डी	NN	
+8	कर	VM	
+9	रहला	VAUX	
+10	ह	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एने	NST	
+2	मुरझाल-कुम्हलाल	NN	
+3	मामू	NN	
+4	हर-बैल	NN	
+5	लेले	VM	
+6	बिड़ार	NN	
+7	जोते	VM	
+8	ला	VAUX	
+9	मुस्तैद	NN	
+10	हो	VM	
+11	गेला	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सेवायदम	NN	
+6	हमेशा	NN	
+7	सेवायदम	NN	
+8	बोकराती	NN	
+9	करते	VM	
+10	रहऽ	VAUX	
+11	हें	VAUX	
+12	ई	DEM	
+13	ठीक	JJ	
+14	नञ्	NEG	
+15	लगउ	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	;	SYM	
+2	डोमिनियाँ	NN	
+3	के	RP	
+4	लाजो-गरान	NN	
+5	नञ्	NEG	
+6	लगइ	VM	
+7	सेवायदम	NN	
+8	चकरचाल	NN	
+9	में	PSP	
+10	रहऽ	VM	
+11	हइ	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰		
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सैंताना	VM	
+6	'	SYM	
+7	सैंतना	VM	
+8	'	SYM	
+9	का	RP	
+10	अ॰	RP	
+11	रूप	NN	
+12	उधर	DEM	
+13	बराती	NN	
+14	के	RP	
+15	चेहरा	NN	
+16	पर	PSP	
+17	काटऽ	VM	
+18	तो	RP	
+19	खून	NN	
+20	न	NEG	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सबके	INTF	
+2	होश-हवाश	NN	
+3	गुम	NN	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उधम	NN	
+2	मचावल	VM	
+3	बोतल	NN	
+4	में	PSP	
+5	सैंताय	NN	
+6	लगल	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ऊ	PRP	
+2	एकरा	PRP	
+3	ई	PRP	
+4	एओकरा	PRP	
+5	पर	PSP	
+6	कीचड़	NN	
+7	उछाले	VM	
+8	में	PSP	
+9	मशगूल	VM	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सोंस	NN	
+6	एक	QC	
+7	बड़ा	JJ	
+8	जलजंतु	NN	
+9	;	SYM	
+10	खर्राटा	NN	
+11	जजमान	NN	
+12	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सच्चे	NN	
+2	अजगुत	NN	
+3	देखलियो	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सोचलियो	VM	
+2	-	SYM	
+3	अब	NST	
+4	जरा	JJ	
+5	दिनमा	NN	
+6	गरमयले	VM	
+7	ह	VAUX	
+8	त	RP	
+9	मकर	NN	
+10	के	RP	
+11	नहान	NN	
+12	कर	VM	
+13	लूँ	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि	CC	
+2	डुबकी	NN	
+3	लगइलियो	VM	
+4	कि	RP	
+5	हहा	VM	
+6	के	RP	
+7	सामने	NN	
+8	से	PSP	
+9	गंगाजी	NN	
+10	गायब	NN	
+11	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	तो	RP	
+3	अकबका	NN	
+4	के	RP	
+5	बइठ	VM	
+6	गेलियो	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कुछ	JJ	
+2	क्षण	NST	
+3	ला	RP	
+4	दिमाग	NN	
+5	एकदम	NN	
+6	सुन्न	NN	
+7	हो	VM	
+8	गेलो	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उठके	VM	
+2	भागते-भागते	VM	
+3	फेर	NN	
+4	पनिया	NN	
+5	आ	VM	
+6	गेलो	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ऊ	PRP	
+2	जे	NN	
+3	बिन	NN	
+4	पानी	NN	
+5	के	RP	
+6	गंगाजी	NN	
+7	देखलियो	VM	
+8	ओकरा	PRP	
+9	से	PSP	
+10	आझो	NST	
+11	दिमाग	NN	
+12	सनसना	VM	
+13	जाहे	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ऊ	PRP	
+2	गड्ढा	NN	
+3	पाँका	NN	
+4	मछली	NN	
+5	सोंस	NN	
+6	-	SYM	
+7	कुछ	QF	
+8	समझ	VM	
+9	में	PSP	
+10	न	NEG	
+11	आवे	VM	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	सोम	NST	
+6	सूम	NN	
+7	कंजूस	JJ	
+8	नड़ी	NN	
+9	सोम	NST	
+10	हो	VM	
+11	पचासो	QC	
+12	रुपइया	NN	
+13	नञ्	NEG	
+14	देतो	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	स्टील-फस्टील	ECH	
+6	कउची	WQ	
+7	मिलल	VM	
+8	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	समधी	NN	
+2	हमरा	PRP	
+3	हगू	VM	
+4	देलन	VM	
+5	की	RP	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फलना	NN	
+2	जगह	NST	
+3	से	PSP	
+4	एतना	QF	
+5	मिलतइ	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अर्त्तन-बर्त्तन	ECH	
+2	भी	RP	
+3	सब	INTF	
+4	देखउआ	VM	
+5	हे	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	टिकाऊ	NN	
+2	एको	QC	
+3	न	NEG	
+4	हे	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	स्टील-फस्टील	ECH	
+2	लोहा	NN	
+3	ही	RP	
+4	तो	RP	
+5	हे	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	शीतलमनिया	NN	
+3	के	RP	
+4	बरतन	NN	
+5	देली	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सात	QC	
+2	कुरसी	NN	
+3	तक	NN	
+4	ओकरा	PRP	
+5	कुछ	QF	
+6	न	NEG	
+7	होत	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हगना	VM	
+6	लालाजी	NN	
+7	के	RP	
+8	प्रातकाली	NN	
+9	सुनहुँ	VM	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अभी	NST	
+2	भुरुकवा	NN	
+3	उगवे	VM	
+4	कइलइ	VM	
+5	कि	RP	
+6	लालाजी	NN	
+7	पीतर	NN	
+8	के	RP	
+9	लोटा	NN	
+10	लेके	VM	
+11	खंधा	NN	
+12	से	PSP	
+13	हो	VM	
+14	अइला	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	कर्म	NN	
+3	के	RP	
+4	हिंया	DEM	
+5	झाड़ा	NN	
+6	फिरना	VM	
+7	दिसा	NN	
+8	फिरना	VM	
+9	कहल	VM	
+10	जाहे	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कोई-कोई	RDP	
+2	कहथुन	VM	
+3	'	SYM	
+4	मैदान	NN	
+5	गेलियो	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	'	SYM	
+2	औरत	NN	
+3	कहऽ	VM	
+4	हे	VAUX	
+5	एकरा	PRP	
+6	'	SYM	
+7	बाहर	NST	
+8	जाना	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	'	SYM	
+2	हिंया	DEM	
+3	बुतरू	NN	
+4	सब	INTF	
+5	हग्गऽ	VM	
+6	हे	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हगना-मूतना	NN	
+6	हम	PRP	
+7	अभी	NST	
+8	चार-पाँच	QC	
+9	बच्छर	NN	
+10	के	RP	
+11	हूँ	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लंगटे	NN	
+2	उठलूँ	VM	
+3	बिस्टी	NN	
+4	सुतले	VM	
+5	में	PSP	
+6	फेंका	VM	
+7	गेल	VAUX	
+8	आउ	CC	
+9	हग्गे-मूते	VM	
+10	ला	VAUX	
+11	दौड़ल	VM	
+12	सिलाव-राजगीर	NN	
+13	सड़क	NN	
+14	पर	PSP	
+15	पहुँच	VM	
+16	गेलूँ	VAUX	
+17	कि	RP	
+18	देखऽ	VM	
+19	हियो	VAUX	
+20	-	SYM	
+21	बाप	NN	
+22	रे	INJ	
+23	बाप	NN	
+24	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ढेर	QF	
+2	सा	RP	
+3	जन्नी-मरद	NN	
+4	बूढ़ा	NN	
+5	पीठ	NN	
+6	पर	PSP	
+7	बुतरू	NN	
+8	लादले	VM	
+9	लबादा	NN	
+10	ओढ़ले	VM	
+11	चलल	VM	
+12	जाहे	VM	
+13	पैदले-पैदले	RDP	
+14	डोलते-डालते	RDP	
+15	अहिस्ते-अहिस्ते	RDP	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हगू	VM	
+6	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कउची	WQ	
+2	मिलल	VM	
+3	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	समधी	NN	
+2	हमरा	PRP	
+3	हगू	NN	
+4	देलन	VM	
+5	की	RP	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फलना	NN	
+2	जगह	NST	
+3	से	PSP	
+4	एतना	QF	
+5	मिलतइ	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अर्त्तन-बर्त्तन	ECH	
+2	भी	RP	
+3	सब	INTF	
+4	देखउआ	NN	
+5	हे	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	टिकाऊ	NN	
+2	एको	CL	
+3	न	NEG	
+4	हे	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	स्टील-फस्टील	ECH	
+2	लोहा	NN	
+3	ही	RP	
+4	तो	RP	
+5	हे	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	शीतलमनिया	NN	
+3	के	RP	
+4	बरतन	NN	
+5	देली	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सात	QC	
+2	कुरसी	NN	
+3	तक	NST	
+4	ओकरा	PRP	
+5	कुछ	QF	
+6	न	NEG	
+7	होत	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हड़हड़-धड़धड़	ECH	
+6	राजगीर	NN	
+7	में	PSP	
+8	तीलसँकरात	NN	
+9	के	RP	
+10	मेला	NN	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सतधरवा	NN	
+2	बर्हमकुंड	NN	
+3	में	PSP	
+4	नहा	VM	
+5	के	RP	
+6	मामू-ममानी	NN	
+7	आउ	CC	
+8	मौसी	NN	
+9	चेंगना-मेंगना	ECH	
+10	के	RP	
+11	साथ	NN	
+12	आके	VM	
+13	बजंतरी	NN	
+14	के	RP	
+15	पत्ता	NST	
+16	पर	PSP	
+17	ततले-ततले	RDP	
+18	मकर	NN	
+19	के	RP	
+20	खिचड़ी	NN	
+21	के	RP	
+22	भाप	NN	
+23	से	PSP	
+24	हाथ-मुँह	NN	
+25	जला	VM	
+26	रहला	VM	
+27	ह	VAUX	
+28	कि	RP	
+29	हड़हड़-धड़धड़	ECH	
+30	होवे	VM	
+31	लगल	VAUX	
+32	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हड़ास-हड़ास	RDP	
+6	अब	NST	
+7	रोमा	NN	
+8	के	RP	
+9	पूर्ण	NN	
+10	विश्वास	NN	
+11	हो	VM	
+12	गेल	VM	
+13	हल	VAUX	
+14	कि	RP	
+15	अब	NST	
+16	रवि	NN	
+17	ई	DEM	
+18	जनम	NN	
+19	में	PSP	
+20	न	NEG	
+21	सुधरत	VM	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	यही	DEM	
+2	सोच	NN	
+3	के	RP	
+4	रोमा	NN	
+5	बरमदा	NN	
+6	में	PSP	
+7	आके	VM	
+8	अप्पन	PRP	
+9	एगो	CL	
+10	सूती	NN	
+11	साड़ी	NN	
+12	लम्बा-लम्बा	RDP	
+13	दू	QC	
+14	टुकड़ा	NN	
+15	में	PSP	
+16	फाड़	VM	
+17	देल	VAUX	
+18	आउ	CC	
+19	रवि	NN	
+20	के	RP	
+21	पलंग	NN	
+22	में	PSP	
+23	वही	DEM	
+24	साड़ी	NN	
+25	से	PSP	
+26	सुतले	VM	
+27	में	PSP	
+28	बाँध	VM	
+29	के	RP	
+30	ओकर	PRP	
+31	सिर	NN	
+32	पर	PSP	
+33	मुंगड़ी	NN	
+34	से	PSP	
+35	हड़ास-हड़ास	RDP	
+36	प्रहार	NN	
+37	करे	VM	
+38	लगल	VAUX	
+39	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हबहब	RB	
+6	ठीक	JJ	
+7	से	PSP	
+8	देखे	VM	
+9	दे	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उठान	NN	
+2	आउ	CC	
+3	मुठान	NN	
+4	से	PSP	
+5	अदमी	NN	
+6	आउ	CC	
+7	जानवर	NN	
+8	के	RP	
+9	पहचान	NN	
+10	होवऽ	VM	
+11	हइ	VAUX	
+12	ढेर	QF	
+13	हबहब	RB	
+14	नञ्	NEG	
+15	कर	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हर-हरमेसा	NN	
+6	हर-हरमेसा	NN	
+7	तोरा	PRP	
+8	पर	PSP	
+9	दाबा	VM	
+10	आ	CC	
+11	भरोसा	NN	
+12	करके	VM	
+13	हमरा	PRP	
+14	पछताय	NN	
+15	आ	CC	
+16	सरमाय	NN	
+17	पड़ल	VM	
+18	हे	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हलकानी	NN	
+6	परेशानी	NN	
+7	;	SYM	
+8	थकावट	NN	
+9	बाबूजी	NN	
+10	के	RP	
+11	हलकानी	NN	
+12	देखके	VM	
+13	माय-बहिन	NN	
+14	के	RP	
+15	दहदही	RB	
+16	महसूस	NN	
+17	के	RP	
+18	ऊ	DEM	
+19	अब	NST	
+20	ले	RP	
+21	कोई	NN	
+22	निर्णय	NN	
+23	तक	NN	
+24	न	NEG	
+25	पहुँच	VM	
+26	सकल	VAUX	
+27	एकरा	PRP	
+28	ला	RP	
+29	अपना	PRP	
+30	के	RP	
+31	कोस	NN	
+32	रहल	VM	
+33	हे	VAUX	
+34	आँसू	NN	
+35	के	RP	
+36	घूँट	NN	
+37	पी	VM	
+38	रहल	VM	
+39	हे	VAUX	
+40	बाकि	CC	
+41	ई	DEM	
+42	जिनगी	NN	
+43	के	RP	
+44	लाश	NN	
+45	कब	WQ	
+46	ले	RP	
+47	ढोयत	VM	
+48	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हहाना	VM	
+6	जजमान	NN	
+7	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सच्चे	NN	
+2	अजगुत	NN	
+3	देखलियो	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	गंगाजी	NN	
+3	में	PSP	
+4	नहा	VM	
+5	रहलियो	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सूरज	NN	
+2	भगवान	NN	
+3	ई	DEM	
+4	जड़वो	NN	
+5	में	PSP	
+6	तावे	NN	
+7	में	PSP	
+8	हला	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भोरे	NST	
+2	से	PSP	
+3	सुटकल	VM	
+4	हलूँ	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सोचलियो	VM	
+2	-	SYM	
+3	अब	NST	
+4	जरा	JJ	
+5	दिनमा	NN	
+6	गरमयले	VM	
+7	ह	VAUX	
+8	त	RP	
+9	मकर	NN	
+10	के	RP	
+11	नहान	NN	
+12	कर	VM	
+13	लूँ	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि	CC	
+2	डुबकी	NN	
+3	लगइलियो	VM	
+4	कि	RP	
+5	हहा	VM	
+6	के	RP	
+7	सामने	NN	
+8	से	PSP	
+9	गंगाजी	NN	
+10	गायब	NN	
+11	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	तो	RP	
+3	अकबका	RB	
+4	के	RP	
+5	बइठ	VM	
+6	गेलियो	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कुछ	QF	
+2	क्षण	NST	
+3	ला	RP	
+4	दिमाग	NN	
+5	एकदम	NN	
+6	सुन्न	NN	
+7	हो	VM	
+8	गेलो	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हाँक	NN	
+6	~	SYM	
+7	सुनना	VM	
+8	कतनो	WQ	
+9	धात-धात	RDP	
+10	करते	VM	
+11	रहबो	VAUX	
+12	त	RP	
+13	हाँक	NN	
+14	सुनऽ	VM	
+15	हइ	VAUX	
+16	थोड़े	QF	
+17	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हागा	VM	
+6	हागा	VM	
+7	अगुर	NN	
+8	बाघा	NN	
+9	की	RP	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हाड़ी-हड़ुला	NN	
+6	सत्तू	NN	
+7	पिसइलो	VM	
+8	चाउर	NN	
+9	भून	VM	
+10	के	RP	
+11	घी	NN	
+12	राबा	NN	
+13	मिलाके	VM	
+14	भुरकुंडा	NN	
+15	बनलो	VM	
+16	चूड़ा-भुँजा	NN	
+17	चाउर	NN	
+18	दाल	NN	
+19	घी	NN	
+20	तेल	NN	
+21	मिचाई	NN	
+22	सब	INTF	
+23	हे	VAUX	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हाड़ी-हड़ुला	NN	
+2	मिल	VM	
+3	जात	VAUX	
+4	त	RP	
+5	रसोई	NN	
+6	रंधा	VM	
+7	जात	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हाथ-समाँग	NN	
+6	भारी	JJ	
+7	लग	VM	
+8	रहलो	VAUX	
+9	हऽ	VAUX	
+10	त	RP	
+11	छोड़	VM	
+12	दे	VAUX	
+13	अभी	NST	
+14	हमर	PRP	
+15	हाथ-समाँग	NN	
+16	गल्लल	VM	
+17	नञ्	NEG	
+18	हे	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हिआँ-हुआँ	DEM	
+6	उ	DEM	
+7	जमाना	NST	
+8	में	PSP	
+9	इ	DEM	
+10	नगर	NN	
+11	के	RP	
+12	सामरिक	NN	
+13	सुरक्षा	NN	
+14	लगी	VM	
+15	पाषाण	NN	
+16	घेराबंदी	NN	
+17	से	PSP	
+18	परिवृत	NN	
+19	हल	VAUX	
+20	जेकर	NN	
+21	चिन्हा	NN	
+22	आझो	NST	
+23	राजगीर	NN	
+24	के	RP	
+25	पंच	QC	
+26	पर्वतीय	NN	
+27	क्षेत्र	NN	
+28	में	PSP	
+29	हिआँ-हुआँ	DEM	
+30	देखल	VM	
+31	जा	VM	
+32	सकऽ	VM	
+33	हे	VAUX	
+34	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हुरपेटना	VM	
+6	हमरा	PRP	
+7	जनकारी	NN	
+8	हे	VAUX	
+9	कि	RP	
+10	अप्पन	PRP	
+11	इयार-दोस	NN	
+12	के	RP	
+13	हुरपेटला	VM	
+14	पर	PSP	
+15	तूँ	PRP	
+16	हरमेसा	NN	
+17	बहरसी	NN	
+18	ई	DEM	
+19	नाच	NN	
+20	देखावऽ	VM	
+21	हऽ	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	हुलचुल्ली	NN	
+6	देख	VM	
+7	लेलहीं	VAUX	
+8	हुलचुल्ली	NN	
+9	के	RP	
+10	मजा	NN	
+11	मरलकउ	VM	
+12	ने	PSP	
+13	लंगड़ा	JJ	
+14	डंक	NN	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	होरी-चइता	NN	
+6	'	SYM	
+7	आय	VM	
+8	फुआ	NN	
+9	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आगे	NST	
+2	तो	RP	
+3	बतयवे	VM	
+4	न	NEG	
+5	कइलऽ	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कलजुगिया	NN	
+2	चौपाल	NN	
+3	सबके	INTF	
+4	दलान	NN	
+5	पर	PSP	
+6	लग	VM	
+7	जायत	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बड़-जेठ	JJ	
+2	मुँह	NN	
+3	लुका	VM	
+4	लेतन	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उधर	NST	
+2	नया-नया	JJ	
+3	होरी-चइता	NN	
+4	गवाये	VM	
+5	लगत	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दस	QC	
+2	बजल	VM	
+3	कि	RP	
+4	सब	INTF	
+5	झूमइत	VM	
+6	अपन	PRP	
+7	मेहरारू	NN	
+8	के	RP	
+9	गोड़थारी	NN	
+10	में	PSP	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	'	SYM	
+2	रामटहल	NN	
+3	कहइत-कहइत	RDP	
+4	बेयग्गर	JJ	
+5	हो	VM	
+6	गेलन	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	"	SYM	
+6	मगही	NN	
+7	पत्रिका	NN	
+8	"	SYM	
+9	वर्ष	NST	
+10	:	SYM	
+11	नवांक-	JJ	
+12	;	SYM	
+13	पूर्णांक-	NN	
+14	में	PSP	
+15	प्रयुक्त	NN	
+16	ठेठ	JJ	
+17	मगही	NN	
+18	शब्द	NN	
+19	‎Wednesday	NST	
+20	‎June	NST	
+21	:	SYM	
+22	:	SYM	
+23	PM	NST	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	noreply	UNK	
+2	@	SYM	
+3	blogger	UNK	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	com	UNK	
+2	नारायण	NN	
+3	प्रसाद	NN	
+4	मपध॰	NN	
+5	मासिक	NN	
+6	"	SYM	
+7	मगही	NN	
+8	पत्रिका	NN	
+9	"	SYM	
+10	;	SYM	
+11	सम्पादक	NN	
+12	-	SYM	
+13	श्री	NN	
+14	धनंजय	NN	
+15	श्रोत्रिय	NN	
+16	नई	JJ	
+17	दिल्ली	NN	
+18	/	SYM	
+19	पटना	NN	
+20	पहिला	QO	
+21	बारह	QC	
+22	अंक	NN	
+23	के	RP	
+24	प्रकाशन-विवरण	NN	
+25	ई	DEM	
+26	प्रकार	NN	
+27	हइ	VAUX	
+28	-	SYM	
+29	-	SYM	
+30	वर्ष	NST	
+31	अंक	NN	
+32	महीना	NST	
+33	कुल	QF	
+34	पृष्ठ	NN	
+35	-	SYM	
+36	जनवरी	NST	
+37	फरवरी	NST	
+38	मार्च	NST	
+39	अप्रैल	NST	
+40	-	SYM	
+41	मई-जून	NST	
+42	जुलाई	NST	
+43	-	SYM	
+44	अगस्त-सितम्बर	NST	
+45	-	SYM	
+46	अक्टूबर-नवंबर	NST	
+47	दिसंबर	NST	
+48	-	SYM	
+49	मार्च-अप्रैल	NST	
+50	नवांक-	NN	
+51	;	SYM	
+52	पूर्णांक-	NN	
+53	से	PSP	
+54	द्वैमासिक	NN	
+55	के	RP	
+56	रूप	NN	
+57	में	PSP	
+58	अभी	NST	
+59	तक	NST	
+60	'	SYM	
+61	मगही	NN	
+62	पत्रिका	NN	
+63	'	SYM	
+64	के	RP	
+65	नियमित	NN	
+66	प्रकाशन	NN	
+67	हो	VM	
+68	रहले	VAUX	
+69	ह	VAUX	
+70	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	प्रस्तुत	NN	
+2	अंक	NN	
+3	:	SYM	
+4	नवांक-	JJ	
+5	पूर्णांक-	NN	
+6	मई-जून	NST	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ठेठ	JJ	
+2	मगही	NN	
+3	शब्द	NN	
+4	के	RP	
+5	उद्धरण	NN	
+6	के	RP	
+7	सन्दर्भ	NN	
+8	में	PSP	
+9	पहिला	QO	
+10	संख्या	NN	
+11	प्रकाशन	NN	
+12	वर्ष	NST	
+13	संख्या	NN	
+14	अंग्रेजी	NN	
+15	वर्ष	NST	
+16	के	RP	
+17	अन्तिम	NN	
+18	दू	QC	
+19	अंक	NN	
+20	;	SYM	
+21	दोसर	QO	
+22	अंक	NN	
+23	संख्या	NN	
+24	;	SYM	
+25	तेसर	QO	
+26	पृष्ठ	NN	
+27	संख्या	NN	
+28	चउठा	QO	
+29	कॉलम	NN	
+30	संख्या	NN	
+31	एक्के	QC	
+32	कॉलम	NN	
+33	रहलो	VM	
+34	पर	PSP	
+35	सन्दर्भ	NN	
+36	भ्रामक	NN	
+37	नञ्	NEG	
+38	रहे	VM	
+39	एकरा	PRP	
+40	लगी	NN	
+41	कॉलम	NN	
+42	सं॰	NN	
+43	देल	VM	
+44	गेले	VAUX	
+45	ह	VAUX	
+46	आउ	CC	
+47	अन्तिम	NN	
+48	बिन्दु	NN	
+49	के	RP	
+50	बाद	NST	
+51	पंक्ति	NN	
+52	संख्या	NN	
+53	दर्शावऽ	NN	
+54	हइ	VAUX	
+55	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कुल	QF	
+2	ठेठ	JJ	
+3	मगही	NN	
+4	शब्द-संख्या	NN	
+5	अंक	NN	
+6	-	SYM	
+7	तक	NST	
+8	संकलित	NN	
+9	शब्द	NN	
+10	के	RP	
+11	अतिरिक्त	NN	
+12	-	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ठेठ	JJ	
+2	मगही	NN	
+3	शब्द	NN	
+4	असे	NN	
+5	न	NEG	
+6	तक	NN	
+7	:	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अँड़ुआर	NN	
+2	थन	NN	
+3	भइँसिया	NN	
+4	अँड़ुआर	NN	
+5	हार	NN	
+6	रहले	VM	
+7	हे	VAUX	
+8	हम	PRP	
+9	अभी	NST	
+10	देख	VM	
+11	के	RP	
+12	आ	VM	
+13	रहलिए	VM	
+14	हे	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अक्किल	NN	
+6	अकिल	NN	
+7	;	SYM	
+8	अकल	NN	
+9	;	SYM	
+10	अक्ल	NN	
+11	बुद्धि	NN	
+12	कौस्तुभ	NN	
+13	मणि	NN	
+14	आउ	CC	
+15	पांचजन्य	NN	
+16	शंख	NN	
+17	भी	RP	
+18	ओही	DEM	
+19	लेलन	VM	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उनकर	PRP	
+2	त	RP	
+3	पाँचो	QC	
+4	अंगुरी	NN	
+5	घीउ	NN	
+6	में	PSP	
+7	रहल	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोर	PRP	
+2	अक्किल	NN	
+3	के	RP	
+4	ताला	NN	
+5	ऊ	DEM	
+6	घड़ी	NST	
+7	काहे	WQ	
+8	न	NEG	
+9	खुलल	VM	
+10	हल	VAUX	
+11	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	काहे	WQ	
+2	तूँ	PRP	
+3	ऊ	DEM	
+4	बेरा	NST	
+5	अगराके	NN	
+6	कालकूट	NN	
+7	जहर	NN	
+8	उठा	VM	
+9	लेलऽ	VM	
+10	हल	VAUX	
+11	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अक्सरहाँ	NST	
+6	धरती	NN	
+7	डोले	VM	
+8	के	RP	
+9	लीला	NN	
+10	बाद	NST	
+11	में	PSP	
+12	जानलूँ	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुंगेर	NN	
+2	हल	RP	
+3	इ	DEM	
+4	जलजला	NN	
+5	के	RP	
+6	बीच	NN	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पइन	NN	
+2	हो	VM	
+3	गेल	VAUX	
+4	खेत	NN	
+5	खेत	NN	
+6	हो	VM	
+7	गेल	VAUX	
+8	पइन	NN	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	खेत	NN	
+2	में	PSP	
+3	रेत	NN	
+4	ढेर	VM	
+5	हो	VM	
+6	गेल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	घर-मकान	NN	
+2	अइसे	NN	
+3	गिरल	VM	
+4	जइसे	NN	
+5	चौदह	QC	
+6	बालू	NN	
+7	आउ	CC	
+8	एक	QC	
+9	सीमेंट	NN	
+10	मिलावल	VM	
+11	सरकारी	NN	
+12	ठेकेदार	NN	
+13	के	RP	
+14	पुल-बिल्डिंग	NN	
+15	अक्सरहाँ	NN	
+16	गिरते	VM	
+17	रहऽ	VM	
+18	हे	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फूस	NN	
+2	तो	RP	
+3	ऐसे	NN	
+4	उड़ियाल	VM	
+5	जइसे	NN	
+6	चैत	NST	
+7	में	PSP	
+8	बर-पीपर	NN	
+9	के	RP	
+10	पत्ता	NN	
+11	उड़िया	VM	
+12	जाहे	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अगराना	VM	
+6	इठलाना	VM	
+7	नखरा	NN	
+8	करना	VM	
+9	कौस्तुभ	NN	
+10	मणि	NN	
+11	आउ	CC	
+12	पांचजन्य	NN	
+13	शंख	NN	
+14	भी	RP	
+15	ओही	DEM	
+16	लेलन	VM	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उनकर	PRP	
+2	त	RP	
+3	पाँचो	QC	
+4	अंगुरी	NN	
+5	घीउ	NN	
+6	में	PSP	
+7	रहल	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोर	PRP	
+2	अक्किल	NN	
+3	के	RP	
+4	ताला	NN	
+5	ऊ	DEM	
+6	घड़ी	NST	
+7	काहे	WQ	
+8	न	NEG	
+9	खुलल	VM	
+10	हल	VAUX	
+11	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	काहे	WQ	
+2	तूँ	PRP	
+3	ऊ	DEM	
+4	बेरा	NST	
+5	अगराके	NN	
+6	कालकूट	NN	
+7	जहर	NN	
+8	उठा	VM	
+9	लेलऽ	VM	
+10	हल	VAUX	
+11	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अगलग्गी	NN	
+6	मजा	NN	
+7	के	RP	
+8	बात	NN	
+9	ई	DEM	
+10	हइ	VAUX	
+11	कि	RP	
+12	जब	NST	
+13	उनका	PRP	
+14	प्रमाण	NN	
+15	के	RP	
+16	बारे	NN	
+17	में	PSP	
+18	कुरेदल	VM	
+19	जाहे	VM	
+20	त	RP	
+21	उनकर	PRP	
+22	उत्तर	NN	
+23	होवऽ	VM	
+24	हे	VAUX	
+25	कि	RP	
+26	पता	NN	
+27	नञ्	NEG	
+28	हो	VAUX	
+29	कि	RP	
+30	मगही	NN	
+31	के	RP	
+32	सारा	QF	
+33	प्रमाण	NN	
+34	आउ	CC	
+35	ओकर	PRP	
+36	साहित्य	NN	
+37	नालंदा	NN	
+38	विश्वविद्यालय	NN	
+39	के	RP	
+40	अगलग्गी	NN	
+41	में	PSP	
+42	जर	VM	
+43	के	RP	
+44	खाक	NN	
+45	हो	VM	
+46	गेलइ	VAUX	
+47	हे	VAUX	
+48	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	थेथरोलौजी	NN	
+3	हे	VAUX	
+4	जे	NN	
+5	मगही	NN	
+6	से	PSP	
+7	जुड़ल	VM	
+8	लोग	NN	
+9	तक	NST	
+10	तो	RP	
+11	चल	VM	
+12	सकऽ	VM	
+13	हे	VAUX	
+14	बकि	CC	
+15	अन्य	NN	
+16	भाषा	NN	
+17	के	RP	
+18	विद्वान	NN	
+19	के	RP	
+20	सामने	NN	
+21	नञ्	NEG	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अगारमाता	NN	
+6	अगारमाता	NN	
+7	हो	VM	
+8	गेलन	VM	
+9	हे	VAUX	
+10	एकदम	NN	
+11	से	PSP	
+12	टभटभ	RB	
+13	कर	VM	
+14	रहल	VAUX	
+15	हे	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अगुर	NN	
+6	आगु	NST	
+7	;	SYM	
+8	आगे	NST	
+9	के	RP	
+10	सामने	NN	
+11	हागा	VM	
+12	अगुर	NN	
+13	बाघा	NN	
+14	की	RP	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अघोरी	NN	
+6	अघोरी	NN	
+7	नाम	NN	
+8	की	RP	
+9	एक	QC	
+10	जाति	NN	
+11	;	SYM	
+12	अघोरपंथ	NN	
+13	का	RP	
+14	अनुयायी	NN	
+15	सभा-चउपाल	NN	
+16	में	PSP	
+17	बइठना	NN	
+18	छोड़के	VM	
+19	तूँ	PRP	
+20	मुरदघट्टी	NN	
+21	में	PSP	
+22	आसन	NN	
+23	जमइबऽ	VM	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सासतरो	NN	
+2	रचलऽ	VM	
+3	-	SYM	
+4	मारन	NN	
+5	बसीकरन	NN	
+6	उच्चाटन	NN	
+7	मोहन	NN	
+8	आकरसन	NN	
+9	आ	CC	
+10	न	NEG	
+11	जनी	NN	
+12	कउन-कउन	RDP	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कानी	JJ	
+2	गइया	NN	
+3	के	RP	
+4	अलगे	NST	
+5	बथान	NST	
+6	-	SYM	
+7	तूँ	PRP	
+8	देओता	NN	
+9	हऽ	VAUX	
+10	कि	RP	
+11	छुट्टल	VM	
+12	अघोरी	NN	
+13	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अजलत	NN	
+6	अजलत	NN	
+7	के	RP	
+8	कोकलत	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	;	SYM	
+2	अजलत	NN	
+3	के	RP	
+4	खिस्सा	NN	
+5	भात	NN	
+6	पर	NN	
+7	लिट्टा	NN	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	अटान	NN	
+7	इ	DEM	
+8	मेलवा	NN	
+9	भी	RP	
+10	अजब	NN	
+11	बिडंबना	NN	
+12	हे	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सौंसे	INTF	
+2	बगइचा	NN	
+3	में	PSP	
+4	अटान	NN	
+5	न	NEG	
+6	हे	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लाल-लाल	RDP	
+2	साड़ी	NN	
+3	में	PSP	
+4	जमनकिन	VM	
+5	हका	VAUX	
+6	-	SYM	
+7	बूढ़ियन	NN	
+8	भी	RP	
+9	कम	JJ	
+10	न	NEG	
+11	हका	VM	
+12	छौंहिन	NN	
+13	घंघरा-चोली	NN	
+14	में	PSP	
+15	चमकल	NN	
+16	चलऽ	VM	
+17	हे	VAUX	
+18	बढ़-बूढ़ा	NN	
+19	भी	RP	
+20	चमरौंधा	NN	
+21	जूता	NN	
+22	पेहनले	VM	
+23	धोती-कुर्ता	NN	
+24	फेटा	NN	
+25	के	RP	
+26	दमकयले	VM	
+27	हकइ	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अदमजात	NN	
+6	दहनी	NN	
+7	जो	NN	
+8	अप्पन	PRP	
+9	माय-बाप	NN	
+10	के	RP	
+11	पास	NN	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जब	NST	
+2	ऊ	DEM	
+3	अइतइ	VM	
+4	तब	NST	
+5	ई	DEM	
+6	सरवा	NN	
+7	के	RP	
+8	सब	INTF	
+9	निसेबजिया	NN	
+10	भुला	VM	
+11	देतइ	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	सब	INTF	
+3	आदमी	NN	
+4	नञ्	NEG	
+5	हे	VAUX	
+6	अदमजात	NN	
+7	हे	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अदमी-औरत	NN	
+6	कहल	VM	
+7	गेल	VM	
+8	हे	VAUX	
+9	कि	RP	
+10	शायर	NN	
+11	सिंह	NN	
+12	सपूत	NN	
+13	बेलीक	NN	
+14	चलऽ	VM	
+15	हे	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	इ	DEM	
+2	नजर	NN	
+3	से	PSP	
+4	देखहू	VM	
+5	त	RP	
+6	लगतो	VM	
+7	पंद्रह	QC	
+8	आना	NN	
+9	अदमी-औरत	NN	
+10	कपूत-कपूती	JJ	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	संसार	NN	
+2	चल	VM	
+3	रहल	VM	
+4	ह	VAUX	
+5	एके	QC	
+6	आना	NN	
+7	से	PSP	
+8	जे	NN	
+9	अप्पन	PRP	
+10	इमान	NN	
+11	पर	PSP	
+12	कायम	NN	
+13	हे	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अदहन	NN	
+6	असाढ़	NST	
+7	माह	NST	
+8	में	PSP	
+9	अकास	NN	
+10	में	PSP	
+11	बादर	NN	
+12	देख	VM	
+13	के	RP	
+14	किसान	NN	
+15	जतने	QF	
+16	खुश	NN	
+17	होके	VM	
+18	मोर	NN	
+19	लेखा	NN	
+20	नाचऽ	VM	
+21	हे	VAUX	
+22	ओतने	NN	
+23	सुखाड़	NN	
+24	के	RP	
+25	अंदेशा	NN	
+26	से	PSP	
+27	घबड़ाइत	VM	
+28	भी	RP	
+29	रहऽ	VM	
+30	हे	VAUX	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तिलेसरी	NN	
+2	माय	NN	
+3	के	RP	
+4	हिया	DEM	
+5	हाँड़ी	NN	
+6	के	RP	
+7	अदहन	NN	
+8	लेखा	NN	
+9	खउलइत	VM	
+10	रहइत	VM	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अधसीझल	NN	
+6	सरिता	NN	
+7	बुरी	JJ	
+8	तरह	NN	
+9	जर	VM	
+10	चुकल	VM	
+11	हल	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अधसीझल	NN	
+2	देह	NN	
+3	देवाल	NN	
+4	से	PSP	
+5	ओठंगल	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकर	PRP	
+2	परान	NN	
+3	पखेरू	NN	
+4	उड़	VM	
+5	गेल	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अनठीक	NN	
+6	'	SYM	
+7	संपादकीय	NN	
+8	'	SYM	
+9	आउ	CC	
+10	'	SYM	
+11	अप्पन	PRP	
+12	बात	NN	
+13	'	SYM	
+14	के	RP	
+15	कोय-कोय	RDP	
+16	टिप्पणी	NN	
+17	से	PSP	
+18	अपने	PRP	
+19	जदि	NN	
+20	असहमत	NN	
+21	आउ	CC	
+22	आहत	NN	
+23	होलथिन	VM	
+24	हे	VAUX	
+25	तब	NST	
+26	हम	PRP	
+27	प्रार्थना	NN	
+28	करबइ	VM	
+29	कि	RP	
+30	हमर	PRP	
+31	एक-एक	RDP	
+32	बात	NN	
+33	के	RP	
+34	पहिले	QO	
+35	पड़ताल	NN	
+36	कर	VM	
+37	लेवल	VAUX	
+38	जाए	VAUX	
+39	ओकर	PRP	
+40	बाद	NST	
+41	अपने	PRP	
+42	के	RP	
+43	ठीक	JJ	
+44	आउ	CC	
+45	अनठीक	NN	
+46	पता	NN	
+47	चल	VM	
+48	जइतइ	VAUX	
+49	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अन्हरकोठरी	NN	
+6	बेटिहा	NN	
+7	के	RP	
+8	पैसा	NN	
+9	कौन-कौन	RDP	
+10	रूप	NN	
+11	में	PSP	
+12	लुटावल	VM	
+13	जायत	VM	
+14	नोट	NN	
+15	के	RP	
+16	गड्डी	NN	
+17	में	PSP	
+18	दियासलाई	NN	
+19	से	PSP	
+20	तितकी	NN	
+21	नेसल	NN	
+22	जायत	VM	
+23	सब	INTF	
+24	अन्हरकोठरी	NN	
+25	में	PSP	
+26	बंद	NN	
+27	हे	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अब	NST	
+6	~	SYM	
+7	लेबऽ	VM	
+8	कि	RP	
+9	तब	NST	
+10	लेबऽ	VM	
+11	एतना	QF	
+12	सुनते	VM	
+13	हम्मर	PRP	
+14	चचा	NN	
+15	पर	PSP	
+16	भूत	NN	
+17	सवार	VM	
+18	हो	VM	
+19	गेल	VAUX	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तरबा	NN	
+2	के	RP	
+3	लहर	NN	
+4	कपार	NN	
+5	-	SYM	
+6	भोनुआ	NN	
+7	नौकरवा	NN	
+8	के	RP	
+9	हँकयलका	NN	
+10	-	SYM	
+11	"	SYM	
+12	लाव	VM	
+13	तो	RP	
+14	कोड़वा	NN	
+15	रे	RP	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	केकरा	WQ	
+2	पर	PSP	
+3	फूल	NN	
+4	गेल	VM	
+5	ह	VAUX	
+6	हमरा	PRP	
+7	पर	PSP	
+8	फूलले	VM	
+9	ह	VAUX	
+10	आउ	CC	
+11	केकरा	NN	
+12	पर	PSP	
+13	दू	QC	
+14	कौड़ी	NN	
+15	के	RP	
+16	गुरु	NN	
+17	सार	NN	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	गुरुजी	NN	
+3	इ	DEM	
+4	तेवर	NN	
+5	देखके	VM	
+6	अब	CC	
+7	लेबऽ	VM	
+8	कि	RP	
+9	तब	NST	
+10	लेबऽ	VM	
+11	-	SYM	
+12	भागल-भागल	RDP	
+13	दू	QC	
+14	कोस	NST	
+15	दूर	NN	
+16	हरसेनिये	NN	
+17	पहुँच	VM	
+18	गेला	VAUX	
+19	हाँफते-हाँफते	RDP	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	जान	NN	
+3	बचल	VM	
+4	लाखो	QC	
+5	पइलूँ	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जमींदार	NN	
+2	हीं	RP	
+3	गुरुअइ	NN	
+4	करना	VM	
+5	बाघ	NN	
+6	के	RP	
+7	जबड़ा	NN	
+8	में	PSP	
+9	फँसना	VM	
+10	हे	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	अम्मत	NN	
+7	अम्मत	NN	
+8	तोड़	VM	
+9	रहलइ	VM	
+10	हे	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अम्मोढेकार	NN	
+6	अम्मोढेकार	NN	
+7	काने	WQ	
+8	लगलइ	VM	
+9	दइया	NN	
+10	हमरो	PRP	
+11	जी	NN	
+12	हमड़े	PRP	
+13	लगलइ	VM	
+14	एकदम	NN	
+15	से	PSP	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अरमायन	NN	
+6	हम्मर	PRP	
+7	बाबा	NN	
+8	हथुन	VM	
+9	पूरा	QF	
+10	पुजारी	NN	
+11	-	SYM	
+12	रामजी	NN	
+13	के	RP	
+14	भक्त	NN	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अयोध्या	NN	
+2	के	RP	
+3	सीख	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	त्रिफट्टक	NN	
+2	चंदन	NN	
+3	लगयथुन	VM	
+4	माला	NN	
+5	फेरथुन	VM	
+6	रमायन	NN	
+7	पढ़थुन	VM	
+8	अरमायन	NN	
+9	खयथुन	VM	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अराधना	VM	
+6	आराधना	VM	
+7	मातृकुल	NN	
+8	के	RP	
+9	महिमा	NN	
+10	अपरंपार	NN	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सभे	INTF	
+2	कुछ	QF	
+3	तो	RP	
+4	महरानी	NN	
+5	मइया	NN	
+6	के	RP	
+7	किरपा	NN	
+8	से	PSP	
+9	ही	RP	
+10	हे	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ऊ	DEM	
+2	सातो	QC	
+3	मइया	NN	
+4	के	RP	
+5	अराधना	NN	
+6	बिना	NN	
+7	घर	NN	
+8	दुआर	NN	
+9	धिया-पूता	NN	
+10	कुछो	JJ	
+11	न	NEG	
+12	फले	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अइसन	NN	
+2	कौनो	WQ	
+3	गाम	NN	
+4	नञ्	NEG	
+5	जहाँ	NST	
+6	महरानी	NN	
+7	मइया	NN	
+8	के	RP	
+9	सातो	QC	
+10	पिंडी	NN	
+11	स्थापित	NN	
+12	न	NEG	
+13	रहे	VM	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अरिछन-परिछन	NN	
+6	अरिछन-परिछन	NN	
+7	कोहबर	NN	
+8	के	RP	
+9	विधि-विधान	NN	
+10	के	RP	
+11	बाद	NST	
+12	दुल्हन	NN	
+13	के	RP	
+14	खीर	NN	
+15	में	PSP	
+16	हाथ	NN	
+17	डाले	VM	
+18	ला	VAUX	
+19	आउ	CC	
+20	मुँहजूठी	NN	
+21	ला	RP	
+22	सास	NN	
+23	ननद	NN	
+24	जेठानी	NN	
+25	फुफिया	NN	
+26	सास	NN	
+27	घिघिया	VM	
+28	के	RP	
+29	रह	VM	
+30	गेलन	VAUX	
+31	हल	VAUX	
+32	बाकि	CC	
+33	काननप्रिया	NN	
+34	एको	QC	
+35	कोर	NN	
+36	न	NEG	
+37	खा	VM	
+38	सकल	VM	
+39	हल	VAUX	
+40	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अर्त्तन-बर्त्तन	ECH	
+6	जइसे-जइसे	RDP	
+7	जमाना	NN	
+8	बदलल	VM	
+9	जाइत	VM	
+10	हे	VAUX	
+11	वइसे-वइसे	RDP	
+12	हजार	QC	
+13	गो	CL	
+14	नखड़ा	NN	
+15	पसरल	VM	
+16	जाइत	VM	
+17	हे	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पहिले	NST	
+2	खाली	NN	
+3	तिलक	NN	
+4	कपड़ा	NN	
+5	बर्तन	NN	
+6	दे	VM	
+7	देल	VM	
+8	जा	VM	
+9	हल	VAUX	
+10	आउ	CC	
+11	झमेला	NN	
+12	खतम	NN	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अब	NST	
+2	तो	RP	
+3	अर्त्तन-बर्त्तन	ECH	
+4	तिलक-पेहानी	NN	
+5	टीवी-पंखा	NN	
+6	फ्रीज	NN	
+7	घड़ी	NN	
+8	सोफा	NN	
+9	सेट	NN	
+10	सुट-बुट	NN	
+11	मोटर	NN	
+12	साइकिल	NN	
+13	आम	NN	
+14	बात	NN	
+15	हो	VM	
+16	गेल	VAUX	
+17	हे	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	;	SYM	
+2	कउची	WQ	
+3	मिलल	VM	
+4	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	समधी	NN	
+2	हमरा	PRP	
+3	हगू	VM	
+4	देलन	VM	
+5	की	RP	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फलना	NST	
+2	जगह	NST	
+3	से	PSP	
+4	एतना	NN	
+5	मिलतइ	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अर्त्तन-बर्त्तन	ECH	
+2	भी	RP	
+3	सब	INTF	
+4	देखउआ	VM	
+5	हे	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	टिकाऊ	NN	
+2	एको	CL	
+3	न	NEG	
+4	हे	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	स्टील-फस्टील	ECH	
+2	लोहा	NN	
+3	ही	RP	
+4	तो	RP	
+5	हे	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	शीतलमनिया	NN	
+3	के	RP	
+4	बरतन	NN	
+5	देली	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सात	QC	
+2	कुरसी	NN	
+3	तक	NST	
+4	ओकरा	PRP	
+5	कुछ	QF	
+6	न	NEG	
+7	होत	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	अलचारी	NN	
+7	लाचारी	NN	
+8	जब	NST	
+9	तोर	PRP	
+10	धेयान	NN	
+11	ओकरा	PRP	
+12	दने	NN	
+13	तनिको	QF	
+14	न	NEG	
+15	जा	VM	
+16	सकल	VAUX	
+17	त	RP	
+18	अलचारी	NN	
+19	में	PSP	
+20	ऊ	DEM	
+21	व्यास	NN	
+22	जी	NN	
+23	के	RP	
+24	किरानी	NN	
+25	बन	VM	
+26	के	RP	
+27	कलम	NN	
+28	घँसे	VM	
+29	लगल	VM	
+30	हे	VAUX	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अल-बल	NN	
+6	रोमा	NN	
+7	जल्दी	RB	
+8	से	PSP	
+9	आह	NN	
+10	करीत	VM	
+11	जान	NN	
+12	बचाके	VM	
+13	बाथरूम	NN	
+14	में	PSP	
+15	जाके	VM	
+16	केबाड़ी	NN	
+17	लगा	VM	
+18	ले	VAUX	
+19	हे	VAUX	
+20	आउ	CC	
+21	डर	NN	
+22	से	PSP	
+23	हँफित-हँफित	RDP	
+24	वही	DEM	
+25	तेजाब	NN	
+26	ओला	NN	
+27	घटना	NN	
+28	के	RP	
+29	याद	NN	
+30	करके	VM	
+31	काँप	NN	
+32	रहल	VM	
+33	हे	VAUX	
+34	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रवि	NN	
+2	दरवाजा	NN	
+3	भिर	NN	
+4	अल-बल	NN	
+5	बकित	VM	
+6	बाथरूम	NN	
+7	के	RP	
+8	दरवाजा	NN	
+9	कुछ	QF	
+10	देर	NST	
+11	पीट	VM	
+12	के	RP	
+13	फिर	NN	
+14	जाके	VM	
+15	सुत	VM	
+16	जाहे	VM	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	असठी	NN	
+6	ओलती	NN	
+7	के	RP	
+8	नीचे	NST	
+9	बना	VM	
+10	चबूतरा	NN	
+11	ओटा	NN	
+12	कुर्कीहार	NN	
+13	में	PSP	
+14	हमर	PRP	
+15	एगो	CL	
+16	बहीन	NN	
+17	बियाहल	VM	
+18	हइ	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एक	QC	
+2	बेरी	NST	
+3	जब	NST	
+4	हम	PRP	
+5	हुआँ	DEM	
+6	गेल	VM	
+7	हलिअइ	VAUX	
+8	त	RP	
+9	बगल	NN	
+10	के	RP	
+11	एक	QC	
+12	अदमी	NN	
+13	चाय	NN	
+14	पर	PSP	
+15	बोलइलथिन	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जब	NST	
+2	हम	PRP	
+3	उनखर	PRP	
+4	दरवाजा	NN	
+5	पर	PSP	
+6	गेलिअइ	VM	
+7	त	RP	
+8	देखलिअइ	VM	
+9	कि	RP	
+10	उनखर	PRP	
+11	बथानी	NN	
+12	में	PSP	
+13	जानवर	NN	
+14	के	RP	
+15	खाय	VM	
+16	ले	VAUX	
+17	नादी	NN	
+18	रखल	VM	
+19	हलइ	VAUX	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकर	PRP	
+2	चारो	QF	
+3	तरफ	NST	
+4	दुर्लभ	NN	
+5	धरोहर	NN	
+6	के	RP	
+7	असठी	NN	
+8	बनल	VM	
+9	हलइ	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	असराफ	NN	
+6	ऊँची	JJ	
+7	श्रेणी	NN	
+8	के	RP	
+9	काश्तकार	NN	
+10	;	SYM	
+11	कुलीन	JJ	
+12	व्यक्ति	NN	
+13	भला	JJ	
+14	आदमी	NN	
+15	गाम-घर	NN	
+16	में	PSP	
+17	केतना	WQ	
+18	जात-पात	NN	
+19	छूआ-छूत	NN	
+20	हे	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	चमरा	NN	
+2	असराफ	NN	
+3	के	RP	
+4	कुइँया	NN	
+5	पर	PSP	
+6	न	NEG	
+7	चढ़े	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सरोतरी	NN	
+2	सकलदीपी	NN	
+3	के	RP	
+4	बनल	VM	
+5	न	NEG	
+6	खाय	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बभनन	NN	
+2	के	RP	
+3	इ	DEM	
+4	ठस्सा	NN	
+5	कि	RP	
+6	कुरमी	NN	
+7	के	RP	
+8	कहे	VM	
+9	सतुआ	NN	
+10	जात	VM	
+11	आउ	CC	
+12	कोयरी	NN	
+13	के	VM	
+14	कहे	VM	
+15	सगहा	NN	
+16	जात	VM	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओने	DEM	
+2	कोयरी-कुरमी	NN	
+3	के	RP	
+4	गाम	NN	
+5	में	PSP	
+6	डोम-चमार	NN	
+7	माल-मुसहर	NN	
+8	दुसाध-बेलदार	NN	
+9	के	RP	
+10	तो	RP	
+11	बाते	NN	
+12	छोड़	VM	
+13	द	VAUX	
+14	बाबाजी	NN	
+15	भी	RP	
+16	बेचारन	JJ	
+17	सहमल	NN	
+18	रहथन	VM	
+19	-	SYM	
+20	न	NEG	
+21	जाने	VM	
+22	कब	WQ	
+23	भाला-गड़ाँसा	NN	
+24	निकाल	VM	
+25	देत	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	असीआर	NN	
+6	स्थान	NST	
+7	की	RP	
+8	कमी	NN	
+9	तंग	NN	
+10	जगह	NST	
+11	;	SYM	
+12	असुविधा	NN	
+13	कोत्तह	NN	
+14	कुसेदा	NN	
+15	;	SYM	
+16	दे॰	VM	
+17	असिआर	NN	
+18	असियार	NN	
+19	काननप्रिया	NN	
+20	हँसके	VM	
+21	कहऽ	VM	
+22	हल	VAUX	
+23	"	SYM	
+24	हम	PRP	
+25	मर	VM	
+26	जइबइ	VAUX	
+27	बाबूजी	NN	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	ओकर	PRP	
+3	मइया	NN	
+4	भी	RP	
+5	कहऽ	VM	
+6	हल	VAUX	
+7	"	SYM	
+8	मर	VM	
+9	जो	VAUX	
+10	न	NEG	
+11	गे	CL	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	असीआर	NN	
+2	होइत	VM	
+3	हहीं	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	इनका	PRP	
+2	से	PSP	
+3	कुछो	QF	
+4	न	NEG	
+5	जुमइत	VM	
+6	हइन	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमनी	PRP	
+2	दूनो	QC	
+3	मर	VM	
+4	जो	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बंड-संड	NN	
+2	रहतथु	VM	
+3	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	खूब	QF	
+2	सौख-मौज	NN	
+3	करे	VM	
+4	ला	VAUX	
+5	होतइन	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बिआह	NN	
+2	काहे	WQ	
+3	ला	RP	
+4	कइलऽ	VM	
+5	हल	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	ओकर	PRP	
+3	बाप	NN	
+4	हँसके	VM	
+5	कहऽ	VM	
+6	हलन	VAUX	
+7	"	SYM	
+8	दूनो	QC	
+9	माय-बेटी	NN	
+10	पेर	VM	
+11	देलें	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कभी	NST	
+2	साड़ी	NN	
+3	त	RP	
+4	कभी	NST	
+5	सलवार-कमीज	NN	
+6	त	RP	
+7	कभी	NST	
+8	गहना	NN	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	केतना	WQ	
+2	फरमाइश	NST	
+3	पूरा	VM	
+4	करी	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	अहस	NN	
+7	सुअरमुँहा	NN	
+8	केकरो	NN	
+9	अहस	NN	
+10	नञ्	NEG	
+11	मानतो	VM	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	अहिस्ते-अहिस्ते	RDP	
+6	आहिस्ते-आहिस्ते	RDP	
+7	धीरे-धीरे	RDP	
+8	हम	PRP	
+9	अभी	NST	
+10	चार-पाँच	QC	
+11	बच्छर	NN	
+12	के	RP	
+13	हूँ	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लंगटे	NN	
+2	उठलूँ	VM	
+3	बिस्टी	NN	
+4	सुतले	VM	
+5	में	PSP	
+6	फेंका	VM	
+7	गेल	VAUX	
+8	आउ	CC	
+9	हग्गे-मूते	VM	
+10	ला	VAUX	
+11	दौड़ल	VM	
+12	सिलाव-राजगीर	NN	
+13	सड़क	NN	
+14	पर	PSP	
+15	पहुँच	VM	
+16	गेलूँ	VAUX	
+17	कि	RP	
+18	देखऽ	VM	
+19	हियो	VAUX	
+20	-	SYM	
+21	बाप	NN	
+22	रे	INJ	
+23	बाप	NN	
+24	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ढेर	QF	
+2	सा	NN	
+3	जन्नी-मरद	NN	
+4	बूढ़ा	NN	
+5	पीठ	NN	
+6	पर	PSP	
+7	बुतरू	NN	
+8	लादले	VM	
+9	लबादा	NN	
+10	ओढ़ले	VM	
+11	चलल	VM	
+12	जाहे	VAUX	
+13	पैदले-पैदले	RDP	
+14	डोलते-डालते	RDP	
+15	अहिस्ते-अहिस्ते	RDP	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	आन-जान	NN	
+6	ठेक	NN	
+7	मेटा	VM	
+8	ले	VAUX	
+9	हिअइ	DEM	
+10	आन-जान	NN	
+11	के	RP	
+12	रस्ता	NN	
+13	बन	VM	
+14	जइतइ	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	आन्हर-कोतर	NN	
+6	हमहुँ	PRP	
+7	सबके	INTF	
+8	रंग-ढंग	NN	
+9	देख	VM	
+10	रहल	VM	
+11	ही	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आन्हर-कोतर	NN	
+2	न	NEG	
+3	ही	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कान	NN	
+2	में	PSP	
+3	ठेपी	NN	
+4	लागा	VM	
+5	के	RP	
+6	बइठल	VM	
+7	न	NEG	
+8	ही	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	आय	INJ	
+6	'	SYM	
+7	आय	INJ	
+8	फुआ	NN	
+9	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आगे	NST	
+2	तो	RP	
+3	बतयवे	VM	
+4	न	NEG	
+5	कइलऽ	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कलजुगिया	NN	
+2	चौपाल	NN	
+3	सबके	INTF	
+4	दलान	NN	
+5	पर	PSP	
+6	लग	VM	
+7	जायत	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बड़-जेठ	JJ	
+2	मुँह	NN	
+3	लुका	VM	
+4	लेतन	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उधर	NST	
+2	नया-नया	JJ	
+3	होरी-चइता	NN	
+4	गवाये	VM	
+5	लगत	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दस	QC	
+2	बजल	VM	
+3	कि	RP	
+4	सब	INTF	
+5	झूमइत	VM	
+6	अपन	PRP	
+7	मेहरारू	NN	
+8	के	RP	
+9	गोड़थारी	NN	
+10	में	PSP	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	'	SYM	
+2	रामटहल	NN	
+3	कहइत-कहइत	RDP	
+4	बेयग्गर	NN	
+5	हो	VM	
+6	गेलन	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	आय	NN	
+6	हाय	INJ	
+7	महादे	NN	
+8	-	SYM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अभी	NST	
+2	तो	RP	
+3	दुन्नो	QC	
+4	बेटा	NN	
+5	भी	RP	
+6	घर	NN	
+7	में	PSP	
+8	न	NEG	
+9	हथुन	VM	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमर	PRP	
+2	नाच	NN	
+3	के	RP	
+4	देखनिहार	NN	
+5	अकेले	PRP	
+6	तूँहीं	PRP	
+7	रहबऽ	VM	
+8	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	/	SYM	
+2	पारबती	NN	
+3	-	SYM	
+4	{	SYM	
+5	ताना	NN	
+6	मारइत	VM	
+7	}	SYM	
+8	आय	NN	
+9	हाय	INJ	
+10	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	चलनी	NN	
+2	दुसलक	NN	
+3	सूप	NN	
+4	के	RP	
+5	जेकरा	DEM	
+6	में	PSP	
+7	बहत्तर	QC	
+8	छेद	NN	
+9	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दुन्नो	QC	
+2	बेटा	NN	
+3	बेकहल	NN	
+4	नियर	NN	
+5	अप्पन	PRP	
+6	मरजी	NN	
+7	से	PSP	
+8	जहाँ-तहाँ	NST	
+9	काम	NN	
+10	करइत	VM	
+11	रहऽ	VAUX	
+12	हथुन	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	आलता	NN	
+6	धीरे-धीरे	RDP	
+7	ओकर	PRP	
+8	बाप	NN	
+9	कंजूस	JJ	
+10	के	RP	
+11	धोकड़ी	NN	
+12	हो	VM	
+13	गेलन	VM	
+14	हल	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एक-एक	RDP	
+2	पैसा	NN	
+3	जोड़े	VM	
+4	लगलन	VM	
+5	हल	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पर्व-त्योहार	NN	
+2	में	PSP	
+3	भी	RP	
+4	साड़ी-साया	NN	
+5	मुहाल	NN	
+6	हो	VM	
+7	गेल	VM	
+8	हल	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकर	PRP	
+2	माय	NN	
+3	आउ	CC	
+4	ऊ	PRP	
+5	फटल-पुरान	JJ	
+6	पहने	VM	
+7	लगल	VM	
+8	हल	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जउन	NN	
+2	काननप्रिया	NN	
+3	दिन	NST	
+4	में	PSP	
+5	चार	QC	
+6	बार	NN	
+7	पाउडर	NN	
+8	आउ	CC	
+9	आलता	NN	
+10	से	PSP	
+11	गोड़-हाँथ	NN	
+12	रंगऽ	NN	
+13	हल	VM	
+14	ओकरा	PRP	
+15	साबुन	NN	
+16	तक	NST	
+17	मुहाल	NN	
+18	हल	VM	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	इड़ोत	NN	
+6	ओकर	PRP	
+7	आँख	NN	
+8	से	PSP	
+9	झर-झर	RDP	
+10	आँसू	NN	
+11	झरे	VM	
+12	लगल	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कइसे	WQ	
+2	आज	NST	
+3	भाई	NN	
+4	अकेले	NN	
+5	सुतत	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एक	QC	
+2	क्षण	NST	
+3	भी	RP	
+4	ऊ	PRP	
+5	आँख	NN	
+6	से	PSP	
+7	ओकरा	PRP	
+8	इड़ोत	NN	
+9	न	NEG	
+10	होते	VM	
+11	दे	VM	
+12	हल	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	माय-बाप	NN	
+2	के	RP	
+3	आँख	NN	
+4	के	RP	
+5	पुतली	NN	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	ईन	NN	
+6	ईन	NN	
+7	घर	NN	
+8	नीन	NN	
+9	चान	NN	
+10	घर	NN	
+11	चोरी	NN	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जम	NN	
+2	घर	NN	
+3	मरन	NN	
+4	राज	NN	
+5	घर	NN	
+6	भोगी	VM	
+7	॥	SYM	
+8	मपध॰	NN	
+9	:	SYM	
+10	:	SYM	
+11	:	SYM	
+12	ईर	NN	
+13	घाट	NN	
+14	~	SYM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मीर	NN	
+2	घाट	NN	
+3	कातिक	NN	
+4	तो	RP	
+5	तोर	PRP	
+6	अगिनबेटा	NN	
+7	हथुन	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	निछत्तर	QF	
+2	लोक	NN	
+3	में	PSP	
+4	छव	NN	
+5	किरितिका	NN	
+6	लोग	NN	
+7	उनकर	PRP	
+8	पालन-पोसन	NN	
+9	कइलन	VM	
+10	हल	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कातिक	NN	
+2	जनमलन	VM	
+3	ईर	NN	
+4	घाट	NN	
+5	पालल-पोसल	NN	
+6	गेलन	VM	
+7	मीर	NN	
+8	घाट	NN	
+9	आउ	CC	
+10	माय	NN	
+11	कहइली	VM	
+12	हम	PRP	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	उगलरेख	NN	
+6	बूढ़ा-जवान-	NN	
+7	~	SYM	
+8	खेत	NN	
+9	में	PSP	
+10	कबड्डी	NN	
+11	जमल	VM	
+12	हे	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दुनहूँ	QC	
+2	पाटी	NN	
+3	में	PSP	
+4	बूढ़ा-जवान-उगलरेख	NN	
+5	सब	INTF	
+6	सेल	NN	
+7	कबड्डी	NN	
+8	कर	VM	
+9	रहला	VM	
+10	ह	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एने	NST	
+2	मुरझाल-कुम्हलाल	VM	
+3	मामू	NN	
+4	हर-बैल	NN	
+5	लेले	VM	
+6	बिड़ार	NN	
+7	जोते	VM	
+8	ला	RP	
+9	मुस्तैद	NN	
+10	हो	VM	
+11	गेला	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	उटेरा	NN	
+6	भाषा	NN	
+7	कउनो	WQ	
+8	रहे	VM	
+9	गद्य	NN	
+10	लिखेवला	NN	
+11	से	PSP	
+12	पद्य	NN	
+13	रचेवला	VM	
+14	के	RP	
+15	संख्या	NN	
+16	जादे	QF	
+17	होवे	VM	
+18	करऽ	VM	
+19	हइ	VAUX	
+20	बकि	CC	
+21	ऊ	DEM	
+22	भाषा	NN	
+23	के	RP	
+24	साहित्य	NN	
+25	के	RP	
+26	दोसर	QO	
+27	विधा	NN	
+28	के	RP	
+29	रचनाकार	NN	
+30	के	RP	
+31	संख्या	NN	
+32	जब	NST	
+33	तक	NST	
+34	उटेरा	NN	
+35	नियन	NN	
+36	रहतइ	VM	
+37	तब	NST	
+38	तक	NST	
+39	ऊ	DEM	
+40	भाषा	NN	
+41	के	RP	
+42	पुरकस	NN	
+43	विकास	NN	
+44	नञ्	NEG	
+45	हो	VM	
+46	पइतइ	VAUX	
+47	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	उठान	NN	
+6	~	SYM	
+7	हारना	NN	
+8	;	SYM	
+9	~	SYM	
+10	आउ	CC	
+11	मुठान	NN	
+12	टिटकारी	NN	
+13	पारे	VM	
+14	से	PSP	
+15	थोड़े	QF	
+16	उठ	VM	
+17	जइतउ	VAUX	
+18	ई	DEM	
+19	भैंसवा	NN	
+20	महिन्नो	NST	
+21	से	PSP	
+22	उठान	NN	
+23	हार	NN	
+24	रहले	VM	
+25	हे	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	;	SYM	
+2	ठीक	JJ	
+3	से	PSP	
+4	देखे	VM	
+5	दे	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उठान	NN	
+2	आउ	CC	
+3	मुठान	NN	
+4	से	PSP	
+5	अदमी	NN	
+6	आउ	CC	
+7	जानवर	NN	
+8	के	RP	
+9	पहचान	NN	
+10	होवऽ	VM	
+11	हइ	VAUX	
+12	ढेर	QF	
+13	हबहब	NN	
+14	नञ्	NEG	
+15	कर	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	उदवास	NN	
+7	मुकुल	NN	
+8	के	RP	
+9	जनम	NN	
+10	से	PSP	
+11	तोर	PRP	
+12	घर	NN	
+13	में	PSP	
+14	जेतने	NN	
+15	खुशी	NN	
+16	हो	VM	
+17	इ	DEM	
+18	राछस	NN	
+19	के	RP	
+20	घर	NN	
+21	में	PSP	
+22	ओतने	NN	
+23	गम	NN	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	काहे	CC	
+2	कि	RP	
+3	तोर	PRP	
+4	आठो	QC	
+5	बिगहा	NN	
+6	जमीन	NN	
+7	एखनी	NN	
+8	के	RP	
+9	दिमाग	NN	
+10	में	PSP	
+11	नाचित	VM	
+12	हवऽ	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एकरे	PRP	
+2	चलते	VM	
+3	हमरा	PRP	
+4	बड़ी	JJ	
+5	उदवास	NN	
+6	कइल	VM	
+7	जा	VM	
+8	रहलो	VM	
+9	हे	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	उपहना	NN	
+6	गायब	NN	
+7	होना	VM	
+8	बेचारा	JJ	
+9	बेटिहा	NN	
+10	के	RP	
+11	नीन	NN	
+12	उपह	NN	
+13	गेल	VM	
+14	हे	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	खेवा-खरची	NN	
+2	चलावे	VM	
+3	ला	RP	
+4	परिवार	NN	
+5	के	RP	
+6	जे	NN	
+7	थुम्ही	NN	
+8	हल	VAUX	
+9	ओहो	PRP	
+10	भरभरा	RB	
+11	के	RP	
+12	धरती	NN	
+13	धयले	VM	
+14	हे	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दस	QC	
+2	कट्ठा	NST	
+3	नफीस	NN	
+4	जमीन	NN	
+5	देखते-देखते	RDP	
+6	रजिस्ट्री	NN	
+7	ऑफिस	NN	
+8	में	PSP	
+9	गोल	NN	
+10	हो	VM	
+11	गेल	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	उफर	NN	
+6	कष्ट	NN	
+7	तबाही	NN	
+8	~	SYM	
+9	परना	NN	
+10	पारबती	NN	
+11	-	SYM	
+12	हम	PRP	
+13	तोरा	PRP	
+14	नाचे	VM	
+15	ला	RP	
+16	तनि	QF	
+17	का	RP	
+18	कहली	VM	
+19	कि	RP	
+20	तूँ	PRP	
+21	तरक-बितरक	NN	
+22	के	RP	
+23	जाल	NN	
+24	बिछा	VM	
+25	देलऽ	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उफर	NN	
+2	परे	PSP	
+3	तोर	PRP	
+4	तांडो	NN	
+5	नाच	NN	
+6	में	PSP	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तू	PRP	
+2	खाली	NN	
+3	दूगो	QC	
+4	बेलपत्तर	NN	
+5	से	PSP	
+6	परसन्न	NN	
+7	होके	VM	
+8	भगत	NN	
+9	लोग	NN	
+10	के	RP	
+11	मुँह	NN	
+12	माँगल	VM	
+13	वरदान	NN	
+14	देइत	VM	
+15	रहऽ	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	एकछितराही	NN	
+6	ओकरा	PRP	
+7	एकछितराही	NN	
+8	के	RP	
+9	कउहार	NN	
+10	में	PSP	
+11	मन	NN	
+12	थोड़े	QF	
+13	लगतइ	VM	
+14	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	एकठौए	NN	
+6	हम्मर	PRP	
+7	नाना	NN	
+8	काला	JJ	
+9	भुचुंग	NN	
+10	खाँटी	JJ	
+11	किसान	NN	
+12	एकठौए	NN	
+13	हर	NN	
+14	जोते	VM	
+15	वाला	NN	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कमे	JJ	
+2	उमर	NN	
+3	में	PSP	
+4	काल-कवलित	NN	
+5	हो	VM	
+6	गेला	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	एखनी	NST	
+6	एकन्हीं	NST	
+7	;	SYM	
+8	ये	DEM	
+9	सब	INTF	
+10	मुकुल	NN	
+11	के	RP	
+12	जनम	NN	
+13	से	PSP	
+14	तोर	PRP	
+15	घर	NN	
+16	में	PSP	
+17	जेतने	NN	
+18	खुशी	NN	
+19	हो	VM	
+20	इ	DEM	
+21	राछस	NN	
+22	के	RP	
+23	घर	NN	
+24	में	PSP	
+25	ओतने	NN	
+26	गम	NN	
+27	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	काहे	CC	
+2	कि	RP	
+3	तोर	PRP	
+4	आठो	QC	
+5	बिगहा	NN	
+6	जमीन	NN	
+7	एखनी	NN	
+8	के	RP	
+9	दिमाग	NN	
+10	में	PSP	
+11	नाचित	VM	
+12	हवऽ	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एकरे	NN	
+2	चलते	VM	
+3	हमरा	PRP	
+4	बड़ी	JJ	
+5	उदवास	NN	
+6	कइल	VM	
+7	जा	VM	
+8	रहलो	VM	
+9	हे	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	ओइजगे	NST	
+6	ओज्जे	NST	
+7	;	SYM	
+8	उसी	NN	
+9	जगह	NST	
+10	रोहित	NN	
+11	के	RP	
+12	लगन	NN	
+13	देखके	VM	
+14	नरेंद्र	NN	
+15	बाबू	NN	
+16	भी	RP	
+17	उत्साह	NN	
+18	से	PSP	
+19	भर	NN	
+20	जा	VM	
+21	हलन	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	देर	NN	
+2	रात	NST	
+3	तक	NST	
+4	बाप-बेटा	NN	
+5	दुन्नो	QC	
+6	जगऽ	VM	
+7	हलन	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	गणित	NN	
+2	आउ	CC	
+3	भौतिकी	NN	
+4	के	RP	
+5	सिद्धांत	NN	
+6	आउ	CC	
+7	समस्या	NN	
+8	पर	PSP	
+9	चर्चा	NN	
+10	होवऽ	VM	
+11	हल	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोहित	NN	
+2	के	RP	
+3	माए	NN	
+4	ओइजगे	NST	
+5	बइठ	VM	
+6	के	RP	
+7	झुँकइत	VM	
+8	रहऽ	VM	
+9	हल	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	;	SYM	
+2	अब	NST	
+3	ऊ	DEM	
+4	पटना	NN	
+5	के	RP	
+6	गणित	NN	
+7	भौतिकी	NN	
+8	आउ	CC	
+9	रसायन	NN	
+10	पढ़त	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओइजगे	NST	
+2	बइठल	VM	
+3	कॉलेज	NN	
+4	के	RP	
+5	किरानी	NN	
+6	झट	RB	
+7	से	PSP	
+8	टोकलन	VM	
+9	"	SYM	
+10	पटना	NN	
+11	के	RP	
+12	भूगोल	NN	
+13	आउ	CC	
+14	इतिहास	NN	
+15	तो	RP	
+16	सुनली	VM	
+17	हल	VAUX	
+18	नरेंद्र	NN	
+19	बाबू	NN	
+20	ई	DEM	
+21	गणित	NN	
+22	भौतिकी	NN	
+23	आउ	CC	
+24	रसायन	NN	
+25	का	WQ	
+26	होवऽ	VM	
+27	हे	VAUX	
+28	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	:	SYM	
+7	ओइसे	NN	
+8	ओइसे	NN	
+9	अपने	PRP	
+10	हमरा	PRP	
+11	पछान	NN	
+12	न	NEG	
+13	पइली	VM	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	मुन्ना	NN	
+3	ही	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	विश्वविद्यालय	NN	
+2	प्रोफेसर	NN	
+3	डॉ॰	NN	
+4	मनोहर	NN	
+5	के	RP	
+6	बेटा	NN	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	ओरना	NN	
+6	ऊ	DEM	
+7	इतरा	NN	
+8	के	RP	
+9	कहऽ	VM	
+10	हल	VAUX	
+11	"	SYM	
+12	तू	PRP	
+13	का	RP	
+14	न	NEG	
+15	हहीं	VM	
+16	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोरा	PRP	
+2	ला	RP	
+3	सिकरी	NN	
+4	आउ	CC	
+5	पायल	NN	
+6	बनइत	VM	
+7	हउ	VAUX	
+8	राते	NN	
+9	बाबूजी	NN	
+10	कहित	VM	
+11	हलथु	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	का	RP	
+3	न	NEG	
+4	सुनलिअउ	VM	
+5	हल	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मइया	NN	
+3	हँसके	VM	
+4	लजाइत	NN	
+5	एक	QC	
+6	धौल	NN	
+7	जमावऽ	VM	
+8	हल	VAUX	
+9	"	SYM	
+10	कन्ने	NN	
+11	गे	CL	
+12	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कन-ओरनी	NN	
+2	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कान	NN	
+2	ओरले	VM	
+3	हलें	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तूँ	PRP	
+2	पहिने	VM	
+3	देमे	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हथिया	NN	
+2	लेमे	VAUX	
+3	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	ओलना	NN	
+7	तीसी	NN	
+8	ओल	NN	
+9	रहलियो	VM	
+10	हे	VAUX	
+11	अभी	NST	
+12	देर	NN	
+13	होतो	VM	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	औसो	NN	
+6	अउसो	NN	
+7	~	SYM	
+8	के	RP	
+9	कातिक	NST	
+10	के	RP	
+11	गिनती	NN	
+12	देवी-दुरगा	NN	
+13	के	RP	
+14	दरजन	NN	
+15	भर	NST	
+16	भगती	NN	
+17	करेवला	NN	
+18	लोग	NN	
+19	में	PSP	
+20	होवऽ	VM	
+21	हे	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकर	PRP	
+2	नस-नस	RDP	
+3	में	PSP	
+4	हम्मर	PRP	
+5	तेज	RB	
+6	भरल	VM	
+7	हे	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमनी	PRP	
+2	के	RP	
+3	नाम	NN	
+4	ऊ	DEM	
+5	औसो	NN	
+6	के	RP	
+7	उजागिर	NN	
+8	करत	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	कचवच	NN	
+6	दोहाई	NN	
+7	गंगा	NN	
+8	माय	NN	
+9	के	RP	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	केतना	WQ	
+2	मलहवन	NN	
+3	सार	NN	
+4	नाव	NN	
+5	लेले	VM	
+6	गंगा	NN	
+7	में	PSP	
+8	समा	NN	
+9	गेल	VM	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जय	NN	
+2	बाबा	NN	
+3	बैकठ	NN	
+4	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भोला	NN	
+2	बाबा	NN	
+3	के	RP	
+4	सेवऽ	VM	
+5	हियो	VAUX	
+6	-	SYM	
+7	एही	NN	
+8	से	PSP	
+9	जान	NN	
+10	बचलो	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मलाह	NN	
+2	सार	NN	
+3	कचवच	NN	
+4	खा	VM	
+5	हे	VAUX	
+6	गेला	VAUX	
+7	सारे	QF	
+8	हाथी	NN	
+9	के	RP	
+10	गाँड़	NN	
+11	में	PSP	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	कच्चा-डहरा	NN	
+6	कच्चा-डहरा	NN	
+7	हो	VM	
+8	गेले	VAUX	
+9	हे	VAUX	
+10	कनियाय	NN	
+11	के	RP	
+12	जे	NN	
+13	कान	NN	
+14	रहलथुन	VM	
+15	हे	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	कटकटाना	VM	
+6	महादे	NN	
+7	-	SYM	
+8	हो	VM	
+9	गेल	VAUX	
+10	तोर	PRP	
+11	सिकायत	NN	
+12	के	RP	
+13	गठरी	NN	
+14	समापित	NN	
+15	कि	RP	
+16	कहे	VM	
+17	ला	VAUX	
+18	कुछ	QF	
+19	आउर	CC	
+20	बाकी	NN	
+21	हे	VAUX	
+22	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	/	SYM	
+2	पारबती	NN	
+3	-	SYM	
+4	सब	INTF	
+5	बात	NN	
+6	तोरा	PRP	
+7	कटकटा	NN	
+8	के	RP	
+9	काहे	WQ	
+10	लगऽ	VM	
+11	हे	VAUX	
+12	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उलटे	NN	
+2	हमरा	PRP	
+3	आँख	NN	
+4	देखावऽ	VM	
+5	ह	VAUX	
+6	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	कढ़ौंसा	NN	
+6	कड़ौंसा	NN	
+7	मोटाऽ	VM	
+8	के	RP	
+9	कढ़ौंसा	NN	
+10	हो	VM	
+11	गेलइ	VAUX	
+12	छौंड़ी	NN	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	कतिकसन	NN	
+6	भदवे	NST	
+7	में	PSP	
+8	मड़ुआ	NN	
+9	के	RP	
+10	रोटी	NN	
+11	आउ	CC	
+12	मट्ठा	NN	
+13	चले	VM	
+14	लगल	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जिनोरा	NN	
+2	के	RP	
+3	दर्रा	NN	
+4	भी	RP	
+5	चले	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दाल-भात	NN	
+2	दूध-भात	NN	
+3	कभी	NST	
+4	घटे	NN	
+5	न	NEG	
+6	किसान	NN	
+7	घर	NN	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कतिकसन	NN	
+2	एगो	CL	
+3	झटका	NN	
+4	दे	VM	
+5	हइ	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मजूर	NN	
+2	सब	INTF	
+3	डेउढ़िया	NN	
+4	लेके	VM	
+5	काम	NN	
+6	चलावऽ	VM	
+7	हइ	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	कन-ओरनी	NN	
+6	ऊ	PRP	
+7	इतरा	NN	
+8	के	RP	
+9	कहऽ	VM	
+10	हल	VAUX	
+11	"	SYM	
+12	तू	PRP	
+13	का	WQ	
+14	न	NEG	
+15	हहीं	VM	
+16	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोरा	PRP	
+2	ला	RP	
+3	सिकरी	NN	
+4	आउ	CC	
+5	पायल	NN	
+6	बनइत	VM	
+7	हउ	VAUX	
+8	राते	NST	
+9	बाबूजी	NN	
+10	कहित	VM	
+11	हलथु	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	का	WQ	
+3	न	NEG	
+4	सुनलिअउ	VM	
+5	हल	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मइया	NN	
+3	हँसके	VM	
+4	लजाइत	NN	
+5	एक	QC	
+6	धौल	NN	
+7	जमावऽ	VM	
+8	हल	VAUX	
+9	"	SYM	
+10	कन्ने	NN	
+11	गे	CL	
+12	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कन-ओरनी	NN	
+2	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कान	NN	
+2	ओरले	VM	
+3	हलें	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तूँ	PRP	
+2	पहिने	VM	
+3	देमे	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हथिया	NN	
+2	लेमे	VM	
+3	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	मपध॰	NN	
+3	:	SYM	
+4	:	SYM	
+5	:	SYM	
+6	कपूत-कपूती	NN	
+7	कहल	VM	
+8	गेल	VAUX	
+9	हे	VAUX	
+10	कि	RP	
+11	शायर	NN	
+12	सिंह	NN	
+13	सपूत	NN	
+14	बेलीक	NN	
+15	चलऽ	VM	
+16	हे	VAUX	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	इ	DEM	
+2	नजर	NN	
+3	से	PSP	
+4	देखहू	VM	
+5	त	RP	
+6	लगतो	VM	
+7	पंद्रह	QC	
+8	आना	NN	
+9	अदमी-औरत	NN	
+10	कपूत-कपूती	NN	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	संसार	NN	
+2	चल	VM	
+3	रहल	VM	
+4	ह	VAUX	
+5	एके	QC	
+6	आना	NN	
+7	से	PSP	
+8	जे	NN	
+9	अप्पन	PRP	
+10	इमान	NN	
+11	पर	PSP	
+12	कायम	NN	
+13	हे	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	कबकबाना	VM	
+6	मायो	NN	
+7	झुट्ठो	NN	
+8	कबकबा	NN	
+9	रहले	VM	
+10	ह	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	कुछ	QF	
+3	कहबो	VM	
+4	नञ्	NEG	
+5	कइलिए	VM	
+6	ह	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	करजा-पइँचा	NN	
+6	आखिर	QF	
+7	तिलक	NN	
+8	के	RP	
+9	गुणा-भाग	NN	
+10	एक	QC	
+11	जगह	NST	
+12	बइठ	VM	
+13	गेल	VM	
+14	हल	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाबूजी	NN	
+2	जी-जान	NN	
+3	से	PSP	
+4	लग	VM	
+5	गेलन	VM	
+6	हल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जइसे-तइसे	NN	
+2	करजा-पइँचा	NN	
+3	त	RP	
+4	कुल	QF	
+5	जमा-पुँजी	NN	
+6	खरच	VM	
+7	करके	VAUX	
+8	तिलक	NN	
+9	पूरा	NN	
+10	होयल	VM	
+11	हल	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकर	NN	
+2	बाप	NN	
+3	के	RP	
+4	सारा	QF	
+5	खून	NN	
+6	जइसे	NN	
+7	चुस	VM	
+8	गेल	VM	
+9	हल	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	करेबर	NN	
+6	एह	INJ	
+7	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	काहे	WQ	
+2	ल	RP	
+3	बोल	NN	
+4	रहलऽ	VM	
+5	हे	VAUX	
+6	तोरा	PRP	
+7	नियन	NN	
+8	करेबर	JJ	
+9	नञ्	NEG	
+10	हइ	VM	
+11	कोय	NN	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	कलसा	NN	
+6	कलश	NN	
+7	सरिता	NN	
+8	के	RP	
+9	सखी-सलेहर	NN	
+10	बिआह	NN	
+11	के	RP	
+12	गीत	NN	
+13	गा	VM	
+14	रहलन	VM	
+15	हल	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	गाड़ल	VM	
+2	हरियर	JJ	
+3	बाँस	NN	
+4	जेकर	NN	
+5	फुतुंगी	NN	
+6	पर	PSP	
+7	बान्हल	VM	
+8	आम	NN	
+9	के	RP	
+10	पल्लो	NN	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	गोहमाठी	NN	
+2	से	PSP	
+3	छावल	VM	
+4	मड़वा	NN	
+5	जेकरा	NN	
+6	में	PSP	
+7	आम	NN	
+8	के	RP	
+9	घुँच्चा	NN	
+10	लटक	VM	
+11	रहल	VM	
+12	हल	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अँगना	NN	
+2	में	PSP	
+3	कलसा	NN	
+4	पर	PSP	
+5	चम्भुक	NN	
+6	बर	VM	
+7	रहल	VM	
+8	हल	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	कहिए	VM	
+6	कहिये	VM	
+7	कभी	NST	
+8	का	RP	
+9	;	SYM	
+10	बहुत	INTF	
+11	पहले	NST	
+12	रोहित	NN	
+13	के	RP	
+14	पढ़ाई	NN	
+15	चरम	NN	
+16	पर	PSP	
+17	हल	VM	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अगिला	NN	
+2	पख	NN	
+3	में	PSP	
+4	परीक्षा	NN	
+5	हल	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आई	NN	
+2	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एससी	NN	
+2	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	के	RP	
+2	परीक्षा	NN	
+3	तो	RP	
+4	कहिए	NST	
+5	हो	VM	
+6	गेल	VM	
+7	हल	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोहित	NN	
+2	जी-जान	NN	
+3	लगौले	VM	
+4	हल	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+5	काँड़ी	NN	
+6	~	SYM	
+7	से	PSP	
+8	पिलाना	VM	
+9	'	SYM	
+10	आ	CC	
+11	मार	VM	
+12	बढ़नी	NN	
+13	रे	INJ	
+14	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भिछनी	NN	
+2	मेहरारुओ	NN	
+3	ओही	DEM	
+4	लगन	NN	
+5	के	RP	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	माथ	NN	
+2	पर	PSP	
+3	भर	NST	
+4	चुरुआ	NN	
+5	तेल	NN	
+6	थोप	VM	
+7	देत	VAUX	
+8	आ	CC	
+9	सुतले-सुतले	RDP	
+10	दाल-रोटी	NN	
+11	काँड़ी	NN	
+12	से	PSP	
+13	पिया	VM	
+14	देत	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	'	SYM	
+2	सोनामति	NN	
+3	फुआ	NN	
+4	बीड़ी	NN	
+5	लेलन	VM	
+6	आ	CC	
+7	धूँक	NN	
+8	मारइत	VM	
+9	टुघरइत	VM	
+10	चल	VM	
+11	देलन	VAUX	
+12	अपन	PRP	
+13	पलानी	NN	
+14	में	PSP	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मपध॰	NN	
+2	:	SYM	
+3	:	SYM	
+4	:	SYM	
+</Sentence>
+
+</document>

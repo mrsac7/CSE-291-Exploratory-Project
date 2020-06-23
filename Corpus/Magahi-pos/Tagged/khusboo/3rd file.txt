@@ -1,0 +1,6932 @@
+<document id="null">
+<head>
+
+</head>
+<Sentence id=''''>
+1	﻿त	CC	
+2	आज	NST	
+3	से	PSP	
+4	तुँहो	PRP	
+5	पठसाला	NN	
+6	पर	PSP	
+7	आवल	VM	
+8	करऽ	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रमाइन	NNP	
+2	गुलगुल	JJ	
+3	दुब्भी	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बिसेसरा	NNP	
+2	पड़	VM	
+3	रहल	VAUX	
+4	ओही	VAUX	
+5	पर	PSP	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मालिक	NN	
+2	जनु	RP	
+3	भितरहीं	NST	
+4	हथिन	VM	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बेगर	RB	
+2	बोलएले	VM	
+3	भितरे	NST	
+4	जाना	VM	
+5	ठीक	JJ	
+6	न	NEG	
+7	हे	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मालिक	NN	
+2	अपने	PRP	
+3	चाल	VM	
+4	पारतन	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रमाइन	NNP	
+2	के	PSP	
+3	एगो	QC	
+4	जोड़ती	NN	
+5	गुनगुनाए	VM	
+6	लगल	VAUX	
+7	बिसेसरा	NNP	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रमौनिहार	NN	
+2	इ	DEM	
+3	मुसहरिआ	NN	
+4	में	PSP	
+5	ढोल	NN	
+6	बजऽ	VM	
+7	हइ	VAUX	
+8	हो	VAUX	
+9	,	SYM	
+10	लपक	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अकान	NN	
+2	तो	RP	
+3	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	पसिखाना	NN	
+3	भीर	NST	
+4	ओला	NN	
+5	चबुतरा	NN	
+6	पर	PSP	
+7	सब्भे	QF	
+8	कोई	NN	
+9	औरते-मरदे	NN	
+10	चली	VM	
+11	जा	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हरिजन	NN	
+2	के	PSP	
+3	भलाई	NN	
+4	ला	PSP	
+5	अफसरी	NN	
+6	छोड़	VM	
+7	के	PSP	
+8	मुसहरी	NN	
+9	में	PSP	
+10	धुइँ	JJ	
+11	रमौनिहार	NN	
+12	सामी	NNP	
+13	जी	RP	
+14	के	PSP	
+15	उपदेस	NN	
+16	सुन	VM	
+17	के	PSP	
+18	जिनगी	NN	
+19	धन	NN	
+20	करऽ	VM	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रवादार	JJ	
+2	बुतरुआ	NN	
+3	के	PSP	
+4	गोदिआ	NN	
+5	से	PSP	
+6	निच्चे	NST	
+7	उतारे	VM	
+8	ला	PSP	
+9	चाहलक	VAUX	
+10	,	SYM	
+11	बाकि	CC	
+12	उ	DEM	
+13	उतरे	VM	
+14	पर	PSP	
+15	रवादार	JJ	
+16	न	NEG	
+17	होल	VM	
+18	त	CC	
+19	खिसिआ	VM	
+20	के	PSP	
+21	ओकरा	PRP	
+22	उतार	VM	
+23	देलक	VAUX	
+24	-	SYM	
+25	दिन	NST	
+26	भर	QF	
+27	गोदक्के	NN	
+28	चढ़त	VM	
+29	,	SYM	
+30	अइसन	RB	
+31	नोंनु	NN	
+32	हे	VM	
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रसहीं	NN	
+2	=	SYM	
+3	धीरे	RB	
+4	से	PSP	
+5	ही	RP	
+6	चन्नी	NNP	
+7	माए	NN	
+8	फुसफुसएलन	VM	
+9	-	SYM	
+10	सुनले	VM	
+11	हें	VAUX	
+12	कि	CC	
+13	न	NEG	
+14	गे	INJ	
+15	सोबरनी	NNP	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	का	WQ	
+2	माए	NN	
+3	,	SYM	
+4	हँम	PRP	
+5	तो	RP	
+6	कुच्छो	QF	
+7	नँ	NEG	
+8	जानऽ	VM	
+9	ही	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओहु	PRP	
+2	रसहीं	NN	
+3	बोलल	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रसे-रसे	RB	
+2	=	SYM	
+3	धीरे-धीरे	RB	
+4	आउ	CC	
+5	भगतवा	NN	
+6	जाके	VM	
+7	देखलक	VAUX	
+8	उनका	PRP	
+9	,	SYM	
+10	चुत्तड़	NN	
+11	में	PSP	
+12	दरद	NN	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अप्पन	PRP	
+2	झोरी	NN	
+3	में	PSP	
+4	से	PSP	
+5	एक	QC	
+6	ठो	RP	
+7	ओर	QF	
+8	गोलिआवल	VM	
+9	एक	QC	
+10	बित्ता	NN	
+11	के	PSP	
+12	डंटा	NN	
+13	इँकासलक	VM	
+14	,	SYM	
+15	आउ	CC	
+16	गोरवा	NN	
+17	आउ	CC	
+18	कमरवा	NN	
+19	के	PSP	
+20	जोड़वा	NN	
+21	भिजुन	NST	
+22	,	SYM	
+23	चुतड़वा	NN	
+24	देने	NST	
+25	से	PSP	
+26	किचकिचाऽ	VM	
+27	के	PSP	
+28	डंटवा	NN	
+29	के	PSP	
+30	देरी	RB	
+31	ले	PSP	
+32	गड़ओले	VM	
+33	रहल	VAUX	
+34	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रसे-रसे	RB	
+2	कुछ	QF	
+3	बुदबुदएवो	VM	
+4	करे	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रहंता	JJ	
+2	=	SYM	
+3	रहनेवाला	JJ	
+4	भाइ	NN	
+5	,	SYM	
+6	बहिन	NN	
+7	लोगिन	NN	
+8	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम्मर	PRP	
+2	घर	NN	
+3	इ	DEM	
+4	इलाका	NN	
+5	में	PSP	
+6	न	NEG	
+7	हे	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	ही	RP	
+3	आन	NN	
+4	ठग	NN	
+5	के	PSP	
+6	रहंता	JJ	
+7	,	SYM	
+8	बाइली	JJ	
+9	आदमी	NN	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हाले	RB	
+2	हम	PRP	
+3	एही	NST	
+4	इलाका	NN	
+5	से	PSP	
+6	हो	VM	
+7	के	PSP	
+8	सहर	NN	
+9	जाइत	VM	
+10	हली	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जब	NST	
+2	इ	DEM	
+3	इलाका	NN	
+4	के	PSP	
+5	मुसहरी	NN	
+6	स	QF	
+7	के	PSP	
+8	गरीबी	NN	
+9	देखली	VM	
+10	त	CC	
+11	हम्मर	PRP	
+12	आँख	NN	
+13	भर	QF	
+14	आएल	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रहता	NN	
+2	=	SYM	
+3	रस्ता	NN	
+4	;	SYM	
+5	रास्ता	NN	
+6	रात	NST	
+7	भर	QF	
+8	भगतवा	NNP	
+9	सोंस	NN	
+10	पाड़लक	VM	
+11	,	SYM	
+12	मुँहलुकाने	VM	
+13	में	PSP	
+14	जतरा	NN	
+15	बनवे	VM	
+16	लगल	VAUX	
+17	-	SYM	
+18	त	CC	
+19	हम	PRP	
+20	अब	NST	
+21	चलित	VM	
+22	ही	VAUX	
+23	,	SYM	
+24	आपके	PRP	
+25	भलाई	NN	
+26	न	NEG	
+27	भुलाम	VM	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कोई	NN	
+2	दिन	NST	
+3	झाड़-फूँक	NN	
+4	के	PSP	
+5	जरूरत	NN	
+6	पड़े	VM	
+7	त	CC	
+8	हमरा	PRP	
+9	खबर	NN	
+10	करम	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	घर	NN	
+2	हे	VM	
+3	हम्मर	PRP	
+4	गयाजी	NNP	
+5	से	PSP	
+6	दक्खिन	NST	
+7	,	SYM	
+8	बोधगया	NNP	
+9	के	PSP	
+10	रहता	NST	
+11	में	PSP	
+12	,	SYM	
+13	खाली	JJ	
+14	लोंदा	NNP	
+15	नाँव	NN	
+16	याद	NN	
+17	रक्खम	VM	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	;	SYM	
+2	हमरा	PRP	
+3	मालूम	NN	
+4	भेल	VM	
+5	कि	CC	
+6	तुँहनी	PRP	
+7	दोम	NN	
+8	रहता	VM	
+9	पर	PSP	
+10	लाती	NN	
+11	दे	VM	
+12	देलें	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कमाए	VM	
+2	से	PSP	
+3	पेट	NN	
+4	न	NEG	
+5	भरत	VM	
+6	त	CC	
+7	अनकर	JJ	
+8	धन	NN	
+9	से	PSP	
+10	के	WQ	
+11	दिन	NST	
+12	गुजारा	VM	
+13	होत	VAUX	
+14	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	राड़	NN	
+2	आउ	CC	
+3	पढ़ल-लिक्खल	JJ	
+4	अदमी	NN	
+5	का	WQ	
+6	गावत-बजावत	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पढ़ल-लिक्खल	JJ	
+2	लोग	NN	
+3	तो	RP	
+4	गवइ-बजवइ	NN	
+5	से	PSP	
+6	घिनाऽ	VM	
+7	हे	VAUX	
+8	,	SYM	
+9	कहे	VM	
+10	हे	VAUX	
+11	कि	CC	
+12	इ	DEM	
+13	सए	QF	
+14	काम	NN	
+15	राड़	NN	
+16	कौम	NN	
+17	के	PSP	
+18	हे	VM	
+19	,	SYM	
+20	रंडी-पतुरिआ	NN	
+21	के	PSP	
+22	हे	VM	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	राह	NST	
+2	बाबा	NN	
+3	एतबर	JJ	
+4	भगतिन	NN	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दवा-बिरो	NN	
+2	,	SYM	
+3	झाड़-फूँक	NN	
+4	आउ	CC	
+5	टोटमा	NN	
+6	में	PSP	
+7	तोर	PRP	
+8	चन्नी	NNP	
+9	माए	NN	
+10	चन्निए	JJ	
+11	माए	NN	
+12	हथ	VM	
+13	,	SYM	
+14	सिनका	NNP	
+15	तो	RP	
+16	तुँ	PRP	
+17	कलपावें	VM	
+18	हें	VAUX	
+19	,	SYM	
+20	कलपाना	NN	
+21	चढ़तउ	VM	
+22	कि	CC	
+23	का	WQ	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	डाँक	NN	
+2	बाबा	NN	
+3	,	SYM	
+4	टिप्पु	NNP	
+5	,	SYM	
+6	राम	NNP	
+7	ठाकुर	NNP	
+8	,	SYM	
+9	जंगली	JJ	
+10	मनुसदेवा	NNP	
+11	,	SYM	
+12	बैमत	NNP	
+13	,	SYM	
+14	देवि	NN	
+15	दुरगा	NNP	
+16	,	SYM	
+17	गोरइआ	NN	
+18	,	SYM	
+19	राह	NST	
+20	बाबा	NN	
+21	,	SYM	
+22	किच्चिन	NN	
+23	,	SYM	
+24	भूत-परेत	NN	
+25	सब्भे	QF	
+26	खेलवऽ	VM	
+27	हथ	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	न	NEG	
+2	इ	DEM	
+3	बड़ा	JJ	
+4	बेजाए	NN	
+5	करें	VM	
+6	हें	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रिक्खी	NN	
+2	=	SYM	
+3	रिखि	NN	
+4	;	SYM	
+5	ऋषि	NN	
+6	पहर	NST	
+7	रात	NST	
+8	बीत	VM	
+9	चुकल	VAUX	
+10	हे	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सामी	NNP	
+2	जी	RP	
+3	जमल	VM	
+4	हथ	VAUX	
+5	चबुतरा	NN	
+6	पर	PSP	
+7	,	SYM	
+8	आज	NST	
+9	अकसरे	RB	
+10	अएलन	VM	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	चरखा	NN	
+2	चलावित	VM	
+3	हथ	VAUX	
+4	आउ	CC	
+5	समझावित	VM	
+6	हथ	VAUX	
+7	-	SYM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	देखऽ	VM	
+2	,	SYM	
+3	रिक्खी	JJ	
+4	लोग	NN	
+5	मेहनत	NN	
+6	के	PSP	
+7	पूजा	NN	
+8	बरोबर	RB	
+9	करलन	VM	
+10	हे	VAUX	
+11	,	SYM	
+12	जे	PRP	
+13	बेगर	RB	
+14	कमएले	VM	
+15	खा	VAUX	
+16	हे	VAUX	
+17	उ	DEM	
+18	चोर	NN	
+19	हे	VM	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जे	PRP	
+2	मजुरी	NN	
+3	ले	VM	
+4	हे	VAUX	
+5	,	SYM	
+6	आउ	CC	
+7	मटिआवे	VM	
+8	हे	VAUX	
+9	,	SYM	
+10	उ	DEM	
+11	कमचोट्टा	JJ	
+12	अदमी	NN	
+13	नरक	NN	
+14	में	PSP	
+15	जात	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रुख-रोपा-सत्ता	NN	
+2	~	SYM	
+3	मनाना	VM	
+4	आज	NST	
+5	सँउसे	QF	
+6	बगइचा	NN	
+7	उजह	JJ	
+8	गेल	VM	
+9	हे	VAUX	
+10	,	SYM	
+11	एगो	QC	
+12	बूढ़ा	NN	
+13	पेंड़	NN	
+14	बचवो	NN	
+15	करऽ	VM	
+16	हल	VAUX	
+17	त	CC	
+18	ओकरा	PRP	
+19	सरकारी	NN	
+20	होए	VM	
+21	के	PSP	
+22	डरे	NN	
+23	पहिलहीं	NST	
+24	लोघड़ाऽ	VM	
+25	के	PSP	
+26	रुख-रोपा-सत्ता	NN	
+27	मनावल	VM	
+28	गेल	VAUX	
+29	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रुखे	NST	
+2	=	SYM	
+3	तरफ	NST	
+4	,	SYM	
+5	ओर	QF	
+6	भोलवा	NNP	
+7	पछिम	NST	
+8	रुखे	NST	
+9	सोझ	VM	
+10	होल	VAUX	
+11	,	SYM	
+12	सामी	NNP	
+13	जी	RP	
+14	मुसहरी	NN	
+15	देने	VM	
+16	चललन	VAUX	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रुसना	VM	
+2	=	SYM	
+3	रूसना	VM	
+4	;	SYM	
+5	रूठना	VM	
+6	-	SYM	
+7	तुँ	PRP	
+8	बतबनवा	NN	
+9	हें	VM	
+10	,	SYM	
+11	गालु	NN	
+12	हें	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जो	PRP	
+2	,	SYM	
+3	तोरा	PRP	
+4	से	PSP	
+5	हम	PRP	
+6	आज	NST	
+7	से	PSP	
+8	न	NEG	
+9	बोलबउ	VM	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमर	PRP	
+2	सखिवा	NN	
+3	मुँह	NN	
+4	फेर	VM	
+5	के	PSP	
+6	बइठ	VAUX	
+7	रहलइ	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रुस		
+2	गेलें	VM	
+3	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	न	NEG	
+2	बोलबें	VM	
+3	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बिसेसरा	NNP	
+2	ओकरा	PRP	
+3	झकझोरे	VM	
+4	लगलइ	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रुसा-फुल्ली	NN	
+2	बाप	NN	
+3	रे	INJ	
+4	बाप	NN	
+5	,	SYM	
+6	एतने	QF	
+7	गो	RP	
+8	में	PSP	
+9	तो	RP	
+10	एतना	QF	
+11	रुसा-फुल्ली	NN	
+12	करऽ	VM	
+13	हइ	VAUX	
+14	,	SYM	
+15	दू	QC	
+16	बरिस	NNP	
+17	के	PSP	
+18	बाद	NST	
+19	तो	RP	
+20	आउ	CC	
+21	रोज	RB	
+22	रट्ठेनएँले	NN	
+23	रहतइ	VM	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	न	NEG	
+2	चुप	VM	
+3	रहबें	VAUX	
+4	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अच्छा	JJ	
+2	,	SYM	
+3	ले	VM	
+4	एक	QC	
+5	पुरिआ	NN	
+6	आउ	CC	
+7	खा	VM	
+8	ले	VAUX	
+9	बाकि	CC	
+10	अबकी	RB	
+11	मुँह	NN	
+12	बएलें	VM	
+13	हें	VAUX	
+14	तो	RP	
+15	उठा	VM	
+16	के	PSP	
+17	पटक्क	VM	
+18	देबउ	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रूसल	JJ	
+2	=	SYM	
+3	रूठा	JJ	
+4	हुआ	VM	
+5	-	SYM	
+6	बोलें	VM	
+7	न	NEG	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अच्छा	JJ	
+2	,	SYM	
+3	बोलबउ	VM	
+4	,	SYM	
+5	बोलबउ	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अब	NST	
+2	जो	VM	
+3	घरे	NN	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तुँ	PRP	
+2	रूसल	JJ	
+3	हें	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	न	NEG	
+2	हो	VM	
+3	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रेआन	NNP	
+2	पँड़वा	NN	
+3	तो	RP	
+4	कहे	VM	
+5	हे	VAUX	
+6	कि	CC	
+7	"	SYM	
+8	इ	DEM	
+9	गुरुअइ	NN	
+10	का	WQ	
+11	करत	VM	
+12	,	SYM	
+13	खाली	JJ	
+14	ढकोसला	NN	
+15	रचना	VM	
+16	चाहे	VAUX	
+17	हे	VAUX	
+18	,	SYM	
+19	जे	RB	
+20	में	PSP	
+21	रेआन	NNP	
+22	के	PSP	
+23	भलाइ-करंता	NN	
+24	गिनाइ	VM	
+25	आउ	CC	
+26	रेआन	NN	
+27	केउ	NN	
+28	चाल-चलन	NN	
+29	पर	PSP	
+30	सक	NN	
+31	न	NEG	
+32	करे	VM	
+33	,	SYM	
+34	एक्कर	PRP	
+35	सब्भे	JJ	
+36	रंग-ढंग	NN	
+37	चार-से-बीस	QF	
+38	के	PSP	
+39	हउ	VM	
+40	,	SYM	
+41	दाव	NN	
+42	मिलतउ	VM	
+43	तो	RP	
+44	दू-चार	QC	
+45	गो	RP	
+46	लड़किओ	NN	
+47	के	PSP	
+48	ओन्ने	NST	
+49	हटा	VM	
+50	के	PSP	
+51	बेंच-खोंच	VM	
+52	देतइ	VAUX	
+53	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	"	SYM	
+2	आज	NST	
+3	सरब	NN	
+4	जात	NN	
+5	के	PSP	
+6	लोग	NN	
+7	गुरुअइ	NN	
+8	कर	VM	
+9	रहल	VAUX	
+10	हे	VAUX	
+11	,	SYM	
+12	कलजुग	NST	
+13	न	NEG	
+14	ठहरल	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सब	QF	
+2	के	PSP	
+3	कइसहुँ	RB	
+4	भठना	NN	
+5	ठहरल	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम्मर	PRP	
+2	काम	NN	
+3	हल	VM	
+4	मुसहरी	NN	
+5	सेवे	VM	
+6	के	RB	
+7	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि	CC	
+2	का	WQ	
+3	करूँ	VM	
+4	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पहिले	NST	
+2	रेआन	NNP	
+3	लोग	NN	
+4	के	PSP	
+5	चेला	NN	
+6	न	NEG	
+7	मुड़ऽ	VM	
+8	हली	VAUX	
+9	,	SYM	
+10	जनेउ	NN	
+11	न	NEG	
+12	दे	VM	
+13	हली	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	से	PRP	
+2	घटला	VM	
+3	पर	PSP	
+4	ओहु	DEM	
+5	लोग	NN	
+6	के	PSP	
+7	जजमान	NN	
+8	बनौली	VM	
+9	,	SYM	
+10	एन्ने	NST	
+11	लोग	NN	
+12	जनेउ-उनेउ	NN	
+13	तोड़-ताड़		
+14	के	PSP	
+15	किरिस्तान	NN	
+16	हो	VM	
+17	गेल	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रेख-उठान	JJ	
+2	घरवन	NN	
+3	के	PSP	
+4	करे	VM	
+5	में	PSP	
+6	सूअर	NN	
+7	के	PSP	
+8	बखोर	NN	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पुरवारी	NST	
+2	बगइचवा	NN	
+3	में	PSP	
+4	एगो	QC	
+5	उजड़ल	JJ	
+6	घर	NN	
+7	जेकर	PRP	
+8	ओटा	NN	
+9	बहारल-सोहारल	JJ	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुसहरी	NN	
+2	के	PSP	
+3	रेख-उठान	NN	
+4	आउ	CC	
+5	अधबएस	NN	
+6	छौंड़	NN	
+7	से	PSP	
+8	हिंए	NST	
+9	धुरी	NN	
+10	लगावे	VM	
+11	हे	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रेघ	NNP	
+2	बिसेसरा	NNP	
+3	के	PSP	
+4	लिलार	NN	
+5	पर	PSP	
+6	अबीर	NN	
+7	लगौलक	VM	
+8	आउ	CC	
+9	झुम्मर	NN	
+10	उठौलक	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रेघ	NNP	
+2	पकड़	NN	
+3	के	PSP	
+4	आउ	CC	
+5	लोग	NN	
+6	दोहरएलन	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रेजवन	JJ	
+2	चबुतरा	NN	
+3	पर	PSP	
+4	तिलो	NN	
+5	रक्खे	VM	
+6	के	PSP	
+7	दाव	NN	
+8	न	NEG	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मेहरारु	NN	
+2	सए	QF	
+3	एकदिसहाँ	NST	
+4	खचकल	JJ	
+5	हे	VM	
+6	तल-उपरी	NN	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लइकन-फइकन	NN	
+2	अलगे	NST	
+3	जोड़िआल	VM	
+4	हे	VAUX	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लड़कोरिअन	NN	
+2	सब	QF	
+3	काहे	WQ	
+4	ला	PSP	
+5	चल	VM	
+6	अलइ	VAUX	
+7	हे	VAUX	
+8	,	SYM	
+9	रेजवन	NN	
+10	कउहार	NN	
+11	कएले	VM	
+12	हइ	VAUX	
+13	,	SYM	
+14	अन्नस	RB	
+15	बराऽ	VM	
+16	देलकइ	VAUX	
+17	की	RP	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रेजा	NNP	
+2	आनो	NNP	
+3	मुलुक	NN	
+4	में	PSP	
+5	लोग	NN	
+6	छुच्छा	JJ	
+7	होवे	VM	
+8	हे	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि	CC	
+2	उ	DEM	
+3	लोग	NN	
+4	के	PSP	
+5	अजादी	NN	
+6	हो	VM	
+7	हे	VAUX	
+8	अपना	PRP	
+9	पसंद	NN	
+10	के	PSP	
+11	धंधा-रोजगार	NN	
+12	करे	VM	
+13	के	PSP	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमनी	PRP	
+2	के	PSP	
+3	उ	DEM	
+4	अजादी	NN	
+5	न	NEG	
+6	हे	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमनी	PRP	
+2	चाही	VM	
+3	कि	CC	
+4	सहर	NN	
+5	में	PSP	
+6	जाके	VM	
+7	नौकरी-मजूरी	NN	
+8	करी	VM	
+9	,	SYM	
+10	दुकानदारी	NN	
+11	करी	VM	
+12	,	SYM	
+13	गड़ीवानी	NN	
+14	करी	VM	
+15	,	SYM	
+16	रेजा	NNP	
+17	में	PSP	
+18	खटी	VM	
+19	त	CC	
+20	अइसन	RB	
+21	न	NEG	
+22	कर	VM	
+23	सकऽ	VAUX	
+24	ही	VAUX	
+25	,	SYM	
+26	काहे	WQ	
+27	कि	CC	
+28	अजाद	NN	
+29	न	NEG	
+30	ही	VM	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रेला	NN	
+2	=	SYM	
+3	सेना	NN	
+4	या	CC	
+5	समूह	NN	
+6	द्वारा	PSP	
+7	चढ़ाई	NN	
+8	,	SYM	
+9	धावा	NN	
+10	,	SYM	
+11	हूह	NN	
+12	;	SYM	
+13	धक्का	NN	
+14	,	SYM	
+15	रेलपेल	NN	
+16	;	SYM	
+17	धारा	NN	
+18	का	PSP	
+19	बहाव	NN	
+20	;	SYM	
+21	होड़	NN	
+22	;	SYM	
+23	बहुतायत	QF	
+24	लंगोट	NN	
+25	कसले	VM	
+26	बिसेसर	NNP	
+27	आउ	CC	
+28	मकुनी	NNP	
+29	अखाड़ा	NN	
+30	में	PSP	
+31	उतरल	VM	
+32	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ताल	NN	
+2	ठोक	NN	
+3	के	PSP	
+4	दुन्नो	QC	
+5	हाँथ	NN	
+6	मिलौलक	VM	
+7	आउ	CC	
+8	ढिब	NN	
+9	गेल	VM	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मकुनी	NNP	
+2	एगो	QC	
+3	रेला	NN	
+4	देलकइ	VM	
+5	,	SYM	
+6	बिसेसरा	NNP	
+7	ठेलाएल	VM	
+8	गेल	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बिसेसरा	NNP	
+2	मकुनी	NNP	
+3	के	PSP	
+4	आगु	NST	
+5	मुँहे	NN	
+6	तीरलक	VM	
+7	,	SYM	
+8	मकुनी	NNP	
+9	अड़	NN	
+10	गेल	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बिसेसरा	NNP	
+2	मकुनी	NNP	
+3	के	PSP	
+4	पँजरा	NN	
+5	में	PSP	
+6	आ	VM	
+7	गेल	VAUX	
+8	,	SYM	
+9	ओकरा	PRP	
+10	टाँग	NN	
+11	के	PSP	
+12	पीठ	NN	
+13	पर	PSP	
+14	ले	VM	
+15	गेल	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	RB	
+2	,	SYM	
+3	जनु	PSP	
+4	सभा	NN	
+5	होतइ	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	देखे	VM	
+2	के	PSP	
+3	चाही	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उ	DEM	
+2	चट	NN	
+3	सीना	PSP	
+4	रिकसवा	NN	
+5	अपना	PRP	
+6	मालिक	NN	
+7	भीर	NST	
+8	पहुँचा	VM	
+9	के	PSP	
+10	घुरल	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भीतरे	NST	
+2	गेल	VM	
+3	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भीतरे	NST	
+2	अदमी	NN	
+3	से	PSP	
+4	सँड़सल	VM	
+5	,	SYM	
+6	अँटान	NN	
+7	न	NEG	
+8	हल	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एगो	QC	
+2	हलुक	VM	
+3	रेला	NN	
+4	देके	VM	
+5	ठाड़ा	NN	
+6	होए	VAUX	
+7	भर	QF	
+8	दाव	NN	
+9	बनौलक	VM	
+10	आउ	CC	
+11	ठाड़	NN	
+12	हो	VM	
+13	गेल	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रेलाना	NN	
+2	लोगिन	NN	
+3	बस	VM	
+4	गेल	VAUX	
+5	हुँए	VAUX	
+6	,	SYM	
+7	बजे	VM	
+8	लगल	VAUX	
+9	मँदरा	NN	
+10	रोज	RB	
+11	बिन	NEG	
+12	नागा	NN	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	समय	NN	
+2	के	PSP	
+3	पहाड़ी	NN	
+4	सोता	NST	
+5	में	PSP	
+6	दिनन	NST	
+7	के	PSP	
+8	इँचना	NN	
+9	पोठिआ	NN	
+10	रेलाएल	VM	
+11	गेल	VAUX	
+12	निच्चे	NST	
+13	मुँहे	NST	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रेवाज	NN	
+2	=	SYM	
+3	रिवाज	NN	
+4	,	SYM	
+5	नियम	NN	
+6	,	SYM	
+7	प्रथा	NN	
+8	-	SYM	
+9	कइसन	RB	
+10	रेवाज	NN	
+11	चललइ	VM	
+12	सब	QF	
+13	में	PSP	
+14	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कइसनो	RB	
+2	रेवाज	NN	
+3	चलइ	VM	
+4	,	SYM	
+5	बाकि	CC	
+6	ओछ	JJ	
+7	हमनिए	PRP	
+8	गिनइबें	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोख	NN	
+2	~		
+3	बिगड़ना	VM	
+4	बढ़ामन	NN	
+5	,	SYM	
+6	बाभन	NN	
+7	,	SYM	
+8	कुरमी	NN	
+9	सब्भे	JJ	
+10	जात	NN	
+11	के	PSP	
+12	जोतनुअन	NN	
+13	के	PSP	
+14	छवाड़िक	NN	
+15	के	PSP	
+16	रोख	NN	
+17	बिगड़ल	VM	
+18	,	SYM	
+19	मँगरुआ	NNP	
+20	के	PSP	
+21	पकड़	NN	
+22	लौलक	VM	
+23	सब	QF	
+24	भुमंडल	NNP	
+25	बाबू	NN	
+26	भीर	NST	
+27	-	SYM	
+28	देखी	VM	
+29	गेंहुम	NN	
+30	सिसोह	NN	
+31	रहल	VM	
+32	हल	VAUX	
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मार	NN	
+2	सार	NN	
+3	के	PSP	
+4	दू-चार	QC	
+5	तबड़ाक	NN	
+6	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मंगरुआ	NNP	
+2	ढनमना	NN	
+3	गेल	VM	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोखे	NN	
+2	दे॰	RP	
+3	रुखे	JJ	
+4	सल्ले-बल्ले	NN	
+5	भोलवा	NNP	
+6	उठल	VM	
+7	,	SYM	
+8	घरे	NN	
+9	गेल	VM	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	घरे	NN	
+2	लुकना	VM	
+3	ठीक	JJ	
+4	न	NEG	
+5	बुझलक	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अप्पन	PRP	
+2	छुरवा	NN	
+3	लेलक	VM	
+4	,	SYM	
+5	एक	QC	
+6	बोतल	NN	
+7	खाँटी	JJ	
+8	सराब	NN	
+9	लेलक	VM	
+10	,	SYM	
+11	बोलल	VM	
+12	-	SYM	
+13	एक-दू	QC	
+14	दिन	NST	
+15	में	PSP	
+16	तुहुँ	PRP	
+17	चल	VM	
+18	अइहें	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आउ	CC	
+2	दक्खिन	NST	
+3	रोखे	NST	
+4	सोझ	JJ	
+5	हो	VM	
+6	गेल	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जनु	PRP	
+2	अप्पन	PRP	
+3	बाप	NN	
+4	के	PSP	
+5	बेख	NN	
+6	पर	PSP	
+7	मेंहदीचक	NNP	
+8	जाइत	VM	
+9	हे	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोजिना	RB	
+2	पहिले	NST	
+3	तो	RP	
+4	तुँ	PRP	
+5	कहऽ	VM	
+6	हलें	VAUX	
+7	कि	CC	
+8	पढ़-लिख	VM	
+9	जात	VAUX	
+10	त	CC	
+11	अदमी	NN	
+12	तनी	QF	
+13	दवा-बिरो	NN	
+14	के	PSP	
+15	हाल	NN	
+16	जान	VM	
+17	जाएत	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओझा-गुनी	NN	
+2	के	PSP	
+3	फेरा	NN	
+4	में	PSP	
+5	न	NEG	
+6	रहत	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फलना	NN	
+2	हीं	NST	
+3	के	PSP	
+4	भूत	NN	
+5	हम्मर	PRP	
+6	लइका	NN	
+7	के	PSP	
+8	धर	NN	
+9	लेलक	VM	
+10	,	SYM	
+11	चिलना	NN	
+12	के	PSP	
+13	मइआ	NN	
+14	डाइन	NN	
+15	हे	VM	
+16	,	SYM	
+17	हम्मर	PRP	
+18	बेटी	NN	
+19	के	PSP	
+20	नजरिआऽ	NN	
+21	देलक	VM	
+22	हे	VAUX	
+23	,	SYM	
+24	इ	DEM	
+25	लेके	VM	
+26	जे	PRP	
+27	रोजिना	RB	
+28	कोहराम	NN	
+29	मच्चल	VM	
+30	रहे	VAUX	
+31	,	SYM	
+32	से	PRP	
+33	न	NEG	
+34	रहत	VM	
+35	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पढ़े-लिक्खे	VM	
+2	से	PSP	
+3	लुर-बुध	NN	
+4	फरिआत	VM	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	माए-बाप	NN	
+2	हमरा	PRP	
+3	भोलवा	NNP	
+4	नाँव	NN	
+5	धरलक	VM	
+6	हल	VAUX	
+7	से	PRP	
+8	हिंआ	NST	
+9	रोजिना	RB	
+10	के	PSP	
+11	बोला-बगटी	NN	
+12	से	PRP	
+13	मिजाज	NN	
+14	अइसन	RB	
+15	दोम	NN	
+16	हो	VM	
+17	गेल	VAUX	
+18	कि	CC	
+19	केकरो	PRP	
+20	मिट्ठो	JJ	
+21	बात	NN	
+22	हमरा	PRP	
+23	न	NEG	
+24	सोहाऽ	NN	
+25	हे	VM	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आज	NST	
+2	गिढ़त	NNP	
+3	से	PSP	
+4	झगड़ा	NN	
+5	हो	VM	
+6	गेल	VAUX	
+7	हे	VAUX	
+8	,	SYM	
+9	अब	RB	
+10	हिंआ	NST	
+11	से	PSP	
+12	न	NEG	
+13	टरम	NN	
+14	त	CC	
+15	जान	NN	
+16	के	PSP	
+17	जोखिम	NN	
+18	हे	VM	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोना-कनना	VM	
+2	पलटु	NNP	
+3	एक-दू	QC	
+4	पिआली	NN	
+5	घरउआ	JJ	
+6	दारू	NN	
+7	पीलक	VM	
+8	,	SYM	
+9	एगो	QC	
+10	बोंग	NN	
+11	लाठी	NN	
+12	लेलक	VM	
+13	आउ	CC	
+14	सल्ले-बल्ले	NN	
+15	उत्तर	NST	
+16	मुँहे	NN	
+17	सोझ	NN	
+18	हो	VM	
+19	गेल	VAUX	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पिपरिआ	NN	
+2	आँटे	NST	
+3	जाके	VM	
+4	बइठ	NN	
+5	रहल	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुसहरिआ	NN	
+2	में	PSP	
+3	कोई	NN	
+4	औरत	NN	
+5	पिपकार	NN	
+6	पार	NN	
+7	के	PSP	
+8	रोवे	VM	
+9	लगलइ	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	थोड़िक	QF	
+2	देर	NST	
+3	बाद	RB	
+4	रो-कन	NN	
+5	के	PSP	
+6	चुप	VM	
+7	हो	VAUX	
+8	गेलइ	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोपनी-डोभनी	NN	
+2	एही	RB	
+3	सब	QF	
+4	तो	RP	
+5	मातवरी-मेहिनी	NN	
+6	के	PSP	
+7	चिन्हा	NN	
+8	हइ	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	इ	DEM	
+2	सब	QF	
+3	के	PSP	
+4	परतक	NN	
+5	कइसे	RB	
+6	करबें	VM	
+7	तुँहनी	PRP	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तुँहनी	PRP	
+2	साँझ	NST	
+3	के	PSP	
+4	झुमर	NN	
+5	गएबें	VM	
+6	,	SYM	
+7	अरमना	NN	
+8	करबें	VM	
+9	,	SYM	
+10	हिंआ	NST	
+11	सास-पुतोह	NN	
+12	के	PSP	
+13	महभारत	NN	
+14	सुरु	VM	
+15	होतउ	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तुँहनी	PRP	
+2	रोपनी-डोभनी	NN	
+3	करबें	VM	
+4	,	SYM	
+5	कटनी	NN	
+6	करबें	VM	
+7	आउ	CC	
+8	साथ	RB	
+9	हीं	RP	
+10	साथ	RB	
+11	गीतो	NN	
+12	गएबें	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हिंआ	NST	
+2	कोकसासतर	NN	
+3	आउ	CC	
+4	तोता-मैना	NN	
+5	बाँचल	NN	
+6	जतउ	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोपा-डोभा	NN	
+2	सावन-भादो	NN	
+3	में	PSP	
+4	चार	QC	
+5	घोंट	NN	
+6	अहरी	NN	
+7	के	RB	
+8	अन्डर	NN	
+9	बोए	VM	
+10	पानी	NN	
+11	के	PSP	
+12	अस्तालक	NN	
+13	पर	PSP	
+14	सगर	JJ	
+15	दिन	NST	
+16	लप-निहुर	NN	
+17	के	PSP	
+18	बरखा-बुन्नी	NN	
+19	में	PSP	
+20	भींज-तीत	JJ	
+21	के	PSP	
+22	रोपा-डोभा	NN	
+23	करम	VM	
+24	हँम	PRP	
+25	,	SYM	
+26	आउ	CC	
+27	इ	DEM	
+28	जुअनिआ-मुना	NN	
+29	पसिनिआ	NN	
+30	के	PSP	
+31	फेर	NN	
+32	में	PSP	
+33	पइसा	NN	
+34	जिआन	JJ	
+35	करत	VM	
+36	,	SYM	
+37	पी-उ	VM	
+38	के	PSP	
+39	गारी-गुप्ता	NN	
+40	करत	VM	
+41	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दू	QC	
+2	सेर	QF	
+3	खेसारी	NN	
+4	मजूरी	NN	
+5	में	PSP	
+6	मिलत	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दसे-बीस	QC	
+2	रुपइआ	NN	
+3	में	PSP	
+4	अपनहुँ	PRP	
+5	बिकली	VM	
+6	,	SYM	
+7	मेढ़ानुओ	NN	
+8	बिक्कल	VM	
+9	आउ	CC	
+10	लइकनो-फइकन	NN	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मेढ़ानु	NN	
+2	के	PSP	
+3	कुटनी-पिसनी	NN	
+4	,	SYM	
+5	रोपा-डोभा	NN	
+6	करे	VM	
+7	पड़त	VAUX	
+8	,	SYM	
+9	लइकन	NN	
+10	गिढ़थ	NNP	
+11	के	PSP	
+12	जनावर	NN	
+13	के	PSP	
+14	छेंक-रोम	NN	
+15	करत	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोमना	NN	
+2	=	SYM	
+3	चरते	VM	
+4	समय	NST	
+5	मवेशियों	NN	
+6	को	PSP	
+7	भटकने	VM	
+8	से	PSP	
+9	रोकना	VM	
+10	;	SYM	
+11	जानवरों	NN	
+12	को	PSP	
+13	चरने	VM	
+14	के	PSP	
+15	लिए	PSP	
+16	घेरकर	VM	
+17	रखना	VAUX	
+18	,	SYM	
+19	चरते	VM	
+20	समय	NN	
+21	मवेशियों	NN	
+22	की	PSP	
+23	देखभाल	NN	
+24	करना	VM	
+25	सुअर	NN	
+26	~	SYM	
+27	हमनी	PRP	
+28	के	PSP	
+29	लइकन	NN	
+30	कमजेहन	JJ	
+31	न	NEG	
+32	हो	VM	
+33	हे	VAUX	
+34	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि	CC	
+2	गरीबी	NN	
+3	के	PSP	
+4	ओज्जह	NN	
+5	से	PSP	
+6	पिछड़	NST	
+7	जा	VM	
+8	हे	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	काहाँ	NST	
+2	घर	NN	
+3	पर	PSP	
+4	पढ़इआ	NN	
+5	आउ	CC	
+6	काहाँ	NST	
+7	सुअर	NN	
+8	रोमना	VM	
+9	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोवा-रोहट	NN	
+2	आउ	CC	
+3	अबके	RB	
+4	मुसहरिआ	NN	
+5	में	PSP	
+6	रोवा-रोहट	NN	
+7	कइसन	WQ	
+8	होए	VM	
+9	लगलइ	VAUX	
+10	हल	VAUX	
+11	हो	VAUX	
+12	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भोला	NNP	
+2	भाई	NN	
+3	से	PSP	
+4	दरिआफऽ	NN	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	न	NEG	
+2	चुप	VM	
+3	रहबें	VAUX	
+4	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अच्छा	JJ	
+2	,	SYM	
+3	ले	VM	
+4	एक	QC	
+5	पुरिआ	NN	
+6	आउ	CC	
+7	खा	VM	
+8	ले	VAUX	
+9	बाकि	CC	
+10	अबकी	RB	
+11	मुँह	NN	
+12	बएलें	VM	
+13	हें	VAUX	
+14	तो	RP	
+15	उठा	VM	
+16	के	PSP	
+17	पटक्क	NN	
+18	देबउ	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दिन-रात	NST	
+2	रोवे-रोहट	NN	
+3	करले	VM	
+4	रहे	VAUX	
+5	हे	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	न	NEG	
+2	मरे	VM	
+3	हे	VAUX	
+4	,	SYM	
+5	न	NEG	
+6	जीए	VM	
+7	हे	VAUX	
+8	,	SYM	
+9	चोला	NN	
+10	इछनाऽ	NN	
+11	देलक	VM	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोहता	NN	
+2	=	SYM	
+3	रोहँत	NN	
+4	;	SYM	
+5	दशा	NN	
+6	,	SYM	
+7	हालत	NN	
+8	;	SYM	
+9	बाहर-बाहर	NST	
+10	दिखनेवाले	JJ	
+11	लक्षण	NN	
+12	;	SYM	
+13	स्वास्थ्य	NN	
+14	अच्छा	JJ	
+15	होने	VM	
+16	या	CC	
+17	बिगड़ने	VM	
+18	के	PSP	
+19	लक्षण	NN	
+20	देखी	VM	
+21	मालिक	NN	
+22	,	SYM	
+23	दीदा	NN	
+24	के	PSP	
+25	रोग	NN	
+26	हे	VM	
+27	,	SYM	
+28	खेल	NN	
+29	नँ	NEG	
+30	हे	VM	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बउआ	NN	
+2	के	PSP	
+3	रोहता	NN	
+4	ठीक	JJ	
+5	लउके	VM	
+6	हे	VAUX	
+7	,	SYM	
+8	इ	DEM	
+9	से	PSP	
+10	हमरा	PRP	
+11	उम्मीद	NN	
+12	हे	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	डाकडर	NN	
+2	से	PSP	
+3	देखौलें	VM	
+4	हल	VAUX	
+5	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हूँ	VM	
+2	,	SYM	
+3	डाकडर	NN	
+4	कहलक	VM	
+5	कि	CC	
+6	कारन	NN	
+7	है	VM	
+8	,	SYM	
+9	हुँसटोरिआ	NN	
+10	है	VM	
+11	,	SYM	
+12	दवा	NN	
+13	से	PSP	
+14	ठीक	JJ	
+15	हो	VM	
+16	जागा	VAUX	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	न	NEG	
+2	बुन्नी	NN	
+3	,	SYM	
+4	ठगना	NN	
+5	चाहऽ	VM	
+6	होतउ	VAUX	
+7	,	SYM	
+8	अच्छा	JJ	
+9	करलें	VM	
+10	कि	CC	
+11	दवाइ	NN	
+12	छोड़	VM	
+13	देलें	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	तबिज	NN	
+3	बना	VM	
+4	देबउ	VAUX	
+5	,	SYM	
+6	बिहान	NST	
+7	कखनिओ	RB	
+8	आके	VM	
+9	ले	VAUX	
+10	जइहें	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दसे	QC	
+2	दिन	NN	
+3	में	PSP	
+4	रोहता	NN	
+5	बदल	VM	
+6	जतउ	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोहा	NN	
+2	अच्छा	JJ	
+3	तोर	PRP	
+4	लइका	NN	
+5	के	PSP	
+6	आँख	NN	
+7	में	PSP	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जरी	QF	
+2	एन्ने	NST	
+3	लावऽ	VM	
+4	,	SYM	
+5	देखिकऽ	VM	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फुल्लो	NN	
+2	हइ	VM	
+3	आउ	CC	
+4	रोहो	NN	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोज	RB	
+2	अँखवा	NN	
+3	के	PSP	
+4	सेंक	NN	
+5	के	PSP	
+6	आँजन	NN	
+7	लगावे	VM	
+8	पड़तवऽ	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम्मर	PRP	
+2	मौसेरी	JJ	
+3	बहिन	NN	
+4	आँजन	NN	
+5	घँस्से	VM	
+6	हे	VAUX	
+7	,	XC	
+8	केत्ता	QF	
+9	अदमी	NN	
+10	के	PSP	
+11	रोहा	NN	
+12	अच्छा	JJ	
+13	करकइ	VM	
+14	हे	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रौदार	JJ	
+2	दे॰	RP	
+3	रवादार	JJ	
+4	केतेक	QF	
+5	अदमी	NN	
+6	दुख	NN	
+7	पड़ला	VM	
+8	पर	PSP	
+9	लोंदा	NN	
+10	भगत	NNP	
+11	हीं	NST	
+12	से	PSP	
+13	भभूत	NN	
+14	लौलक	VM	
+15	,	SYM	
+16	भगवान	NN	
+17	के	PSP	
+18	माया	NN	
+19	,	SYM	
+20	सब्भे	JJ	
+21	के	PSP	
+22	भलाइए	NN	
+23	होल	VM	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लोग	NN	
+2	कोटिन-किल्ला	NN	
+3	कएलक	VM	
+4	जे	PRP	
+5	में	PSP	
+6	लोंदा	NN	
+7	भगत	NNP	
+8	के	PSP	
+9	कसइलिए	NNP	
+10	चक	NN	
+11	में	PSP	
+12	बसावल	VM	
+13	जाए	VAUX	
+14	,	SYM	
+15	बाकि	CC	
+16	नँ	NEG	
+17	तो	RP	
+18	मल्लिके	NN	
+19	मालिक	NN	
+20	बसे	VM	
+21	ला	PSP	
+22	जमीन	NN	
+23	देवे	VM	
+24	ला	PSP	
+25	रौदार	JJ	
+26	होल	VM	
+27	न	NEG	
+28	बाभने	NN	
+29	मालिक	NN	
+30	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लंद-फंद	NN	
+2	पँड़वो	NN	
+3	से	PSP	
+4	अबहीं	NST	
+5	बेसी	QF	
+6	हेल-मेल	NN	
+7	ठीक	JJ	
+8	न	NEG	
+9	हउ	VM	
+10	,	SYM	
+11	समिआ	NNP	
+12	बुझाऽ	VM	
+13	हउ	VAUX	
+14	पहुँच	NN	
+15	ओला	RP	
+16	अदमी	NN	
+17	,	SYM	
+18	कहुँ	NST	
+19	लंद-फंद	NN	
+20	में	PSP	
+21	फँसा	NN	
+22	देलकउ	VM	
+23	त	RP	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लइकन-फइकन	NN	
+2	भगतवा	NNP	
+3	के	PSP	
+4	छओ	QC	
+5	लइकवन	NN	
+6	,	SYM	
+7	फेर	RB	
+8	अप्पन	PRP	
+9	मेहरी	NN	
+10	,	SYM	
+11	लइकन-फइकन	NN	
+12	जौरे	RB	
+13	कसइलिए	NNP	
+14	चक	NN	
+15	बसे	VM	
+16	ला	PSP	
+17	पहुँचल	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भगत	NNP	
+2	के	PSP	
+3	छओ	QC	
+4	लइकन	NN	
+5	किजर	JJ	
+6	निअर	RB	
+7	जुआन	NN	
+8	,	SYM	
+9	उलटल	JJ	
+10	सीना	NN	
+11	,	SYM	
+12	केला	NN	
+13	के	PSP	
+14	थम्ह	NN	
+15	निअर	PSP	
+16	कल्हा	JJ	
+17	ओला	NN	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दू	QC	
+2	सेर	QF	
+3	खेसारी	NN	
+4	मजूरी	NN	
+5	में	PSP	
+6	मिलत	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दसे-बीस	QC	
+2	रुपइआ	NN	
+3	में	PSP	
+4	अपनहुँ	PRP	
+5	बिकली	VM	
+6	,	SYM	
+7	मेढ़ानुओ	NN	
+8	बिक्कल	VM	
+9	आउ	CC	
+10	लइकनो-फइकन	NN	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मेढ़ानु	NN	
+2	के	PSP	
+3	कुटनी-पिसनी	NN	
+4	,	SYM	
+5	रोपा-डोभा	NN	
+6	करे	VM	
+7	पड़त	VAUX	
+8	,	SYM	
+9	लइकन	NN	
+10	गिढ़थ	NNP	
+11	के	PSP	
+12	जनावर	NN	
+13	के	PSP	
+14	छेंक-रोम	NN	
+15	करत	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लइकाइ	NN	
+2	=	SYM	
+3	लड़कपन	NN	
+4	,	SYM	
+5	बचपन	NN	
+6	अगे	INJ	
+7	मइओ	NN	
+8	गे	INJ	
+9	,	SYM	
+10	हम्मर	PRP	
+11	माँए	NN	
+12	के	PSP	
+13	देल	VM	
+14	सए	QF	
+15	गहना-गुड़िआ	NN	
+16	इ	DEM	
+17	मरदाना	NN	
+18	हेन-पतर	NN	
+19	कर	VM	
+20	देलक	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	केते	QF	
+2	तुरी	RB	
+3	गोजी-पएना	NN	
+4	चला	VM	
+5	के	PSP	
+6	हम्मर	PRP	
+7	मँगासा	NN	
+8	फोड़	VM	
+9	देलक	VAUX	
+10	,	SYM	
+11	कनबोज	NN	
+12	घवाहिल	NN	
+13	कर	VM	
+14	देलक	VAUX	
+15	,	SYM	
+16	ठेहुना	NN	
+17	के	PSP	
+18	हड्डी	NN	
+19	छटका	VM	
+20	देलक	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एत्ता	QF	
+2	दिन	NST	
+3	खेपली	VM	
+4	,	SYM	
+5	लइकाइ	NN	
+6	गेल	VM	
+7	,	SYM	
+8	लड़कोरी	NN	
+9	भेली	VM	
+10	,	SYM	
+11	अब	NST	
+12	जाके	VM	
+13	केसो	RB	
+14	उजराए	NN	
+15	के	PSP	
+16	दिन	NST	
+17	नगिजात	VM	
+18	,	SYM	
+19	त	CC	
+20	अब	NST	
+21	के	PSP	
+22	का	WQ	
+23	एकरा	PRP	
+24	छोड़	VM	
+25	के	PSP	
+26	दुसरा	QO	
+27	के	PSP	
+28	हाँथ-धएना	VM	
+29	हे	VAUX	
+30	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लइका-सिआन	NN	
+2	ताड़ी-सराब	NN	
+3	के	PSP	
+4	पिनइ	NN	
+5	के	PSP	
+6	रसे-रसे	NN	
+7	कमाऽ	NN	
+8	देना	VM	
+9	जरूरी	NN	
+10	हे	VAUX	
+11	,	SYM	
+12	पठसाला	NN	
+13	में	PSP	
+14	सब	QF	
+15	कोई	NN	
+16	लइका-सिआन	NN	
+17	,	SYM	
+18	बच्चा-सरेक	NN	
+19	,	SYM	
+20	मरद-मेहरारु	NN	
+21	आवऽ	VM	
+22	,	SYM	
+23	तुँहनी	PRP	
+24	खाली	JJ	
+25	साथ	RB	
+26	द	VM	
+27	,	SYM	
+28	देखऽ	VM	
+29	हम	PRP	
+30	तुँहनी	PRP	
+31	लागी	PSP	
+32	का	WQ	
+33	करऽ	VM	
+34	ही	VAUX	
+35	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	;	SYM	
+2	त	CC	
+3	सउँसे	QF	
+4	मुसहरी	NN	
+5	के	PSP	
+6	कुल्लम	NN	
+7	सरेक	NN	
+8	लइकन-सिआन	NN	
+9	आउ	CC	
+10	उमरगर	JJ	
+11	अदमी	NN	
+12	जनेउ	NN	
+13	ले	VM	
+14	लेलक	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पंडी	NN	
+2	जी	RP	
+3	संख	NN	
+4	फुँकलन	VM	
+5	,	SYM	
+6	हरकिरतन	NN	
+7	भेल	VM	
+8	,	SYM	
+9	हुँमाद	NN	
+10	धुँआल	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लउकना	VM	
+2	=	SYM	
+3	दिखना	VM	
+4	देखी	VM	
+5	मालिक	NN	
+6	,	SYM	
+7	दीदा	NN	
+8	के	PSP	
+9	रोग	NN	
+10	हे	VM	
+11	,	SYM	
+12	खेल	NN	
+13	नँ	NEG	
+14	हे	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बउआ	NN	
+2	के	PSP	
+3	रोहता	NN	
+4	ठीक	JJ	
+5	लउके	VM	
+6	हे	VAUX	
+7	,	SYM	
+8	इ	DEM	
+9	से	PSP	
+10	हमरा	PRP	
+11	उम्मीद	NN	
+12	हे	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लगले	VM	
+2	=	SYM	
+3	तुरते	RB	
+4	,	SYM	
+5	तुरन्ते	RB	
+6	जे	PRP	
+7	लोग	NN	
+8	गिरहत	NN	
+9	धरले	VM	
+10	हल	VAUX	
+11	,	SYM	
+12	उ	DEM	
+13	लोगिन	NN	
+14	अप्पन-अप्पन	PRP	
+15	गिरहत	NN	
+16	के	PSP	
+17	खरिहानी	NN	
+18	में	PSP	
+19	गाँज	NN	
+20	जौर	RB	
+21	करे	VM	
+22	में	PSP	
+23	जान	NN	
+24	लगा	VM	
+25	देलक	VAUX	
+26	,	SYM	
+27	उगेन	NN	
+28	होल	VM	
+29	त	CC	
+30	लगले	VM	
+31	पसारे	VM	
+32	में	PSP	
+33	बेदम्म	NN	
+34	हो	VM	
+35	गेल	VAUX	
+36	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लगवहिए	RB	
+2	=	SYM	
+3	लगातार	RB	
+4	हम्मर	PRP	
+5	भाई	NN	
+6	के	PSP	
+7	गेठिआ	NN	
+8	सतावित	VM	
+9	हे	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जरी	QF	
+2	देख	VM	
+3	ल	VAUX	
+4	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बइदक	NN	
+2	दवाई	NN	
+3	करइते-करइते	VM	
+4	घर	NN	
+5	खोंक्खड़	JJ	
+6	हो	VM	
+7	गेल	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सुरु	NST	
+2	बरसात	NN	
+3	से	PSP	
+4	बेमारी	NN	
+5	उपटल	VM	
+6	हे	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दू	QC	
+2	महिन्ना	NN	
+3	ले	PSP	
+4	लगवहिए	RB	
+5	उनाह	NN	
+6	लेलन	VM	
+7	,	SYM	
+8	एक	QC	
+9	मन	NN	
+10	ले	PSP	
+11	आसो-अरिस्ट	NN	
+12	पी	VM	
+13	गेलन	VAUX	
+14	,	SYM	
+15	सोना	NN	
+16	फुँकओली	VM	
+17	,	SYM	
+18	लोहा	NN	
+19	कुँकओली	VM	
+20	,	SYM	
+21	बाकि	CC	
+22	कारन	NN	
+23	जरी	QF	
+24	बिचो	NN	
+25	न	NEG	
+26	होल	VM	
+27	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लगुआ-भगुआ	NN	
+2	खाली	JJ	
+3	हमनी	PRP	
+4	के	PSP	
+5	गरीब	JJ	
+6	गुने	NN	
+7	लोग	NN	
+8	छोटजतिआ	NN	
+9	कहे	VM	
+10	हे	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लुग्गा-फट्टा	NN	
+2	के	PSP	
+3	मेहिनी	JJ	
+4	धन	NN	
+5	के	PSP	
+6	बात	NN	
+7	हे	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जउन	PRP	
+2	जात	NN	
+3	तलवर	NN	
+4	हे	VM	
+5	,	SYM	
+6	तउन	PRP	
+7	मेहिनी	JJ	
+8	हे	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दाइ-लउँड़ी	NN	
+2	,	SYM	
+3	नौकर-नफ्फर	NN	
+4	,	SYM	
+5	लगुआ-भगुआ	NN	
+6	सब	QF	
+7	धन	NN	
+8	के	PSP	
+9	सिंगार	NN	
+10	हइ	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	इ	DEM	
+2	में	PSP	
+3	जात	NN	
+4	के	PSP	
+5	छोटइ-बड़इ	JJ	
+6	के	PSP	
+7	कउन	WQ	
+8	बात	NN	
+9	हइ	VM	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लजाकुर	JJ	
+2	=	SYM	
+3	लज्जालु	JJ	
+4	,	SYM	
+5	शर्मीला	JJ	
+6	ले	PSP	
+7	बिसेसरा	NNP	
+8	,	SYM	
+9	हें	VM	
+10	तकदीर	NN	
+11	ओला	NN	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आज		
+2	चँताइए		
+3	जएतें		
+4	हल		
+5	,		
+6	भागो		
+7	सोबरनी		
+8	आके		
+9	हमरा		
+10	जगौलक		
+11	आउ		
+12	कहलक		
+13	कि		
+14	बरखवा		
+15	में		
+16	बिसेसरा		
+17	भिंजित		
+18	होतइ		
+19	,		
+20	मड़इआ		
+21	उदाने		
+22	हइ		
+23	,		
+24	बोलाऽ		
+25	लेतहु		
+26	हल		
+27	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सोबरनिए		
+2	के		
+3	भेजलुक		
+4	हल		
+5	पहिले		
+6	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि		
+2	बड़जतिअन		
+3	निअर		
+4	लजाकुर		
+5	न		
+6	हे		
+7	,		
+8	रहवे		
+9	में		
+10	से		
+11	लौट		
+12	गेल		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	त		
+2	हम		
+3	अइलुक		
+4	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लटना		
+2	=		
+3	दुबराना		
+4	;		
+5	दुर्बल		
+6	होना		
+7	बेचारी		
+8	सोबरनी		
+9	के		
+10	केत्ता		
+11	चोटी		
+12	कहली		
+13	-		
+14	ए		
+15	गे		
+16	सोबरनी		
+17	,		
+18	तोरा		
+19	न		
+20	बनतउ		
+21	भोलवा		
+22	से		
+23	,		
+24	ओकरा		
+25	पर		
+26	बड़जतिअन		
+27	के		
+28	पराछुत		
+29	पड़ल		
+30	हउ		
+31	साँझे-बिहने		
+32	माउग		
+33	के		
+34	लतवस्से		
+35	के		
+36	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि		
+2	हम्मर		
+3	बात		
+4	पर		
+5	कान		
+6	न		
+7	देलक		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अप्पन		
+2	देह		
+3	के		
+4	भुँज		
+5	देलक		
+6	बिख		
+7	के		
+8	घम्मर		
+9	में		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	हाए		
+2	,		
+3	सउँसे		
+4	जिल्ला		
+5	में		
+6	बरऽ		
+7	हल		
+8	सोबरनी		
+9	,		
+10	से		
+11	देखते-देखते		
+12	लट		
+13	के		
+14	परास		
+15	हो		
+16	गेल		
+17	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लड़ंत		
+2	तोखिआ		
+3	-		
+4	अरे		
+5	तुँ		
+6	तो		
+7	ठठलें		
+8	हल		
+9	,		
+10	घंटन		
+11	ले		
+12	तर-उप्पर		
+13	होइत		
+14	रहलें		
+15	,		
+16	हमरा		
+17	तो		
+18	बीसे		
+19	मिनट		
+20	में		
+21	चित		
+22	कर		
+23	देलकइ		
+24	हल		
+25	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अब		
+2	बिसेसर		
+3	हाँथ		
+4	मिलावत		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	देखऽ		
+2	चौगिरदी		
+3	के		
+4	सब्भे		
+5	नामी-गिरामी		
+6	लड़ंतन		
+7	के		
+8	उ		
+9	पीठ-लेटउनी		
+10	कर		
+11	चुक्कल		
+12	हे		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लड़ंतिआ		
+2	<		
+3	लड़ंत		
+4	+		
+5	'		
+6	आ		
+7	'		
+8	प्रत्यय		
+9	सुनी		
+10	जा		
+11	भाई		
+12	!		
+</Sentence>
+
+<Sentence id=''''>
+1	कसइलीचक		
+2	के		
+3	मुसहरी		
+4	में		
+5	अखाड़ा		
+6	हे		
+7	,		
+8	धुरी		
+9	लगावे		
+10	हे		
+11	बलमा		
+12	,		
+13	कमेसरा		
+14	,		
+15	पलटु		
+16	आउ		
+17	बिसेसरा		
+18	!		
+</Sentence>
+
+<Sentence id=''''>
+1	इ		
+2	हे		
+3	तोखिआ		
+4	,		
+5	पेंच		
+6	में		
+7	माहिर		
+8	हे		
+9	,		
+10	पत		
+11	बरिस		
+12	दस-पाँच		
+13	लड़ंतिआ		
+14	के		
+15	मिट्टी		
+16	चुमावे		
+17	हे		
+18	।		
+</Sentence>
+
+<Sentence id=''''>
+1	आज		
+2	इलाका		
+3	के		
+4	नामी		
+5	लड़ंतिआ		
+6	मकुनी		
+7	अहीर		
+8	के		
+9	बद्दी		
+10	होत		
+11	बिसेसर		
+12	माँझी		
+13	से		
+14	।		
+</Sentence>
+
+<Sentence id=''''>
+1	नामी		
+2	लड़ंतिआ		
+3	पलटु		
+4	के		
+5	ओस्ताद		
+6	हे		
+7	बिसेसर		
+8	माँझी		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लड़कोरी		
+2	अगे		
+3	मइओ		
+4	गे		
+5	,		
+6	हम्मर		
+7	माँए		
+8	के		
+9	देल		
+10	सए		
+11	गहना-गुड़िआ		
+12	इ		
+13	मरदाना		
+14	हेन-पतर		
+15	कर		
+16	देलक		
+17	।		
+</Sentence>
+
+<Sentence id=''''>
+1	केते		
+2	तुरी		
+3	गोजी-पएना		
+4	चला		
+5	के		
+6	हम्मर		
+7	मँगासा		
+8	फोड़		
+9	देलक		
+10	,		
+11	कनबोज		
+12	घवाहिल		
+13	कर		
+14	देलक		
+15	,		
+16	ठेहुना		
+17	के		
+18	हड्डी		
+19	छटका		
+20	देलक		
+21	।		
+</Sentence>
+
+<Sentence id=''''>
+1	एत्ता		
+2	दिन		
+3	खेपली		
+4	,		
+5	लइकाइ		
+6	गेल		
+7	,		
+8	लड़कोरी		
+9	भेली		
+10	,		
+11	अब		
+12	जाके		
+13	केसो		
+14	उजराए		
+15	के		
+16	दिन		
+17	नगिजात		
+18	,		
+19	त		
+20	अब		
+21	के		
+22	का		
+23	एकरा		
+24	छोड़		
+25	के		
+26	दुसरा		
+27	के		
+28	हाँथ-धएना		
+29	हे		
+30	!		
+</Sentence>
+
+<Sentence id=''''>
+1	चबुतरा		
+2	पर		
+3	तिलो		
+4	रक्खे		
+5	के		
+6	दाव		
+7	न		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	मेहरारु		
+2	सए		
+3	एकदिसहाँ		
+4	खचकल		
+5	हे		
+6	तल-उपरी		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लइकन-फइकन		
+2	अलगे		
+3	जोड़िआल		
+4	हे		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लड़कोरिअन		
+2	सब		
+3	काहे		
+4	ला		
+5	चल		
+6	अलइ		
+7	हे		
+8	,		
+9	रेजवन		
+10	कउहार		
+11	कएले		
+12	हइ		
+13	,		
+14	अन्नस		
+15	बराऽ		
+16	देलकइ		
+17	की		
+18	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लतवस		
+2	आउ		
+3	सीधा-सपट्टा		
+4	मजूर		
+5	में		
+6	से		
+7	अदमी		
+8	जागल		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	उ		
+2	एन्ने-ओन्ने		
+3	जरी		
+4	ताकलक		
+5	आउ		
+6	बाबू		
+7	साहेब		
+8	से		
+9	अझुराऽ		
+10	गेल		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बिसेसरा		
+2	खूब		
+3	सरिआऽ		
+4	के		
+5	लतवस		
+6	देलकइन		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लोग		
+2	धउगल		
+3	तखनी		
+4	ले		
+5	उ		
+6	अप्पन		
+7	रिकसा		
+8	लेले		
+9	दू-तीन		
+10	बिग्घा		
+11	दूर		
+12	हल		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लतवसना		
+2	=		
+3	लतियाना		
+4	बेचारी		
+5	सोबरनी		
+6	के		
+7	केत्ता		
+8	चोटी		
+9	कहली		
+10	-		
+11	ए		
+12	गे		
+13	सोबरनी		
+14	,		
+15	तोरा		
+16	न		
+17	बनतउ		
+18	भोलवा		
+19	से		
+20	,		
+21	ओकरा		
+22	पर		
+23	बड़जतिअन		
+24	के		
+25	पराछुत		
+26	पड़ल		
+27	हउ		
+28	साँझे-बिहने		
+29	माउग		
+30	के		
+31	लतवस्से		
+32	के		
+33	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लथेरना		
+2	हउ		
+3	रजनीतिआ		
+4	हबगब		
+5	?		
+</Sentence>
+
+<Sentence id=''''>
+1	करले		
+2	हें		
+3	अदमी		
+4	के		
+5	संगत		
+6	?		
+</Sentence>
+
+<Sentence id=''''>
+1	अब		
+2	हम		
+3	चललुक		
+4	मुटुकवा		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बिसेसरा		
+2	चलल		
+3	सीना		
+4	तान		
+5	के		
+6	,		
+7	लथेरलक		
+8	हे		
+9	मुटुकवा		
+10	के		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	इ		
+2	सब		
+3	जानवे		
+4	कउची		
+5	करे		
+6	हे		
+7	अबहीं		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लपना-निहुरना		
+2	सावन-भादो		
+3	में		
+4	चार		
+5	घोंट		
+6	अहरी		
+7	के		
+8	अन्डर		
+9	बोए		
+10	पानी		
+11	के		
+12	अस्तालक		
+13	पर		
+14	सगर		
+15	दिन		
+16	लप-निहुर		
+17	के		
+18	बरखा-बुन्नी		
+19	में		
+20	भींज-तीत		
+21	के		
+22	रोपा-डोभा		
+23	करम		
+24	हँम		
+25	,		
+26	आउ		
+27	इ		
+28	जुअनिआ-मुना		
+29	पसिनिआ		
+30	के		
+31	फेर		
+32	में		
+33	पइसा		
+34	जिआन		
+35	करत		
+36	,		
+37	पी-उ		
+38	के		
+39	गारी-गुप्ता		
+40	करत		
+41	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लप्पड़-थप्पड़		
+2	बाकि		
+3	मँगरुआ		
+4	न		
+5	उठल		
+6	खटिआ		
+7	पर		
+8	से		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	आज		
+2	खटिआ		
+3	पर		
+4	से		
+5	न		
+6	उठल		
+7	,		
+8	बिहान		
+9	सलाम		
+10	करना		
+11	छोड़		
+12	देत		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सेकरा		
+2	बाद		
+3	साथहुँ		
+4	बइठे		
+5	के		
+6	हिआव		
+7	करे		
+8	लगत		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	ओकरा		
+2	लप्पड़-थप्पड़		
+3	कर		
+4	देना		
+5	जरूरी		
+6	हे		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लफार		
+2	पह		
+3	फट्टे		
+4	खनी		
+5	असमान		
+6	एकदम्मे		
+7	निबद्दर		
+8	हल		
+9	,		
+10	बाकि		
+11	तुरंते		
+12	बदरी		
+13	कचरिआए		
+14	लगल		
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लफार		
+2	पछिआ		
+3	उठल		
+4	।		
+</Sentence>
+
+<Sentence id=''''>
+1	देखित-देखित		
+2	में		
+3	चउगिरदी		
+4	करिवा		
+5	बादर		
+6	तोप		
+7	देलक		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बड़का-बड़का		
+2	बूँद		
+3	टिपटिपावे		
+4	लगल		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	;		
+2	झरक		
+3	निअर		
+4	दिन		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	दिन		
+2	भर		
+3	लफार		
+4	पछिआ		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अदमी		
+2	लुक्कल		
+3	रहे		
+4	दिन		
+5	भर		
+6	।		
+</Sentence>
+
+<Sentence id=''''>
+1	साँझ		
+2	होए		
+3	त		
+4	अदमी		
+5	के		
+6	जान		
+7	में		
+8	जान		
+9	आवे		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लमढेंग		
+2	का		
+3	गपवा		
+4	मेरौनिहरवन		
+5	के		
+6	इ		
+7	न		
+8	समुझ		
+9	पड़इ		
+10	कि		
+11	केकरो		
+12	मुठान		
+13	केतनो		
+14	नीमन		
+15	होइ		
+16	,		
+17	बाकि		
+18	लेदाह		
+19	,		
+20	चाहे		
+21	मिरकिटाह		
+22	अदमी		
+23	के		
+24	सुत्थर		
+25	न		
+26	मानल		
+27	जा		
+28	सके		
+29	हे		
+30	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बौनो		
+2	चाहे		
+3	लमढेंग		
+4	अदमी		
+5	के		
+6	नाक-आँख		
+7	सुत्थर		
+8	हो		
+9	सके		
+10	हे		
+11	,		
+12	त		
+13	का		
+14	उ		
+15	सुत्थर		
+16	मद्धे		
+17	गिनाएत		
+18	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लमहर		
+2	=		
+3	लम्बा		
+4	,		
+5	बड़ा		
+6	सब्भे		
+7	एक		
+8	देने		
+9	डोरिआएल		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सौ		
+2	डेढ़		
+3	सौ		
+4	डेग		
+5	के		
+6	अन्दाज		
+7	उत्तर		
+8	जाके		
+9	लोगिन		
+10	ठुकमुकिआऽ		
+11	गेल		
+12	।		
+</Sentence>
+
+<Sentence id=''''>
+1	पलटु		
+2	अकसरे		
+3	बढ़ल		
+4	चल		
+5	गेल		
+6	,		
+7	एगो		
+8	लमहर		
+9	खेत		
+10	के		
+11	चौगिरदी		
+12	घुम		
+13	गेल		
+14	,		
+15	भुनकल		
+16	-		
+17	साह-गाह		
+18	ले		
+19	अएलुक		
+20	,		
+21	जीउ		
+22	से		
+23	खटका		
+24	इँकास		
+25	दे		
+26	आउ		
+27	जुट		
+28	जो		
+29	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अरे		
+2	कइली		
+3	से		
+4	सब्भे		
+5	अदमी		
+6	,		
+7	का		
+8	बड़का		
+9	का		
+10	छोटका		
+11	,		
+12	काहे		
+13	थर-थर		
+14	करे		
+15	हे		
+16	,		
+17	एही		
+18	से		
+19	कि		
+20	कइली		
+21	से		
+22	छिप्पल		
+23	न		
+24	हे		
+25	एक्को		
+26	तितुली		
+27	के		
+28	रग-रेसा		
+29	!		
+</Sentence>
+
+<Sentence id=''''>
+1	कहुँ		
+2	खोल		
+3	देलक		
+4	तो		
+5	मातवरी		
+6	के		
+7	टिपोरी		
+8	आउ		
+9	कोठा-सोफा		
+10	के		
+11	फुटानी		
+12	एगो		
+13	लमहर		
+14	चौल		
+15	बन		
+16	जात		
+17	।		
+</Sentence>
+
+<Sentence id=''''>
+1	केतना		
+2	तो		
+3	सहरवा		
+4	में		
+5	बाल-बुतरु		
+6	सुधा		
+7	मेहरारु		
+8	संगे		
+9	मोटर		
+10	पर		
+11	इँकसऽ		
+12	हइ		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सहर		
+2	में		
+3	लमहरो		
+4	अदमी		
+5	के		
+6	मेहरारुन		
+7	सब		
+8	परदा		
+9	में		
+10	न		
+11	रहऽ		
+12	हथी		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लोगिन		
+2	कहे		
+3	हे		
+4	कि		
+5	मुसहर-दुसाध		
+6	के		
+7	मेहरारु		
+8	सब		
+9	परदा		
+10	में		
+11	न		
+12	रहे		
+13	हे		
+14	,		
+15	इ		
+16	से		
+17	लोग		
+18	छोटजतिआ		
+19	गिना		
+20	हे		
+21	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लर-जर		
+2	भगत		
+3	के		
+4	छओ		
+5	गो		
+6	कमासुत		
+7	लइकन		
+8	फिन		
+9	बसे		
+10	ला		
+11	आएल		
+12	हे		
+13	,		
+14	इ		
+15	बात		
+16	के		
+17	खबर		
+18	सँउसे		
+19	कसलीचक		
+20	में		
+21	हो		
+22	गेल		
+23	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सब्बे		
+2	पट्टी		
+3	के		
+4	लोग		
+5	जुटल		
+6	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बाभन		
+2	मालिक		
+3	जिक		
+4	धर		
+5	लेलक		
+6	-		
+7	भगत		
+8	अप्पन		
+9	लर-जर		
+10	साथे		
+11	हमरे		
+12	जमीन		
+13	में		
+14	बसे		
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	थकल-माँदल		
+2	कहुँ		
+3	खीस-पीत		
+4	कर		
+5	लीं		
+6	,		
+7	मन		
+8	गरमाल		
+9	आउ		
+10	साइत		
+11	के		
+12	मारल		
+13	मार-पीट		
+14	कर		
+15	बइठली		
+16	त		
+17	एक्को		
+18	रोआँ		
+19	साबित		
+20	न		
+21	बचत		
+22	।		
+</Sentence>
+
+<Sentence id=''''>
+1	हिंआ		
+2	ही		
+3	हम		
+4	ससुरार		
+5	में		
+6	,		
+7	सउँसे		
+8	मुसहरी		
+9	ओकरे		
+10	लर-जर		
+11	हे		
+12	।		
+</Sentence>
+
+<Sentence id=''''>
+1	जरी		
+2	सुन		
+3	ओकरा		
+4	आँख		
+5	देखवऽ		
+6	ही		
+7	,		
+8	ओकरा		
+9	पर		
+10	गुड़कऽ		
+11	ही		
+12	आउ		
+13	सउँसे		
+14	मुसहरी		
+15	हमरे		
+16	पर		
+17	ले		
+18	लाठी		
+19	तइआर		
+20	हो		
+21	जा		
+22	हे		
+23	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लरताँगर		
+2	=		
+3	लरबर		
+4	;		
+5	शिथिल		
+6	,		
+7	ढीला-ढाला		
+8	;		
+9	चेतना-शून्य		
+10	सुरु		
+11	बरसात		
+12	से		
+13	बेमारी		
+14	उपटल		
+15	हे		
+16	।		
+</Sentence>
+
+<Sentence id=''''>
+1	दू		
+2	महिन्ना		
+3	ले		
+4	लगवहिए		
+5	उनाह		
+6	लेलन		
+7	,		
+8	एक		
+9	मन		
+10	ले		
+11	आसो-अरिस्ट		
+12	पी		
+13	गेलन		
+14	,		
+15	सोना		
+16	फुँकओली		
+17	,		
+18	लोहा		
+19	कुँकओली		
+20	,		
+21	बाकि		
+22	कारन		
+23	जरी		
+24	बिचो		
+25	न		
+26	होल		
+27	।		
+</Sentence>
+
+<Sentence id=''''>
+1	ओन्ने		
+2	झपसी		
+3	होए		
+4	त		
+5	पारु		
+6	हो		
+7	जा		
+8	हलन		
+9	,		
+10	उगेन		
+11	होए		
+12	त		
+13	टनटनाऽ		
+14	जाथ		
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि		
+2	तोरा		
+3	से		
+4	का		
+5	छिपइवऽ		
+6	,		
+7	इ		
+8	घड़ी		
+9	तो		
+10	एकदम्मे		
+11	लरताँगर		
+12	हथ		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लाख		
+2	रुपइआ		
+3	के		
+4	बात		
+5	कहलें		
+6	सोबरनी		
+7	दीदी		
+8	!		
+</Sentence>
+
+<Sentence id=''''>
+1	आज		
+2	के		
+3	करनाह		
+4	समाज		
+5	के		
+6	जदगर-लिखंता		
+7	लोग		
+8	के		
+9	विचार-कनखी		
+10	लरताँगर		
+11	हे		
+12	!		
+</Sentence>
+
+<Sentence id=''''>
+1	ललकना		
+2	गोहार		
+3	चढ़		
+4	आएल		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	दुतरफी		
+2	ढेलवाही		
+3	होए		
+4	लगल		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बिसेसर		
+2	भइआ		
+3	कहलन		
+4	-		
+5	मर		
+6	मिटना		
+7	हे		
+8	,		
+9	बाकि		
+10	पिछलत्ती		
+11	न		
+12	देना		
+13	हे		
+14	।		
+</Sentence>
+
+<Sentence id=''''>
+1	पलटुआ		
+2	एकबएग		
+3	ललकल		
+4	आगु		
+5	मुँहें		
+6	,		
+7	आउ		
+8	भुमंडल		
+9	बाबू		
+10	के		
+11	गोहार		
+12	भाग		
+13	चलल		
+14	।		
+</Sentence>
+
+<Sentence id=''''>
+1	ललटेन		
+2	=		
+3	लालटेन		
+4	पित्तर		
+5	के		
+6	चमाचम		
+7	ललटेन		
+8	बर		
+9	रहल		
+10	हे		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सउँसे		
+2	मुसहरी		
+3	के		
+4	कुल्ले		
+5	अदमी		
+6	जुटल		
+7	हे		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	चबुतरा		
+2	पर		
+3	तिलो		
+4	रक्खे		
+5	के		
+6	दाव		
+7	न		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लल्लो-चप्पो		
+2	त		
+3	तो		
+4	खुब्बे		
+5	भलाई		
+6	करतउ		
+7	,		
+8	गिरहत		
+9	के		
+10	अन्न		
+11	खतउ		
+12	,		
+13	से		
+14	हमनी		
+15	के		
+16	पट्टी		
+17	रहतउ		
+18	।		
+</Sentence>
+
+<Sentence id=''''>
+1	जरी		
+2	सुन		
+3	,		
+4	केउ		
+5	के		
+6	सूअर-माकर		
+7	केकरो		
+8	खेत		
+9	में		
+10	पड़लउ		
+11	आउ		
+12	बोला-बगटी		
+13	होलउ		
+14	,		
+15	बस		
+16	धर-पकड़		
+17	करौलकउ		
+18	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अबहिंए		
+2	हमनी		
+3	के		
+4	चेत		
+5	जाना		
+6	बेसतर		
+7	हे		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	जहाँ		
+2	हमनी		
+3	लास-फुस		
+4	लगएलें		
+5	,		
+6	लल्लो-चप्पो		
+7	कएलें		
+8	कि		
+9	डेरा		
+10	जमा		
+11	देलकउ		
+12	आउ		
+13	आगु		
+14	चल		
+15	के		
+16	हमनिए		
+17	के		
+18	दिक-सिक		
+19	करतउ		
+20	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लहरा		
+2	एक		
+3	~		
+4	बरखना		
+5	पटना-गया		
+6	रेलवे		
+7	लाइन		
+8	के		
+9	बगल		
+10	में		
+11	एगो		
+12	बजार		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	असाढ़		
+2	के		
+3	महिन्ना		
+4	हे		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	दिन		
+2	फुलाइत		
+3	हे		
+4	।		
+</Sentence>
+
+<Sentence id=''''>
+1	पच्छिम		
+2	से		
+3	बरसात		
+4	के		
+5	पहिला		
+6	घट्टा		
+7	उठल		
+8	,		
+9	एक		
+10	लहरा		
+11	बरख		
+12	गेल		
+13	,		
+14	बाकि		
+15	घट्टा		
+16	न		
+17	हटल		
+18	,		
+19	घोकसले		
+20	रहल		
+21	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लाट		
+2	=		
+3	समीप		
+4	का		
+5	या		
+6	सुविधाजनक		
+7	स्थान		
+8	,		
+9	यथा		
+10	लाट		
+11	के		
+12	खेत		
+13	इ		
+14	मुसहरिआ		
+15	आप		
+16	लोग		
+17	के		
+18	लाट		
+19	में		
+20	हवऽ		
+21	,		
+22	आप		
+23	लोग		
+24	के		
+25	जोर		
+26	पर		
+27	हम		
+28	हकविसवे		
+29	सम्हार		
+30	लेम		
+31	।		
+</Sentence>
+
+<Sentence id=''''>
+1	हमनी		
+2	के		
+3	गोटी		
+4	लाल		
+5	अस्सो		
+6	करके		
+7	होत		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लाठी-बद्दी		
+2	बिसेसरा		
+3	भरभराए		
+4	लगल		
+5	-		
+6	आज		
+7	भोलवा		
+8	के		
+9	टोकारा		
+10	देलिवऽ		
+11	हल		
+12	मंगरु		
+13	चा		
+14	।		
+</Sentence>
+
+<Sentence id=''''>
+1	कहलिअइ		
+2	-		
+3	"		
+4	देख		
+5	भोलवा		
+6	,		
+7	जिनगी		
+8	अकारथ		
+9	जतउ		
+10	,		
+11	पढ़वे-लिखबें		
+12	त		
+13	लोक-परलोक		
+14	दुन्नो		
+15	बनतउ		
+16	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लाठी-बद्दी		
+2	के		
+3	जमाना		
+4	गेलउ		
+5	,		
+6	नाया		
+7	जमाना		
+8	में		
+9	ओही		
+10	अदमी		
+11	हे		
+12	,		
+13	जे		
+14	पढ़ल-लिखल		
+15	हे		
+16	,		
+17	देस-परदेस		
+18	के		
+19	खबर		
+20	रक्खे		
+21	हे		
+22	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लाती		
+2	हमरा		
+3	मालूम		
+4	भेल		
+5	कि		
+6	तुँहनी		
+7	दोम		
+8	रहता		
+9	पर		
+10	लाती		
+11	दे		
+12	देलें		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	कमाए		
+2	से		
+3	पेट		
+4	न		
+5	भरत		
+6	त		
+7	अनकर		
+8	धन		
+9	से		
+10	के		
+11	दिन		
+12	गुजारा		
+13	होत		
+14	?		
+</Sentence>
+
+<Sentence id=''''>
+1	लाल-पिअर		
+2	~		
+3	होना		
+4	=		
+5	गुस्सा		
+6	करना		
+7	-		
+8	आइँ		
+9	हो		
+10	भोलवा		
+11	,		
+12	तुँ		
+13	आज		
+14	गिरहतवा		
+15	से		
+16	गारी-गुप्ता		
+17	काहे		
+18	ला		
+19	करलहीं		
+20	हे		
+21	?		
+</Sentence>
+
+<Sentence id=''''>
+1	तोखिआ		
+2	दरिआफलक		
+3	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बरखवा		
+2	छिमा		
+3	होतहीं		
+4	लगले		
+5	पसारे		
+6	कहलक		
+7	त		
+8	कहलिअइ		
+9	कि		
+10	जरी		
+11	भुइँवो		
+12	तो		
+13	बराइ		
+14	,		
+15	अइसे		
+16	पसारे		
+17	से		
+18	तो		
+19	नोकसवानी		
+20	होतइ		
+21	।		
+</Sentence>
+
+<Sentence id=''''>
+1	एही		
+2	पर		
+3	लाल-पिअर		
+4	होए		
+5	लगल		
+6	,		
+7	बड़का		
+8	भइवा		
+9	अलइ		
+10	त		
+11	ओहु		
+12	चनचनाए		
+13	लगल		
+14	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लास-फुस		
+2	त		
+3	तो		
+4	खुब्बे		
+5	भलाई		
+6	करतउ		
+7	,		
+8	गिरहत		
+9	के		
+10	अन्न		
+11	खतउ		
+12	,		
+13	से		
+14	हमनी		
+15	के		
+16	पट्टी		
+17	रहतउ		
+18	।		
+</Sentence>
+
+<Sentence id=''''>
+1	जरी		
+2	सुन		
+3	,		
+4	केउ		
+5	के		
+6	सूअर-माकर		
+7	केकरो		
+8	खेत		
+9	में		
+10	पड़लउ		
+11	आउ		
+12	बोला-बगटी		
+13	होलउ		
+14	,		
+15	बस		
+16	धर-पकड़		
+17	करौलकउ		
+18	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अबहिंए		
+2	हमनी		
+3	के		
+4	चेत		
+5	जाना		
+6	बेसतर		
+7	हे		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	जहाँ		
+2	हमनी		
+3	लास-फुस		
+4	लगएलें		
+5	,		
+6	लल्लो-चप्पो		
+7	कएलें		
+8	कि		
+9	डेरा		
+10	जमा		
+11	देलकउ		
+12	आउ		
+13	आगु		
+14	चल		
+15	के		
+16	हमनिए		
+17	के		
+18	दिक-सिक		
+19	करतउ		
+20	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लास-फुस		
+2	=		
+3	संबंध		
+4	,		
+5	लगाव		
+6	~		
+7	लगाना		
+8	अब		
+9	हम		
+10	चलुँ		
+11	कनिआ		
+12	!		
+</Sentence>
+
+<Sentence id=''''>
+1	हम		
+2	तो		
+3	लास-फुस		
+4	लगवित		
+5	हली		
+6	आप		
+7	लोग		
+8	से		
+9	कि		
+10	कुछ		
+11	लुर-बुध		
+12	होत		
+13	बाकि		
+14	जब		
+15	मालिक		
+16	लोग		
+17	के		
+18	नगवार		
+19	हे		
+20	त		
+21	का		
+22	आम		
+23	!		
+</Sentence>
+
+<Sentence id=''''>
+1	लिखना		
+2	~		
+3	~		
+4	आउ		
+5	पढ़े		
+6	से		
+7	का		
+8	होतइ		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	माए-बाप		
+2	के		
+3	दुलरनी		
+4	बेटी		
+5	हली		
+6	,		
+7	जाके		
+8	छौ		
+9	महिन्ना		
+10	ले		
+11	अहिरटोली		
+12	के		
+13	पठसाला		
+14	में		
+15	पढ़ली		
+16	होत		
+17	।		
+</Sentence>
+
+<Sentence id=''''>
+1	तीन-चार		
+2	गो		
+3	किताब		
+4	पढ़		
+5	गेली		
+6	हल		
+7	,		
+8	लिखनो		
+9	लिख		
+10	ले		
+11	हली		
+12	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि		
+2	का		
+3	फएदा		
+4	होल		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लिट्टी		
+2	एगो		
+3	बुतरु		
+4	हे		
+5	ओकरे		
+6	माया-मोह		
+7	हे		
+8	,		
+9	न		
+10	त		
+11	जलगु		
+12	ले		
+13	अप्पन		
+14	सवाँग		
+15	ठीक		
+16	हे		
+17	,		
+18	तलगु		
+19	ले		
+20	दू		
+21	गो		
+22	लिट्टी		
+23	मोहाल		
+24	न		
+25	रहत		
+26	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लिट्टी-अँकुरी		
+2	लिट्टी-अँकुरी		
+3	के		
+4	दोकान		
+5	भीर		
+6	पहुँचल		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	मैदवा		
+2	के		
+3	लिटिआ		
+4	बड़ी		
+5	मजगर		
+6	बुझाऽ		
+7	हइ		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	दू		
+2	पइसा		
+3	में		
+4	एक		
+5	लिट्टी		
+6	,		
+7	बाकि		
+8	गुल्लर		
+9	एतबर		
+10	तो		
+11	रहवे		
+12	करऽ		
+13	हइ		
+14	।		
+</Sentence>
+
+<Sentence id=''''>
+1	दुअन्नी		
+2	के		
+3	चार		
+4	ठो		
+5	टटका		
+6	लिट्टी		
+7	,		
+8	एकन्नी		
+9	के		
+10	अँकुरी		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अच्छा		
+2	लगऽ		
+3	हइ		
+4	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लिप्पल-पोतल		
+2	बिच्चे		
+3	मुसहरी		
+4	एगो		
+5	नीम		
+6	के		
+7	पेंड़		
+8	फुलाइत		
+9	हे		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	चार		
+2	गो		
+3	गबड़ा		
+4	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सब		
+2	घर		
+3	बेकेंबाड़ी		
+4	के		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	पुरब		
+2	तरफ		
+3	एगो		
+4	तेली		
+5	के		
+6	दुकान		
+7	,		
+8	सटले		
+9	पसिखाना		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	पसिखनवा		
+2	के		
+3	पिछुत्ती		
+4	एगो		
+5	मिट्टी		
+6	के		
+7	चबुतरा		
+8	लिप्पल-पोतल		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लुक		
+2	=		
+3	?		
+</Sentence>
+
+<Sentence id=''''>
+1	त		
+2	गोहुमा		
+3	के		
+4	बीग		
+5	आव		
+6	जाके		
+7	,		
+8	जेकर		
+9	हइ		
+10	सेकरे		
+11	हीं		
+12	।		
+</Sentence>
+
+<Sentence id=''''>
+1	गिलटु		
+2	के		
+3	घरे		
+4	?		
+</Sentence>
+
+<Sentence id=''''>
+1	कुत्ता		
+2	लगे		
+3	लगतइ		
+4	।		
+</Sentence>
+
+<Sentence id=''''>
+1	तोरा		
+2	डर		
+3	लगऽ		
+4	हउ		
+5	त		
+6	लाव		
+7	,		
+8	हम		
+9	बीग		
+10	आवऽ		
+11	हिक		
+12	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अन्छा		
+2	,		
+3	ले		
+4	आवी		
+5	लुक		
+6	,		
+7	बाकि		
+8	एक		
+9	मन		
+10	हइ		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लुकलुक		
+2	बेर		
+3	~		
+4	करना		
+5	=		
+6	बेर		
+7	लुकलुकाना		
+8	बेर		
+9	लुकलुक		
+10	करित		
+11	हल		
+12	।		
+</Sentence>
+
+<Sentence id=''''>
+1	पुन्ना		
+2	पाँड़े		
+3	के		
+4	लेके		
+5	अकलु		
+6	लौटल		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	देखतहीं		
+2	बजरंग		
+3	के		
+4	जीउ		
+5	हरिअर		
+6	हो		
+7	गेल		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लुग्गा		
+2	=		
+3	साड़ी		
+4	सोबरनी		
+5	दह-दह		
+6	पीअर		
+7	लुग्गा		
+8	,		
+9	हरिअर		
+10	कचनार		
+11	झुल्ला		
+12	पेन्हले		
+13	अबीर		
+14	लेके		
+15	झाँझ		
+16	झँझकारित		
+17	आगु		
+18	बढ़ल		
+19	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बिसेसरा		
+2	के		
+3	लिलार		
+4	पर		
+5	अबीर		
+6	लगौलक		
+7	आउ		
+8	झुम्मर		
+9	उठौलक		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लुग्गा		
+2	फिंचे		
+3	ला		
+4	बहराएल		
+5	कमेसरा		
+6	बहू		
+7	मुँहलुकाने		
+8	में		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	नदिए		
+2	पर		
+3	तोखिआ		
+4	बहू		
+5	भेंटा		
+6	गेलइ		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	चन्नी		
+2	माए		
+3	नाया		
+4	हरिअर		
+5	कचनार		
+6	लुग्गा		
+7	पेन्हले		
+8	हथ		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सौ-पचास		
+2	अदमी		
+3	के		
+4	भीड़		
+5	हे		
+6	उनका		
+7	भीर		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	आजे		
+2	राते		
+3	सोबरनी		
+4	आउ		
+5	बिसेसरा		
+6	के		
+7	समझाऽ		
+8	बुझाऽ		
+9	के		
+10	सगाई		
+11	कराऽ		
+12	देलिक		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	से		
+2	इ		
+3	सोबरनी		
+4	लुग्गा		
+5	देलक		
+6	हे		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लुग्गा-फट्टा		
+2	खाली		
+3	हमनी		
+4	के		
+5	गरीब		
+6	गुने		
+7	लोग		
+8	छोटजतिआ		
+9	कहे		
+10	हे		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लुग्गा-फट्टा		
+2	के		
+3	मेहिनी		
+4	धन		
+5	के		
+6	बात		
+7	हे		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	जउन		
+2	जात		
+3	तलवर		
+4	हे		
+5	,		
+6	तउन		
+7	मेहिनी		
+8	हे		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	दाइ-लउँड़ी		
+2	,		
+3	नौकर-नफ्फर		
+4	,		
+5	लगुआ-भगुआ		
+6	सब		
+7	धन		
+8	के		
+9	सिंगार		
+10	हइ		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	इ		
+2	में		
+3	जात		
+4	के		
+5	छोटइ-बड़इ		
+6	के		
+7	कउन		
+8	बात		
+9	हइ		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अब		
+2	अदमी		
+3	बिआह		
+4	करत		
+5	आ		
+6	जरी		
+7	लाल-पीअर		
+8	लुग्गो-फट्टा		
+9	न		
+10	पेन्हलक		
+11	त		
+12	बिआह		
+13	कउची		
+14	होलइ		
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	न		
+2	बाजे-गाजा		
+3	,		
+4	न		
+5	गीते-झुमर		
+6	,		
+7	न		
+8	खाने-पान		
+9	होलइ		
+10	,		
+11	त		
+12	बिआह		
+13	कउची		
+14	होलइ		
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लुदकी		
+2	~		
+3	चाल		
+4	रहतवे		
+5	पर		
+6	एगो		
+7	कुत्ती		
+8	आँख		
+9	मुँदले		
+10	पड़ल		
+11	हल		
+12	,		
+13	सामी		
+14	जी		
+15	के		
+16	देख		
+17	के		
+18	घोंघिआल		
+19	,		
+20	बाकि		
+21	भुक्कल		
+22	न		
+23	,		
+24	लुदकी		
+25	चाल		
+26	में		
+27	उठ		
+28	के		
+29	भागल		
+30	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लुर		
+2	=		
+3	लूर		
+4	तोखिआ		
+5	मेरौलक		
+6	-		
+7	इक्का		
+8	डेढ़		
+9	बरिस		
+10	से		
+11	लोगिन		
+12	पाँड़े		
+13	के		
+14	पँओलग्गी		
+15	करित		
+16	हे		
+17	,		
+18	आउ		
+19	अबहीं		
+20	ले		
+21	एक्को		
+22	किताब		
+23	पढ़े		
+24	के		
+25	लुर		
+26	केकरो		
+27	न		
+28	होलइ		
+29	हे		
+30	।		
+</Sentence>
+
+<Sentence id=''''>
+1	पाँड़े		
+2	के		
+3	फेरा		
+4	में		
+5	तो		
+6	लगे		
+7	हे		
+8	अदमी		
+9	आउ		
+10	बुड़बक		
+11	बन		
+12	जाएत		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सभा-सोसाइटी		
+2	चलवे		
+3	के		
+4	लुर		
+5	सिखलें		
+6	हें		
+7	?		
+</Sentence>
+
+<Sentence id=''''>
+1	एक		
+2	काम		
+3	कर		
+4	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अबहीं		
+2	रह		
+3	जो		
+4	दू		
+5	सत्ता		
+6	आउ		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	हमरा		
+2	साथे		
+3	नवजुआन		
+4	सभा		
+5	के		
+6	कामकरंता		
+7	कमिटी		
+8	के		
+9	बइठकी		
+10	में		
+11	भाग		
+12	ले		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लुर-बुध		
+2	~		
+3	फरिआना		
+4	पहिले		
+5	तो		
+6	तुँ		
+7	कहऽ		
+8	हलें		
+9	कि		
+10	पढ़-लिख		
+11	जात		
+12	त		
+13	अदमी		
+14	तनी		
+15	दवा-बिरो		
+16	के		
+17	हाल		
+18	जान		
+19	जाएत		
+20	।		
+</Sentence>
+
+<Sentence id=''''>
+1	ओझा-गुनी		
+2	के		
+3	फेरा		
+4	में		
+5	न		
+6	रहत		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	फलना		
+2	हीं		
+3	के		
+4	भूत		
+5	हम्मर		
+6	लइका		
+7	के		
+8	धर		
+9	लेलक		
+10	,		
+11	चिलना		
+12	के		
+13	मइआ		
+14	डाइन		
+15	हे		
+16	,		
+17	हम्मर		
+18	बेटी		
+19	के		
+20	नजरिआऽ		
+21	देलक		
+22	हे		
+23	,		
+24	इ		
+25	लेके		
+26	जे		
+27	रोजिना		
+28	कोहराम		
+29	मच्चल		
+30	रहे		
+31	,		
+32	से		
+33	न		
+34	रहत		
+35	।		
+</Sentence>
+
+<Sentence id=''''>
+1	पढ़े-लिक्खे		
+2	से		
+3	लुर-बुध		
+4	फरिआत		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अब		
+2	हम		
+3	चलुँ		
+4	कनिआ		
+5	!		
+</Sentence>
+
+<Sentence id=''''>
+1	हम		
+2	तो		
+3	लास-फुस		
+4	लगवित		
+5	हली		
+6	आप		
+7	लोग		
+8	से		
+9	कि		
+10	कुछ		
+11	लुर-बुध		
+12	होत		
+13	बाकि		
+14	जब		
+15	मालिक		
+16	लोग		
+17	के		
+18	नगवार		
+19	हे		
+20	त		
+21	का		
+22	आम		
+23	!		
+</Sentence>
+
+<Sentence id=''''>
+1	सहजू		
+2	सिंह		
+3	के		
+4	पुतोह		
+5	से		
+6	सोबरनी		
+7	लुर-बुध		
+8	सीख		
+9	रहल		
+10	हे		
+11	,		
+12	ओकरे		
+13	पर		
+14	चाँप		
+15	चढ़ावे		
+16	ला		
+17	सहजू		
+18	सिंह		
+19	के		
+20	कहल		
+21	जात		
+22	।		
+</Sentence>
+
+<Sentence id=''''>
+1	उ		
+2	छोटजतिआ		
+3	मेहरारु		
+4	के		
+5	सहसरंग		
+6	काहे		
+7	करत		
+8	!		
+</Sentence>
+
+<Sentence id=''''>
+1	लुसफुसाना		
+2	से		
+3	तो		
+4	हइए		
+5	हइ		
+6	गे		
+7	,		
+8	पढ़त-लिक्खत		
+9	कउची		
+10	बाकि		
+11	खाली		
+12	हिरिस		
+13	हइ		
+14	आउ		
+15	का		
+16	।		
+</Sentence>
+
+<Sentence id=''''>
+1	जाए		
+2	ला		
+3	मनवे		
+4	लुसफुसाइत		
+5	रहतउ		
+6	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लुहेंगड़ा		
+2	=		
+3	लुँगेड़ा		
+4	बिसेसरा		
+5	बिड़ी		
+6	के		
+7	फेरा		
+8	में		
+9	गँउआ		
+10	में		
+11	गेल		
+12	,		
+13	सउआ		
+14	के		
+15	दोकनवा		
+16	भीर		
+17	गँउआ		
+18	के		
+19	लुहेंगड़वन		
+20	के		
+21	जमकड़ा		
+22	तो		
+23	लगले		
+24	रहऽ		
+25	हइ		
+26	,		
+27	एहु		
+28	बिड़िआ		
+29	सुलगाऽ		
+30	के		
+31	बइठ		
+32	गेल		
+33	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सउए		
+2	टुभकल		
+3	-		
+4	आज		
+5	मुसहरिआ		
+6	में		
+7	दफदार		
+8	अलउ		
+9	हल		
+10	?		
+</Sentence>
+
+<Sentence id=''''>
+1	ले		
+2	=		
+3	तक		
+4	आउ		
+5	एकबएग		
+6	चिचिआए		
+7	लगल		
+8	उ		
+9	-		
+10	इअ		
+11	लगी		
+12	जाँओ		
+13	रे		
+14	,		
+15	हँम		
+16	छँउरी		
+17	सुतिए		
+18	उठके		
+19	बढ़नी		
+20	धरम		
+21	,		
+22	झाड़म-बहारम		
+23	,		
+24	इनरा		
+25	में		
+26	उबहन		
+27	सरकाम		
+28	,		
+29	दस		
+30	चरुइ		
+31	पानी		
+32	तीरम		
+33	,		
+34	नन्ह-बुटना		
+35	के		
+36	हगाम-मुताम		
+37	,		
+38	छिपा-लोटा		
+39	,		
+40	पानी-काँजी		
+41	कए		
+42	के		
+43	जुझना		
+44	लेल		
+45	सत्तु-लिट्टी		
+46	के		
+47	जोगाड़		
+48	करम		
+49	,		
+50	सेकरा		
+51	पर		
+52	बेर		
+53	झुके		
+54	ले		
+55	एक		
+56	अँजुरी		
+57	फरही-फुटहा		
+58	के		
+59	नेंवान		
+60	नँ		
+61	।		
+</Sentence>
+
+<Sentence id=''''>
+1	ले		
+2	लाठी		
+3	=		
+4	लाठी		
+5	लेकर		
+6	के		
+7	थकल-माँदल		
+8	कहुँ		
+9	खीस-पीत		
+10	कर		
+11	लीं		
+12	,		
+13	मन		
+14	गरमाल		
+15	आउ		
+16	साइत		
+17	के		
+18	मारल		
+19	मार-पीट		
+20	कर		
+21	बइठली		
+22	त		
+23	एक्को		
+24	रोआँ		
+25	साबित		
+26	न		
+27	बचत		
+28	।		
+</Sentence>
+
+<Sentence id=''''>
+1	हिंआ		
+2	ही		
+3	हम		
+4	ससुरार		
+5	में		
+6	,		
+7	सउँसे		
+8	मुसहरी		
+9	ओकरे		
+10	लर-जर		
+11	हे		
+12	।		
+</Sentence>
+
+<Sentence id=''''>
+1	जरी		
+2	सुन		
+3	ओकरा		
+4	आँख		
+5	देखवऽ		
+6	ही		
+7	,		
+8	ओकरा		
+9	पर		
+10	गुड़कऽ		
+11	ही		
+12	आउ		
+13	सउँसे		
+14	मुसहरी		
+15	हमरे		
+16	पर		
+17	ले		
+18	लाठी		
+19	तइआर		
+20	हो		
+21	जा		
+22	हे		
+23	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लेखा		
+2	=		
+3	समान		
+4	,		
+5	जैसा		
+6	गलिआ		
+7	में		
+8	दू		
+9	गो		
+10	चार		
+11	गो		
+12	अउरत-मेढ़ानु		
+13	तो		
+14	बरमहल		
+15	अइतहीं-जइतहीं		
+16	रहऽ		
+17	हइ		
+18	,		
+19	बाकि		
+20	चन्नी		
+21	माए		
+22	के		
+23	देख		
+24	के		
+25	सोबरनी		
+26	चुप		
+27	हो		
+28	गेल		
+29	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अप्पन		
+2	सन		
+3	लेखा		
+4	केस		
+5	के		
+6	हगुआवित-हगुआवित		
+7	चन्नी		
+8	माए		
+9	ठड़े-ठड़े		
+10	टुभक		
+11	पड़लन		
+12	-		
+13	का		
+14	भार-भीर		
+15	परलउ		
+16	हे		
+17	गे		
+18	सोबरनी		
+19	।		
+</Sentence>
+
+<Sentence id=''''>
+1	एगो		
+2	लइका		
+3	भेलउ		
+4	सेइ		
+5	से		
+6	बुढ़ी		
+7	हो		
+8	गेलें		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लेदाह		
+2	=		
+3	लेदहा		
+4	घरवा		
+5	के		
+6	सजउनी		
+7	देख		
+8	के		
+9	बिसेसरा		
+10	अकचकाएल		
+11	निअर		
+12	कएले		
+13	हल		
+14	।		
+</Sentence>
+
+<Sentence id=''''>
+1	एतने		
+2	में		
+3	एगो		
+4	लेदाह		
+5	अदमी		
+6	उँचका		
+7	कुरसिआ		
+8	पर		
+9	गद		
+10	देबर		
+11	लद		
+12	गेलइ		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	का		
+2	गपवा		
+3	मेरौनिहरवन		
+4	के		
+5	इ		
+6	न		
+7	समुझ		
+8	पड़इ		
+9	कि		
+10	केकरो		
+11	मुठान		
+12	केतनो		
+13	नीमन		
+14	होइ		
+15	,		
+16	बाकि		
+17	लेदाह		
+18	,		
+19	चाहे		
+20	मिरकिटाह		
+21	अदमी		
+22	के		
+23	सुत्थर		
+24	न		
+25	मानल		
+26	जा		
+27	सके		
+28	हे		
+29	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बौनो		
+2	चाहे		
+3	लमढेंग		
+4	अदमी		
+5	के		
+6	नाक-आँख		
+7	सुत्थर		
+8	हो		
+9	सके		
+10	हे		
+11	,		
+12	त		
+13	का		
+14	उ		
+15	सुत्थर		
+16	मद्धे		
+17	गिनाएत		
+18	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लोग-बाग		
+2	गान्ही		
+3	जी		
+4	के		
+5	हिरदा		
+6	में		
+7	लोग-बाग		
+8	ला		
+9	नेह		
+10	के		
+11	समुन्दर		
+12	हलफऽ		
+13	हल		
+14	!		
+</Sentence>
+
+<Sentence id=''''>
+1	जेकर		
+2	हिरदा		
+3	में		
+4	मुलुक		
+5	के		
+6	लोग		
+7	धिआ-पुता		
+8	ला		
+9	ओइसन		
+10	नेह		
+11	पनपत		
+12	उ		
+13	अजादिए		
+14	के		
+15	डाहट		
+16	लगवत		
+17	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लोर		
+2	=		
+3	आँसू		
+4	आजे		
+5	राते		
+6	सोबरनी		
+7	आउ		
+8	बिसेसरा		
+9	के		
+10	समझाऽ		
+11	बुझाऽ		
+12	के		
+13	सगाई		
+14	कराऽ		
+15	देलिक		
+16	।		
+</Sentence>
+
+<Sentence id=''''>
+1	से		
+2	इ		
+3	सोबरनी		
+4	लुग्गा		
+5	देलक		
+6	हे		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	भगवान		
+2	लोर		
+3	पोछथिन		
+4	सब		
+5	के		
+6	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सब		
+2	केउ		
+3	अप्पन-अप्पन		
+4	घर		
+5	गेल		
+6	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लोहबन्दा		
+2	चलऽ		
+3	,		
+4	झगड़ा-रगड़ा		
+5	करना		
+6	बेस		
+7	न		
+8	हे		
+9	,		
+10	टर		
+11	जइते		
+12	जा		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सेराऽ		
+2	जाएत		
+3	त		
+4	आवत		
+5	अदमी		
+6	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सब		
+2	औरते-मरदे		
+3	लइका-सिआन		
+4	के		
+5	लेके		
+6	दक्खिन		
+7	मुँहें		
+8	सोझ		
+9	होल		
+10	,		
+11	बाकि		
+12	बिसेसरा		
+13	पलटुआ		
+14	आउ		
+15	तोखिआ-उखिआ		
+16	दसन		
+17	छौंड़		
+18	ढिब्बल		
+19	हे		
+20	अप्पन-अप्पन		
+21	लोहबन्दा		
+22	लेके		
+23	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सब		
+2	के		
+3	दुरगर		
+4	पहुँचा		
+5	के		
+6	मन्नी		
+7	भगतिनिआ		
+8	घुर		
+9	आएल		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	विचार-कनखी		
+2	हमनी		
+3	मजूर		
+4	के		
+5	आउ		
+6	तलवरन		
+7	के		
+8	विचार-कनखी		
+9	में		
+10	भारी		
+11	फरक		
+12	हइ		
+13	कनिआ		
+14	।		
+</Sentence>
+
+<Sentence id=''''>
+1	हमनी		
+2	ओही		
+3	अदमी		
+4	के		
+5	सुत्थर		
+6	कहबइ		
+7	जेकर		
+8	बनकस		
+9	बेस		
+10	होतइ		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लाख		
+2	रुपइआ		
+3	के		
+4	बात		
+5	कहलें		
+6	सोबरनी		
+7	दीदी		
+8	!		
+</Sentence>
+
+<Sentence id=''''>
+1	आज		
+2	के		
+3	करनाह		
+4	समाज		
+5	के		
+6	जदगर-लिखंता		
+7	लोग		
+8	के		
+9	विचार-कनखी		
+10	लरताँगर		
+11	हे		
+12	!		
+</Sentence>
+
+<Sentence id=''''>
+1	कइसन		
+2	घिनावन		
+3	हे		
+4	पुरान		
+5	नओंनेम		
+6	कि		
+7	जे		
+8	कोई		
+9	परजात		
+10	से		
+11	सादी		
+12	करे		
+13	ओकर		
+14	जन-फरजन		
+15	के		
+16	हिरदा		
+17	में		
+18	बरोबर		
+19	हिनजइ		
+20	के		
+21	काँटा		
+22	चुभित		
+23	रहे		
+24	।		
+</Sentence>
+
+<Sentence id=''''>
+1	समाज		
+2	में		
+3	नाया		
+4	विचार-कनखी		
+5	छवाड़िक		
+6	लोग		
+7	न		
+8	लावत		
+9	त		
+10	आउ		
+11	कउन		
+12	लावत		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	विरोधतइ		
+2	अच्छा		
+3	,		
+4	इ		
+5	काम		
+6	तुँ		
+7	करऽ		
+8	,		
+9	हमनी		
+10	के		
+11	कोई		
+12	विरोधतइ		
+13	न		
+14	हे		
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि		
+2	'		
+3	जुआन-सभा		
+4	'		
+5	के		
+6	सवांग		
+7	बनऽ		
+8	ह		
+9	न		
+10	?		
+</Sentence>
+
+<Sentence id=''''>
+1	बिभूति		
+2	बाबू		
+3	जोर		
+4	मारलन		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सँउसे		
+2	=		
+3	सउँसे		
+4	;		
+5	समूचा		
+6	मलिकाइन		
+7	धउग		
+8	के		
+9	बहरी		
+10	आके		
+11	खबर		
+12	करलन		
+13	,		
+14	सब		
+15	कोई		
+16	भितरे		
+17	दउगल		
+18	,		
+19	सँउसे		
+20	हवेली		
+21	गाँओ		
+22	के		
+23	अदमी		
+24	से		
+25	सड़ँस		
+26	गेल		
+27	,		
+28	मालिक		
+29	बेटी		
+30	के		
+31	बाँइ		
+32	आँख		
+33	के		
+34	मुँदाऽ		
+35	के		
+36	किताब		
+37	पढ़ावल		
+38	गेल		
+39	,		
+40	अच्छर		
+41	चिन्हावल		
+42	गेल		
+43	,		
+44	सरसों		
+45	गिनावल		
+46	गेल		
+47	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सँकरिआना		
+2	दसे-बीस		
+3	रुपइआ		
+4	में		
+5	अपनहुँ		
+6	बिकली		
+7	,		
+8	मेढ़ानुओ		
+9	बिक्कल		
+10	आउ		
+11	लइकनो-फइकन		
+12	।		
+</Sentence>
+
+<Sentence id=''''>
+1	मेढ़ानु		
+2	के		
+3	कुटनी-पिसनी		
+4	,		
+5	रोपा-डोभा		
+6	करे		
+7	पड़त		
+8	,		
+9	लइकन		
+10	गिढ़थ		
+11	के		
+12	जनावर		
+13	के		
+14	छेंक-रोम		
+15	करत		
+16	।		
+</Sentence>
+
+<Sentence id=''''>
+1	कहिओ		
+2	मनो		
+3	सँकरिआल		
+4	आउ		
+5	कमाए		
+6	न		
+7	जाइ		
+8	तो		
+9	गारी-गुप्ता		
+10	मार-पीट		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सँकरिआल		
+2	कोई		
+3	के		
+4	लइका		
+5	अधरतिए		
+6	से		
+7	छरिआल		
+8	हे		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	केउ		
+2	के		
+3	कुछ		
+4	हे		
+5	,		
+6	केउ		
+7	के		
+8	कुछ		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	चनिओ		
+2	माए		
+3	के		
+4	जीउ		
+5	सँकरिआले		
+6	निअर		
+7	हल		
+8	बाकि		
+9	दुआरी		
+10	पर		
+11	आएल		
+12	अदमिअन		
+13	के		
+14	तो		
+15	मन		
+16	रखहीं		
+17	पड़तइन		
+18	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सँकारना		
+2	बिहने		
+3	पहर		
+4	भगत		
+5	अपन		
+6	लइकन		
+7	के		
+8	समझौलक		
+9	-		
+10	देखी		
+11	जा		
+12	,		
+13	लोभ		
+14	बड़का		
+15	भूत		
+16	हे		
+17	।		
+</Sentence>
+
+<Sentence id=''''>
+1	एकर		
+2	दाओ		
+3	में		
+4	आना		
+5	न		
+6	चाही		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लोभ		
+2	में		
+3	पड़के		
+4	जहाँ		
+5	केकरो		
+6	खेती-बारी		
+7	के		
+8	भार		
+9	लेवे		
+10	ला		
+11	सँकारलऽ		
+12	कि		
+13	फिनो		
+14	कोल्हु		
+15	के		
+16	बैल		
+17	बनलऽ		
+18	,		
+19	न		
+20	जिनगी		
+21	के		
+22	कउनो		
+23	ओर		
+24	बुझतवऽ		
+25	,		
+26	न		
+27	छोर		
+28	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सँड़सल		
+2	-		
+3	ओ		
+4	,		
+5	जनु		
+6	सभा		
+7	होतइ		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	देखे		
+2	के		
+3	चाही		
+4	।		
+</Sentence>
+
+<Sentence id=''''>
+1	उ		
+2	चट		
+3	सीना		
+4	रिकसवा		
+5	अपना		
+6	मालिक		
+7	भीर		
+8	पहुँचा		
+9	के		
+10	घुरल		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	भीतरे		
+2	गेल		
+3	।		
+</Sentence>
+
+<Sentence id=''''>
+1	भीतरे		
+2	अदमी		
+3	से		
+4	सँड़सल		
+5	,		
+6	अँटान		
+7	न		
+8	हल		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	एगो		
+2	हलुक		
+3	रेला		
+4	देके		
+5	ठाड़ा		
+6	होए		
+7	भर		
+8	दाव		
+9	बनौलक		
+10	आउ		
+11	ठाड़		
+12	हो		
+13	गेल		
+14	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सँसरी		
+2	सामी		
+3	जी		
+4	निहा-फींच		
+5	के		
+6	निहचिन्ते		
+7	होलन		
+8	हल		
+9	,		
+10	से		
+11	सोबरनी		
+12	पहुँचल		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सुइआ		
+2	दिआवे		
+3	ला		
+4	सोबरनी		
+5	अंगरखवा		
+6	के		
+7	हटा		
+8	के		
+9	बचवा		
+10	के		
+11	देहवा		
+12	उघारकइ		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	तनिक्को		
+2	गोस		
+3	न		
+4	हलइ		
+5	,		
+6	खाली		
+7	ठठरी		
+8	बचित		
+9	हलइ		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बोलल		
+2	-		
+3	एन्ने		
+4	सुख		
+5	के		
+6	परास		
+7	हो		
+8	गेलइ		
+9	मालिक		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	खाली		
+2	सँसरिए		
+3	तो		
+4	बचित		
+5	हइ		
+6	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सँहता		
+2	=		
+3	सस्ता		
+4	के-के		
+5	घंटा		
+6	पर		
+7	दवइआ		
+8	देवे		
+9	ला		
+10	कहलकथिन		
+11	हल		
+12	?		
+</Sentence>
+
+<Sentence id=''''>
+1	ऊँ		
+2	?		
+</Sentence>
+
+<Sentence id=''''>
+1	पूछना		
+2	कउन		
+3	जरूरी		
+4	हइ		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	होमीपत्थी		
+2	तो		
+3	बुझाऽ		
+4	हइ		
+5	,		
+6	मँगनी		
+7	के		
+8	बाँटे		
+9	ला		
+10	सँहता		
+11	गुने		
+12	डकटरवन		
+13	रक्खऽ		
+14	हइ		
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	न		
+2	फएदा		
+3	करऽ		
+4	हइ		
+5	,		
+6	न		
+7	हरजे		
+8	करऽ		
+9	हइ		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	संकराँत		
+2	=		
+3	सकरात		
+4	;		
+5	संक्रान्ति		
+6	गयाजी		
+7	देन्ने		
+8	के		
+9	एगो		
+10	झुनकुट		
+11	बूढ़		
+12	अपिआ		
+13	मुसहर		
+14	संकराँत		
+15	में		
+16	पुनपुन्ना		
+17	नद्दी		
+18	किछारे		
+19	लगे		
+20	ओला		
+21	राजघाट		
+22	मेला		
+23	में		
+24	आल		
+25	हल		
+26	,		
+27	भारी		
+28	भगत		
+29	हल		
+30	।		
+</Sentence>
+
+<Sentence id=''''>
+1	टोना-जादू		
+2	,		
+3	झाड़-फूँक		
+4	,		
+5	मंतर-जंतर		
+6	,		
+7	पचड़ा-जोगिड़ा		
+8	सब्भे		
+9	कुछ		
+10	में		
+11	पम्पाइल		
+12	।		
+</Sentence>
+
+<Sentence id=''''>
+1	संको		
+2	-		
+3	अरे		
+4	मारे		
+5	न		
+6	रे		
+7	मुँहझौंसा		
+8	,		
+9	तोरे		
+10	से		
+11	हमरा		
+12	दिन		
+13	निबहे		
+14	ला		
+15	हे		
+16	!		
+</Sentence>
+
+<Sentence id=''''>
+1	हमरा		
+2	तुँ		
+3	जेत्ता		
+4	पेर		
+5	लें		
+6	,		
+7	फेर		
+8	पछतएबें		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	पेर		
+2	ले		
+3	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अब		
+2	का		
+3	खाउँ		
+4	,		
+5	इ		
+6	कुतिआ		
+7	हमरा		
+8	दू		
+9	कोर		
+10	खाहुँ		
+11	देवत		
+12	!		
+</Sentence>
+
+<Sentence id=''''>
+1	हे		
+2	भगवान		
+3	,		
+4	अइसन		
+5	जोरु		
+6	से		
+7	बेजोरु		
+8	के		
+9	अदमी		
+10	नीमन		
+11	हे		
+12	।		
+</Sentence>
+
+<Sentence id=''''>
+1	संको		
+2	बिसेसर		
+3	आज		
+4	ले		
+5	सगाइ		
+6	न		
+7	करलक		
+8	हे		
+9	,		
+10	बेस		
+11	करलक		
+12	जे		
+13	बेमाउग-मेहरी		
+14	के		
+15	हे		
+16	,		
+17	न		
+18	तो		
+19	हमरे		
+20	निअर		
+21	कोरहाग		
+22	में		
+23	पड़त		
+24	हल		
+25	।		
+</Sentence>
+
+<Sentence id=''''>
+1	दुन्नो		
+2	पट्टी		
+3	केत्ता		
+4	उँच्चा-उँच्चा		
+5	मकान		
+6	हइ		
+7	?		
+</Sentence>
+
+<Sentence id=''''>
+1	लगऽ		
+2	हइ		
+3	असमाने		
+4	में		
+5	ठेंकल		
+6	हइ		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सब		
+2	मकनवा		
+3	नए		
+4	हइ		
+5	।		
+</Sentence>
+
+<Sentence id=''''>
+1	संको		
+2	देहतवा		
+3	में		
+4	केत्ता		
+5	बरिस		
+6	सेती		
+7	सिरमिट्टी		
+8	न		
+9	मिलऽ		
+10	हलइ		
+11	।		
+</Sentence>
+
+<Sentence id=''''>
+1	जनु		
+2	सब		
+3	सिरमिटिआ		
+4	से		
+5	सहरे		
+6	में		
+7	मकान		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	संचे		
+2	आउ		
+3	संचे		
+4	उ		
+5	महिन्ना		
+6	पुरते-पुरते		
+7	खेत-बधार		
+8	घुमे		
+9	लगलन		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लोंदा		
+2	भगत		
+3	के		
+4	नाँओ		
+5	खिल		
+6	गेल		
+7	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अब		
+2	कसइलीचक		
+3	में		
+4	केउ		
+5	बेराम		
+6	पड़े		
+7	,		
+8	आउ		
+9	औसान		
+10	से		
+11	कारन		
+12	न		
+13	हटे		
+14	त		
+15	लोंदा		
+16	भगत		
+17	कन		
+18	अदमी		
+19	धउगे		
+20	भभूत		
+21	लागी		
+22	।		
+</Sentence>
+
+<Sentence id=''''>
+1	संचो		
+2	संचो		
+3	चौकन्ना		
+4	रहे		
+5	के		
+6	चाही		
+7	,		
+8	की		
+9	न		
+10	हो		
+11	?		
+</Sentence>
+
+<Sentence id=''''>
+1	संडक		
+2	=		
+3	सड़क		
+4	बिसेसरा		
+5	खूब		
+6	सरिआऽ		
+7	के		
+8	लतवस		
+9	देलकइन		
+10	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लोग		
+2	धउगल		
+3	तखनी		
+4	ले		
+5	उ		
+6	अप्पन		
+7	रिकसा		
+8	लेले		
+9	दू-तीन		
+10	बिग्घा		
+11	दूर		
+12	हल		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	आधा		
+2	घड़ी		
+3	ले		
+4	अप्पन		
+5	गोर		
+6	के		
+7	सइकिलिआ		
+8	पर		
+9	उपरे-निच्चे		
+10	करे		
+11	के		
+12	कलाबाजी		
+13	करला		
+14	पर		
+15	अप्पन		
+16	रिकसा		
+17	लेले		
+18	उ		
+19	ओजउना		
+20	हल		
+21	जेजउना		
+22	भीड़		
+23	से		
+24	संडक		
+25	जाम		
+26	हल		
+27	।		
+</Sentence>
+
+<Sentence id=''''>
+1	संतोख		
+2	=		
+3	संतोष		
+4	ओन्ने		
+5	झपसी		
+6	होए		
+7	त		
+8	पारु		
+9	हो		
+10	जा		
+11	हलन		
+12	,		
+13	उगेन		
+14	होए		
+15	त		
+16	टनटनाऽ		
+17	जाथ		
+18	।		
+</Sentence>
+
+<Sentence id=''''>
+1	बाकि		
+2	तोरा		
+3	से		
+4	का		
+5	छिपइवऽ		
+6	,		
+7	इ		
+8	घड़ी		
+9	तो		
+10	एकदम्मे		
+11	लरताँगर		
+12	हथ		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	लटपटाए		
+2	दिआ		
+3	सुनके		
+4	कर-कुटुम		
+5	पोरसिसिओ		
+6	आ-जा		
+7	रहलन		
+8	हे		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	चलऽ		
+2	जरी		
+3	देख-सुन		
+4	ल		
+5	,		
+6	संतोख		
+7	तो		
+8	होत		
+9	।		
+</Sentence>
+
+<Sentence id=''''>
+1	हम		
+2	बिसेसर		
+3	बाबू		
+4	आउ		
+5	सोबरनी		
+6	देइ		
+7	से		
+8	मिनती		
+9	करऽ		
+10	ही		
+11	कि		
+12	उ		
+13	लोग		
+14	एतने		
+15	से		
+16	संतोख		
+17	न		
+18	कर		
+19	लेथ		
+20	बलुक		
+21	घूम-घूम		
+22	के		
+23	आनो		
+24	ठग		
+25	के		
+26	मजूरन		
+27	के		
+28	मेंटगिरी		
+29	करथ		
+30	,		
+31	राह		
+32	देखावथ		
+33	।		
+</Sentence>
+
+<Sentence id=''''>
+1	संसकिरित		
+2	=		
+3	संस्कृत		
+4	आउ		
+5	हिंआ		
+6	बइद		
+7	लोग		
+8	हमनी		
+9	के		
+10	अँगना		
+11	में		
+12	अएबे		
+13	न		
+14	करत		
+15	,		
+16	अप्पन		
+17	दवा-बिरो		
+18	के		
+19	हाल		
+20	हमनी		
+21	के		
+22	बतएवे		
+23	न		
+24	करत		
+25	,		
+26	संसकिरित		
+27	पढ़एवे		
+28	न		
+29	करत		
+30	।		
+</Sentence>
+
+<Sentence id=''''>
+1	त		
+2	आज		
+3	बइद		
+4	लोग		
+5	माँगता-खाता		
+6	बनल		
+7	हथ		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	पाँड़े		
+2	जी		
+3	अपनहीं		
+4	तो		
+5	मिडिल		
+6	ले		
+7	पढ़ल		
+8	हथ		
+9	,		
+10	उ		
+11	कहाँ		
+12	ले		
+13	पढ़ौथुन		
+14	,		
+15	संसकिरित		
+16	अलबत्ते		
+17	थोड़ा-बहुत		
+18	जानऽ		
+19	होतन		
+20	त		
+21	संसकिरित		
+22	से		
+23	कुच्छो		
+24	फएदे		
+25	न		
+26	हवऽ		
+27	।		
+</Sentence>
+
+<Sentence id=''''>
+1	हम		
+2	अंगरेजियो		
+3	बतबुअ		
+4	जे		
+5	में		
+6	चिट्ठी-पतरी		
+7	में		
+8	अंगरेजी		
+9	में		
+10	नाँव		
+11	लिख		
+12	लेबऽ		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सइतुक		
+2	=		
+3	सैतुक		
+4	;		
+5	कौतुक		
+6	,		
+7	लीला		
+8	;		
+9	ढकोसला		
+10	,		
+11	मक्कारी		
+12	;		
+13	नरघट		
+14	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अब		
+2	तुँहीं		
+3	सोंच		
+4	कि		
+5	अइसन		
+6	बउराहा-सुराहा		
+7	से		
+8	के		
+9	सगाई		
+10	करके		
+11	हँसारत		
+12	करतइ		
+13	।		
+</Sentence>
+
+<Sentence id=''''>
+1	इ		
+2	तो		
+3	सइतुक		
+4	बात		
+5	हइ		
+6	,		
+7	दीदी		
+8	।		
+</Sentence>
+
+<Sentence id=''''>
+1	अब		
+2	अदमी		
+3	बिआह		
+4	करत		
+5	आ		
+6	जरी		
+7	लाल-पीअर		
+8	लुग्गो-फट्टा		
+9	न		
+10	पेन्हलक		
+11	त		
+12	बिआह		
+13	कउची		
+14	होलइ		
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	न		
+2	बाजे-गाजा		
+3	,		
+4	न		
+5	गीते-झुमर		
+6	,		
+7	न		
+8	खाने-पान		
+9	होलइ		
+10	,		
+11	त		
+12	बिआह		
+13	कउची		
+14	होलइ		
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सउआ		
+2	<		
+3	साव		
+4	+		
+5	'		
+6	आ		
+7	'		
+8	प्रत्यय		
+9	बिसेसरा		
+10	बिड़ी		
+11	के		
+12	फेरा		
+13	में		
+14	गँउआ		
+15	में		
+16	गेल		
+17	,		
+18	सउआ		
+19	के		
+20	दोकनवा		
+21	भीर		
+22	गँउआ		
+23	के		
+24	लुहेंगड़वन		
+25	के		
+26	जमकड़ा		
+27	तो		
+28	लगले		
+29	रहऽ		
+30	हइ		
+31	,		
+32	एहु		
+33	बिड़िआ		
+34	सुलगाऽ		
+35	के		
+36	बइठ		
+37	गेल		
+38	।		
+</Sentence>
+
+<Sentence id=''''>
+1	सउए		
+2	टुभकल		
+3	-		
+4	आज		
+5	मुसहरिआ		
+6	में		
+7	दफदार		
+8	अलउ		
+9	हल		
+10	?		
+</Sentence>
+
+<Sentence id=''''>
+1	सए		
+2	=		
+3	सब्भे		
+4	;		
+5	सभी		
+6	अगे		
+7	मइओ		
+8	गे		
+9	,		
+10	हम्मर		
+11	माँए		
+12	के		
+13	देल		
+14	सए		
+15	गहना-गुड़िआ		
+16	इ		
+17	मरदाना		
+18	हेन-पतर		
+19	कर		
+20	देलक		
+21	।		
+</Sentence>
+
+<Sentence id=''''>
+1	गिढ़थ		
+2	लोग		
+3	भगोड़वन		
+4	के		
+5	दुसित		
+6	हथिन		
+7	,		
+8	कहऽ		
+9	तो		
+10	जनमभुँइ		
+11	छोड़		
+12	के		
+13	भागल		
+14	फिरना		
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	खनदानी		
+2	कमिआ		
+3	कहुँ		
+4	भाग		
+5	सके		
+6	हे		
+7	?		
+</Sentence>
+
+</document>

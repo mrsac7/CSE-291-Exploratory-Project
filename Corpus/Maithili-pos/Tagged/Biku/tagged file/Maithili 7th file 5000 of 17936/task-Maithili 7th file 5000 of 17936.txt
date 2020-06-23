@@ -1,0 +1,24 @@
+Column Names::Property	Value
+CurrentPosition	9
+Language	hin::utf8
+TaskName	Maithili 7th file 5000 of 17936.txt
+TaskPropFile	C:\Users\Bikku\Desktop\All Working files\Maithili Files\Newly Done\Maithili 7th file 5000 of 17936\task-Maithili 7th file 5000 of 17936.txt
+TaskPropCharset	UTF-8
+SSFPropFile	C:\Users\Bikku\Desktop\Sanchay-09-06-14\Sanchay\props\ssf-props.txt
+SSFPropCharset	UTF-8
+FSPropFile	C:\Users\Bikku\Desktop\Sanchay-09-06-14\Sanchay\props\fs-props.txt
+FSPropCharset	UTF-8
+MFeaturesFile	C:\Users\Bikku\Desktop\Sanchay-09-06-14\Sanchay\props\fs-mandatory-attribs.txt
+OFeaturesFile	C:\Users\Bikku\Desktop\Sanchay-09-06-14\Sanchay\props\fs-other-attribs.txt
+PAttributesFile	C:\Users\Bikku\Desktop\Sanchay-09-06-14\Sanchay\props\ps-attribs.txt
+DAttributesFile	C:\Users\Bikku\Desktop\Sanchay-09-06-14\Sanchay\props\dep-attribs.txt
+SAttributesFile	C:\Users\Bikku\Desktop\Sanchay-09-06-14\Sanchay\props\sem-attribs.txt
+MFeaturesCharset	UTF-8
+SSFCorpusStoryFile	C:\Users\Bikku\Desktop\All Working files\Maithili Files\Newly Done\Maithili 7th file 5000 of 17936\Maithili 7th file 5000 of 17936.txt
+SSFCorpusCharset	UTF-8
+SSFCorpusStoryUTF8File	
+POSTagsFile	C:\Users\Bikku\Desktop\Sanchay-09-06-14\Sanchay\workspace\syn-annotation\pos-tags.txt
+MorphTagsFile	C:\Users\Bikku\Desktop\Sanchay-09-06-14\Sanchay\workspace\syn-annotation\morph-tags.txt
+POSTagsCharset	UTF-8
+PhraseNamesFile	C:\Users\Bikku\Desktop\Sanchay-09-06-14\Sanchay\workspace\syn-annotation\phrase-names.txt
+PhraseNamesCharset	UTF-8

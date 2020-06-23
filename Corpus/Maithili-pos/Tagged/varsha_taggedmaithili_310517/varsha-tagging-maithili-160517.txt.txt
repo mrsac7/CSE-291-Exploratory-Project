@@ -1,0 +1,8809 @@
+<document id="null">
+<head>
+
+</head>
+<Sentence id=''''>
+1	﻿पौलुस	NNP	
+2	केँ	PSP	
+3	परमेश्वरक	NN	
+4	प्रोत्साहन	NN	
+</Sentence>
+
+<Sentence id=''''>
+1	ओही	DEM	
+2	राति	NN	
+3	प्रभु	NN	
+4	पौलुसक	NNP	
+5	लग	NST	
+6	मे	PSP	
+7	ठाढ़	VM	
+8	भऽ	VAUX	
+9	कऽ	VAUX	
+10	कहलथिन	VAUX	
+11	,	SYM	
+12	साहस	NN	
+13	राखह	VM	
+14	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जहिना	RB	
+2	तोँ	PRP	
+3	यरूशलेम	NNP	
+4	मे	PSP	
+5	हमरा	PRP	
+6	विषय	NN	
+7	मे	PSP	
+8	गवाही	NN	
+9	देलह	VM	
+10	,	SYM	
+11	तहिना	RB	
+12	रोम	NNP	
+13	मे	PSP	
+14	सेहो	RP	
+15	तोरा	PRP	
+16	गवाही	NN	
+17	देबाक	VM	
+18	छह	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुसक	NNP	
+2	विरोध	NN	
+3	मे	PSP	
+4	षड्‌यन्त्र	NN	
+5	भोर	NN	
+6	भेला	VM	
+7	पर	PSP	
+8	यहूदी	NNP	
+9	सभ	QF	
+10	षड्‌यन्त्रे	NN	
+11	रचलक	VM	
+12	आ	CC	
+13	सपत	NN	
+14	खयलक	VM	
+15	जे	CC	
+16	,	SYM	
+17	जा	NST	
+18	धरि	PSP	
+19	पौलुस	NNP	
+20	केँ	PSP	
+21	जान	NN	
+22	सँ	PSP	
+23	नहि	NEG	
+24	मारि	VM	
+25	देब	VAUX	
+26	,	SYM	
+27	ता	NST	
+28	धरि	PSP	
+29	किछु	QF	
+30	नहि	NEG	
+31	खायब	VM	<fs af=',,,,,,,'>
+32	पिब	VAUX	<fs af=',,,,,,,'>
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	षड्‌यन्त्रक	NN	
+3	रचनिहार	VM	
+4	सभ	QF	
+5	चालिस	QC	
+6	सँ	PSP	
+7	बेसी	QF	
+8	गोटे	CL	
+9	छल	VM	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	मुख्यपुरोहित	JJ	
+4	सभ	QF	
+5	आ	CC	
+6	बूढ़-प्रतिष्ठित	NN	
+7	लोकनि	NN	
+8	लग	NST	
+9	जा	VM	
+10	कऽ	PSP	
+11	कहलकनि	VM	
+12	,	SYM	
+13	हम	PRP	
+14	सभ	QF	
+15	भारी	JJ	
+16	सपत	NN	
+17	खयलहुँ	VM	
+18	जे	CC	
+19	,	SYM	
+20	जा	NST	
+21	धरि	PSP	
+22	पौलुस	NNP	
+23	केँ	PSP	
+24	मारि	VM	
+25	नहि	NEG	
+26	देब	VM	
+27	,	SYM	
+28	ता	NST	
+29	धरि	PSP	
+30	किछु	QF	
+31	नहि	NEG	
+32	खायब-पीब	VM	
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेँ	CC	
+2	अहाँ	PRP	
+3	सभ	RP	
+4	धर्म	NN	
+5	-	SYM	
+6	महासभाक	NN	
+7	संग	PSP	
+8	मिलि	VM	
+9	कऽ	VAUX	
+10	सेनापति	NN	
+11	सँ	PSP	
+12	निवेदन	NN	
+13	करू	VM	
+14	जे	CC	
+15	ओ	PRP	
+16	पौलुस	NNP	
+17	केँ	PSP	
+18	एम्हर	NST	
+19	लऽ	VM	
+20	अबथि	VAUX	
+21	,	SYM	
+22	एहि	DEM	
+23	बहाना	NN	
+24	सँ	PSP	
+25	जे	CC	
+26	हम	PRP	
+27	सभ	QF	
+28	ओकर	PRP	
+29	आरो	CC	
+30	ठीक	RB	
+31	सँ	PSP	
+32	जाँच	NN	
+33	करऽ	VM	
+34	चाहैत	VAUX	
+35	छी	VAUX	
+36	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	और	CC	
+2	हम	PRP	
+3	सभ	QF	
+4	जे	PRP	
+5	छी	VM	
+6	,	SYM	
+7	से	PRP	
+8	ओकरा	PRP	
+9	एतऽ	NST	
+10	पहुँचऽ	VM	
+11	सँ	PSP	
+12	पहिनहि	NST	
+13	ओकरा	PRP	
+14	मारि	VM	
+15	देबाक	VAUX	
+16	लेल	PSP	
+17	तैयार	NN	
+18	रहब	VM	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	पौलुसक	NNP	
+3	भागिन	NN	
+4	एहि	DEM	
+5	षड्‌यन्त्रक	NN	
+6	बारे	NST	
+7	मे	PSP	
+8	सुनि	VM	
+9	लेलक	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	तुरत्ते	NST	
+3	गढ़	NN	
+4	मे	PSP	
+5	जा	VM	
+6	कऽ	PSP	
+7	पौलुस	NNP	
+8	केँ	PSP	
+9	ई	DEM	
+10	बात	NN	
+11	कहि	VM	
+12	देलकनि	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	पौलुस	NNP	
+3	एक	QC	
+4	कप्तान	NN	
+5	केँ	PSP	
+6	बजा	VM	
+7	कऽ	VAUX	
+8	कहलथिन	VAUX	
+9	,	SYM	
+10	एकरा	PRP	
+11	सेनापति	NN	
+12	लग	NST	
+13	लऽ	VM	
+14	जाउ	VAUX	
+15	,	SYM	
+16	ई	DEM	
+17	हुनका	PRP	
+18	किछु	QF	
+19	कहऽ	VM	
+20	चाहैत	VAUX	
+21	अछि	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तँ	RP	
+2	कप्तान	NN	
+3	ओकरा	PRP	
+4	सेनापति	NN	
+5	लग	NST	
+6	लऽ	VM	
+7	जा	VAUX	
+8	कऽ	VAUX	
+9	कहलथिन	VAUX	
+10	,	SYM	
+11	बन्दी	JJ	
+12	पौलुस	NNP	
+13	हमरा	PRP	
+14	बजा	VM	
+15	कऽ	VAUX	
+16	कहलक	VAUX	
+17	जे	CC	
+18	हम	PRP	
+19	एहि	DEM	
+20	लड़का	NN	
+21	केँ	PSP	
+22	अपनेक	PRP	
+23	लग	NST	
+24	लऽ	VM	
+25	जाइ	VAUX	
+26	,	SYM	
+27	कारण	NN	
+28	एकरा	PRP	
+29	अपने	PRP	
+30	सँ	PSP	
+31	किछु	QF	
+32	कहबाक	VM	
+33	छैक	VAUX	
+34	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सेनापति	NN	
+2	ओहि	DEM	
+3	लड़का	NN	
+4	केँ	PSP	
+5	हाथ	NN	
+6	पकड़ि	VM	
+7	कऽ	VAUX	
+8	एकान्ते	NN	
+9	मे	PSP	
+10	लऽ	VM	
+11	गेलाह	VAUX	
+12	आ	CC	
+13	पुछलथिन	VM	
+14	,	SYM	
+15	तोँ	PRP	
+16	हमरा	PRP	
+17	कोन	WQ	
+18	बात	NN	
+19	कहऽ	VM	
+20	चाहैत	VAUX	
+21	छह	VAUX	
+22	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	उत्तर	NN	
+3	देलकनि	VM	
+4	,	SYM	
+5	यहूदी	NNP	
+6	सभ	RP	
+7	नियारने	VM	
+8	अछि	VAUX	
+9	जे	CC	
+10	पौलुस	NNP	
+11	केँ	PSP	
+12	काल्हिखन	NST	
+13	धर्म	NN	
+14	-	SYM	
+15	महासभाक	NN	
+16	सामने	PSP	
+17	अनबाक	VM	
+18	लेल	PSP	
+19	अपने	PRP	
+20	सँ	PSP	
+21	निवेदन	NN	
+22	करी	VM	
+23	,	SYM	
+24	एहि	DEM	
+25	बहाना	NN	
+26	सँ	PSP	
+27	जे	CC	
+28	,	SYM	
+29	हम	PRP	
+30	सभ	RP	
+31	ओकर	PRP	
+32	आरो	CC	
+33	ठीक	RB	
+34	सँ	PSP	
+35	जाँच	NN	
+36	करऽ	VM	
+37	चाहैत	VAUX	
+38	छी	VAUX	
+39	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	ओकर	PRP	
+3	सभक	QF	
+4	निवेदन	NN	
+5	अपने	PRP	
+6	स्वीकार	NN	
+7	नहि	NEG	
+8	करब	VM	
+9	,	SYM	
+10	कारण	NN	
+11	,	SYM	
+12	ओकरा	PRP	
+13	सभ	QF	
+14	मे	PSP	
+15	सँ	PSP	
+16	चालिस	QC	
+17	सँ	PSP	
+18	बेसी	QF	
+19	लोक	NN	
+20	हुनकर	PRP	
+21	घात	NN	
+22	करबाक	VM	
+23	ताक	NN	
+24	मे	PSP	
+25	अछि	VM	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	ई	DEM	
+4	सपत	NN	
+5	खयने	VM	
+6	अछि	VAUX	
+7	जे	CC	
+8	,	SYM	
+9	जा		
+10	धरि		
+11	पौलुस	NNP	
+12	केँ	PSP	
+13	जान	NN	
+14	सँ	PSP	
+15	नहि	NEG	
+16	मारि	VM	
+17	देब	VAUX	
+18	,	SYM	
+19	ता	NST	
+20	धरि	PSP	
+21	किछु	QF	
+22	नहि	NEG	
+23	खायब-पीब	VM	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एखनो	NST	
+2	ओ	PRP	
+3	सभ	QF	
+4	तैयार	NN	
+5	अछि	VM	
+6	,	SYM	
+7	खाली	RB	
+8	अपनेक	PRP	
+9	आज्ञाक	NN	
+10	प्रतीक्षा	NN	
+11	कऽ	VM	
+12	रहल	VAUX	
+13	अछि	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सेनापति	NN	
+2	युवक	NN	
+3	केँ	PSP	
+4	ई	DEM	
+5	कहि	VM	
+6	कऽ	VAUX	
+7	विदा	NN	
+8	कऽ	VM	
+9	देलथिन	VAUX	
+10	जे	CC	
+11	,	SYM	
+12	ककरो	PRP	
+13	नहि	NEG	
+14	बुझऽ	VM	
+15	दहक	VAUX	
+16	जे	CC	
+17	तोँ	PRP	
+18	हमरा	PRP	
+19	एहि	DEM	
+20	बातक	NN	
+21	खबरि	NN	
+22	देलह	VM	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	सेनापति	NN	
+3	दूटा	QC	
+4	कप्तान	NN	
+5	केँ	PSP	
+6	बजा	VM	
+7	कऽ	VAUX	
+8	आज्ञा	NN	
+9	देलथिन	VM	
+10	,	SYM	
+11	अहाँ	PRP	
+12	सभ	RP	
+13	दू	QC	
+14	सय	QC	
+15	पैदल-सैनिक	NN	
+16	,	SYM	
+17	सत्तरि	QC	
+18	घोड़सवार	NN	
+19	आ	CC	
+20	दू	QC	
+21	सय	QC	
+22	भालाधारी	NN	
+23	सैनिक	NN	
+24	केँ	PSP	
+25	आइ	NST	
+26	नौ	QC	
+27	बजे	RB	
+28	राति	NST	
+29	तक	NST	
+30	कैसरिया	NNP	
+31	विदा	NN	
+32	होयबाक	VM	
+33	लेल	PSP	
+34	तैयार	NN	
+35	करू	VM	
+36	,	SYM	
+37	और	CC	
+38	पौलुसक	NNP	
+39	लेल	PSP	
+40	सेहो	RP	
+41	घोड़ाक	NN	
+42	व्यवस्था	NN	
+43	करू	VM	
+44	,	SYM	
+45	जाहि	PRP	
+46	सँ	PSP	
+47	ओ	PRP	
+48	सभ	QF	
+49	ओकरा	PRP	
+50	सुरक्षित	NN	
+51	राज्य	NN	
+52	,	SYM	
+53	पाल	NNP	
+54	फेलिक्सल	NNP	
+55	लग	NST	
+56	पहुँचाबय	VM	
+57	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	राज्यपालक	NN	
+3	लेल	PSP	
+4	ई	DEM	
+5	पत्र	NN	
+6	लिखलनि	VM	
+7	—	SYM	
+8	परम	INTF	
+9	श्रेष्ठक	JJ	
+10	राज्यपाल	NN	
+11	फेलिक्सर	NNP	
+12	केँ	PSP	
+13	क्लौ	NNP	
+14	दियुस	NNP	
+15	लुसियासक	NNP	
+16	दिस	PSP	
+17	सँ	PSP	
+18	सादर	JJ	
+19	प्रणाम	NN	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	DEM	
+2	आदमी	NN	
+3	केँ	PSP	
+4	यहूदी	NN	
+5	सभ	QF	
+6	पकड़ने	VM	
+7	छल	VAUX	
+8	,	SYM	
+9	और	CC	
+10	एकर	PRP	
+11	खून	NN	
+12	करऽ	VM	
+13	पर	PSP	
+14	लागल	VM	
+15	छल	VAUX	
+16	,	SYM	
+17	मुदा	CC	
+18	तखने	NST	
+19	हम	PRP	
+20	सैनिक	NN	
+21	सभक	QF	
+22	संग	PSP	
+23	ओतऽ	NST	
+24	पहुँचि	VM	
+25	एकरा	PRP	
+26	छोड़ौलहुँ	VM	
+27	,	SYM	
+28	कारण	PSP	
+29	हमरा	PRP	
+30	पता	NN	
+31	लागल	VM	
+32	छल	VAUX	
+33	जे	CC	
+34	ई	DEM	
+35	रोमी	JJ	
+36	नागरिक	NN	
+37	अछि	VM	
+38	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	जानऽ	VM	
+3	चाहैत	VAUX	
+4	छलहुँ	VAUX	
+5	जे	CC	
+6	ओ	PRP	
+7	सभ	QF	
+8	एकरा	PRP	
+9	विरोध	NN	
+10	मे	PSP	
+11	की	WQ	
+12	आरोप	NN	
+13	लगा	VM	
+14	रहल	VAUX	
+15	अछि	VAUX	
+16	,	SYM	
+17	तेँ	CC	
+18	ओकरा	PRP	
+19	सभक	QF	
+20	धर्म	NN	
+21	-	SYM	
+22	महासभाक	NN	
+23	सामने	PSP	
+24	एकरा	PRP	
+25	उपस्थित	NN	
+26	करौलिऐक	VM	
+27	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओतऽ	NST	
+2	हमरा	PRP	
+3	बुझऽ	VM	
+4	मे	PSP	
+5	आयल	VM	
+6	जे	CC	
+7	ओकरा	PRP	
+8	सभक	QF	
+9	अपन	PRP	
+10	धर्म	NN	
+11	सँ	PSP	
+12	सम्बन्धित	NN	
+13	जे	PRP	
+14	विवादक	NN	
+15	बात	NN	
+16	सभ	QF	
+17	अछि	VM	
+18	ताहि	PRP	
+19	विषय	NN	
+20	मे	PSP	
+21	एकरा	PRP	
+22	पर	PSP	
+23	आरोप	NN	
+24	लगाओल	VM	
+25	जा	VAUX	
+26	रहल	VAUX	
+27	अछि	VAUX	
+28	,	SYM	
+29	नहि	NEG	
+30	कि	CC	
+31	कोनो	PRP	
+32	एहन	JJ	
+33	बातक	NN	
+34	विषय	NN	
+35	मे	PSP	
+36	जाहि	PRP	
+37	लेल	PSP	
+38	एकरा	PRP	
+39	मृत्यु	NN	
+40	दण्ड	NN	
+41	देल	VM	
+42	जाय	VAUX	
+43	वा	CC	
+44	जेहलो	NN	
+45	मे	PSP	
+46	राखल	VM	
+47	जाय	VAUX	
+48	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आब	NST	
+2	हमरा	PRP	
+3	पता	NN	
+4	लागल	VM	
+5	जे	CC	
+6	एकर	PRP	
+7	हत्याक	NN	
+8	लेल	PSP	
+9	षड्‌यन्त्र	NN	
+10	रचल	VM	
+11	गेल	VAUX	
+12	अछि	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेँ	CC	
+2	एकरा	PRP	
+3	अपनेक	PRP	
+4	ओहिठाम	NST	
+5	तुरत	NST	
+6	पठयबाक	VM	
+7	निर्णय	NN	
+8	कयलहुँ	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	और	CC	
+2	एकरा	PRP	
+3	पर	PSP	
+4	जे	PRP	
+5	सभ	QF	
+6	आरोप	NN	
+7	लगा	VM	
+8	रहल	VAUX	
+9	अछि	VAUX	
+10	,	SYM	
+11	तकरा	PRP	
+12	सभ	QF	
+13	केँ	PSP	
+14	हम	PRP	
+15	सेहो	RP	
+16	आदेश	NN	
+17	देने	VM	
+18	छिऐक	VAUX	
+19	जे	CC	
+20	ओ	PRP	
+21	सभ	QF	
+22	अपन	PRP	
+23	आरोप	NN	
+24	अपनेक	PRP	
+25	समक्ष	PSP	
+26	प्रस्तुत	NN	
+27	करय	VM	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सैनिक	NN	
+2	सभ	RP	
+3	सेनापतिक	NN	
+4	आदेशक	NN	
+5	अनुसार	PSP	
+6	पौलुस	NNP	
+7	केँ	PSP	
+8	राता-राती	RB	
+9	लऽ	VM	
+10	गेलनि	VAUX	
+11	और	CC	
+12	अन्ति	NNP	
+13	पत्रिस	NNP	
+14	नगर	NN	
+15	तक	PSP	
+16	पहुँचा	VM	
+17	देलकनि	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	प्रात	NN	
+2	भेने	VM	
+3	ओ	PRP	
+4	सभ	RP	
+5	घोड़सवार	NN	
+6	सैनिक	NN	
+7	सभ	RP	
+8	केँ	PSP	
+9	पौलुस	NNP	
+10	केँ	PSP	
+11	आगाँ	NST	
+12	लऽ	VM	
+13	जयबाक	VM	
+14	लेल	PSP	
+15	छोड़ि	VM	
+16	देलक	VAUX	
+17	आ	CC	
+18	ओ	PRP	
+19	सभ	RP	
+20	स्वयं	PRP	
+21	गढ़	NN	
+22	पर	PSP	
+23	घुरि	VM	
+24	गेल	VAUX	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कैसरिया	NNP	
+2	मे	RB	
+3	पहुँचला	VM	
+4	पर	PSP	
+5	घोड़सवार	NN	
+6	सैनिक	NN	
+7	सभ	RP	
+8	राज्यपाल	NN	
+9	केँ	PSP	
+10	पत्र	NN	
+11	देलकनि	VM	
+12	आ	CC	
+13	पौलुस	NNP	
+14	केँ	PSP	
+15	हुनका	PRP	
+16	जिम्माव	NN	
+17	मे	PSP	
+18	लगा	VM	
+19	देलकनि	VAUX	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पत्र	NN	
+2	पढ़लाक	VM	
+3	बाद	NST	
+4	राज्य़पाल	NN	
+5	पौलुस	NNP	
+6	सँ	PSP	
+7	पुछलथिन	VM	
+8	,	SYM	
+9	अहाँ	PRP	
+10	कोन	WQ	
+11	प्रदेशक	NN	
+12	छी	VM	
+13	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुसक	NNP	
+2	ई	DEM	
+3	उत्तर	NN	
+4	सुनि	VM	
+5	जे	CC	
+6	,	SYM	
+7	हम	PRP	
+8	किलिकिया	NNP	
+9	प्रदेशक	NN	
+10	छी	VM	
+11	,	SYM	
+12	राज्य़पाल	NN	
+13	कहलथिन	VM	
+14	,	SYM	
+15	अहाँ	PRP	
+16	पर	PSP	
+17	आरोप	NN	
+18	लगौनिहार	VM	
+19	सभ	RP	
+20	जखन	NST	
+21	एतऽ	NST	
+22	आबि	VM	
+23	जायत	VAUX	
+24	,	SYM	
+25	तखन	NST	
+26	हम	PRP	
+27	अहाँक	PRP	
+28	मोकदमा	NN	
+29	सुनब	VM	
+30	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	ओ	PRP	
+3	आदेश	NN	
+4	देलनि	VM	
+5	जे	CC	
+6	पौलुस	NNP	
+7	केँ	RB	
+8	हेरोद	NNP	
+9	-	SYM	
+10	दरबार	NN	
+11	मे	PSP	
+12	पहरा	NN	
+13	मे	PSP	
+14	राखल	VM	
+15	जाय	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पाँच	QC	
+2	दिनक	NN	
+3	बाद	NST	
+4	महापुरोहित	NN	
+5	हननियाह	NNP	
+6	किछु	QF	
+7	धार्मिक	JJ	
+8	अगुआ	NN	
+9	सभ	RP	
+10	और	CC	
+11	तरतुल्लुलस	NNP	
+12	नामक	NN	
+13	एक	QC	
+14	वकीलक	NN	
+15	संग	PSP	
+16	कैसरिया	NNP	
+17	अयलाह	VM	
+18	,	SYM	
+19	आ	CC	
+20	राज्यपाल	NN	
+21	फेलिक्स	NNP	
+22	समक्ष	PSP	
+23	पौलुसक	NNP	
+24	विरोध	NN	
+25	मे	PSP	
+26	अपन	PRP	
+27	आरोप	NN	
+28	प्रस्तुत	NN	
+29	कयलनि	VM	
+30	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुस	NNP	
+2	केँ	PSP	
+3	बजाओल	VM	
+4	गेलनि	VAUX	
+5	,	SYM	
+6	आ	CC	
+7	तरतुल्लुस	NNP	
+8	एहि	PRP	
+9	प्रकारेँ	NN	
+10	हुनका	PRP	
+11	पर	RB	
+12	आरोप	NN	
+13	लगबैत	VM	
+14	राज्यपाल	NN	
+15	केँ	PSP	
+16	कहऽ	VM	
+17	लगलनि	VAUX	
+18	,	SYM	
+19	परम	INTF	
+20	श्रेष्ठे	JJ	
+21	राज्य	NN	
+22	पाल	NN	
+23	जी	RP	
+24	,	SYM	
+25	हमरा	PRP	
+26	लोकनिक	NN	
+27	बीच	PSP	
+28	जे	CC	
+29	ई	PRP	
+30	निरन्तर	RB	
+31	शान्ति	NN	
+32	रहैत	VM	
+33	अछि	VAUX	
+34	से	CC	
+35	अपनेक	PRP	
+36	कृपाक	NN	
+37	कारणेँ	PSP	
+38	अछि	VM	
+39	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अपनेक	PRP	
+2	बुद्धिमत्तापूर्ण	RB	
+3	शासनक	NN	
+4	फलस्वरूप	CC	
+5	एहि	DEM	
+6	देश	NN	
+7	मे	PSP	
+8	बहुतो	QF	
+9	समाजिक	JJ	
+10	सुधार	NN	
+11	भऽ	VM	
+12	गेल	VAUX	
+13	अछि	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	सभ	QF	
+3	बात	NN	
+4	हमरा	PRP	
+5	लोकनि	NN	
+6	सभ	RP	
+7	तरहेँ	PSP	
+8	आ	CC	
+9	सभतरि	NST	
+10	हार्दिक	JJ	
+11	धन्यवाद	NN	
+12	संग	PSP	
+13	स्वीकार	NN	
+14	करैत	VM	
+15	छी	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	अपनेक	PRP	
+3	बेसी	QF	
+4	समय	NN	
+5	नहि	NEG	
+6	लेबऽ	VM	
+7	चाहैत	VAUX	
+8	छी	VAUX	
+9	,	SYM	
+10	तेँ	RP	
+11	निवेदन	NN	
+12	अछि	VM	
+13	जे	CC	
+14	हमरा	PRP	
+15	लोकनिक	NN	
+16	दू-चारि	QC	
+17	शब्द	NN	
+18	केँ	PSP	
+19	सुनबाक	VM	
+20	कृपा	NN	
+21	कयल	VM	
+22	जाओ	VAUX	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बात	NN	
+2	एहि	PRP	
+3	तरहेँ	NN	
+4	अछि	VM	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	आदमी	NN	
+3	उपद्रवी	JJ	
+4	अछि	VM	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सौंसे	QF	
+2	संसारक	NN	
+3	यहूदी	NN	
+4	सभ	RP	
+5	मे	PSP	
+6	आन्दोरलन	NN	
+7	मचबैत	VM	
+8	घुमैत	VAUX	
+9	अछि	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	नासरी	NNP	
+3	-	SYM	
+4	कुपंथक	NN	
+5	नेता	NN	
+6	अछि	VM	
+7	,	SYM	
+8	और	CC	
+9	एतबे	QF	
+10	नहि	NEG	
+11	,	SYM	
+12	ई	DEM	
+13	मन्दिरो	NN	
+14	केँ	PSP	
+15	अपवित्र	NN	
+16	करबाक	VM	
+17	कोशिश	NN	
+18	कयलक	VM	
+19	,	SYM	
+20	मुदा	CC	
+21	तखने	NST	
+22	हमरा	PRP	
+23	लोकनि	NN	
+24	आबि	VM	
+25	एकरा	PRP	
+26	पकड़ि	VM	
+27	लेलिऐक	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	सभ	QF	
+3	अपन	PRP	
+4	धर्म	NN	
+5	-	SYM	
+6	नियमक	NN	
+7	अनुसार	PSP	
+8	एकर	PRP	
+9	फैसला	NN	
+10	कऽ	VM	
+11	देने	VAUX	
+12	रहितिऐक	VAUX	
+13	,	SYM	
+14	मुदा	CC	
+15	सेनापति	NN	
+16	लुसियास	NNP	
+17	आबि	VM	
+18	कऽ	VAUX	
+19	हमरा	PRP	
+20	सभक	RP	
+21	हाथ	NN	
+22	सँ	PSP	
+23	एकरा	PRP	
+24	जबरदस्ती	RB	
+25	छिनि	VM	
+26	लेलनि	VAUX	
+27	और	CC	
+28	अभियोगी	NN	
+29	पक्ष	NN	
+30	केँ	PSP	
+31	अपनेक	PRP	
+32	सम्मुख	PSP	
+33	उपस्थित	NN	
+34	होयबाक	VM	
+35	आज्ञा	NN	
+36	दऽ	VAUX	
+37	देलनि	VAUX	
+38	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अपने	PRP	
+2	स्वयं	PRP	
+3	एकरा	PRP	
+4	सँ	RB	
+5	पूछ-ताछ	NN	
+6	कऽ	VM	
+7	कऽ	PSP	
+8	पता	NN	
+9	लगा	VM	
+10	सकब	VAUX	
+11	जे	CC	
+12	जाहि	PRP	
+13	बातक	NN	
+14	आरोप	NN	
+15	हमरा	PRP	
+16	लोकनि	NN	
+17	एकरा	PRP	
+18	पर	RB	
+19	लगा	VM	
+20	रहल	VAUX	
+21	छी	VAUX	
+22	,	SYM	
+23	से	CC	
+24	सभ	QF	
+25	सत्य	NN	
+26	अछि	VM	
+27	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	यहूदी	NN	
+2	सभ	RP	
+3	सेहो	RP	
+4	हुनकर	PRP	
+5	हँ	RP	
+6	मे	PSP	
+7	हँ	RP	
+8	मिला	VM	
+9	कऽ	VAUX	
+10	आरोप	NN	
+11	लगाबऽ	VM	
+12	मे	PSP	
+13	संग	PSP	
+14	देलथिन	VM	
+15	आ	CC	
+16	कहैत	VM	
+17	रहलाह	VAUX	
+18	,	SYM	
+19	हँ	RP	
+20	,	SYM	
+21	यैह	DEM	
+22	बात	NN	
+23	सभ	RP	
+24	अछि	VM	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुसक	NNP	
+2	प्रत्युत्तर	NN	
+3	राज्यपाल	NN	
+4	आब	NST	
+5	पौलुस	NNP	
+6	केँ	PSP	
+7	बजबाक	VM	
+8	लेल	PSP	
+9	संकेत	NN	
+10	कयलनि	VM	
+11	,	SYM	
+12	तँ	RP	
+13	ओ	PRP	
+14	एहि	PRP	
+15	प्रकारेँ	NN	
+16	उत्तर	NN	
+17	देलथिन	VM	
+18	,	SYM	
+19	ई	PRP	
+20	बुझि	VM	
+21	जे	CC	
+22	अपने	PRP	
+23	बहुत	INTF	
+24	वर्ष	NN	
+25	सँ	RB	
+26	एहि	DEM	
+27	यहूदी	NNP	
+28	जातिक	NN	
+29	न्याँयाधीश	NN	
+30	छी	VM	
+31	,	SYM	
+32	हमरा	PRP	
+33	अपनेक	PRP	
+34	सामने	PSP	
+35	अपन	PRP	
+36	बयान	NN	
+37	देबऽ	VM	
+38	मे	PSP	
+39	बड्ड	QF	
+40	प्रसन्नता	NN	<fs af=',,,,,,,'>
+41	ता	UNK	<fs af=',,,,,,,'>
+42	भऽ	VM	
+43	रहल	VAUX	
+44	अछि	VAUX	
+45	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमरा	PRP	
+2	यरूशलेम	NNP	
+3	मे	PSP	
+4	आराधना	NN	
+5	करबाक	VM	
+6	लेल	PSP	
+7	गेला	VM	
+8	बारह	QC	
+9	दिन	NN	
+10	सँ	PSP	
+11	बेसी	QF	
+12	नहि	NEG	
+13	भेल	VM	
+14	अछि	VAUX	
+15	,	SYM	
+16	तकर	PRP	
+17	पता	NN	
+18	अपने	PRP	
+19	सेहो	RP	
+20	लगा	VM	
+21	सकैत	VAUX	
+22	छी	VAUX	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	PRP	
+2	सभ	QF	
+3	जे	PRP	
+4	छथि	VM	
+5	,	SYM	
+6	से	PRP	
+7	हमरा	PRP	
+8	ने	NEG	
+9	तँ	RP	
+10	मन्दिर	NN	
+11	मे	PSP	
+12	ककरो	PRP	
+13	सँ	PSP	
+14	वाद-विवाद	NN	
+15	करैत	VM	
+16	आ	CC	
+17	ने	PSP	
+18	सभाघर	NN	
+19	मे	PSP	
+20	वा	CC	
+21	शहर	NN	
+22	मे	PSP	
+23	कतौ	NST	
+24	भीड़	NN	
+25	केँ	PSP	
+26	भड़कबैत	VM	
+27	पौलनि	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जाहि	PRP	
+2	बातक	NN	
+3	आरोप	NN	
+4	ई	PRP	
+5	सभ	QF	
+6	आब	NST	
+7	हमरा	PRP	
+8	पर	PSP	
+9	लगा	VM	
+10	रहल	VAUX	
+11	छथि	VAUX	
+12	,	SYM	
+13	से	PRP	
+14	बात	NN	
+15	अपनेक	PRP	
+16	सामने	PSP	
+17	प्रमाणित	JJ	
+18	नहि	NEG	
+19	कऽ	VM	
+20	सकैत	VAUX	
+21	छथि	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हँ	RP	
+2	,	SYM	
+3	हम	PRP	
+4	स्वीकार	NN	
+5	करैत	VM	
+6	छी	VAUX	
+7	जे	CC	
+8	हम	PRP	
+9	एहि	DEM	
+10	‘बाट’	NN	
+11	केँ	PSP	
+12	मानैत	VM	
+13	छी	VAUX	
+14	,	SYM	
+15	जकरा	PRP	
+16	ई	DEM	
+17	लोकनि	NN	
+18	‘कुपंथ’	NN	
+19	कहैत	VM	
+20	छथि	VAUX	
+21	,	SYM	
+22	और	CC	
+23	एहि	DEM	
+24	बाटक	NN	
+25	अनुसार	PSP	
+26	हम	PRP	
+27	अपन	PRP	
+28	पूर्वजक	NN	
+29	परमेश्वीरक	NN	
+30	आराधना	NN	
+31	करैत	VM	
+32	छी	VAUX	
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जे	PRP	
+2	बात	NN	
+3	मूसाक	NNP	
+4	धर्म-नियम	NN	
+5	मे	PSP	
+6	आ	CC	
+7	परमेश्वरक	NN	
+8	प्रवक्ता	NN	
+9	लोकनिक	NN	
+10	लेख	NN	
+11	मे	PSP	
+12	लिखल	VM	
+13	अछि	VAUX	
+14	,	SYM	
+15	ताहि	PRP	
+16	सभ	QF	
+17	पर	PSP	
+18	हम	PRP	
+19	एखनो	NST	
+20	विश्वास	NN	
+21	करैत	VM	
+22	छी	VAUX	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमर	PRP	
+2	सभ	QF	
+3	विश्वास	NN	
+4	अछि	VM	
+5	,	SYM	
+6	जेना	RB	
+7	कि	CC	
+8	हिनको	PRP	
+9	सभक	RP	
+10	छनि	VM	
+11	,	SYM	
+12	जे	PRP	
+13	परमेश्वहर	NN	
+14	धर्मी	JJ	
+15	और	CC	
+16	अधर्मी	JJ	
+17	दूनू	QF	
+18	केँ	PSP	
+19	मृत्युक	NN	
+20	बाद	NST	
+21	जिऔथिन	VM	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	कारणेँ	NN	
+3	हम	PRP	
+4	सदिखन	RB	
+5	अपन	PRP	
+6	जीवन	NN	
+7	ताहि	PRP	
+8	तरहेँ	NN	
+9	व्यतीत	NN	
+10	करबाक	VM	
+11	प्रयत्न	NN	
+12	करैत	VM	
+13	छी	VAUX	
+14	,	SYM	
+15	जाहि	PRP	
+16	सँ	PSP	
+17	हम	PRP	
+18	परमेश्वरक	NN	
+19	आ	CC	
+20	मनुष्यक	NN	
+21	दृष्टि	NN	
+22	मे	PSP	
+23	निर्दोष	JJ	
+24	रही	VM	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बहुत	QF	
+2	वर्षक	NN	
+3	बाद	NST	
+4	हम	PRP	
+5	अपन	PRP	
+6	जातिक	NN	
+7	गरीब	JJ	
+8	लोक	NN	
+9	सभक	QF	
+10	लेल	PSP	
+11	दान	NN	
+12	पहुँचाबऽ	VM	
+13	और	CC	
+14	परमेश्वर	NN	
+15	केँ	PSP	
+16	चढ़ौना	NN	
+17	चढ़यबाक	VM	
+18	लेल	PSP	
+19	यरूशलेम	NNP	
+20	घूमि	VM	
+21	अयलहुँ	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एही	DEM	
+2	काजक	NN	
+3	समय	NN	
+4	मे	PSP	
+5	ई	DEM	
+6	सभ	QF	
+7	हमरा	PRP	
+8	मन्दिर	NN	
+9	मे	PSP	
+10	देखलनि	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	शुद्धीकरणक	NN	
+3	विधि	NN	
+4	सभ	QF	
+5	पूरा	NN	
+6	कऽ	VM	
+7	लेने	VAUX	
+8	छलहुँ	VAUX	
+9	,	SYM	
+10	और	CC	
+11	हमरा	PRP	
+12	संग	PSP	
+13	ने	NEG	
+14	कोनो	PRP	
+15	भीड़	NN	
+16	छल	VM	
+17	आ	CC	
+18	ने	NEG	
+19	कोनो	PRP	
+20	बातक	NN	
+21	हुल्लेड़ि	NN	
+22	मचि	VM	
+23	रहल	VAUX	
+24	छल	VAUX	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	तखन	NST	
+3	आसिया	NNP	
+4	प्रदेशक	NN	
+5	किछु	QF	
+6	यहूदी	NN	
+7	सभ	RP	
+8	अयलाह	VM	
+9	आ	CC	
+10	उचित	JJ	
+11	तँ	RP	
+12	ई	PRP	
+13	रहैत	VM	
+14	जे	CC	
+15	,	SYM	
+16	जँ	PRP	
+17	हुनका	PRP	
+18	सभ	RP	
+19	केँ	RB	
+20	हमरा	PRP	
+21	विरोध	NN	
+22	मे	PSP	
+23	किछु	QF	
+24	छलनि	VM	
+25	तँ	RP	
+26	ओ	PRP	
+27	सभ	QF	
+28	स्वयं	PRP	
+29	अपनेक	PRP	
+30	समक्ष	PSP	
+31	एतऽ	NST	
+32	उपस्थित	NN	
+33	त	RP	
+34	भऽ	VM	
+35	कऽ	VAUX	
+36	अपन	PRP	
+37	आरोप	NN	
+38	हमरा	PRP	
+39	पर	PSP	
+40	लगबितथि	VM	
+41	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आब	NST	
+2	तँ	RP	
+3	,	SYM	
+4	ई	PRP	
+5	सभ	QF	
+6	जे	PRP	
+7	छथि	VM	
+8	,	SYM	
+9	से	PRP	
+10	सभ	QF	
+11	एखन	NST	
+12	कहथु	VM	
+13	जे	PRP	
+14	हम	PRP	
+15	जखन	NST	
+16	धर्म	NN	
+17	-	SYM	
+18	महासभाक	NN	
+19	सामने	PSP	
+20	मे	PSP	
+21	ठाढ़	VM	
+22	छलहुँ	VAUX	
+23	तखन	NST	
+24	ई	PRP	
+25	सभ	QF	
+26	हमरा	PRP	
+27	कोन	WQ	
+28	अपराधक	NN	
+29	दोषी	NN	
+30	पौलनि	VM	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एकेटा	QF	
+2	ई	DEM	
+3	बात	NN	
+4	भऽ	VM	
+5	सकत	VAUX	
+6	जे	CC	
+7	हम	PRP	
+8	हिनका	PRP	
+9	सभक	QF	
+10	सामने	PSP	
+11	मे	PSP	
+12	ठाढ़	VM	
+13	भऽ	VAUX	
+14	कऽ	VAUX	
+15	जोर	RB	
+16	सँ	PSP	
+17	कहलहुँ	VM	
+18	जे	CC	
+19	,	SYM	
+20	‘अहाँ	PRP	
+21	सभक	QF	
+22	समक्ष	PSP	
+23	हमर	PRP	
+24	न्याय	NN	
+25	आइ	NST	
+26	एही	PRP	
+27	कारणेँ	NN	
+28	कयल	VM	
+29	जा	VAUX	
+30	रहल	VAUX	
+31	अछि	VAUX	
+32	जे		
+33	,		
+34	हमर		
+35	पूर्ण		
+36	विश्वास		
+37	अछि		
+38	जे		
+39	परमेश्वर		
+40	मुइल		
+41	सभ		
+42	केँ		
+43	जिऔथिन		
+44	।		
+</Sentence>
+
+<Sentence id=''''>
+1	’	SYM	
+2	निर्णय	NN	
+3	मे	RB	
+4	देरी	NN	
+5	तखन	NST	
+6	फेलिक्से	NNP	
+7	,	SYM	
+8	जे	CC	
+9	एहि	DEM	
+10	बाटक	NN	
+11	बारे	PSP	
+12	मे	PSP	
+13	नीक	JJ	
+14	जकाँ	RB	
+15	जनैत	VM	
+16	छलाह	VAUX	
+17	,	SYM	
+18	ई	PRP	
+19	कहि	VM	
+20	मोकदमाक	NN	
+21	सुनवाइ	NN	
+22	बन्दऔ	NN	
+23	कयलनि	VM	
+24	जे	CC	
+25	,	SYM	
+26	सेनापति	NN	
+27	लुसियास	NNP	
+28	जखन	NST	
+29	आबि	VM	
+30	जयताह	VAUX	
+31	,	SYM	
+32	तखन	NST	
+33	अहाँ	PRP	
+34	सभक	QF	
+35	मोकदमाक	NN	
+36	निर्णय	NN	
+37	करब	VM	
+38	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	कप्तान	NN	
+3	केँ	PSP	
+4	आदेश	NN	
+5	देलथिन	VM	
+6	जे	CC	
+7	पौलुस	NNP	
+8	केँ	PSP	
+9	किछु	QF	
+10	स्वतन्त्रताक	NN	
+11	संग	PSP	
+12	पहरा	NN	
+13	मे	PSP	
+14	राखल	VM	
+15	जाय	VAUX	
+16	आ	CC	
+17	हुनकर	PRP	
+18	साथी-संगी	NN	
+19	सभ	QF	
+20	केँ	PSP	
+21	हुनकर	PRP	
+22	आवश्यकताक	NN	
+23	पूर्ति	NN	
+24	करऽ	VM	
+25	सँ	PSP	
+26	रोकल	VM	
+27	नहि	NEG	
+28	जाय	VM	
+29	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	किछु	QF	
+2	दिनक	NN	
+3	बाद	NST	
+4	फेलिक्स	NNP	
+5	अपन	PRP	
+6	घरवाली	NN	
+7	द्रुसिल्लाप	NNP	
+8	,	SYM	
+9	जे	PRP	
+10	यहूदी	NN	
+11	जातिक	NN	
+12	छलीह	VM	
+13	,	SYM	
+14	तिनका	PRP	
+15	लऽ	VM	
+16	कऽ	VAUX	
+17	अयलाह	VAUX	
+18	आ	CC	
+19	पौलुस	NNP	
+20	केँ	PSP	
+21	बजबौलनि	VM	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुस	NNP	
+2	हुनका	PRP	
+3	सँ	PSP	
+4	प्रभु	NN	
+5	यीशु	NNP	
+6	मसीह	NNP	
+7	पर	PSP	
+8	विश्वास	NN	
+9	करबाक	VM	
+10	सम्बन्ध	NN	
+11	मे	PSP	
+12	बात	NN	
+13	करऽ	VM	
+14	लगलाह	VAUX	
+15	आ	CC	
+16	फेलिक्सअ	NNP	
+17	सुनैत	VM	
+18	रहलाह	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	जखन	NST	
+3	ओ	PRP	
+4	धार्मिकता	JJ	
+5	,	SYM	
+6	अपना	PRP	
+7	केँ	PSP	
+8	वश	NN	
+9	मे	PSP	
+10	रखनाइ	VM	
+11	,	SYM	
+12	और	CC	
+13	परमेश्वरक	NN	
+14	आबऽ	VM	
+15	वला	PSP	
+16	न्यायक	NN	
+17	दिनक	NN	
+18	विषय	NN	
+19	मे	PSP	
+20	बाजऽ	VM	
+21	लगलाह	VAUX	
+22	,	SYM	
+23	तखन	NST	
+24	फेलिक्स्	NNP	
+25	भयभीत	NN	
+26	भऽ	VM	
+27	उठलाह	VAUX	
+28	आ	CC	
+29	कहलथिन	VM	
+30	,	SYM	
+31	आब	NST	
+32	रहऽ	VM	
+33	दैह	VAUX	
+34	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एखन	NST	
+2	तोँ	RP	
+3	जा	VM	
+4	सकैत	VAUX	
+5	छह	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फेर	NST	
+2	फुरसति	NN	
+3	भेटला	VM	
+4	पर	PSP	
+5	हम	PRP	
+6	तोरा	PRP	
+7	बजयबह	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	संगहि	PSP	
+2	-	SYM	
+3	संग	PSP	
+4	ओ	PRP	
+5	पौलुस	NNP	
+6	सँ	PSP	
+7	घूस	NN	
+8	प्राप्त	NN	
+9	करबाक	VM	
+10	आशा	NN	
+11	रखैत	VM	
+12	छलाह	VAUX	
+13	,	SYM	
+14	आ	CC	
+15	तेँ	PRP	
+16	हुनका	PRP	
+17	बेर-बेर	RB	
+18	बजबा	VM	
+19	कऽ	VAUX	
+20	हुनका	PRP	
+21	संग	PSP	
+22	बात-चीत	NN	
+23	करैत	VM	
+24	छलाह	VAUX	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दू	QC	
+2	वर्ष	NN	
+3	बितलाक	VM	
+4	बाद	NST	
+5	फेलिक्सक	NNP	
+6	जगह	NN	
+7	पर	PSP	
+8	पुरखियुस	NNP	
+9	फेस्तुस	NNP	
+10	राज्यपालक	NN	
+11	पद	NN	
+12	पर	PSP	
+13	अयलाह	VM	
+14	,	SYM	
+15	आ	CC	
+16	फेलिक्सै	NNP	
+17	यहूदी	NN	
+18	सभ	QF	
+19	केँ	PSP	
+20	खुश	NN	
+21	करबाक	VM	
+22	उद्देश्य	VM	
+23	सँ	PSP	
+24	पौलुस	NNP	
+25	केँ	PSP	
+26	जेहल	NN	
+27	मे	PSP	
+28	बन्दे	NN	
+29	छोड़ि	VM	
+30	गेलाह	VAUX	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	नव	JJ	
+2	राज्यपालक	NN	
+3	द्वारा	PSP	
+4	मोकदमाक	NN	
+5	सुनवाइ	NN	
+6	शुरू	VM	
+</Sentence>
+
+<Sentence id=''''>
+1	फेस्तुस	NNP	
+2	अपना	PRP	
+3	प्रदेश	NN	
+4	मे	PSP	
+5	अयलाक	VM	
+6	तीन	QC	
+7	दिनक	NN	
+8	बाद	NST	
+9	कैसरिया	NNP	
+10	सँ	PSP	
+11	यरूशलेम	NNP	
+12	गेलाह	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओतऽ	NST	
+2	यहूदी	NN	
+3	सभक	QF	
+4	मुख्यपुरोहित	NN	
+5	और	CC	
+6	अगुआ	NN	
+7	लोकनि	NN	
+8	हुनका	PRP	
+9	समक्ष	PSP	
+10	पौलुसक	NNP	
+11	विरोध	NN	
+12	मे	PSP	
+13	अपन	PRP	
+14	अभियोग	NN	
+15	प्रस्तु	NN	
+16	त	RP	
+17	कयलनि	VM	
+18	,	SYM	
+19	और	CC	
+20	हुनका	PRP	
+21	सँ	PSP	
+22	विनती	NN	
+23	कयलनि	VM	
+24	जे	CC	
+25	ओ	PRP	
+26	पौलुस	NNP	
+27	केँ	PSP	
+28	मोकदमाक	NN	
+29	लेल	PSP	
+30	फेर	NST	
+31	यरूशलेम	NNP	
+32	पठयबाक	VM	
+33	कृपा	NN	
+34	करथि	VM	
+35	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तकर	PRP	
+2	कारण	NN	
+3	ई	PRP	
+4	छल	VM	
+5	जे	CC	
+6	ओ	PRP	
+7	सभ	QF	
+8	रस्ते	NN	
+9	मे	PSP	
+10	पौलुसक	NNP	
+11	हत्या	NN	
+12	करबाक	VM	
+13	योजना	NN	
+14	बना	VM	
+15	रहल	VAUX	
+16	छलाह	VAUX	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	फेस्तुमस	NNP	
+3	उत्तर	NN	
+4	देलथिन	VM	
+5	,	SYM	
+6	पौलुस	NNP	
+7	कैसरिया	NNP	
+8	मे	PSP	
+9	बन्दी	NN	
+10	अछि	VM	
+11	,	SYM	
+12	आ	CC	
+13	हम	PRP	
+14	अपने	PRP	
+15	जल्दिए	RB	
+16	ओतऽ	NST	
+17	जा	VM	
+18	रहल	VAUX	
+19	छी	VAUX	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेँ	RP	
+2	अहाँ	PRP	
+3	सभ	QF	
+4	मे	PSP	
+5	सँ	PSP	
+6	जे	PRP	
+7	प्रमुख	JJ	
+8	व्यक्ति	NN	
+9	सभ	QF	
+10	होथि	VM	
+11	,	SYM	
+12	से	RP	
+13	सभ	QF	
+14	हमरा	PRP	
+15	संग	PSP	
+16	चलथु	VM	
+17	और	CC	
+18	जँ	PRP	
+19	ओ	PRP	
+20	कोनो	WQ	
+21	अनुचित	JJ	
+22	काज	NN	
+23	कयने	VM	
+24	अछि	VAUX	
+25	तँ	RP	
+26	ओतहि	NST	
+27	ओकरा	PRP	
+28	पर	PSP	
+29	अभियोग	NN	
+30	लगबथु	VM	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फेस्तु	NNP	
+2	स	UNK	
+3	हुनका	PRP	
+4	सभक	QF	
+5	बीच	PSP	
+6	आठ-दस	QC	
+7	दिन	NN	
+8	बिता	VM	
+9	कऽ	VAUX	
+10	फेर	RB	
+11	कैसरिया	NNP	
+12	घूमि	VM	
+13	अयलाह	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	प्राते	NN	
+2	भेने	VM	
+3	ओ	PRP	
+4	न्यायासन	NN	
+5	पर	PSP	
+6	बैसि	VM	
+7	कऽ	VAUX	
+8	आज्ञा	NN	
+9	देलनि	VM	
+10	जे	CC	
+11	पौलुस	NNP	
+12	केँ	PSP	
+13	उपस्थित	NN	
+14	कयल	VM	
+15	जाय	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुस	NNP	
+2	केँ	PSP	
+3	अयला	VM	
+4	पर	PSP	
+5	यरूशलेम	NNP	
+6	सँ	PSP	
+7	आयल	VM	
+8	यहूदी	NN	
+9	सभ	QF	
+10	हुनका	PRP	
+11	चारू	QC	
+12	कात	NST	
+13	ठाढ़	VM	
+14	भऽ	VAUX	
+15	कऽ	VAUX	
+16	हुनका	PRP	
+17	पर	PSP	
+18	भारी-भारी	JJ	
+19	आरोप	NN	
+20	लगाबऽ	VM	
+21	लगलनि	VAUX	
+22	,	SYM	
+23	जकरा	PRP	
+24	प्रमाणित	NN	
+25	नहि	NEG	
+26	कऽ	VM	
+27	सकलाह	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	पौलुस	NNP	
+3	अपना	PRP	
+4	पक्षक	NN	
+5	बात	NN	
+6	सुनौलनि	VM	
+7	,	SYM	
+8	हम	PRP	
+9	ने	NEG	
+10	तँ	RP	
+11	यहूदी	NN	
+12	सभक	QF	
+13	धर्म	NN	
+14	-	SYM	
+15	नियमक	NN	
+16	विरोध	NN	
+17	मे	PSP	
+18	,	SYM	
+19	ने	NEG	
+20	मन्दिरक	NN	
+21	विरोध	NN	
+22	मे	PSP	
+23	आ	CC	
+24	ने	NEG	
+25	सम्राट-कैसरक	NN	
+26	विरोध	NN	
+27	मे	PSP	
+28	कोनो	PRP	
+29	अपराध	NN	
+30	कयने	VM	
+31	छी	VAUX	
+32	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फेस्तुमस	NNP	
+2	यहूदी	NN	
+3	सभ	QF	
+4	केँ	PSP	
+5	खुश	NN	
+6	करबाक	VM	
+7	लेल	PSP	
+8	पौलुस	NNP	
+9	सँ	PSP	
+10	पुछलथिन	VM	
+11	,	SYM	
+12	की	QF	
+13	तोँ	PRP	
+14	यरूशलेम	NNP	
+15	जयबाक	VM	
+16	लेल	PSP	
+17	तैयार	NN	
+18	होयबह	VM	
+19	जे	CC	
+20	ओतहि	NST	
+21	हमरा	PRP	
+22	सामने	PSP	
+23	मे	PSP	
+24	एहि	DEM	
+25	बात	NN	
+26	सभक	QF	
+27	सम्बन्ध	NN	
+28	मे	PSP	
+29	तोहर	PRP	
+30	न्याय	NN	
+31	होयतह	VM	
+32	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	पौलुस	NNP	
+3	उत्तर	NN	
+4	देलथिन	VM	
+5	,	SYM	
+6	हम	PRP	
+7	एखन	NST	
+8	सम्राट-कैसरक	NNP	
+9	न्यायासनक	NN	
+10	सामने	PSP	
+11	ठाढ़	VM	
+12	छी	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एतहि	NST	
+2	हमर	PRP	
+3	न्याय	NN	
+4	होयबाक	VM	
+5	चाही	VAUX	
+6	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जेना	RB	
+2	कि	CC	
+3	अपने	PRP	
+4	नीक	JJ	
+5	जकाँ	RB	
+6	जनैत	VM	
+7	छी	VAUX	
+8	,	SYM	
+9	हम	PRP	
+10	यहूदी	NN	
+11	सभ	QF	
+12	केँ	PSP	
+13	कोनो	PRP	
+14	हानि	NN	
+15	नहि	NEG	
+16	पहुँचौने	VM	
+17	छी	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	जँ	PRP	
+3	मृत्युयदण्डीक	NN	
+4	योग्यँ	NN	
+5	कोनो	PRP	
+6	अपराध	NN	
+7	कयने	VM	
+8	होइ	VAUX	
+9	तँ	RP	
+10	मरबाक	VM	
+11	लेल	PSP	
+12	हम	PRP	
+13	एकदम	JJ	
+14	तैयार	NN	
+15	छी	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा		
+2	जँ	PRP	
+3	हिनका	PRP	
+4	सभक	QF	
+5	द्वारा	PSP	
+6	लगाओल	VM	
+7	अभियोग	NN	
+8	मे	PSP	
+9	किछु	QF	
+10	सत्ये	NN	
+11	नहि	NEG	
+12	अछि	VM	
+13	तँ	RP	
+14	हमरा	PRP	
+15	हिनका	PRP	
+16	सभक	QF	
+17	हाथ	NN	
+18	सौंपबाक	VM	
+19	अधिकार	NN	
+20	किनको	PRP	
+21	नहि	NEG	
+22	छनि	VM	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	सम्राट	NN	
+3	लग	NST	
+4	अपील	NN	
+5	करैत	VM	
+6	छी	VAUX	
+7	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	फेस्तु	NNP	
+3	स	UNK	
+4	अपन	PRP	
+5	सल्‍लाहकार	NN	
+6	सभ	QF	
+7	सँ	PSP	
+8	विचार-विमर्श	NN	
+9	कऽ	VM	
+10	कऽ	PSP	
+11	उत्तर	NN	
+12	देलथिन	VM	
+13	,	SYM	
+14	तोँ	PRP	
+15	सम्राट	NN	
+16	लग	NST	
+17	अपील	NN	
+18	कयलह	VM	
+19	,	SYM	
+20	तोँ	PRP	
+21	सम्राटे	NN	
+22	लग	NST	
+23	जयबह	VM	
+24	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	राज्यपाल	NN	
+2	फेस्तुरस	NNP	
+3	आ	CC	
+4	राजा	NN	
+5	अग्रिप्पा	NNP	
+6	किछु	QF	
+7	दिनक	NN	
+8	बाद	NST	
+9	राजा	NN	
+10	अग्रिप्पा	NNP	
+11	और	CC	
+12	बरनिकी	NNP	
+13	फेस्तुकस	NNP	
+14	केँ	PSP	
+15	नव	JJ	
+16	पदक	NN	
+17	शुभकामना	NN	
+18	देबाक	VM	
+19	लेल	PSP	
+20	कैसरिया	NNP	
+21	अयलाह	VM	
+22	आ	CC	
+23	हुनका	PRP	
+24	ओतऽ	NST	
+25	बहुते	QF	
+26	दिन	NN	
+27	रहलाह	VM	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	सँ	PSP	
+3	फेस्तुफस	NNP	
+4	केँ	PSP	
+5	पौलुसक	NNP	
+6	मोकदमाक	NN	
+7	विषय	NN	
+8	मे	PSP	
+9	राजा	NN	
+10	केँ	PSP	
+11	बुझयबाक	VM	
+12	मौका	NN	
+13	भेटलनि	VM	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	कहलथिन	VM	
+3	,	SYM	
+4	एतऽ	NST	
+5	एक	QC	
+6	आदमी	NN	
+7	अछि	VM	
+8	जकरा	PRP	
+9	फेलिक्सु	NNP	
+10	बन्दिए	RB	
+11	छोड़ि	VM	
+12	गेल	VAUX	
+13	छथि	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	जखन	NST	
+3	यरूशलेम	NNP	
+4	गेलहुँ	VM	
+5	तँ	RP	
+6	यहूदी	NN	
+7	सभक	QF	
+8	मुख्य	JJ	
+9	पुरोहित	NN	
+10	और	CC	
+11	बूढ़-प्रतिष्ठित	NN	
+12	सभ	QF	
+13	हमरा	PRP	
+14	लग	PSP	
+15	आबि	VM	
+16	एकरा	PRP	
+17	पर	PSP	
+18	लगाओल	VM	
+19	आरोप	NN	
+20	सभ	QF	
+21	सुनौलनि	VM	
+22	आ	CC	
+23	माँग	NN	
+24	कयलनि	VM	
+25	जे	CC	
+26	ओकरा	PRP	
+27	दण्ड	NN	
+28	देल	VM	
+29	जाय	VAUX	
+30	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	हम	PRP	
+3	हुनका	PRP	
+4	सभ	QF	
+5	केँ	PSP	
+6	उत्तर	NN	
+7	देलियनि	VM	
+8	जे	CC	
+9	,	SYM	
+10	हम	PRP	
+11	सभ	QF	
+12	जे	CC	
+13	रोमी	JJ	
+14	छी	VM	
+15	,	SYM	
+16	तकरा	PRP	
+17	सभक	QF	
+18	ई	DEM	
+19	प्रथा	NN	
+20	नहि	NEG	
+21	अछि	VM	
+22	जे	CC	
+23	बन्दी	JJ	
+24	केँ	PSP	
+25	ओहिना	RB	
+26	ककरो	PRP	
+27	हाथ	NN	
+28	सौंपि	VM	
+29	दिऐक	VM	
+30	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कोनो	PRP	
+2	व्यक्ति	NN	
+3	पर	PSP	
+4	जँ	PRP	
+5	आरोप	NN	
+6	लगाओल	VM	
+7	गेल	VAUX	
+8	अछि	VAUX	
+9	,	SYM	
+10	तँ	RP	
+11	पहिने	NN	
+12	ओकरा	PRP	
+13	आरोप	NN	
+14	लगाबऽ	VM	
+15	वला	PSP	
+16	सभक	QF	
+17	समक्ष	PSP	
+18	अपन	PRP	
+19	पक्षक	NN	
+20	वयान	NN	
+21	देबाक	VM	
+22	अवसर	NN	
+23	देल	VM	
+24	जाइत	VAUX	
+25	छैक	VAUX	
+26	,	SYM	
+27	तकरा	PRP	
+28	बादे	NST	
+29	फैसला	NN	
+30	कयल	VM	
+31	जाइत	VAUX	
+32	अछि	VAUX	
+33	,	SYM	
+34	ओना	RB	
+35	नहि	NEG	
+36	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	हमरा	PRP	
+4	संग	PSP	
+5	एतऽ	NST	
+6	अयलाह	VM	
+7	तँ	RP	
+8	हम	PRP	
+9	विलम्ब	NN	
+10	नहि	NEG	
+11	कऽ	VM	
+12	कऽ	PSP	
+13	प्राते	NN	
+14	भेने	VM	
+15	न्यायासन	NN	
+16	पर	PSP	
+17	बैसि	VM	
+18	कऽ	PSP	
+19	एहि	DEM	
+20	आदमी	NN	
+21	केँ	PSP	
+22	उपस्थित	NN	
+23	करयबाक	VM	
+24	आज्ञा	NN	
+25	देलहुँ	VM	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	ओकर	PRP	
+3	विरोधी	JJ	
+4	सभ	QF	
+5	जखन	NST	
+6	आरोप	NN	
+7	लगयबाक	VM	
+8	लेल	PSP	
+9	ठाढ़	VM	
+10	भेलाह	VAUX	
+11	,	SYM	
+12	तँ	NST	
+13	ओ	PRP	
+14	सभ	QF	
+15	एहन	RB	
+16	कोनो	PRP	
+17	अपराधक	NN	
+18	आरोप	NN	
+19	ओकरा	PRP	
+20	पर	PSP	
+21	नहि	NEG	
+22	लगौलनि	VM	
+23	जेना	RB	
+24	हम	PRP	
+25	सोचने	VM	
+26	छलहुँ	VAUX	
+27	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एतबे		
+2	बात	NN	
+3	छल	VM	
+4	जे	CC	
+5	ओकरा	PRP	
+6	सँ	PSP	
+7	हुनका	PRP	
+8	सभ	QF	
+9	केँ	PSP	
+10	अपन	PRP	
+11	धर्मक	NN	
+12	कोनो	PRP	
+13	बात	NN	
+14	सभ	QF	
+15	मे	PSP	
+16	मतभेद	NN	
+17	छलनि	VM	
+18	,	SYM	
+19	और	CC	
+20	यीशु	NNP	
+21	नामक		
+22	एक	QC	
+23	मुइल	JJ	
+24	आदमी	NN	
+25	,	SYM	
+26	जकरा	PRP	
+27	पौलुस	NNP	
+28	जीविते	JJ	
+29	कहैत	VM	
+30	छलैक	VAUX	
+31	,	SYM	
+32	तकरा	PRP	
+33	विषय	NN	
+34	मे	PSP	
+35	विवाद	NN	
+36	छलनि	VM	
+37	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमरा	PRP	
+2	फुरयबे	VM	
+3	नहि	NEG	
+4	करैत	VM	
+5	छल	VAUX	
+6	जे	CC	
+7	एहन	RB	
+8	बात	NN	
+9	सभक	QF	
+10	छानबीन	NN	
+11	कोना	WQ	
+12	कयल	VM	
+13	जाय	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेँ	RP	
+2	हम	PRP	
+3	ओकरा	PRP	
+4	सँ	PSP	
+5	पुछलिऐक	VM	
+6	जे	CC	
+7	,	SYM	
+8	की	WQ	
+9	तोँ	PRP	
+10	यरूशलेम	NNP	
+11	जयबाक	VM	
+12	लेल	PSP	
+13	तैयार	NN	
+14	होयबह	VM	
+15	जाहि	PRP	
+16	सँ	PSP	
+17	ओतहि	NST	
+18	एहि	DEM	
+19	बात	NN	
+20	सभक	QF	
+21	सम्बन्धस	NN	
+22	मे	PSP	
+23	तोहर	PRP	
+24	न्याय	NN	
+25	होयतह	VM	
+26	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	ओ	PRP	
+3	अपील	NN	
+4	कयलक	VM	
+5	जे	CC	
+6	ओ	PRP	
+7	सम्राटक	NN	
+8	न्याय	NN	
+9	आ	CC	
+10	निर्णयक	NN	
+11	लेल	PSP	
+12	संरक्षण	NN	
+13	मे	PSP	
+14	राखल	VM	
+15	जाय	VAUX	
+16	,	SYM	
+17	तँ	RP	
+18	हम	PRP	
+19	आदेश	NN	
+20	देलहुँ	VM	
+21	जे	CC	
+22	जाबत	NST	
+23	तक	NST	
+24	हम	PRP	
+25	ओकरा	PRP	
+26	सम्राट	NN	
+27	लग	PSP	
+28	नहि	NEG	
+29	पठा	VM	
+30	दैत	VAUX	
+31	छी	VAUX	
+32	ताबत	NST	
+33	तक	NST	
+34	ओ	PRP	
+35	पहरा	NN	
+36	मे	PSP	
+37	राखल	VM	
+38	जाय	VAUX	
+39	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	पर	PSP	
+3	अग्रिप्पाप	NNP	
+4	फेस्तुमस	NNP	
+5	केँ	PSP	
+6	कहलथिन	VM	
+7	,	SYM	
+8	हम	PRP	
+9	अपने	PRP	
+10	एहि	DEM	
+11	आदमीक	NN	
+12	बात	NN	
+13	सुनितहुँ	VM	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फेस्तुनस	NNP	
+2	उत्तर	NN	
+3	देलथिन	VM	
+4	,	SYM	
+5	अहाँ	PRP	
+6	काल्हिए	NST	
+7	ओकर	PRP	
+8	बात	NN	
+9	सुनि	VM	
+10	लेबैक	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फेस्तुतसक	NNP	
+2	समस्या	NN	
+3	—अभियोग-पत्र	NN	
+4	तँ	RP	
+5	प्रात	NN	
+6	भेने	VM	
+7	अग्रिप्पा	NNP	
+8	आ	CC	
+9	बरनिकी	NNP	
+10	बड़का	JJ	
+11	धूम-धामक	NN	
+12	संग	PSP	
+13	सेनापति	NN	
+14	सभ	QF	
+15	आ	CC	
+16	शहरक	NN	
+17	गणमान्यु	JJ	
+18	व्यक्ति	NN	
+19	सभक	QF	
+20	संग	PSP	
+21	सभा	NN	
+22	भवन	NN	
+23	मे	PSP	
+24	प्रवेश	NN	
+25	कयलनि	VM	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फेस्तुआसक	NNP	
+2	आज्ञा	NN	
+3	पर	PSP	
+4	पौलुस	NNP	
+5	केँ	PSP	
+6	बजाओल	VM	
+7	गेलनि	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	फेस्तुणस	NNP	
+3	बजलाह	VM	
+4	,	SYM	
+5	राजा	NN	
+6	अग्रिप्पा	NNP	
+7	आ	CC	
+8	समस्त	QF	
+9	उपस्थित	NN	
+10	आदरणीय	JJ	
+11	लोक	NN	
+12	सभ	QF	
+13	,	SYM	
+14	ई	DEM	
+15	आदमी	NN	
+16	,	SYM	
+17	जकरा	PRP	
+18	एतऽ	NST	
+19	देखैत	VM	
+20	छी	VAUX	
+21	,	SYM	
+22	तकरा	PRP	
+23	सम्बन्ध	NN	
+24	मे	PSP	
+25	यरूशलेम	NNP	
+26	मे	PSP	
+27	और	CC	
+28	एतौ	NST	
+29	सम्पूर्ण	QF	
+30	यहूदी	NN	
+31	जातिक	NN	
+32	लोक	NN	
+33	सभ	QF	
+34	जोर-जोर	RB	
+35	सँ	PSP	
+36	हल्ला	NN	
+37	कऽ	VM	
+38	कऽ	PSP	
+39	हमरा	PRP	
+40	सँ	PSP	
+41	ई	DEM	
+42	माँग	NN	
+43	कयने	VM	
+44	अछि	VAUX	
+45	जे	CC	
+46	ई	DEM	
+47	आदमी	NN	
+48	जीवित	NN	
+49	रहबाक	VM	
+50	योग्य	NN	
+51	नहि	NEG	
+52	अछि	VM	
+53	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	हम	PRP	
+3	एहि	PRP	
+4	निश्चय	NN	
+5	पर	PSP	
+6	पहुँचल	VM	
+7	छी	VAUX	
+8	जे	CC	
+9	ई	DEM	
+10	आदमी	NN	
+11	मृत्युदण्डेक	NN	
+12	योग्य	NN	
+13	कोनो	PRP	
+14	काज	NN	
+15	नहि	NEG	
+16	कयने	VM	
+17	अछि	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	लेकिन	CC	
+2	ई	PRP	
+3	अपने	PRP	
+4	जखन	NST	
+5	सम्राट	NN	
+6	लग	PSP	
+7	अपील	NN	
+8	कयलक	VM	
+9	तँ	NST	
+10	हम	PRP	
+11	एकरा	PRP	
+12	रोम	NNP	
+13	पठयबाक	VM	
+14	निर्णय	NN	
+15	कयलहुँ	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	हमरा	PRP	
+3	लग	NST	
+4	एकरा	PRP	
+5	विषय	NN	
+6	मे	PSP	
+7	महाराजाधिराज	NN	
+8	केँ	PSP	
+9	लिखबाक	VM	
+10	लेल	PSP	
+11	कोनो	PRP	
+12	निश्चित	NN	
+13	बात	NN	
+14	नहि	NEG	
+15	अछि	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	DEM	
+2	कारणेँ	NN	
+3	हम	PRP	
+4	अपने	PRP	
+5	सभक	QF	
+6	सम्मुख	NST	
+7	,	SYM	
+8	आ	CC	
+9	खास	JJ	
+10	कऽ	VM	
+11	,	SYM	
+12	राजा	NN	
+13	अग्रिप्पा	NNP	
+14	,	SYM	
+15	अपनेक	PRP	
+16	सम्मुख	NST	
+17	,	SYM	
+18	एहि	DEM	
+19	आदमी	NN	
+20	केँ	PSP	
+21	उपस्थित	NN	
+22	करौने	VM	
+23	छी	VAUX	
+24	,	SYM	
+25	जाहि	PRP	
+26	सँ	PSP	
+27	एकर	PRP	
+28	जाँच	NN	
+29	कयलाक	VM	
+30	बाद	NST	
+31	हमरा	PRP	
+32	किछु	QF	
+33	लिखबाक	VM	
+34	लेल	PSP	
+35	भेटय	VM	
+36	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कारण	NN	
+2	,	SYM	
+3	कोनो	PRP	
+4	बन्दी	NN	
+5	केँ	PSP	
+6	बिनु	NEG	
+7	ओकर	PRP	
+8	अभियोग-पत्र	NN	
+9	तैयार	NN	
+10	कयने	VM	
+11	सम्राट	NN	
+12	लग	PSP	
+13	पठायब	VM	
+14	हमरा	PRP	
+15	तर्कसंगत	NN	
+16	नहि	NEG	
+17	बुझाइत	VM	
+18	अछि	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	राजा	NN	
+2	अग्रिप्पाक	NNP	
+3	सम्मुख	PSP	
+4	पौलुस	NNP	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	अग्रिप्पा	NNP	
+3	पौलुस	NNP	
+4	केँ	PSP	
+5	कहलथिन	VM	
+6	,	SYM	
+7	अहाँ	PRP	
+8	केँ	PSP	
+9	अपना	PRP	
+10	पक्षक	NN	
+11	वयान	NN	
+12	देबाक	VM	
+13	अनुमति	NN	
+14	अछि	VM	
+15	।		
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	पर	PSP	
+3	पौलुस	NNP	
+4	हाथ	NN	
+5	उठा	VM	
+6	कऽ	VAUX	
+7	अपन	PRP	
+8	वयान	NN	
+9	सुनौनाइ	VM	
+10	शुरू	VAUX	
+11	कयलनि—	VAUX	
+12	राजा	NN	
+13	अग्रिप्पाक	NNP	
+14	,	SYM	
+15	ई	PRP	
+16	हमरा	PRP	
+17	लेल	PSP	
+18	सौभाग्यक	NN	
+19	बात	NN	
+20	अछि	VM	
+21	जे	CC	
+22	हमरा	PRP	
+23	आइ	NST	
+24	अपनेक	PRP	
+25	समक्ष	PSP	
+26	ओहि	DEM	
+27	आरोप	NN	
+28	सभक	QF	
+29	सम्बन्ध	NN	
+30	मे	PSP	
+31	उत्तर	NN	
+32	देबाक	VM	
+33	अवसर	NN	
+34	भेटल	VM	
+35	जे	CC	
+36	यहूदी	NN	
+37	सभ	QF	
+38	हमरा	PRP	
+39	पर	PSP	
+40	लगा	VM	
+41	रहल	VAUX	
+42	छथि	VAUX	
+43	,	SYM	
+44	विशेष	RB	
+45	कऽ	PSP	
+46	एहि	PRP	
+47	लेल	PSP	
+48	जे	PRP	
+49	अपने	PRP	
+50	यहूदी	NN	
+51	सभक	QF	
+52	सभ	QF	
+53	प्रथा	NN	
+54	आ	CC	
+55	विवाद	NN	
+56	सँ	PSP	
+57	नीक	JJ	
+58	जकाँ	RB	
+59	परिचित	NN	
+60	छी	VM	
+61	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेँ	RP	
+2	अपने	PRP	
+3	सँ	PSP	
+4	प्रार्थना	NN	
+5	अछि	VM	
+6	जे	CC	
+7	हमर	PRP	
+8	बात	NN	
+9	धैर्यपूर्बक	RB	
+10	सुनबाक	VM	
+11	कृपा	NN	
+12	कयल	VM	
+13	जाओ	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	शुरुए	RB	
+3	सँ	PSP	
+4	अपना	PRP	
+5	जातिक	NN	
+6	बीच	PSP	
+7	अपनो	PRP	
+8	देश	NN	
+9	मे	PSP	
+10	आ	CC	
+11	यरूशलेमो	NNP	
+12	मे	PSP	
+13	अपन	PRP	
+14	जीवन	NN	
+15	बचपने	NN	
+16	सँ	PSP	
+17	कोना	WQ	
+18	बितौलहुँ	VM	
+19	,	SYM	
+20	से	PRP	
+21	यहूदी	NN	
+22	सभ	QF	
+23	जनैत	VM	
+24	छथि	VAUX	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	हमर	PRP	
+4	पुरान	JJ	
+5	परिचित	JJ	
+6	लोक	NN	
+7	छथि	VM	
+8	आ	CC	
+9	तेँ	PRP	
+10	जँ	PRP	
+11	चाहितथि	VM	
+12	तँ	RP	
+13	हमरा	PRP	
+14	बारे	PSP	
+15	मे	PSP	
+16	गवाहिओ	NN	
+17	दऽ	VM	
+18	सकितथि	VAUX	
+19	जे	CC	
+20	हम	PRP	
+21	अपन	PRP	
+22	यहूदी	JJ	
+23	धर्मक	NN	
+24	सभ	QF	
+25	सँ	PSP	
+26	कट्टरपंथ	NN	
+27	,	SYM	
+28	अर्थात्	RP	
+29	फरिसी	JJ	
+30	पंथक	NN	
+31	अनुसरण	NN	
+32	कयने	VM	
+33	छलहुँ	VAUX	
+34	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	और	CC	
+2	एखन	NST	
+3	हमर	PRP	
+4	एहि	PRP	
+5	लेल	PSP	
+6	न्याय	NN	
+7	कयल	VM	
+8	जा	VAUX	
+9	रहल	VAUX	
+10	अछि	VAUX	
+11	जे	CC	
+12	हम	PRP	
+13	पूर्ण	JJ	
+14	विश्वासक	NN	
+15	संग	PSP	
+16	ओहि	DEM	
+17	वचन	NN	
+18	पर	PSP	
+19	अपन	PRP	
+20	आशा	NN	
+21	रखने	VM	
+22	छी	VAUX	
+23	जे	PRP	
+24	वचन	NN	
+25	परमेश्वर	NN	
+26	हमरा	PRP	
+27	सभक	QF	
+28	पूर्वज	NN	
+29	सभ	QF	
+30	केँ	PSP	
+31	देने	VM	
+32	छथि	VAUX	
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आ	CC	
+2	ठीक	RB	
+3	यैह	DEM	
+4	वचन	NN	
+5	पूरा	RB	
+6	होयबाक	VM	
+7	आशा	NN	
+8	रखैत	VM	
+9	हमरा	PRP	
+10	यहूदी	JJ	
+11	लोकनिक	NN	
+12	बारहो	QC	
+13	कुलक	NN	
+14	लोक	NN	
+15	सभ	QF	
+16	बहुत	INTF	
+17	भक्ति	NN	
+18	क	PSP	
+19	संग	PSP	
+20	दिन-राति	RB	
+21	परमेश्वरक	NN	
+22	सेवा	NN	
+23	करैत	VM	
+24	छथि	VAUX	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हँ	RP	
+2	सरकार	NN	
+3	,	SYM	
+4	एही	DEM	
+5	वचन	NN	
+6	पर	PSP	
+7	हमर	PRP	
+8	आशाक	NN	
+9	कारणेँ	NN	
+10	यहूदी	NN	
+11	सभक	QF	
+12	द्वारा	PSP	
+13	हमरा	PRP	
+14	पर	PSP	
+15	दोष	NN	
+16	लगाओल	VM	
+17	जा	VM	
+18	रहल	VAUX	
+19	अछि	VAUX	
+20	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अपने	PRP	
+2	सभ	QF	
+3	केँ	PSP	
+4	ई	DEM	
+5	बात	NN	
+6	अविश्वसनीय	JJ	
+7	किएक	WQ	
+8	लगैत	VM	
+9	अछि	VAUX	
+10	जे	CC	
+11	परमेश्वर	NN	
+12	मुइल	VM	
+13	सभ	QF	
+14	केँ	PSP	
+15	जिअबैत	VM	
+16	छथिन	VAUX	
+17	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमहूँ	PRP	
+2	सोचैत	VM	
+3	छलहुँ	VAUX	
+4	जे	CC	
+5	,	SYM	
+6	जतेक	QF	
+7	हम	PRP	
+8	नासरत-निवासी	JJ	
+9	यीशुक	NNP	
+10	नामक	NN	
+11	विरोध	NN	
+12	मे	PSP	
+13	कऽ	VM	
+14	सकैत	VAUX	
+15	छी	VAUX	
+16	,	SYM	
+17	ततेक	QF	
+18	हमरा	PRP	
+19	करबाक	VM	
+20	अछि	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आ	CC	
+2	हम	PRP	
+3	यरूशलेम	NNP	
+4	मे	PSP	
+5	एना	RB	
+6	करबो	VM	
+7	कयलहुँ	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुख्य	JJ	
+2	पुरोहित	NN	
+3	सभ	QF	
+4	सँ	PSP	
+5	अधिकार	NN	
+6	लऽ	VM	
+7	कऽ	VAUX	
+8	हम	PRP	
+9	परमेश्वरक	NN	
+10	कतेको	QF	
+11	लोक	NN	
+12	सभ	QF	
+13	केँ	PSP	
+14	जेहल	NN	
+15	मे	PSP	
+16	राखि	VM	
+17	देलहुँ	VAUX	
+18	,	SYM	
+19	आ	CC	
+20	जखन	NST	
+21	ओकरा	PRP	
+22	सभ	QF	
+23	केँ	PSP	
+24	मृत्युदण्डक	NN	
+25	देल	VM	
+26	गेलैक	VAUX	
+27	तँ	RP	
+28	हमहूँ	PRP	
+29	ओहि	PRP	
+30	मे	PSP	
+31	सहमति	NN	
+32	दैत	VM	
+33	छलहुँ	VAUX	
+34	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	कतेको	QF	
+3	बेर	PSP	
+4	सभाघर	NN	
+5	सभ	QF	
+6	मे	PSP	
+7	जा-जा	VM	
+8	कऽ	VAUX	
+9	ओकरा	PRP	
+10	सभ	QF	
+11	केँ	PSP	
+12	दण्ड	NN	
+13	दिआ	VM	
+14	कऽ	VAUX	
+15	ओकरा	PRP	
+16	सभ	QF	
+17	सँ	PSP	
+18	अपना	PRP	
+19	प्रभु	NN	
+20	केँ	PSP	
+21	अस्वीकार	NN	
+22	करयबाक	VM	
+23	कोशिश	NN	
+24	कयलहुँ	VM	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमरा	PRP	
+2	ततेक	QF	
+3	क्रोध	NN	
+4	छल	VM	
+5	जे	CC	
+6	सनकल	JJ	
+7	जकाँ	RB	
+8	भऽ	VM	
+9	गेल	VAUX	
+10	छलहुँ	VAUX	
+11	आ	CC	
+12	हम	PRP	
+13	ओकरा	PRP	
+14	सभ	QF	
+15	केँ	PSP	
+16	सतयबाक	VM	
+17	लेल	PSP	
+18	आनो-आन	PRP	
+19	देशक	NN	
+20	शहर	NN	
+21	सभ	QF	
+22	मे	PSP	
+23	गेलहुँ	VM	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एक	QC	
+2	बेर	RB	
+3	हम	PRP	
+4	एही	DEM	
+5	काजक	NN	
+6	लेल	PSP	
+7	मुख्यपुरोहित	NN	
+8	सभक	QF	
+9	पूर्ण	JJ	
+10	अधिकार	NN	
+11	और	CC	
+12	आज्ञाक	NN	
+13	संग	PSP	
+14	दमिश्कर	NNP	
+15	जा	VM	
+16	रहल	VAUX	
+17	छलहुँ	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	करीब	NST	
+2	दुपहरक	NST	
+3	समय	NN	
+4	मे	PSP	
+5	,	SYM	
+6	सरकार	NN	
+7	,	SYM	
+8	रस्ता	NN	
+9	मे	PSP	
+10	हम	PRP	
+11	आकाश	NN	
+12	सँ	PSP	
+13	एहन	RB	
+14	इजोत	NN	
+15	देखलहुँ	VM	
+16	जे	PRP	
+17	सूर्योक	NN	
+18	इजोत	NN	
+19	सँ	RB	
+20	तेज	JJ	
+21	छल	VM	
+22	,	SYM	
+23	जे	PRP	
+24	हमरा	PRP	
+25	आ	CC	
+26	हमर	PRP	
+27	सहयात्री	NN	
+28	सभक	QF	
+29	चारू	QO	
+30	कात	NST	
+31	चमकि	VM	
+32	रहल	VAUX	
+33	छल	VAUX	
+34	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	सभ	QF	
+3	गोटे	CL	
+4	जमीन	NN	
+5	पर	PSP	
+6	खसि	VM	
+7	पड़लहुँ	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	हमरा	PRP	
+3	अपन	PRP	
+4	इब्रानी	NNP	
+5	भाषा	NN	
+6	मे	PSP	
+7	एक	QC	
+8	आवाज	NN	
+9	सुनाइ	VM	
+10	देलक	VAUX	
+11	जे	PRP	
+12	हमरा	PRP	
+13	कहैत	VM	
+14	छल	VAUX	
+15	,	SYM	
+16	हौ	INJ	
+17	साउल	NNP	
+18	,	SYM	
+19	हौ	INJ	
+20	साउल	NNP	
+21	,	SYM	
+22	हमरा	PRP	
+23	किएक	WQ	
+24	सतबैत	VM	
+25	छह	VAUX	
+26	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोँ	PRP	
+2	हमर	PRP	
+3	विरोध	NN	
+4	कऽ	VAUX	
+5	कऽ	VAUX	
+6	अपने	PRP	
+7	केँ	PSP	
+8	कष्टइ	NN	
+9	पहुँचबैत	VM	
+10	छह	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	हम	PRP	
+3	पुछलियनि	VM	
+4	,	SYM	
+5	प्रभु	NN	
+6	,	SYM	
+7	अहाँ	PRP	
+8	के	WQ	
+9	छी	VM	
+10	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	प्रभु	NN	
+2	हमरा	PRP	
+3	उत्तर	NN	
+4	देलनि	VM	
+5	,	SYM	
+6	‘हम	PRP	
+7	यीशु	NNP	
+8	छी	VM	
+9	,	SYM	
+10	जिनका	PRP	
+11	तोँ	PRP	
+12	सता	VM	
+13	रहल	VAUX	
+14	छह	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आब	NST	
+2	उठह	VM	
+3	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पयर	NN	
+2	पर	PSP	
+3	ठाढ़	VM	
+4	होअह	VAUX	
+5	,	SYM	
+6	कारण	NN	
+7	हम	PRP	
+8	तोरा	PRP	
+9	एहि	PRP	
+10	लेल	PSP	
+11	दर्शन	NN	
+12	देने	VM	
+13	छिअह	VAUX	
+14	जे	CC	
+15	हम	PRP	
+16	तोरा	PRP	
+17	अपन	PRP	
+18	सेवक	NN	
+19	आ	CC	
+20	गवाह	NN	
+21	नियुक्त	NN	
+22	करी	VM	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोँ	PRP	
+2	हमरा	PRP	
+3	विषय	NN	
+4	मे	PSP	
+5	जे	PRP	
+6	देखने	VM	
+7	छह	VAUX	
+8	आ	CC	
+9	बाद	NST	
+10	मे	PSP	
+11	जे	PRP	
+12	किछु	QF	
+13	हम	PRP	
+14	तोरा	PRP	
+15	देखयबह	VM	
+16	,	SYM	
+17	ताहि	PRP	
+18	सभक	QF	
+19	सम्बन्धी	NN	
+20	मे	PSP	
+21	तोरा	PRP	
+22	गवाही	NN	
+23	देबाक	VM	
+24	छह	VAUX	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	तोहर	PRP	
+3	अपन	PRP	
+4	लोकक	NN	
+5	हाथ	NN	
+6	सँ	PSP	
+7	और	CC	
+8	गैर-यहूदी	JJ	
+9	लोक	NN	
+10	सभक	QF	
+11	हाथ	NN	
+12	सँ	PSP	
+13	सेहो	RP	
+14	तोरा	PRP	
+15	बचयबह	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	तोरा	PRP	
+3	ओकरा	PRP	
+4	सभ	QF	
+5	लग	NST	
+6	एहि	PRP	
+7	लेल	PSP	
+8	पठा	VM	
+9	रहल	VAUX	
+10	छिअह	VAUX	
+11	जे	CC	
+12	तोँ	PRP	
+13	ओकरा	PRP	
+14	सभक	QF	
+15	आँखि	NN	
+16	खोलह	VM	
+17	और	CC	
+18	ओकरा	PRP	
+19	सभ	QF	
+20	केँ	PSP	
+21	अन्हार	NN	
+22	सँ	PSP	
+23	इजोत	NN	
+24	मे	PSP	
+25	,	SYM	
+26	अर्थात्	RP	
+27	शैतानक	NN	
+28	राज्य	NN	
+29	सँ	PSP	
+30	परमेश्वर	NN	
+31	लग	NST	
+32	,	SYM	
+33	घुमाबह	VM	
+34	,	SYM	
+35	जाहि	PRP	
+36	सँ	RB	
+37	हमरा	PRP	
+38	पर	PSP	
+39	विश्वास	NN	
+40	कयला	VM	
+41	सँ	RB	
+42	ओ	PRP	
+43	सभ	QF	
+44	पापक	NN	
+45	क्षमा	NN	
+46	प्राप्त	NN	
+47	करय	VM	
+48	आ	CC	
+49	परमेश्वरक	NN	
+50	पवित्र	NN	
+51	कयल	VM	
+52	लोकक	NN	
+53	संग	PSP	
+54	उत्तराधिकारी	NN	
+55	बनय	VM	
+56	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	’	SYM	
+2	तेँ	RP	
+3	,	SYM	
+4	हे	INJ	
+5	महाराज	NN	
+6	अग्रिप्पा	NNP	
+7	,	SYM	
+8	हम	PRP	
+9	एहि	DEM	
+10	स्वर्गीय	JJ	
+11	दर्शन	NN	
+12	सँ	PSP	
+13	भेटल	VM	
+14	आज्ञाक	NN	
+15	उल्लंघन	NN	
+16	नहि	NEG	
+17	कयलहुँ	VM	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पहिने	NST	
+2	दमिश्क	NNP	
+3	मे	PSP	
+4	,	SYM	
+5	तखन	NNP	
+6	यरूशलेम	NNP	
+7	मे	PSP	
+8	आ	CC	
+9	सौंसे	QF	
+10	यहूदिया	JJ	
+11	प्रदेश	NN	
+12	मे	PSP	
+13	,	SYM	
+14	आ	CC	
+15	गैर-यहूदी	JJ	
+16	सभ	QF	
+17	मे	PSP	
+18	सेहो	RP	
+19	हम	PRP	
+20	प्रचार	NN	
+21	कयलहुँ	VM	
+22	जे	CC	
+23	,	SYM	
+24	अपना	PRP	
+25	पापक	NN	
+26	लेल	PSP	
+27	पश्चात्ताप	NN	
+28	कऽ	VM	
+29	कऽ	VAUX	
+30	परमेश्व	NN	
+31	र	UNK	
+32	लग	NST	
+33	घूमि	VM	
+34	आउ	VAUX	
+35	,	SYM	
+36	और	CC	
+37	अपन	PRP	
+38	काज	NN	
+39	द्वारा	PSP	
+40	अपन	PRP	
+41	हृदय-परिवर्तन	NN	
+42	केँ	PSP	
+43	प्रमाणित	NN	
+44	करू	VM	
+45	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एही	DEM	
+2	कारणेँ	NN	
+3	यहूदी	NN	
+4	सभ	QF	
+5	हमरा	PRP	
+6	मन्दिर	NN	
+7	मे	PSP	
+8	पकड़लक	VM	
+9	आ	CC	
+10	जान	NN	
+11	सँ	PSP	
+12	मारि	VM	
+13	देबाक	VAUX	
+14	कोशिश	NN	
+15	कयलक	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	परमेश्वर	NN	
+3	अजुका	NST	
+4	दिन	NN	
+5	धरि	PSP	
+6	हमर	PRP	
+7	सहायता	NN	
+8	कयने	VM	
+9	छथि	VAUX	
+10	,	SYM	
+11	आ	CC	
+12	तेँ		
+13	हम	PRP	
+14	आइ	NST	
+15	एतऽ	NST	
+16	ठाढ़	VM	
+17	भऽ	VAUX	
+18	कऽ	VAUX	
+19	छोट-पैघ	JJ	
+20	सभक	QF	
+21	सामने	PSP	
+22	गवाही	NN	
+23	दऽ	VM	
+24	रहल	VAUX	
+25	छी	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जाहि	PRP	
+2	बात	NN	
+3	सभक	QF	
+4	भविष्येवाणी	NN	
+5	मूसा	NNP	
+6	आ	CC	
+7	परमेश्व	NN	
+8	रक	UNK	
+9	प्रवक्ताक	NN	
+10	लोकनि	NN	
+11	कयलनि	VM	
+12	,	SYM	
+13	ताहि	PRP	
+14	सँ	PSP	
+15	बेसी	QF	
+16	हम	PRP	
+17	किछु	QF	
+18	नहि	NEG	
+19	कहैत	VM	
+20	छी—	VAUX	
+21	अर्थात्		
+22	ई	PRP	
+23	जे	PRP	
+24	,	SYM	
+25	उद्धारकर्ता-मसीह	NN	
+26	केँ	PSP	
+27	दुःख	NN	
+28	उठयबाक	VM	
+29	छलनि	VAUX	
+30	,	SYM	
+31	और	CC	
+32	सभ	QF	
+33	सँ	PSP	
+34	पहिल	QO	
+35	मृत्यु	NN	
+36	सँ	PSP	
+37	जीबि	VM	
+38	उठनिहार	PSP	
+39	भऽ	VM	
+40	कऽ	VAUX	
+41	अपनो	PRP	
+42	लोक	NN	
+43	केँ	PSP	
+44	आ	CC	
+45	दोसरो	QO	
+46	जाति	NN	
+47	सभ	QF	
+48	केँ	PSP	
+49	सेहो	RP	
+50	इजोतक	NN	
+51	शुभ	JJ	
+52	समाचार	NN	
+53	सुनयबाक	VM	
+54	छलनि	VAUX	
+55	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	बताह	JJ	
+3	नहि	NEG	
+4	छी	VM	
+5	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुस	NNP	
+2	जखन	NST	
+3	ई	DEM	
+4	बात	NN	
+5	सभ	QF	
+6	कहिए	VM	
+7	रहल	VAUX	
+8	छलाह	VAUX	
+9	तँ	RP	
+10	फेस्तुसस	NNP	
+11	बाधा	NN	
+12	करैत	VM	
+13	बड्ड	INTF	
+14	जोर	JJ	
+15	सँ	PSP	
+16	कहलथिन	VM	
+17	,	SYM	
+18	हौ	INJ	
+19	पौलुस	NNP	
+20	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोँ	PRP	
+2	बताह	JJ	
+3	भऽ	VM	
+4	गेलह	VAUX	
+5	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोहर	PRP	
+2	पैघ	JJ	
+3	शिक्षा	NN	
+4	तोरा	PRP	
+5	बताह	JJ	
+6	कऽ	VM	
+7	देने	VAUX	
+8	छह	VAUX	
+9	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुस	NNP	
+2	उत्तर	NN	
+3	देलथिन	VM	
+4	,	SYM	
+5	परम	INTF	
+6	श्रेष्ठ	JJ	
+7	फेस्तु	NNP	
+8	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	स	PSP	
+2	,	SYM	
+3	हम	PRP	
+4	बताह	JJ	
+5	नहि	NEG	
+6	छी	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	जे	PRP	
+3	कहैत	VM	
+4	छी	VAUX	
+5	से		
+6	एकदम		
+7	सत्य	NN	
+8	आ	CC	
+9	विवेकपूर्ण	RB	
+10	बात	NN	
+11	अछि	VM	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	राजा	NN	
+2	साहेब	RP	
+3	एहि	DEM	
+4	बात	NN	
+5	सभक	QF	
+6	विषय	NN	
+7	मे	PSP	
+8	जनैत	VM	
+9	छथि	VAUX	
+10	,	SYM	
+11	आ	CC	
+12	हुनका	PRP	
+13	सँ	PSP	
+14	हम	PRP	
+15	खुलि	VM	
+16	कऽ	VAUX	
+17	बात	NN	
+18	कऽ	VM	
+19	सकैत	VAUX	
+20	छी	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमरा	PRP	
+2	पूर्ण	JJ	
+3	विश्वास	NN	
+4	अछि	VM	
+5	जे	CC	
+6	एहि	DEM	
+7	सभ	QF	
+8	बात	NN	
+9	मे	PSP	
+10	एहन	RB	
+11	कोनो	PRP	
+12	बात	NN	
+13	नहि	NEG	
+14	अछि	VM	
+15	जकरा	PRP	
+16	बारे	RB	
+17	मे	PSP	
+18	ओ	PRP	
+19	नहि	NEG	
+20	जनैत	VM	
+21	होथि	VAUX	
+22	,	SYM	
+23	कारण	NN	
+24	ई	DEM	
+25	सभ	QF	
+26	घटना	NN	
+27	कोनो	PRP	
+28	कोना	NN	
+29	मे	PSP	
+30	नहि	NEG	
+31	भेल	VM	
+32	अछि	VAUX	
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	राजा	NN	
+2	अग्रिप्पा	NNP	
+3	,	SYM	
+4	की	WQ	
+5	अपने	PRP	
+6	परमेश्वरक	NN	
+7	प्रवक्ता	NN	
+8	लोकनिक	NN	
+9	बात	NN	
+10	पर	PSP	
+11	विश्वास	NN	
+12	करैत	VM	
+13	छी	VAUX	
+14	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	जनैत	VM	
+3	छी	VAUX	
+4	जे	CC	
+5	अपने	PRP	
+6	केँ	PSP	
+7	विश्वास	NN	
+8	अछि	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	पर	PSP	
+3	अग्रिप्पा	NNP	
+4	पौलुस	NNP	
+5	केँ	PSP	
+6	कहलथिन	VM	
+7	,	SYM	
+8	की	WQ	
+9	अहाँ	PRP	
+10	एतबे	QF	
+11	काल	NN	
+12	मे	PSP	
+13	हमरा	PRP	
+14	मसीही	NN	
+15	बनाबऽ	VM	
+16	चाहैत	VAUX	
+17	छी	VAUX	
+18	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुस	NNP	
+2	उत्तर	NN	
+3	देलथिन	VM	
+4	,	SYM	
+5	एतबे	QF	
+6	काल	NN	
+7	वा	CC	
+8	बहुत	INTF	
+9	काल	NN	
+10	लागय	VM	
+11	,	SYM	
+12	परमेश्ववर	NN	
+13	करथु	VM	
+14	जे	CC	
+15	अपनेटा	PRP	
+16	मात्र	CL	
+17	नहि	NEG	
+18	,	SYM	
+19	बल्कि	NEG	
+20	आइ	NST	
+21	जतबा	QF	
+22	लोक	NN	
+23	हमर	PRP	
+24	बात	NN	
+25	सुनि	VM	
+26	रहल	VAUX	
+27	छथि	VAUX	
+28	से		
+29	सभ	QF	
+30	केओ	PRP	
+31	हमरा	PRP	
+32	जकाँ	RB	
+33	बनथि—मात्र	VM	
+34	एहिना	RB	
+35	जिंजीर	NN	
+36	सँ	PSP	
+37	बान्हऽल	VM	
+38	नहि	NEG	
+39	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अधिकारी	NN	
+2	लोकनिक	NN	
+3	आपसी	JJ	
+4	गप्प	NN	
+5	-सप्पम—पौलुस	NNP	
+6	निर्दोष	JJ	
+7	तखन	NST	
+8	राजा	NN	
+9	अग्रिप्पा	NNP	
+10	उठि	VM	
+11	गेलाह	VAUX	
+12	,	SYM	
+13	आ	CC	
+14	तहिना	RB	
+15	राज्यौपाल	NN	
+16	,	SYM	
+17	बरनिकी	NNP	
+18	आ	CC	
+19	हुनका	PRP	
+20	सभक	QF	
+21	संग	PSP	
+22	बैसल	VM	
+23	सभ	QF	
+24	लोक	NN	
+25	सेहो	RP	
+26	ठाढ़	VM	
+27	भऽ	VAUX	
+28	गेलाह	VAUX	
+29	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सभा	NN	
+2	सँ	PSP	
+3	बहरा	NST	
+4	कऽ	VM	
+5	ओ	PRP	
+6	सभ	QF	
+7	एक-दोसर	QC	
+8	सँ	PSP	
+9	बात	NN	
+10	करऽ	VM	
+11	लगलाह	VAUX	
+12	,	SYM	
+13	आ	CC	
+14	बजलाह	VM	
+15	,	SYM	
+16	ई	DEM	
+17	आदमी	NN	
+18	मृत्युदण्डऽ	NN	
+19	वा	CC	
+20	जेहल	NN	
+21	मे	PSP	
+22	राखल	VM	
+23	जयबाक	VAUX	
+24	योग्य	NN	
+25	कोनो	PRP	
+26	काज	NN	
+27	नहि	NEG	
+28	कऽ	VM	
+29	रहल	VAUX	
+30	अछि	VAUX	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	और	CC	
+2	अग्रिप्पा	NNP	
+3	,	SYM	
+4	फेस्तुहस	NNP	
+5	केँ	PSP	
+6	कहलथिन	VM	
+7	,	SYM	
+8	ई	DEM	
+9	जँ	PRP	
+10	सम्राट	NN	
+11	लग	PSP	
+12	अपील	NN	
+13	नहि	NEG	
+14	कयने	VM	
+15	रहैत	VAUX	
+16	तँ	RP	
+17	मुक्त	NN	
+18	कयल	VM	
+19	जा	VAUX	
+20	सकैत	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुसक	NNP	
+2	रोम	NNP	
+3	यात्रा	NN	
+4	प्रारम्भक	NN	
+</Sentence>
+
+<Sentence id=''''>
+1	जखन	NST	
+2	ई	PRP	
+3	निश्चयय	NN	
+4	भऽ	VM	
+5	गेल	VAUX	
+6	जे	PRP	
+7	हम	PRP	
+8	सभ	QF	
+9	पानि	NN	
+10	जहाज	NN	
+11	सँ	PSP	
+12	इटली	NNP	
+13	देश	NN	
+14	जायब	VM	
+15	तँ	RP	
+16	पौलुस	NNP	
+17	और	CC	
+18	दोसरो		
+19	बन्दी	NN	
+20	सभ	QF	
+21	केँ	PSP	
+22	सम्राटक	NN	
+23	सैन्यदलक	NN	
+24	कप्तान	NN	
+25	यूलियुसक	NNP	
+26	जिम्मा	NN	
+27	मे	PSP	
+28	लगा	VM	
+29	देल	VAUX	
+30	गेलनि	VAUX	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	सभ	QF	
+3	अद्रमुतियुम	NNP	
+4	नगरक	NN	
+5	एक	QC	
+6	जहाज	NN	
+7	जे	PRP	
+8	आसिया	NNP	
+9	प्रदेशक	NN	
+10	समुद्रक	NN	
+11	कछेर	NN	
+12	पर	PSP	
+13	पड़ऽ	VM	
+14	वला	PSP	
+15	शहर	NN	
+16	सभ	QF	
+17	होइत	VM	
+18	जाय	VAUX	
+19	वला	PSP	
+20	छल	VAUX	
+21	,	SYM	
+22	ताहि		
+23	पर	PSP	
+24	चढ़ि	VM	
+25	कऽ	VAUX	
+26	विदा	NN	
+27	भेलहुँ	VM	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमरा	PRP	
+2	सभक	QF	
+3	संग	PSP	
+4	मकिदुनिया	NNP	
+5	प्रदेशक	NN	
+6	थिसलुनिका	NNP	
+7	नगरक	NN	
+8	निवासी	NN	
+9	अरिस्त	NNP	
+10	र्खुस	NNP	
+11	सेहो	RP	
+12	छलाह	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दोसर	JJ	
+2	दिन	NN	
+3	सीदोन	NNP	
+4	नगर	NN	
+5	मे	PSP	
+6	पहुँचलहुँ	VM	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओतऽ	NST	
+2	यूलियुस	NNP	
+3	पौलुस	NNP	
+4	पर	PSP	
+5	दया	NN	
+6	कऽ	VM	
+7	कऽ	VAUX	
+8	हुनका	PRP	
+9	संगी-साथी	NN	
+10	सभक	QF	
+11	ओहिठाम	NST	
+12	जा	VM	
+13	कऽ	VAUX	
+14	अपन	PRP	
+15	आवश्यकताक	NN	
+16	वस्तु	NN	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	स्वीकार	NN	
+2	करबाक	VM	
+3	अनुमति	NN	
+4	देलथिन	VM	
+5	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओतऽ	NST	
+2	सँ	PSP	
+3	ओही	DEM	
+4	जहाज	NN	
+5	सँ	PSP	
+6	फेर	NST	
+7	विदा	NN	
+8	भेलहुँ	VM	
+9	,	SYM	
+10	और	CC	
+11	हवा	NN	
+12	विपरीत		
+13	दिस	NST	
+14	सँ	PSP	
+15	रहबाक	VM	
+16	कारणेँ	NN	
+17	हम	PRP	
+18	सभ	QF	
+19	साइप्रस	NNP	
+20	द्वीपक	NN	
+21	अऽढ़	NST	
+22	मे	PSP	
+23	चललहुँ	VM	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	किलिकिया	NNP	
+3	और	CC	
+4	पंफूलिया	NNP	
+5	प्रदेशक	NN	
+6	सामनेक	PSP	
+7	समुद्री	JJ	
+8	भाग	NN	
+9	दऽ	VM	
+10	कऽ	VAUX	
+11	आगाँ	NST	
+12	बढ़ि	VM	
+13	लुकिया	NNP	
+14	प्रदेशक	NN	
+15	मूरा	NNP	
+16	नामक		
+17	स्थातन	NN	
+18	पर	PSP	
+19	पहुँचलहुँ	VM	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओतऽ	NST	
+2	कप्तान	NN	
+3	केँ	PSP	
+4	सिकन्दरिया	NNP	
+5	नगरक	NN	
+6	एक	QC	
+7	जहाज	NN	
+8	भेटलनि	VM	
+9	जे	PRP	
+10	इटली	NNP	
+11	देश	NN	
+12	जा	VM	
+13	रहल	VAUX	
+14	छल	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	हमरा	PRP	
+3	सभ	QF	
+4	केँ	PSP	
+5	ओहि	PRP	
+6	पर	PSP	
+7	चढ़ा	VM	
+8	देलनि	VAUX	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	समुद्री	JJ	
+2	यात्रा	NN	
+3	कतेक	QF	
+4	कठिन	JJ	
+5	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कतेक	QF	
+2	दिन	NN	
+3	धरि		
+4	धिरे-धिरे	RB	
+5	आगाँ	NST	
+6	बढ़ैत	VM	
+7	अन्ती		
+8	मे	RB	
+9	बहुत	QF	
+10	कठिनाइ	RB	
+11	सँ	PSP	
+12	हम	PRP	
+13	सभ	QF	
+14	कनिदुस	NNP	
+15	नगर	NN	
+16	लग	PSP	
+17	पहुँचलहुँ	VM	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हवा	NN	
+2	हमरा	PRP	
+3	सभ	QF	
+4	केँ	PSP	
+5	ओहि	PRP	
+6	दिस	NST	
+7	आरो	CC	
+8	आगाँ	NST	
+9	बढ़ऽ	VM	
+10	नहि	NEG	
+11	दऽ	VM	
+12	रहल	VAUX	
+13	छल	VAUX	
+14	आ	CC	
+15	तेँ	CC	
+16	हम	PRP	
+17	सभ	QF	
+18	सलमोन	NNP	
+19	नगर	NN	
+20	लग	NST	
+21	क्रेत	NNP	
+22	द्वीपक	NN	
+23	अऽढ़	NST	
+24	मे	PSP	
+25	चल	VM	
+26	गेलहुँ	VAUX	
+27	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	द्वीपक	NN	
+2	काते-काते	NN	
+3	बहुत	QF	
+4	कठिनाइ	JJ	
+5	सँ	PSP	
+6	आगाँ	NST	
+7	बढ़ैत	VM	
+8	हम	PRP	
+9	सभ	QF	
+10	असल	JJ	
+11	शरण	NN	
+12	नामक		
+13	स्थाँन	NN	
+14	पर	PSP	
+15	पहुँचलहुँ	VM	
+16	,	SYM	
+17	जे	PRP	
+18	लसिया	NNP	
+19	नगर	NN	
+20	लग	NST	
+21	अछि	VM	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	तरहेँ	PSP	
+3	बहुत	QF	
+4	समय	NN	
+5	बिति	VM	
+6	गेल	VAUX	
+7	छल	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	प्रायश्चित्त-दिवसक	NN	
+2	उपास	NN	
+3	सेहो	RP	
+4	बिति	VM	
+5	गेल	VAUX	
+6	छल	VAUX	
+7	,	SYM	
+8	और	CC	
+9	जल-यात्रा	NN	
+10	करब	VM	
+11	आब	NST	
+12	खतरनाक	JJ	
+13	छल	VM	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेँ	RP	
+2	पौलुस	NNP	
+3	लोक	NN	
+4	सभ	QF	
+5	केँ	PSP	
+6	ई	DEM	
+7	चेतावनी	NN	
+8	देलथिन	VM	
+9	जे	CC	
+10	,	SYM	
+11	यौ	INJ	
+12	मित्र	NN	
+13	लोकनि	NN	
+14	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	देखैत	VM	
+3	छी	VAUX	
+4	जे	CC	
+5	एहि	DEM	
+6	यात्रा	NN	
+7	मे	PSP	
+8	एखन	NST	
+9	आगाँ	NST	
+10	बढ़ला	VM	
+11	सँ	PSP	
+12	बहुत	INTF	
+13	भारी	JJ	
+14	खतरा	NN	
+15	होयत	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मात्र	QF	
+2	जहाज	NN	
+3	आ	CC	
+4	माल-सामानक	NN	
+5	नहि	NEG	
+6	,	SYM	
+7	बल्कि	NEG	
+8	अपना	PRP	
+9	सभ	QF	
+10	केँ	PSP	
+11	अपन	PRP	
+12	प्राणोक	NN	
+13	हानि	NN	
+14	उठाबऽ	VM	
+15	पड़त	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	सेनाक	NN	
+3	कप्तामन	NN	
+4	पौलुसक	NNP	
+5	सल्लाह	NN	
+6	नहि	NEG	
+7	मानि	VM	
+8	कऽ	VAUX	
+9	जहाजक	NN	
+10	कप्तान	NN	
+11	आ	CC	
+12	मालिकक	NN	
+13	बात	NN	
+14	मानलनि	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	DEM	
+2	स्थान	NN	
+3	पर	PSP	
+4	जाड़	NN	
+5	मास	NN	
+6	बितयबाक	VM	
+7	लेल	PSP	
+8	जहाज	NN	
+9	ठाढ़	VM	
+10	करबाक	VAUX	
+11	उपयुक्तक	NN	
+12	जगह	NN	
+13	नहि	NEG	
+14	छल	VM	
+15	,	SYM	
+16	आ	CC	
+17	तेँ	RP	
+18	अधिकांश	QF	
+19	लोक	NN	
+20	एहि	DEM	
+21	आशा	NN	
+22	मे	PSP	
+23	आगाँ	NST	
+24	बढ़ऽ	VM	
+25	चाहैत	VAUX	
+26	छल	VAUX	
+27	जे	CC	
+28	कोहुना	RB	
+29	कऽ	VM	
+30	फीनिक्सक	NNP	
+31	नगर	NN	
+32	तक		
+33	पहुँचि	VM	
+34	जाइ	VAUX	
+35	और	CC	
+36	ओतहि	NST	
+37	जाड़	NN	
+38	मास	NN	
+39	बिताबी	VM	
+40	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	फीनिक्स	NNP	
+2	क्रेत	NST	
+3	द्वीपक	NN	
+4	एक	QC	
+5	बन्दरगाह	NN	
+6	अछि	VM	
+7	जकर	PRP	
+8	मुँह	NN	
+9	दक्षिण-पश्चिम	NN	
+10	आ	CC	
+11	उत्तर-पश्चिमक	NN	
+12	दिस	NST	
+13	अछि	VM	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भयंकर	JJ	
+2	अन्हड़-बिहारि	NN	
+3	जखन	NST	
+4	दक्षिण	NN	
+5	सँ	PSP	
+6	हवा	NN	
+7	सिहकऽ	VM	
+8	लागल	VM	
+9	तँ	CC	
+10	ई	PRP	
+11	सोचि	VM	
+12	जे	CC	
+13	हमरा	PRP	
+14	सभक	QF	
+15	उद्देश्य	NN	
+16	पूरा	QF	
+17	भऽ	VM	
+18	गेल	VAUX	
+19	,	SYM	
+20	नाविक	NN	
+21	सभ	QF	
+22	लंगर	NN	
+23	खोललक	VM	
+24	आ	CC	
+25	क्रेत	NNP	
+26	द्वीपक	NN	
+27	काते-काते		
+28	बढ़ऽ	VM	
+29	लागल	VAUX	
+30	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	कनेके	QF	
+3	कालक	NN	
+4	बाद	NST	
+5	द्वीपक	NN	
+6	दिस	NST	
+7	सँ	PSP	
+8	भयंकर	JJ	
+9	अन्हड़-बिहारि	NN	
+10	उठल	VM	
+11	जे	PRP	
+12	उत्तरबरिया-पुबरिया	NN	
+13	कहबैत	VM	
+14	अछि	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जहाज	NN	
+2	अन्ह्ड़-बिहारि	NN	
+3	मे	PSP	
+4	तेना	RB	
+5	ने	NEG	
+6	फँसि	VM	
+7	गेल	VAUX	
+8	जे	CC	
+9	नाविक	NN	
+10	सभ	QF	
+11	जेम्हर	NST	
+12	सँ	PSP	
+13	अन्हड़-बिहारि	NN	
+14	आबि	VM	
+15	रहल	VAUX	
+16	छल	VAUX	
+17	जहाज	NN	
+18	केँ	PSP	
+19	तेम्हुर	NST	
+20	मोड़ऽ	VM	
+21	सँ	PSP	
+22	असमर्थ	NN	
+23	भऽ	VM	
+24	गेल	VAUX	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेँ	RP	
+2	हम	PRP	
+3	सभ	QF	
+4	अपना	PRP	
+5	केँ	PSP	
+6	हवाक	NN	
+7	रुखि	NN	
+8	पर	PSP	
+9	छोड़ि	VM	
+10	देलहुँ	VAUX	
+11	जे	PRP	
+12	जतऽ	NST	
+13	लऽ	VM	
+14	जाय	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कौदा	NNP	
+2	नामक	NN	
+3	छोट	JJ	
+4	द्वीपक	NN	
+5	अऽढ़	NST	
+6	मे	PSP	
+7	पहुँचला	VM	
+8	पर	PSP	
+9	हम	PRP	
+10	सभ	QF	
+11	बहुत	QF	
+12	कठिनाइ	JJ	
+13	सँ	RB	
+14	जहाजक	NN	
+15	पाछाँ	NST	
+16	बान्हुल		
+17	छोट	JJ	
+18	नाव	NN	
+19	केँ	PSP	
+20	अपना	PRP	
+21	वश	NN	
+22	मे	PSP	
+23	कऽ	VM	
+24	सकलहुँ	VAUX	
+25	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकरा	PRP	
+2	जहाज	NN	
+3	पर	PSP	
+4	लऽ	VM	
+5	लेलाक	VAUX	
+6	बाद	NST	
+7	नाविक	NN	
+8	सभ	QF	
+9	जहाज	NN	
+10	केँ	PSP	
+11	मजगूत	JJ	
+12	बनयबाक	VM	
+13	उद्देश्यक	NN	
+14	सँ	PSP	
+15	जहाज	NN	
+16	केँ	PSP	
+17	नीचाँ-ऊपर	NST	
+18	रस्सी	NN	
+19	लपेटि	VM	
+20	कऽ	VAUX	
+21	बन्हलक	VM	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तकरबाद	NST	
+2	,	SYM	
+3	एहि	PRP	
+4	डरेँ	NN	
+5	जे	CC	
+6	जहाज	NN	
+7	कहीं	RB	
+8	सुरतिस	NNP	
+9	नामक		
+10	बालु	NN	
+11	वला	PSP	
+12	क्षेत्र	NN	
+13	मे	PSP	
+14	ने	NEG	
+15	धँसि	VM	
+16	जाय	VAUX	
+17	,	SYM	
+18	ओ	PRP	
+19	सभ	QF	
+20	पाल	NN	
+21	उतारि	VM	
+22	कऽ	VAUX	
+23	जहाज	NN	
+24	केँ	PSP	
+25	ओहिना	RB	
+26	हवा	NN	
+27	मे	PSP	
+28	दहाय	VM	
+29	देलक	VAUX	
+30	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अन्हएड़-बिहारि	NN	
+2	हमरा	PRP	
+3	सभ	QF	
+4	केँ	PSP	
+5	ततेक	QF	
+6	झकझोड़ि	VM	
+7	रहल	VAUX	
+8	छल	VAUX	
+9	जे	CC	
+10	प्रात	NST	
+11	भेने	VM	
+12	ओ	PRP	
+13	सभ	QF	
+14	जहाज	NN	
+15	परक	PSP	
+16	माल-सामान	NN	
+17	समुद्र	NN	
+18	मे	PSP	
+19	फेकऽ	VM	
+20	लागल	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेसर	QO	
+2	दिन	NN	
+3	ओ	PRP	
+4	सभ	QF	
+5	अपने	PRP	
+6	हाथ	NN	
+7	सँ	PSP	
+8	जहाजक	NN	
+9	रस्सी	NN	
+10	-पाल	NN	
+11	इत्यादि	RP	
+12	फेकि	VM	
+13	देलक	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बहुतो	QF	
+2	दिन	NN	
+3	तक	NST	
+4	जखन	NST	
+5	सूर्य	NN	
+6	आ	CC	
+7	तारा	NN	
+8	सभ	QF	
+9	देखाइ	VM	
+10	नहि	NEG	
+11	देलक	VM	
+12	और	CC	
+13	अन्हड़-बिहारि	NN	
+14	चलिते	VM	
+15	रहल	VAUX	
+16	तँ	RP	
+17	हमरा	PRP	
+18	सभ	QF	
+19	केँ	PSP	
+20	बचबाक	VM	
+21	कोनो	QF	
+22	आशा	NN	
+23	नहि	NEG	
+24	रहि	VM	
+25	गेल	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	विपत्ति	NN	
+2	मे	PSP	
+3	परमेश्वरक	NN	
+4	आश्वासन	NN	
+5	जहाजपरक	NN	
+6	लोक	NN	
+7	सभ	QF	
+8	बहुतो	QF	
+9	दिन	NN	
+10	सँ	PSP	
+11	भोजन	NN	
+12	नहि	NEG	
+13	कऽ	VM	
+14	रहल	VAUX	
+15	छल	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	सभक	QF	
+3	बीच	PSP	
+4	ठाढ़	VM	
+5	भऽ	VM	
+6	कऽ	VAUX	
+7	पौलुस	NNP	
+8	कहलथिन	VM	
+9	,	SYM	
+10	मित्र	NN	
+11	लोकनि	NN	
+12	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	उचित	NN	
+2	तँ	RP	
+3	ई	PRP	
+4	छल	VM	
+5	जे	CC	
+6	अहाँ	PRP	
+7	सभ	QF	
+8	हमर	PRP	
+9	सल्लाह	NN	
+10	मानि	VM	
+11	कऽ	VAUX	
+12	क्रेत	NNP	
+13	द्वीप	NN	
+14	सँ	PSP	
+15	विदाए	NN	
+16	नहि	NEG	
+17	भेल	VM	
+18	रहितहुँ	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	ने	NEG	
+3	ई	DEM	
+4	विपत्ति	NN	
+5	अबैत	VM	
+6	आ	CC	
+7	ने	NEG	
+8	ई	DEM	
+9	हानि	NN	
+10	उठाबऽ	VM	
+11	पड़ैत	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	एखनो	NST	
+3	हम	PRP	
+4	अहाँ	PRP	
+5	सभ	QF	
+6	सँ	PSP	
+7	आग्रह	NN	
+8	करैत	VM	
+9	छी	VM	
+10	जे	CC	
+11	,	SYM	
+12	साहस	NN	
+13	राखू	VM	
+14	,	SYM	
+15	कारण	NN	
+16	ककरो	PRP	
+17	प्राणक	NN	
+18	हानि	NN	
+19	नहि	NEG	
+20	उठाबऽ	VM	
+21	पड़त	VAUX	
+22	,	SYM	
+23	मात्र	QF	
+24	जहाज	NN	
+25	नष्टन	NN	
+26	भऽ	VM	
+27	जायत	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आइए	NST	
+2	राति	NN	
+3	मे	PSP	
+4	,	SYM	
+5	परमेश्वुर	NN	
+6	,	SYM	
+7	जिनकर	PRP	
+8	हम	PRP	
+9	छियनि	VM	
+10	आ	CC	
+11	जिनकर	PRP	
+12	सेवा	NN	
+13	करैत	VM	
+14	छी	VAUX	
+15	,	SYM	
+16	तिनकर	PRP	
+17	स्वर्गदूत	NN	
+18	हमरा	PRP	
+19	लग	NST	
+20	ठाढ़	VM	
+21	भऽ	VAUX	
+22	कऽ	VAUX	
+23	कहलनि	VM	
+24	जे	CC	
+25	,	SYM	
+26	‘हौ	INJ	
+27	पौलुस	NNP	
+28	,	SYM	
+29	डेराह	VM	
+30	नहि	NEG	
+31	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोँ	PRP	
+2	सम्राटक	NN	
+3	समक्ष	PSP	
+4	अवश्यक	NN	
+5	ठाढ़	VM	
+6	होयबह	VAUX	
+7	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	और	CC	
+2	परमेश्वर	NN	
+3	तोरा	PRP	
+4	पर	PSP	
+5	दया	NN	
+6	कऽ	VM	
+7	कऽ	VAUX	
+8	,	SYM	
+9	तकरा	PRP	
+10	सभ	QF	
+11	केँ	PSP	
+12	सुरक्षित	JJ	
+13	रखथुन	VM	
+14	जे	PRP	
+15	सभ	QF	
+16	तोरा	PRP	
+17	संग	PSP	
+18	यात्रा	NN	
+19	कऽ	VM	
+20	रहल	VAUX	
+21	छह	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	’	SYM	
+2	तेँ	RP	
+3	अहाँ	PRP	
+4	सभ	QF	
+5	साहस	NN	
+6	राखू	VM	
+7	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कारण	NN	
+2	,	SYM	
+3	हमरा	PRP	
+4	परमेश्वर	NN	
+5	पर	PSP	
+6	पूरा	JJ	
+7	विश्वास	NN	
+8	अछि	VM	
+9	जे	CC	
+10	जेना	RB	
+11	हमरा	PRP	
+12	कहल	VM	
+13	गेल	VAUX	
+14	अछि	VAUX	
+15	तेना	RB	
+16	हयबो	VM	
+17	करत	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	अपना	PRP	
+3	सभक	QF	
+4	जहाज	NN	
+5	कोनो	PRP	
+6	द्वीप	NN	
+7	पर	PSP	
+8	भसिया	VM	
+9	जायत	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जहाज	NN	
+2	नष्ट	NN	
+3	मुदा	CC	
+4	लोक	NN	
+5	सुरक्षित	NN	
+6	चौदहम	QO	
+7	राति	NN	
+8	मे	PSP	
+9	जखन	NST	
+10	आद्रिया	NNP	
+11	सागर	NN	
+12	मे	PSP	
+13	एम्हसर-ओम्हर	NST	
+14	भटकि	VM	
+15	रहल	VAUX	
+16	छलहुँ	VAUX	
+17	तँ	RP	
+18	करीब	NST	
+19	दुपहर	NST	
+20	राति	NN	
+21	कऽ	PSP	
+22	नाविक	NN	
+23	सभ	QF	
+24	केँ	PSP	
+25	बुझयलैक	VM	
+26	जे	CC	
+27	कोनो	PRP	
+28	कछेरक	NN	
+29	लग	NST	
+30	मे	PSP	
+31	आबि	VM	
+32	गेल	VAUX	
+33	छी	VAUX	
+34	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	जखन	NST	
+4	थाह	NN	
+5	लेलक	VM	
+6	तँ	CC	
+7	ओतऽ	NST	
+8	अस्सीँ	QC	
+9	हाथ	NN	
+10	गहिंराइ	NN	
+11	छलैक	VM	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कनेक	QF	
+2	कालक	NN	
+3	बाद	NST	
+4	फेर	NST	
+5	थाह	NN	
+6	लेलक	VM	
+7	तँ	CC	
+8	साठि	QC	
+9	हाथ	NN	
+10	भेटलैक	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	डरेँ	NN	
+3	जे	CC	
+4	कहीं	NST	
+5	पाथर	NN	
+6	सभ	QF	
+7	मे	PSP	
+8	ने	NEG	
+9	टकरा	VM	
+10	जाइ	VAUX	
+11	ओ	PRP	
+12	सभ	QF	
+13	जहाजक	NN	
+14	पछिलका	NST	
+15	भाग	NN	
+16	सँ	PSP	
+17	चारिटा	QC	
+18	लंगर	NN	
+19	समुद्र	NN	
+20	मे	PSP	
+21	खसा	VM	
+22	देलक	VAUX	
+23	आ	CC	
+24	भोर	NST	
+25	होयबाक	VM	
+26	प्रतीक्षा	NN	
+27	करऽ	VM	
+28	लागल	VAUX	
+29	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	नाविक	NN	
+2	सभ	QF	
+3	केँ	PSP	
+4	जहाज	NN	
+5	पर	PSP	
+6	सँ	PSP	
+7	भागि	VM	
+8	जयबाक	VAUX	
+9	विचार	NN	
+10	छलैक	VM	
+11	,	SYM	
+12	तेँ	CC	
+13	जहाजक	NN	
+14	अगिला	NST	
+15	भाग	NN	
+16	सँ	PSP	
+17	लंगर	NN	
+18	खसयबाक	VM	
+19	बहाना	VM	
+20	सँ	PSP	
+21	ओ	PRP	
+22	सभ	QF	
+23	छोटका	JJ	
+24	नाव	NN	
+25	समुद्र	NN	
+26	मे	PSP	
+27	उतारने	VM	
+28	छल	VAUX	
+29	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	पौलुस	NNP	
+3	सेनाक	NN	
+4	कप्तान	NN	
+5	और	CC	
+6	सैनिक	NN	
+7	सभ	QF	
+8	केँ	PSP	
+9	कहलथिन	VM	
+10	,	SYM	
+11	ई	PRP	
+12	सभ	QF	
+13	जँ	PRP	
+14	जहाज	NN	
+15	पर	PSP	
+16	नहि	NEG	
+17	रहत	VM	
+18	तँ	CC	
+19	अहूँ	PRP	
+20	सभ	QF	
+21	नहि	NEG	
+22	बाँचब	VM	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेँ	RP	
+2	सैनिक	NN	
+3	सभ	QF	
+4	रस्सी	NN	
+5	सभ	QF	
+6	काटि	VM	
+7	कऽ	VAUX	
+8	ओहि	DEM	
+9	छोटका	JJ	
+10	नाव	NN	
+11	केँ	PSP	
+12	समुद्र	NN	
+13	मे	PSP	
+14	दहा	VM	
+15	देलक	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जखन	NST	
+2	भोर	NN	
+3	होमऽ-होमऽ	VM	
+4	पर	PSP	
+5	छल	VM	
+6	तँ	CC	
+7	पौलुस	NNP	
+8	सभ	QF	
+9	केँ	PSP	
+10	भोजन	NN	
+11	करबाक	VM	
+12	लेल	PSP	
+13	आग्रह	NN	
+14	कयलथिन	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	कहलथिन	VM	
+3	,	SYM	
+4	आइ	NST	
+5	चौदह	QC	
+6	दिन	NN	
+7	भऽ	VM	
+8	गेल	VAUX	
+9	जे	PRP	
+10	अहाँ	PRP	
+11	सभ	RP	
+12	चिन्ताक	NN	
+13	कारणेँ	NN	
+14	भूखले	JJ	
+15	छी	VM	
+16	,	SYM	
+17	किछु	QF	
+18	नहि	NEG	
+19	खयलहुँ	VM	
+20	हँ	RP	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आब	NST	
+2	हम	PRP	
+3	अहाँ	PRP	
+4	सभ	RP	
+5	सँ	PSP	
+6	विनती	NN	
+7	करैत	VM	
+8	छी	VAUX	
+9	,	SYM	
+10	किछु	QF	
+11	खा	VM	
+12	लिअ	VAUX	
+13	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	नहि	NEG	
+2	तँ	RP	
+3	बाँचब	VM	
+4	कोना	WQ	
+5	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अहाँ	PRP	
+2	सभ	QF	
+3	मे	PSP	
+4	सँ	PSP	
+5	ककरो	PRP	
+6	कोनो	PRP	
+7	तरहक	NN	
+8	हानि	NN	
+9	नहि	NEG	
+10	होयत	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एतबा	QF	
+2	कहि	VM	
+3	ओ	PRP	
+4	रोटी	NN	
+5	लेलनि	VM	
+6	आ	CC	
+7	सभक	QF	
+8	सामने	PSP	
+9	मे	PSP	
+10	परमेश्वर	NN	
+11	केँ	PSP	
+12	धन्यवाद	NN	
+13	दऽ	VM	
+14	कऽ	VAUX	
+15	रोटी	NN	
+16	तोड़ि	VM	
+17	खाय	VAUX	
+18	लगलाह	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	सँ	PSP	
+3	सभ	QF	
+4	केँ	PSP	
+5	साहस	NN	
+6	भेटलैक	VM	
+7	आ	CC	
+8	ओहो	PRP	
+9	सभ	QF	
+10	भोजन	NN	
+11	करऽ	VM	
+12	लागल	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जहाज	NN	
+2	पर	PSP	
+3	सभ	QF	
+4	मिला	VM	
+5	कऽ	VAUX	
+6	हम	PRP	
+7	सभ	QF	
+8	276	QC	
+9	गोटे	CL	
+10	छलहुँ	VM	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भरि	JJ	
+2	इच्छा	NN	
+3	भोजन	NN	
+4	कयलाक	VM	
+5	बाद	NST	
+6	ओ	PRP	
+7	सभ	QF	
+8	जहाज	NN	
+9	परक	PSP	
+10	भार	NN	
+11	हल्लुक	JJ	
+12	करबाक	VM	
+13	लेल	PSP	
+14	गहुम	NN	
+15	केँ	PSP	
+16	समुद्र	NN	
+17	मे	PSP	
+18	फेकि	VM	
+19	देलक	VAUX	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भोर	NN	
+2	भेला	VM	
+3	पर	PSP	
+4	ओ	PRP	
+5	सभ	QF	
+6	ओहि	PRP	
+7	लगक	NST	
+8	जगह	NN	
+9	केँ	PSP	
+10	नहि	NEG	
+11	चिन्हि	VM	
+12	सकल	VAUX	
+13	,	SYM	
+14	मुदा	CC	
+15	ओकरा	PRP	
+16	सभक	QF	
+17	दृष्टिभ	NN	
+18	कछेर	NN	
+19	परक	PSP	
+20	एक	QC	
+21	लम्बाक-चौड़ा	JJ	
+22	बालु	NN	
+23	वला	PSP	
+24	भाग	NN	
+25	पर	PSP	
+26	पड़लैक	VM	
+27	,	SYM	
+28	और	CC	
+29	ओ	PRP	
+30	सभ	QF	
+31	निर्णय	NN	
+32	कयलक	VM	
+33	जे	CC	
+34	जँ	PRP	
+35	सम्भव	NN	
+36	होअय	VM	
+37	तँ	CC	
+38	जहाज	NN	
+39	केँ	PSP	
+40	ओही	DEM	
+41	भाग	NN	
+42	मे	PSP	
+43	लगाओल	VM	
+44	जाय	VAUX	
+45	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	लंगरक	NN	
+4	रस्सी	NN	
+5	सभ	QF	
+6	काटि	VM	
+7	कऽ	VAUX	
+8	लंगर	NN	
+9	सभ	QF	
+10	केँ	PSP	
+11	समुद्र	NN	
+12	मे	PSP	
+13	छोड़ि	VM	
+14	देलक	VAUX	
+15	,	SYM	
+16	आ	CC	
+17	संगहि	PSP	
+18	पतवारक	NN	
+19	बन्हन	NN	
+20	ढील	JJ	
+21	कऽ	VM	
+22	देलक	VAUX	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तखन	NST	
+2	जहाजक	NN	
+3	अगिला	NST	
+4	भागक	NN	
+5	पाल	NN	
+6	हवाक	NN	
+7	सम्मुख	PSP	
+8	चढ़ा	VM	
+9	कऽ	VAUX	
+10	कछेर	NN	
+11	दिस	PSP	
+12	आगाँ	NST	
+13	बढ़ल	VM	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	जहाज	NN	
+3	पानि	NN	
+4	मेहक	PSP	
+5	बलुआह	JJ	
+6	भाग	NN	
+7	मे	PSP	
+8	टकरा	VM	
+9	कऽ	VAUX	
+10	फँसि	VAUX	
+11	गेल	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जहाजक	NN	
+2	अगिला	NST	
+3	भाग	NN	
+4	तेना	RB	
+5	धँसि	VM	
+6	गेल	VAUX	
+7	जे	PRP	
+8	टस्स	NN:?	
+9	सँ	PSP	
+10	मस्स	NN:?	
+11	नहि	NEG	
+12	होइत	VM	
+13	छल	VAUX	
+14	,	SYM	
+15	आ	CC	
+16	पछिलका	NST	
+17	भाग	NN	
+18	बड़का	JJ	
+19	लहरि	NN	
+20	सभ	RP	
+21	सँ	PSP	
+22	टकरा-टकरा	RB	
+23	कऽ	VM	
+24	टुकड़ा-टुकड़ा	NN	
+25	भऽ	VM	
+26	रहल	VAUX	
+27	छल	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सैनिक	NN	
+2	सभक	QF	
+3	विचार	NN	
+4	छलैक	VM	
+5	जे	CC	
+6	कैदी	NN	
+7	सभ	QF	
+8	केँ	PSP	
+9	जान	NN	
+10	सँ	PSP	
+11	मारि	VM	
+12	दी	VAUX	
+13	जाहि	PRP	
+14	सँ	PSP	
+15	केओ	PRP	
+16	हेलि	VM	
+17	कऽ	VAUX	
+18	भागि	VAUX	
+19	नहि	NEG	
+20	सकय	VM	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	सेनाक	NN	
+3	कप्तान	NN	
+4	केँ	PSP	
+5	पौलुसक	NNP	
+6	जान	NN	
+7	बचयबाक	VM	
+8	इच्छा	NN	
+9	छलनि	VM	
+10	,	SYM	
+11	तेँ	CC	
+12	ओ	PRP	
+13	ओकरा	PRP	
+14	सभ	QF	
+15	केँ	PSP	
+16	एना	RB	
+17	करऽ	VM	
+18	सँ	PSP	
+19	रोकि	VM	
+20	देलथिन	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	आज्ञा	NN	
+3	देलनि	VM	
+4	जे	CC	
+5	जकरा	PRP	
+6	सभ	RP	
+7	केँ	PSP	
+8	हेलऽ	VM	
+9	अबैत	VAUX	
+10	होइक	VAUX	
+11	से	PRP	
+12	सभ	RP	
+13	पहिने	NST	
+14	पानि	NN	
+15	मे	PSP	
+16	कुदय	VM	
+17	और	CC	
+18	हेलि	VM	
+19	कऽ	VAUX	
+20	कछेर	NN	
+21	पर	PSP	
+22	चल	VM	
+23	जाय	VAUX	
+24	,	SYM	
+25	आ	CC	
+26	बाँकी	QF	
+27	लोक	NN	
+28	काठक	NN	
+29	पटरा	NN	
+30	वा	CC	
+31	जहाजक	NN	
+32	कोनो	PRP	
+33	टुटल	JJ	
+34	टुकड़ाक	NN	
+35	सहारा	NN	
+36	लऽ	VM	
+37	कऽ	VAUX	
+38	पाछाँ	NST	
+39	सँ	PSP	
+40	जाय	VM	
+41	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एना	RB	
+2	कऽ	VM	
+3	कऽ	VAUX	
+4	सभ	QF	
+5	केओ	PRP	
+6	ओहि	DEM	
+7	भूमि	NN	
+8	पर	PSP	
+9	सकुशल	JJ	
+10	पहुँचि	VM	
+11	गेलहुँ	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	माल्टा	NNP	
+2	द्वीप	NN	
+3	मे	PSP	
+4	हमरा	PRP	
+5	सभक	QF	
+6	स्वागत	NN	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	सभ	QF	
+3	जखन	NST	
+4	कछेर	NN	
+5	पर	PSP	
+6	पहुँचलहुँ	VM	
+7	तँ	CC	
+8	पता	NN	
+9	लागल	VM	
+10	जे	CC	
+11	एहि	PRP	
+12	द्वीपक	NN	
+13	नाम	NN	
+14	माल्टा	NNP	
+15	अछि	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओहिठामक	NST	
+2	निवासी	NN	
+3	सभ	QF	
+4	हमरा	PRP	
+5	सभक	RP	
+6	संग	PSP	
+7	बहुत	INTF	
+8	उदार	JJ	
+9	भाव	NN	
+10	सँ	PSP	
+11	व्यवहार	NN	
+12	कयलक	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	वर्षा	NN	
+2	भऽ	VM	
+3	रहल	VAUX	
+4	छल	VAUX	
+5	आ	CC	
+6	जाड़	NN	
+7	लागि	VM	
+8	रहल	VAUX	
+9	छल	VAUX	
+10	,	SYM	
+11	तँ	CC	
+12	ओ	PRP	
+13	सभ	QF	
+14	आगिक	NN	
+15	घूर	NN	
+16	बना	VM	
+17	कऽ	VAUX	
+18	हमरा	PRP	
+19	सभक	QF	
+20	स्वागत	NN	
+21	कयलक	VM	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुस	NNP	
+2	जारनि-काठी	NN	
+3	बिछि	VM	
+4	कऽ	VAUX	
+5	घूर	NN	
+6	पर	PSP	
+7	जखन	NST	
+8	रखलनि	VM	
+9	तँ	CC	
+10	ओहि	PRP	
+11	मे	PSP	
+12	सँ	PSP	
+13	आगिक	NN	
+14	ताव	PSP	
+15	लगला	VM	
+16	सँ	PSP	
+17	एकटा	CL	
+18	साँप	NN	
+19	निकलि	VM	
+20	कऽ	VAUX	
+21	पौलुसक	NNP	
+22	हाथ	NN	
+23	मे	PSP	
+24	लटकि	VM	
+25	गेलनि	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हुनका	PRP	
+2	हाथ	NN	
+3	मे	PSP	
+4	साँप	NN	
+5	लटकल	VM	
+6	देखि	VAUX	
+7	,	SYM	
+8	द्वीपक	NN	
+9	निवासी	NN	
+10	सभ	QF	
+11	एक-दोसर	QC	
+12	केँ	PSP	
+13	कहऽ	VM	
+14	लागल	VAUX	
+15	,	SYM	
+16	ई	DEM	
+17	आदमी	NN	
+18	पक्का-	JJ	
+19	हत्यारा	NN	
+20	अछि	VM	
+21	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	समुद्र	NN	
+2	सँ	PSP	
+3	तँ	RP	
+4	बचि	VM	
+5	कऽ	VAUX	
+6	आबि	VAUX	
+7	गेल	VAUX	
+8	,	SYM	
+9	मुदा	CC	
+10	न्याय-देवी	NN	
+11	ओकरा	PRP	
+12	जीबऽ	VM	
+13	नहि	NEG	
+14	देथिन	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एम्हर	NST	
+2	पौलुस	NNP	
+3	साँप	NN	
+4	केँ	PSP	
+5	आगि	NN	
+6	मे	PSP	
+7	झाड़ि	VM	
+8	देलनि	VAUX	
+9	,	SYM	
+10	आ	CC	
+11	हुनका	PRP	
+12	किछु	QF	
+13	नहि	NEG	
+14	भेलनि	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकरा	PRP	
+2	सभ	QF	
+3	केँ	PSP	
+4	होइत	VM	
+5	छलैक	VAUX	
+6	जे	CC	
+7	,	SYM	
+8	एकर	PRP	
+9	शरीर	NN	
+10	आब	NST	
+11	फुलि	VM	
+12	जयतैक	VAUX	
+13	वा	CC	
+14	ई	PRP	
+15	एकाएक	RB	
+16	खसि	VM	
+17	कऽ	VAUX	
+18	मरि	VM	
+19	जायत	VAUX	
+20	,	SYM	
+21	मुदा	CC	
+22	बहुतो	QF	
+23	काल	NST	
+24	प्रतीक्षा	NN	
+25	कयलाक	VM	
+26	बाद	NST	
+27	जखन	NST	
+28	देखलक	VM	
+29	जे	CC	
+30	एकरा	PRP	
+31	किछुओ	QF	
+32	नहि	NEG	
+33	भऽ	VM	
+34	रहल	VAUX	
+35	छैक	VAUX	
+36	,	SYM	
+37	तँ	CC	
+38	ओ	PRP	
+39	सभ	QF	
+40	अपन	PRP	
+41	विचार	NN	
+42	बदलि	VM	
+43	कऽ	VAUX	
+44	कहऽ	VM	
+45	लागल	VAUX	
+46	,	SYM	
+47	ई	PRP	
+48	तँ	RP	
+49	देवता	NN	
+50	छथि	VM	
+51	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओहिठाम	NST	
+2	सँ	PSP	
+3	लगे	NST	
+4	,	SYM	
+5	द्वीपक	NN	
+6	मुखियाजी	NN	
+7	पुबलियुसक	NNP	
+8	घर	NN	
+9	और	CC	
+10	जमीन	NN	
+11	छलनि	VM	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	हमरा	PRP	
+3	सभक	QF	
+4	स्वागत	NN	
+5	कयलनि	VM	
+6	और	CC	
+7	अपना	PRP	
+8	हवेली	NN	
+9	मे	PSP	
+10	प्रेम	NN	
+11	भाव	NN	
+12	सँ	PSP	
+13	तीन	QC	
+14	दिन	NN	
+15	धरि		
+16	अतिथि-सत्कार	NN	
+17	कयलनि	VM	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हुनकर	PRP	
+2	पिताजी	NN	
+3	ओहि	DEM	
+4	समय	NN	
+5	मे	PSP	
+6	बोखार	NN	
+7	आ	CC	
+8	सुलबाहि	NN	
+9	सँ	PSP	
+10	पीड़ित	JJ	
+11	छलनि	VM	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुस	NNP	
+2	हुनका	PRP	
+3	कोठली	NN	
+4	मे	PSP	
+5	जा	VM	
+6	कऽ	VAUX	
+7	हुनका	PRP	
+8	लेल	PSP	
+9	प्रार्थना	NN	
+10	कयलनि	VM	
+11	,	SYM	
+12	आ	CC	
+13	हुनका	PRP	
+14	पर	PSP	
+15	हाथ	NN	
+16	राखि	VM	
+17	कऽ	VAUX	
+18	स्वस्थ	VM	
+19	कऽ	VAUX	
+20	देलथिन	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	बात	NN	
+3	बुझि	VM	
+4	द्वीपक	NN	
+5	आरो	CC	
+6	रोगी	NN	
+7	सभ	QF	
+8	आबऽ	VM	
+9	लागल	VAUX	
+10	आ	CC	
+11	ओहो	PRP	
+12	सभ	QF	
+13	स्वस्थ	NN	
+14	भऽ	VM	
+15	गेल	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	विभिन्न	NN	
+4	प्रकार	NN	
+5	सँ	PSP	
+6	हमरा	PRP	
+7	सभक	QF	
+8	आदर-सत्कार	NN	
+9	कयलक	VM	
+10	,	SYM	
+11	और	CC	
+12	जखन	NST	
+13	फेर	NST	
+14	चलबाक	VM	
+15	समय	NN	
+16	भऽ	VM	
+17	गेल	VAUX	
+18	तँ	CC	
+19	ओ	PRP	
+20	सभ	QF	
+21	हमरा	PRP	
+22	सभक	QF	
+23	रस्ताँक	NN	
+24	लेल	PSP	
+25	आवश्यमक	NN	
+26	वस्तु-	NN	
+27	सभ	QF	
+28	आनि	VM	
+29	जहाज	NN	
+30	पर	PSP	
+31	राखि	VM	
+32	देलक	VAUX	
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	माल्टा	NNP	
+2	सँ	PSP	
+3	रोम	NNP	
+4	माल्टा	NNP	
+5	द्वीप	NN	
+6	मे	PSP	
+7	तीन	QC	
+8	मास	NN	
+9	रहलाक	VM	
+10	बाद	NST	
+11	हम	PRP	
+12	सभ	QF	
+13	एक	QC	
+14	जहाज	NN	
+15	पर	PSP	
+16	चढ़लहुँ	VM	
+17	जे	PRP	
+18	माल्टा	NNP	
+19	मे	PSP	
+20	जाड़	NN	
+21	मास	NN	
+22	बितौने	VM	
+23	छल	VAUX	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	जहाज	NN	
+3	सिकन्दरिया	NNP	
+4	नगरक	NN	
+5	छल	VM	
+6	और	CC	
+7	ओहि	PRP	
+8	पर	PSP	
+9	जौंआदेवताक	NNP	
+10	आकृति	NN	
+11	बनाओल	VM	
+12	गेल	VAUX	
+13	छलैक	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	सभ	QF	
+3	ओहि	DEM	
+4	जहाज	NN	
+5	सँ	PSP	
+6	विदा	NN	
+7	भेलहुँ	VM	
+8	आ	CC	
+9	सुरकूसा	NNP	
+10	नगर	NN	
+11	मे	PSP	
+12	रूकि	VM	
+13	कऽ	VAUX	
+14	ओतऽ	NST	
+15	तीन	QC	
+16	दिन	NN	
+17	रहलहुँ	VM	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओतऽ	NST	
+2	सँ	PSP	
+3	फेर	NST	
+4	काते-कात	RB	
+5	आगाँ	NST	
+6	बढ़ैत	VM	
+7	रेगियुम	NNP	
+8	बन्द	NN	
+9	रगाह	UNK	
+10	मे	PSP	
+11	पहुँचलहुँ	VM	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एक	QC	
+2	दिनक	NN	
+3	बाद	NST	
+4	जखन	NST	
+5	दछिनाही-पवन	NNP	
+6	बहऽ	VM	
+7	लागल	VAUX	
+8	तँ	CC	
+9	ओतऽ	NST	
+10	सँ	PSP	
+11	फेर	NST	
+12	विदा	NN	
+13	भेलहुँ	VM	
+14	आ	CC	
+15	दोसर	QO	
+16	दिन	NN	
+17	पुतियुली	NNP	
+18	नगर	NN	
+19	मे	PSP	
+20	अयलहुँ	VM	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओतऽ	NST	
+2	हमरा	PRP	
+3	सभ	QF	
+4	केँ	PSP	
+5	किछु	QF	
+6	विश्वासी	JJ	
+7	भाय	NN	
+8	सभ	QF	
+9	भेँट	VM	
+10	भेलाह	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हुनका	PRP	
+2	सभक	QF	
+3	आग्रह	NN	
+4	पर	PSP	
+5	हम	PRP	
+6	सभ	QF	
+7	सात	QC	
+8	दिन	NN	
+9	हुनका	PRP	
+10	सभक	QF	
+11	ओहिठाम	NST	
+12	ठहरलहुँ	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	DEM	
+2	तरहेँ	PSP	
+3	हम	PRP	
+4	सभ	QF	
+5	रोम	NNP	
+6	महानगर	NN	
+7	पहुँचलहुँ	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोमक	NNP	
+2	विश्वासी	JJ	
+3	भाय	NN	
+4	सभ	QF	
+5	जखन	NST	
+6	हमरा	PRP	
+7	सभक	QF	
+8	बारे	NN	
+9	मे	PSP	
+10	ई	PRP	
+11	सुनलनि	VM	
+12	जे	CC	
+13	हम	PRP	
+14	सभ	QF	
+15	आबि	VM	
+16	रहल	VAUX	
+17	छी	VAUX	
+18	तँ	CC	
+19	हमरा	PRP	
+20	सभ	QF	
+21	सँ	PSP	
+22	भेँट	VM	
+23	करबाक	VAUX	
+24	लेल	PSP	
+25	ओ	PRP	
+26	सभ	QF	
+27	रोम	NNP	
+28	सँ	PSP	
+29	अपियुस	NNP	
+30	चौक	NN	
+31	आ	CC	
+32	तीन	QC	
+33	सराय	NN	
+34	तक		
+35	अयलाह	VM	
+36	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुस	NNP	
+2	हुनका	PRP	
+3	सभ	QF	
+4	केँ	PSP	
+5	जखन	NST	
+6	देखलनि	VM	
+7	तँ	CC	
+8	परमेश्व	NN	
+9	रक	UNK	
+10	धन्य	JJ	
+11	वाद	UNK	
+12	कयलनि	VM	
+13	आ	CC	
+14	प्रोत्साहित	JJ	
+15	भेलाह	VM	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम	PRP	
+2	सभ	QF	
+3	जखन	NST	
+4	रोम	NNP	
+5	शहर	NN	
+6	मे	PSP	
+7	पहुँचलहुँ	VM	
+8	तँ	CC	
+9	पौलुस	NNP	
+10	केँ	PSP	
+11	एक	QC	
+12	सैनिकक	NN	
+13	पहरा	NN	
+14	मे	PSP	
+15	अपन	PRP	
+16	अलग	NN	
+17	डेरा	NN	
+18	मे	PSP	
+19	रहबाक	VM	
+20	अनुमति	NN	
+21	भेटलनि	VM	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोम	NNP	
+2	मे	PSP	
+3	यहूदी	NN	
+4	सभक	QF	
+5	संग	PSP	
+6	वार्त्तालाप	NN	
+7	तीन	QC	
+8	दिनक	NN	
+9	बाद	NST	
+10	पौलुस	NNP	
+11	रोमक	NNP	
+12	प्रमुख	JJ	
+13	यहूदी	NN	
+14	सभ	QF	
+15	केँ	PSP	
+16	बजौलनि	VM	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	जखन	NST	
+4	आबि	VM	
+5	गेलाह	VAUX	
+6	तँ	CC	
+7	पौलुस	NNP	
+8	हुनका	PRP	
+9	सभ	QF	
+10	केँ	PSP	
+11	कहलथिन	VM	
+12	,	SYM	
+13	बाबू-भैया	NN	
+14	लोकनि	NN	
+15	,	SYM	
+16	हम	PRP	
+17	अपना	PRP	
+18	सभक	QF	
+19	यहूदी	NN	
+20	जातिक	NN	
+21	विरोध	NN	
+22	मे	PSP	
+23	वा	CC	
+24	पूर्वज	NN	
+25	सभक	QF	
+26	प्रथाक	NN	
+27	विरोध	NN	
+28	मे	PSP	
+29	किछु	QF	
+30	नहि	NEG	
+31	कयने	VM	
+32	छी	VAUX	
+33	,	SYM	
+34	मुदा	CC	
+35	तैयो		
+36	यरूशलेमक	NNP	
+37	यहूदी	NNP	
+38	सभ	QF	
+39	हमरा	PRP	
+40	बन्दी	NN	
+41	बना	VM	
+42	कऽ	VAUX	
+43	रोमी	JJ	
+44	सभक	QF	
+45	हाथ	NN	
+46	मे	PSP	
+47	सौंपि	VM	
+48	देलनि	VAUX	
+49	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोमी	JJ	
+2	शासनक	NN	
+3	अधिकारी	NN	
+4	सभ	QF	
+5	हमरा	PRP	
+6	सँ	PSP	
+7	पूछ-ताछ	NN	
+8	कऽ	VM	
+9	कऽ	VAUX	
+10	हमरा	PRP	
+11	मुक्त	NN	
+12	करऽ	VM	
+13	चाहलनि	VAUX	
+14	,	SYM	
+15	कारण	NN	
+16	मृत्यु	NN	
+17	दण्ड	NN	
+18	क	PSP	
+19	योग्य	NN	
+20	हम	PRP	
+21	कोनो	PRP	
+22	काज	NN	
+23	नहि	NEG	
+24	कयने	VM	
+25	छलहुँ	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	यहूदी	NN	
+3	सभ	QF	
+4	जखन	NST	
+5	रोमी	JJ	
+6	अधिकारी	NN	
+7	सभक	QF	
+8	निर्णयक	NN	
+9	विरोध	NN	
+10	कयलनि	VM	
+11	तँ	CC	
+12	हमरा	PRP	
+13	सम्राट-कैसर	NN	
+14	लग	NST	
+15	अपील	NN	
+16	करऽ	VM	
+17	पड़ल	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	बात	NN	
+3	नहि	NEG	
+4	छल	VM	
+5	जे	PRP	
+6	हमरा	PRP	
+7	अपन	PRP	
+8	जातिक	NN	
+9	लोक	NN	
+10	सभ	QF	
+11	पर	PSP	
+12	कोनो	PRP	
+13	अभियोग	NN	
+14	लगयबाक	VM	
+15	छल	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एही	PRP	
+2	कारणेँ	NN	
+3	हम	PRP	
+4	अपने	PRP	
+5	लोकनि	NN	
+6	केँ	PSP	
+7	बजा	VM	
+8	कऽ	VAUX	
+9	बात-चीत	NN	
+10	करऽ	VM	
+11	चाहैत	VAUX	
+12	छलहुँ	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जिनका	PRP	
+2	पर	PSP	
+3	यहूदी	NN	
+4	लोक	NN	
+5	अपन	PRP	
+6	सभ	QF	
+7	आशा	NN	
+8	रखने	VM	
+9	छथि	VAUX	
+10	,	SYM	
+11	तिनके	PRP	
+12	कारण	NN	
+13	हम	PRP	
+14	एहि	DEM	
+15	जिंजीर	NN	
+16	सँ	RB	
+17	बान्हरल	VM	
+18	छी	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	उत्तर	NN	
+4	देलथिन	VM	
+5	,	SYM	
+6	हमरा	PRP	
+7	सभ	QF	
+8	केँ	PSP	
+9	यहूदिया	JJ	
+10	प्रदेश	NN	
+11	सँ	PSP	
+12	अहाँक	PRP	
+13	सम्बन्धू	NN	
+14	मे	PSP	
+15	ने	NEG	
+16	कोनो	PRP	
+17	पत्र	NN	
+18	भेटल	VM	
+19	अछि	VAUX	
+20	,	SYM	
+21	आ	CC	
+22	ने	NEG	
+23	ओतऽ	NST	
+24	सँ	PSP	
+25	आयल	VM	
+26	भाय	NN	
+27	सभ	QF	
+28	मे	PSP	
+29	सँ	PSP	
+30	केओ	PRP	
+31	औपचारिक	JJ	
+32	वा	CC	
+33	अनौपचारिक	JJ	
+34	रूप	NN	
+35	सँ	PSP	
+36	अहाँक	PRP	
+37	विरोध	NN	
+38	मे	PSP	
+39	किछु	QF	
+40	कहने	VM	
+41	अछि	VAUX	
+42	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अहाँक	PRP	
+2	विचार	NN	
+3	आ	CC	
+4	विश्वासक	NN	
+5	सम्बन्ध	NN	
+6	मे	PRP	
+7	हम	PRP	
+8	सभ	QF	
+9	अहीं	PRP	
+10	सँ	PSP	
+11	सुनऽ	VM	
+12	चाहैत	VAUX	
+13	छी	VAUX	
+14	,	SYM	
+15	कारण	NN	
+16	,	SYM	
+17	एहि	DEM	
+18	पंथक	NN	
+19	विषय	NN	
+20	मे	PSP	
+21	एतेक	QF	
+22	जनैत	VM	
+23	छी	VAUX	
+24	जे	CC	
+25	सभ	QF	
+26	ठाम	NST	
+27	लोक	NN	
+28	एकर	PRP	
+29	विरोध	NN	
+30	कऽ	VM	
+31	रहल	VAUX	
+32	अछि	VAUX	
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तँ	RP	
+2	ओ	PRP	
+3	सभ	QF	
+4	पौलुसक	NNP	
+5	बात	NN	
+6	सुनबाक	VM	
+7	लेल	PSP	
+8	एक	QC	
+9	दिन	NN	
+10	निश्चित	NN	
+11	कयलनि	VM	
+12	,	SYM	
+13	आ	CC	
+14	ओहि	DEM	
+15	दिन	NN	
+16	पहिल	QO	
+17	दिन	NN	
+18	सँ	PRP	
+19	बेसी	PSP	
+20	संख्या	NN	
+21	मे	PSP	
+22	ओ	PRP	
+23	सभ	QF	
+24	हुनका	PRP	
+25	ओहिठाम	NST	
+26	अयलाह	VM	
+27	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	भोर	NST	
+2	सँ	PSP	
+3	लऽ	VM	
+4	कऽ	VAUX	
+5	साँझ	NST	
+6	तक		
+7	ओ	PRP	
+8	हुनका	PRP	
+9	सभ	QF	
+10	केँ	PSP	
+11	परमेश्वरक	NN	
+12	राज्यनक	NN	
+13	शुभ	JJ	
+14	समाचार	NN	
+15	सुनौलथिन	VM	
+16	,	SYM	
+17	और	CC	
+18	मूसाक	NNP	
+19	धर्म-नियम	NN	
+20	सँ	PSP	
+21	आ	CC	
+22	परमेश्वरक	NN	
+23	प्रवक्ता	NN	
+24	सभक	QF	
+25	लेख	NN	
+26	सँ	PSP	
+27	यीशुक	NNP	
+28	बारे	NN	
+29	मे	PSP	
+30	हुनका	PRP	
+31	सभ	QF	
+32	केँ	PSP	
+33	बुझयबाक	VM	
+34	प्रयत्न	NN	
+35	कयलनि	VM	
+36	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	किछु	QF	
+2	लोक	NN	
+3	हुनकर	PRP	
+4	बात	NN	
+5	मानि	VM	
+6	कऽ	VAUX	
+7	विश्वास	NN	
+8	कयलनि	VM	
+9	,	SYM	
+10	मुदा	CC	
+11	किछु	QF	
+12	लोक	NN	
+13	अविश्वासि	NN	
+14	रहि	VM	
+15	गेलाह	VAUX	
+16	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	आपस		
+4	मे	PSP	
+5	वाद-विवाद	NN	
+6	करऽ	VM	
+7	लगलाह	VAUX	
+8	,	SYM	
+9	और	CC	
+10	पौलुसक	NNP	
+11	एहि	DEM	
+12	अन्तिम	NST	
+13	बातक	NN	
+14	बाद	NST	
+15	विदा	NN	
+16	होमऽ	VM	
+17	लगलाह	VAUX	
+18	जे	CC	
+19	,	SYM	
+20	पवित्र	JJ	
+21	आत्मा	NN	
+22	अपन	PRP	
+23	प्रवक्ता	NN	
+24	यशायाह	NNP	
+25	द्वारा	PSP	
+26	बाजि	VM	
+27	अहाँ	PRP	
+28	सभक	QF	
+29	पूर्वज	NN	
+30	लोकनि	NN	
+31	केँ	PSP	
+32	ई	DEM	
+33	बात	NN	
+34	एकदम	INTF	
+35	ठीक	NN	
+36	कहलनि	VM	
+37	जे	CC	
+38	,	SYM	
+39	एहि	DEM	
+40	जाति	NN	
+41	लग	PSP	
+42	जा	VM	
+43	कऽ	VAUX	
+44	कहक	VAUX	
+45	जे	CC	
+46	,	SYM	
+47	तोँ	PRP	
+48	सभ	QF	
+49	सुनैत	VM	
+50	रहबह	VAUX	
+51	,	SYM	
+52	मुदा	CC	
+53	बुझबह	VM	
+54	नहि	NEG	
+55	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तोँ	PRP	
+2	सभ	QF	
+3	तकैत	VM	
+4	रहबह	VAUX	
+5	,	SYM	
+6	मुदा	CC	
+7	सुझतह	VM	
+8	नहि	NEG	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कारण	NN	
+2	,	SYM	
+3	एहि	DEM	
+4	लोक	NN	
+5	सभक	QF	
+6	मोन	NN	
+7	मे	PSP	
+8	ठेला	NN	
+9	पड़ि	VM	
+10	गेल	VAUX	
+11	छैक	VAUX	
+12	,	SYM	
+13	एकरा	PRP	
+14	सभक	QF	
+15	कान	NN	
+16	बहीर	JJ	
+17	भऽ	VM	
+18	गेल	VAUX	
+19	छैक	VAUX	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	PRP	
+2	सभ	QF	
+3	आँखि	NN	
+4	मुनि	VM	
+5	लेने	VAUX	
+6	अछि	VAUX	
+7	,	SYM	
+8	जाहि	PRP	
+9	सँ	PSP	
+10	कतौ	NST	
+11	एना		
+12	नहि	NEG	
+13	होअय	VM	
+14	जे	CC	
+15	आँखि	NN	
+16	सँ	PSP	
+17	देखय	VM	
+18	,	SYM	
+19	कान	NN	
+20	सँ	PSP	
+21	सुनय	VM	
+22	,	SYM	
+23	मोन	NN	
+24	सँ	PSP	
+25	बुझय	VM	
+26	,	SYM	
+27	आ	CC	
+28	घूमि	VM	
+29	कऽ	VAUX	
+30	हमरा	PRP	
+31	लग	PSP	
+32	आबय	VM	
+33	और	CC	
+34	हम	PRP	
+35	ओकरा	PRP	
+36	सभ	QF	
+37	केँ	PSP	
+38	स्वहस्थ	NN	
+39	कऽ	VM	
+40	दिऐक	VAUX	
+41	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	’	SYM	
+2	तेँ	RP	
+3	अहाँ	PRP	
+4	सभ	QF	
+5	ई	DEM	
+6	बात	NN	
+7	बुझि	VM	
+8	लिअ	VAUX	
+9	जे	CC	
+10	परमेश्वरक	NN	
+11	उद्धारक	NN	
+12	ई	PRP	
+13	शुभ	NN	
+14	समाचार	NN	
+15	गैर-यहूदी	JJ	
+16	सभ	QF	
+17	लग	PSP	
+18	पठाओल	VM	
+19	गेल	VAUX	
+20	अछि	VAUX	
+21	,	SYM	
+22	और	CC	
+23	ओ	PRP	
+24	सभ	QF	
+25	स्वीकार	NN	
+26	करत	VM	
+27	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पौलुसक	NNP	
+2	एतेक	QF	
+3	कहलाक	VM	
+4	बाद	NST	
+5	यहूदी	NN	
+6	सभ	QF	
+7	आपस		
+8	मे	PSP	
+9	बहुत	INTF	
+10	पैघ	JJ	
+11	वाद-विवाद	NN	
+12	करैत	VM	
+13	चल	VAUX	
+14	गेलाह	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कैद	NN	
+2	मे	PSP	
+3	प्रचार	NN	
+4	पौलुस	NNP	
+5	ओहिठाम	NST	
+6	अपन	PRP	
+7	किरायाक	NN	
+8	घर	NN	
+9	मे	PSP	
+10	पूरा	QF	
+11	दू	QC	
+12	वर्ष	NN	
+13	धरि		
+14	रहलाह	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जे	PRP	
+2	लोक	NN	
+3	सभ	QF	
+4	भेँट	NN	
+5	करबाक	VM	
+6	लेल	PSP	
+7	हुनका	PRP	
+8	ओहिठाम	NST	
+9	अबैत	VM	
+10	छलाह	VAUX	
+11	,	SYM	
+12	तिनका	PRP	
+13	सभक	QF	
+14	ओ	PRP	
+15	स्वागत	NN	
+16	करैत	VM	
+17	छलथिन	VAUX	
+18	,	SYM	
+19	और	CC	
+20	बिनु	NEG	
+21	कोनो	PRP	
+22	रुकाबट	NN	
+23	केँ	PSP	
+24	ओ	PRP	
+25	निडर	JJ	
+26	भऽ	VM	
+27	कऽ	VAUX	
+28	परमेश्वरक	NN	
+29	राज्यक	NN	
+30	विषय	NN	
+31	मे	PSP	
+32	प्रचार	NN	
+33	करैत	VM	
+34	रहलाह	VAUX	
+35	और	CC	
+36	प्रभु	NN	
+37	यीशु	NNP	
+38	मसीहक	NNP	
+39	सम्बन्ध	NN	
+40	मे	PSP	
+41	शिक्षा	NN	
+42	दैत	VM	
+43	रहलाह	VAUX	
+44	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	पत्र	NN	
+3	मसीह	NNP	
+4	यीशुक	NNP	
+5	सेवक	NN	
+6	पौलुसक	NNP	
+7	दिस	NST	
+8	सँ	PSP	
+9	अछि	VM	
+10	,	SYM	
+11	जे	PRP	
+12	मसीह-दूत	NN	
+13	होयबाक	VM	
+14	लेल	PSP	
+15	बजाओल	VM	
+16	गेलहुँ	VAUX	
+17	आ	CC	
+18	परमेश्वैरक	NN	
+19	ओहि	DEM	
+20	शुभ	JJ	
+21	समाचारक	NN	
+22	प्रचार	NN	
+23	करबाक	VM	
+24	लेल	PSP	
+25	अलग	NN	
+26	कयल	VM	
+27	गेल	VAUX	
+28	छी	VAUX	
+29	,	SYM	
+30	जाहि	PRP	
+31	शुभ	JJ	
+32	समाचारक	NN	
+33	सम्बन्ध	NN	
+34	मे	PSP	
+35	परमेश्व‍र	NN	
+36	पहिनहि	NST	
+37	सँ	PSP	
+38	अपन	PRP	
+39	प्रवक्ता	NN	
+40	सभक	QF	
+41	माध्य	NST	
+42	म	PSP	
+43	सँ	PSP	
+44	पवित्र	JJ	
+45	धर्मशास्त्रा	NN	
+46	मे	PSP	
+47	वचन	NN	
+48	देने	VM	
+49	छथि	VAUX	
+50	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	शुभ	JJ	
+3	समाचार	NN	
+4	परमेश्वरक	NN	
+5	पुत्रक	NN	
+6	विषय	NN	
+7	मे	PSP	
+8	अछि	VM	
+9	,	SYM	
+10	जे	PRP	
+11	मानवीय	JJ	
+12	वंशावलीक	NN	
+13	अनुसार		
+14	दाऊदक	NNP	
+15	वंशज	NN	
+16	छलाह	VM	
+17	,	SYM	
+18	आ	CC	
+19	मुइल	VM	
+20	सभ	QF	
+21	मे	PSP	
+22	सँ	PSP	
+23	जीबि	VM	
+24	उठबाक	VAUX	
+25	कारणेँ	NN	
+26	परमेश्वतरक	NN	
+27	पवित्र	JJ	
+28	आत्मा	NN	
+29	,	SYM	
+30	द्वारा	PSP	
+31	सामर्थ्य	NN	
+32	क	PSP	
+33	संग	RB	
+34	परमेश्वलरक	NN	
+35	पुत्र	NN	
+36	प्रमाणित	NN	
+37	भेलाह	VM	
+38	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	छथि	VM	
+3	अपना	PRP	
+4	सभक	QF	
+5	प्रभु	NN	
+6	,	SYM	
+7	यीशु	NNP	
+8	मसीह	NNP	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हुनका	PRP	
+2	द्वारा	PSP	
+3	आ	CC	
+4	हुनकर	PRP	
+5	नामक		
+6	सम्माअनक	NN	
+7	लेल	PSP	
+8	हमरा	PRP	
+9	सभ	QF	
+10	केँ	PSP	
+11	मसीह-दूत	NN	
+12	बनबाक	VM	
+13	वरदान	NN	
+14	भेटल	VM	
+15	अछि	VAUX	
+16	जाहि	PRP	
+17	सँ	PSP	
+18	सभ	QF	
+19	जातिक	NN	
+20	लोकक	NN	
+21	बीच	PSP	
+22	हम	PRP	
+23	सभ	QF	
+24	हुनकर	PRP	
+25	प्रचार	NN	
+26	करी	VM	
+27	आ	CC	
+28	ओ	PRP	
+29	सभ	QF	
+30	विश्वाअस	NN	
+31	कऽ	VM	
+32	कऽ	VAUX	
+33	हुनकर	PRP	
+34	अधीनता	NN	
+35	स्वीकार	NN	
+36	करनि	VM	
+37	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओहि	DEM	
+2	लोक	NN	
+3	सभ	QF	
+4	मे	PSP	
+5	अहूँ	PRP	
+6	सभ	QF	
+7	छी	VM	
+8	,	SYM	
+9	अहाँ	PRP	
+10	सभ	QF	
+11	जे	PRP	
+12	सभ	QF	
+13	यीशु	NNP	
+14	मसीहक	NNP	
+15	अपन	PRP	
+16	लोक	NN	
+17	होयबाक	VM	
+18	लेल	PSP	
+19	बजाओल	VM	
+20	गेल	VAUX	
+21	छी	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अहाँ	PRP	
+2	सभ	QF	
+3	जे	PRP	
+4	रोम	NNP	
+5	शहर	NN	
+6	मे	PSP	
+7	परमेश्वीरक	NN	
+8	प्रिय	JJ	
+9	लोक	NN	
+10	छी	VM	
+11	आ	CC	
+12	पवित्र	JJ	
+13	होयबाक	VM	
+14	लेल	PSP	
+15	बजाओल	VM	
+16	गेल	VAUX	
+17	छी	VAUX	
+18	,	SYM	
+19	अहाँ	PRP	
+20	सभ	QF	
+21	गोटे	NN	
+22	केँ	PSP	
+23	हम	PRP	
+24	ई	DEM	
+25	पत्र	NN	
+26	लिखि	VM	
+27	रहल	VAUX	
+28	छी	VAUX	
+29	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अपना	PRP	
+2	सभक	QF	
+3	पिता	NN	
+4	परमेश्वयर	NN	
+5	आ	CC	
+6	प्रभु	NN	
+7	यीशु	NNP	
+8	मसीह	NNP	
+9	अहाँ	PRP	
+10	सभ	QF	
+11	पर	PSP	
+12	कृपा	NN	
+13	करथि	VM	
+14	आ	CC	
+15	अहाँ	PRP	
+16	सभ	QF	
+17	केँ	PSP	
+18	शान्ति	NN	
+19	देथि	VM	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	रोम	NNP	
+2	जयबाक	VM	
+3	पौलुसक	NNP	
+4	हार्दिक	JJ	
+5	इच्छा	NN	
+6	सर्वप्रथम	NST	
+7	हम	PRP	
+8	यीशु	NNP	
+9	मसीहक	NNP	
+10	माध्यम	PSP	
+11	सँ	PSP	
+12	अहाँ	PRP	
+13	सभक	QF	
+14	लेल	PSP	
+15	अपना	PRP	
+16	परमेश्वर	NN	
+17	र	UNK	
+18	केँ	PSP	
+19	धन्यवाद	NN	
+20	दैत	VM	
+21	छिऐन	VAUX	
+22	,	SYM	
+23	किएक	WQ	
+24	तँ	RP	
+25	अहाँ	PRP	
+26	सभक	QF	
+27	विश्वासक	NN	
+28	चर्चा	NN	
+29	समस्त‍	QF	
+30	संसार	NN	
+31	मे	PSP	
+32	पसरि	VM	
+33	रहल	VAUX	
+34	अछि	VAUX	
+35	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जाहि	PRP	
+2	परमेश्वनरक	NN	
+3	सेवा	NN	
+4	हम	PRP	
+5	हुनकर	PRP	
+6	पुत्रक	NN	
+7	शुभ	JJ	
+8	समाचारक	NN	
+9	प्रचार	NN	
+10	कऽ	VM	
+11	कऽ	VAUX	
+12	अपन	PRP	
+13	सम्पूरर्ण	QF	
+14	हृदय	NN	
+15	सँ	PSP	
+16	करैत	VM	
+17	छी	VAUX	
+18	,	SYM	
+19	सैह	PRP	
+20	हमर	PRP	
+21	साक्षी	NN	
+22	छथि	VM	
+23	जे	PRP	
+24	हम	PRP	
+25	प्रार्थना	NN	
+26	सभ	QF	
+27	मे	PSP	
+28	निरन्त्र	RB	
+29	अहाँ	PRP	
+30	सभ	QF	
+31	केँ	PSP	
+32	स्मचरण	NN	
+33	करैत	VM	
+34	रहैत	VAUX	
+35	छी	VAUX	
+36	,	SYM	
+37	आ	CC	
+38	सदिखन	NST	
+39	ई	DEM	
+40	विनती	NN	
+41	करैत	VM	
+42	छिऐन	VAUX	
+43	जे	CC	
+44	,	SYM	
+45	जँ	PRP	
+46	हुनकर	PRP	
+47	इच्छाभ	NN	
+48	छनि	VM	
+49	,	SYM	
+50	तँ	CC	
+51	ओ	PRP	
+52	अन्तव	NN	
+53	मे	PSP	
+54	हमरा	PRP	
+55	लेल	PSP	
+56	अहाँ	PRP	
+57	सभ	QF	
+58	लग	PSP	
+59	अयबाक	VM	
+60	कोनो	PRP	
+61	ने	NEG	
+62	कोनो	PRP	
+63	उपाय	NN	
+64	करताह	VM	
+65	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	किएक	WQ	
+2	तँ	RP	
+3	हमरा	PRP	
+4	अहाँ	PRP	
+5	सभ	QF	
+6	सँ	PSP	
+7	भेँट	NN	
+8	करबाक	VM	
+9	बड्ड	QF	
+10	इच्छाँ	NN	
+11	अछि	VM	
+12	,	SYM	
+13	जाहि	PRP	
+14	सँ	PSP	
+15	अहाँ	PRP	
+16	सभ	QF	
+17	केँ	PSP	
+18	विश्वास	NN	
+19	मे	PSP	
+20	दृढ़	JJ	
+21	बनयबाक	VM	
+22	लेल	PSP	
+23	,	SYM	
+24	हम	PRP	
+25	आत्मिक	JJ	
+26	रूप	NN	
+27	सँ	PSP	
+28	अहाँ	PRP	
+29	सभक	QF	
+30	मदति	NN	
+31	कऽ	VM	
+32	सकी	VAUX	
+33	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	वा	CC	
+2	एकरा	PRP	
+3	एहि	PRP	
+4	तरहेँ	NN	
+5	कहू—हम	VM	
+6	चाहैत	VAUX	
+7	छी	VAUX	
+8	जे	CC	
+9	अपना	PRP	
+10	सभ	QF	
+11	एक	QC	
+12	संग	PSP	
+13	रहि	VM	
+14	कऽ	VAUX	
+15	एक-दोसराक	QC	
+16	विश्वास	NN	
+17	द्वारा	PSP	
+18	प्रोत्साहित	NN	
+19	होइ—अहाँ	VM	
+20	सभ	QF	
+21	हमरा	PRP	
+22	विश्वास	NN	
+23	द्वारा	PSP	
+24	आ	CC	
+25	हम	PRP	
+26	अहाँ	PRP	
+27	सभक	QF	
+28	विश्वास	NN	
+29	द्वारा	PSP	
+30	यौ	INJ	
+31	भाइ	NN	
+32	लोकनि	NN	
+33	,	SYM	
+34	हम	PRP	
+35	नहि	NEG	
+36	चाहैत	VM	
+37	छी	VAUX	
+38	जे	CC	
+39	अहाँ	PRP	
+40	सभ	QF	
+41	एहि	DEM	
+42	बात	NN	
+43	सँ	PSP	
+44	अनजान	NN	
+45	रहू	VM	
+46	जे	PRP	
+47	कतेको	QF	
+48	बेर	NN	
+49	हम	PRP	
+50	अहाँ	PRP	
+51	सभक	QF	
+52	लग	PSP	
+53	अयबाक	VM	
+54	योजना	NN	
+55	बनौने	VM	
+56	छलहुँ	VAUX	
+57	,	SYM	
+58	जाहि	PRP	
+59	सँ	PSP	
+60	जहिना		
+61	दोसर	QO	
+62	गैर-यहूदी	JJ	
+63	सभक	QF	
+64	बीच	PSP	
+65	हम	PRP	
+66	फलदायक	JJ	
+67	काज	NN	
+68	कऽ	VM	
+69	सकलहुँ	VAUX	
+70	,	SYM	
+71	तहिना		
+72	अहूँ	PRP	
+73	सभक	QF	
+74	बीच	PSP	
+75	कऽ	VM	
+76	सकी	VAUX	
+77	,	SYM	
+78	मुदा	CC	
+79	एखन	NST	
+80	तक		
+81	ओहि	DEM	
+82	योजना	NN	
+83	मे	PSP	
+84	कोनो	PRP	
+85	ने	NEG	
+86	कोनो	PRP	
+87	बाधा	NN	
+88	अबैत	VM	
+89	रहल	VAUX	
+90	अछि	VAUX	
+91	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हमरा	PRP	
+2	यूनानी	JJ	
+3	आ	CC	
+4	गैर-यूनानी	JJ	
+5	सभक	QF	
+6	प्रति	PSP	
+7	,	SYM	
+8	और	CC	
+9	ज्ञानी	JJ	
+10	आ	CC	
+11	अज्ञानी	JJ	
+12	सभक	QF	
+13	प्रति	PSP	
+14	एक	QC	
+15	दायित्व	NN	
+16	निर्वाह	NN	
+17	करबाक	VM	
+18	अछि	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	लेल	PSP	
+3	हम	PRP	
+4	रोम	NNP	
+5	मे	PSP	
+6	सेहो	RP	
+7	अहाँ	PRP	
+8	सभक	QF	
+9	बीच	PSP	
+10	यीशु	NNP	
+11	मसीहक	NNP	
+12	शुभ	JJ	
+13	समाचारक	NN	
+14	प्रचार	NN	
+15	करबाक	VM	
+16	लेल	PSP	
+17	उत्सुक	JJ	
+18	छी	VM	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	हम		
+2	ई		
+3	शुभ		
+4	समाचार		
+5	सुनाबऽ		
+6	सँ		
+7	लज्जित		
+8	नहि		
+9	होइत		
+10	छी		
+11	,		
+12	किएक		
+13	तँ		
+14	ई		
+15	शुभ		
+16	समाचार		
+17	ओ		
+18	माध्युम		
+19	अछि		
+20	जाहि		
+21	द्वारा		
+22	परमेश्वभर		
+23	अपना		
+24	सामर्थ्य‍		
+25	सँ		
+26	प्रत्येहक		
+27	विश्वाँस		
+28	कयनिहार		
+29	लोकक		
+30	उद्धार		
+31	करैत		
+32	छथि		
+33	,		
+34	पहिने		
+35	यहूदी		
+36	सभक		
+37	आ		
+38	फेर		
+39	आन		
+40	जातिक		
+41	लोक		
+42	सभक		
+43	।		
+</Sentence>
+
+<Sentence id=''''>
+1	एहि		
+2	शुभ		
+3	समाचार		
+4	मे		
+5	परमेश्वरक		
+6	ओ		
+7	योजना		
+8	प्रगट		
+9	होइत		
+10	अछि		
+11	जाहि		
+12	योजना		
+13	द्वारा		
+14	ओ		
+15	अपना		
+16	नजरि		
+17	मे		
+18	लोक		
+19	केँ		
+20	धार्मिक		
+21	ठहरबैत		
+22	छथि		
+23	,		
+24	आ		
+25	ई		
+26	धार्मिकता		
+27	शुरू		
+28	सँ		
+29	अन्त		
+30	तक		
+31	विश्वा्स		
+32	पर		
+33	आधारित		
+34	अछि		
+35	,		
+36	जेना		
+37	धर्मशास्त्र		
+38	मे		
+39	लिखल		
+40	अछि		
+41	जे		
+42	,		
+43	जे		
+44	विश्वास		
+45	द्वारा		
+46	धार्मिक		
+47	ठहराओल		
+48	गेल		
+49	अछि		
+50	,		
+51	से		
+52	जीवन		
+53	प्राप्तन		
+54	करत		
+55	।		
+</Sentence>
+
+<Sentence id=''''>
+1	मनुष्यसक	NN	
+2	अधर्मक	JJ	
+3	प्रति	PSP	
+4	परमेश्वरक	NN	
+5	क्रोध	NN	
+6	परमेश्व्रक	NN	
+7	क्रोध	NN	
+8	ओहन		
+9	लोक	NN	
+10	सभक	QF	
+11	सभ	QF	
+12	प्रकारक	NN	
+13	अधर्म	JJ	
+14	आ	CC	
+15	दुष्टकता	JJ	
+16	पर	PSP	
+17	प्रगट	NN	
+18	भऽ	VM	
+19	रहल	VAUX	
+20	अछि	VAUX	
+21	जे	PRP	
+22	सभ	QF	
+23	अपना	PRP	
+24	दुष्ट्ता	JJ	
+25	द्वारा	PSP	
+26	सत्य	NN	
+27	केँ	PSP	
+28	झाँपि	VM	
+29	कऽ	VAUX	
+30	रखने	VAUX	
+31	अछि	VAUX	
+32	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	कारण	NN	
+2	,	SYM	
+3	परमेश्वरक	NN	
+4	सम्बन्ध	NN	
+5	मे	PSP	
+6	जे	PRP	
+7	किछु	QF	
+8	जानल	VM	
+9	जा	VAUX	
+10	सकैत	VAUX	
+11	अछि	VAUX	
+12	से	PRP	
+13	ओकरा	PRP	
+14	सभ	RP	
+15	पर	PSP	
+16	स्पष्ट	JJ	
+17	रूप	NN	
+18	सँ	PSP	
+19	प्रगट	NN	
+20	भेल	VM	
+21	अछि	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	परमेश्वर	NN	
+2	अपने	PRP	
+3	ओकरा	PRP	
+4	सभ	QF	
+5	पर	PSP	
+6	एहि	DEM	
+7	बात	NN	
+8	केँ	PSP	
+9	प्रगट	NN	
+10	कऽ	VM	
+11	देने	VAUX	
+12	छथिन	VAUX	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	किएक	WQ	
+2	तँ	RP	
+3	परमेश्वरक	NN	
+4	अदृश्य	JJ	
+5	गुण	NN	
+6	,	SYM	
+7	अर्थात्	NN	
+8	हुनकर	PRP	
+9	अनन्त	NST	
+10	कालीन	NN	
+11	शक्ति	NN	
+12	आ	CC	
+13	ईश्वरीय	JJ	
+14	स्वभाव	NN	
+15	,	SYM	
+16	संसारक	NN	
+17	सृष्टि	NN	
+18	एक	QF	
+19	समय	NN	
+20	सँ	PSP	
+21	हुनका	PRP	
+22	रचना	NN	
+23	मे	PSP	
+24	साफ-साफ	RB	
+25	देखाइ	VM	
+26	दैत	VAUX	
+27	अछि	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेँ	RP	
+2	ओकरा	PRP	
+3	सभ	RP	
+4	केँ	PSP	
+5	अपन	PRP	
+6	आचरणक	NN	
+7	सफाइ	NN	
+8	देबाक	VM	
+9	कोनो	PRP	
+10	बहाना	NN	
+11	नहि	NEG	
+12	चलतैक	VM	
+13	।	WQ	
+</Sentence>
+
+<Sentence id=''''>
+1	किएक	CC	
+2	तँ	RP	
+3	ओ	PRP	
+4	सभ	RP	
+5	परमेश्वर	NN	
+6	केँ	PSP	
+7	जनितो	VM	
+8	ने	NEG	
+9	हुनका	PRP	
+10	परमेश्वर	NN	
+11	मानि	VM	
+12	कऽ	VAUX	
+13	समुचित	JJ	
+14	आदर	NN	
+15	कयलकनि	VM	
+16	आ	CC	
+17	ने	NEG	
+18	हुनका	PRP	
+19	धन्यँवाद	NN	
+20	देलकनि	VM	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	RP	
+3	निरर्थक	JJ	
+4	कल्पना	NN	
+5	सभ	QF	
+6	मे	PSP	
+7	पड़ि	VM	
+8	गेल	VAUX	
+9	आ	CC	
+10	ओकरा	PRP	
+11	सभक	RP	
+12	विवेकहीन	JJ	
+13	मोन	NN	
+14	अन्हार	NN	
+15	सँ	PSP	
+16	भरि	VM	
+17	गेलैक	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	RP	
+3	अपना	PRP	
+4	केँ	PSP	
+5	बुद्धिमान	JJ	
+6	बुझलक	VM	
+7	मुदा	CC	
+8	मूर्ख	NN	
+9	बनि	VM	
+10	गेल	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	अविनाशी	JJ	
+4	परमेश्वरक	NN	
+5	वैभव	NN	
+6	आ	CC	
+7	महानताक	NN	
+8	स्थान	NN	
+9	पर	PSP	
+10	नाशवान	JJ	
+11	मनुष्य	NN	
+12	,	SYM	
+13	चिड़ै-चुनमुन	NN	
+14	,	SYM	
+15	चौपाया	JJ	
+16	जानबर	NN	
+17	आ	CC	
+18	साँपक	NN	
+19	आकार	NN	
+20	मे	PSP	
+21	बनाओल	VM	
+22	मूर्ति	NN	
+23	सभ	QF	
+24	केँ	PSP	
+25	परमेश्वरक	NN	
+26	समतुल्य	RB	
+27	मानि	VM	
+28	अपनौलक	VM	
+29	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	लेल	PSP	
+3	परमेश्वर	NN	
+4	र	UNK	
+5	ओकरा	PRP	
+6	सभ	QF	
+7	केँ	PSP	
+8	ओकर	PRP	
+9	अपन	PRP	
+10	हृदयक	NN	
+11	काम-वासनाक	NN	
+12	अशुद्धता	NN	
+13	मे	PSP	
+14	छोड़ि	VM	
+15	देलथिन	VAUX	
+16	जाहि	PRP	
+17	सँ	PSP	
+18	आपस	PSP	
+19	मे	PSP	
+20	ओ	PRP	
+21	सभ	QF	
+22	अपना	PRP	
+23	शरीर	NN	
+24	केँ	PSP	
+25	अपवित्र	JJ	
+26	करऽ	VM	
+27	लागल	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	परमेश्ववरक	NN	
+4	सत्यमक	NN	
+5	बदला	PSP	
+6	झूठ	NN	
+7	केँ	PSP	
+8	अपनौलक	VM	
+9	आ	CC	
+10	सृष्टिा	NN	
+11	कयल	VM	
+12	वस्तु	NN	
+13	सभक	QF	
+14	पूजा	NN	
+15	आ	CC	
+16	सेवा	NN	
+17	कयलक—नहि	VM	
+18	कि	CC	
+19	ओहि	DEM	
+20	सृष्टिकर्ताक	NN	
+21	,	SYM	
+22	जे	PRP	
+23	सर्वदा	NST	
+24	धन्य	NN	<fs af=',,,,,,,'>
+25	छथि	VM	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	आमीन	RP	
+2	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	यैह	DEM	
+2	कारण	NN	
+3	अछि	VM	
+4	जे	CC	
+5	परमेश्वर	NN	
+6	ओकरा	PRP	
+7	सभ	QF	
+8	केँ	PSP	
+9	नीच	JJ	
+10	वासना	NN	
+11	सभ	RP	
+12	मे	PSP	
+13	छोड़ि	VM	
+14	देलथिन	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकरा	PRP	
+2	सभक	QF	
+3	स्त्री	NN	<fs af=',,,,,,,'>
+4	ओ	PRP	
+5	स्वभाविक	JJ	
+6	सम्बन्धक	NN	
+7	स्थान	NN	
+8	पर	PSP	
+9	अस्वभाविक	JJ	
+10	राखऽ	VM	
+11	लागलि	VAUX	
+12	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एही	PRP	
+2	तरहेँ	NN	
+3	पुरुष	NN	
+4	सभ	RP	
+5	सेहो	RP	
+6	स्त्रीकक	NN	
+7	संग	PSP	
+8	होमऽ	VM	
+9	वला	PRP	
+10	स्वभाविक	JJ	
+11	सम्बन्ध	NN	
+12	केँ	PSP	
+13	छोड़ि	VM	
+14	पुरुषक	NN	
+15	संग	PSP	
+16	वला	PSP	
+17	काम-वासनाक	NN	
+18	लेल	PSP	
+19	उत्तेजित	JJ	
+20	होमऽ	VM	
+21	लागल	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पुरुष	NN	
+2	पुरुषेक	NN	
+3	संग	PSP	
+4	निर्लज्जु	JJ	
+5	कर्म	NN	
+6	कऽ	VM	
+7	अपने	PRP	
+8	व्यक्तित्व	NN	
+9	मे	PSP	
+10	अपन	PRP	
+11	दुराचरणक	NN	
+12	उचित	JJ	
+13	फल	NN	
+14	पौलक	VM	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहि	PRP	
+2	तरहेँ	NN	
+3	ओ	PRP	
+4	सभ	QF	
+5	जखन	NN	
+6	परमेश्वकरक	NN	
+7	सत्य-ज्ञान	NN	
+8	केँ	PSP	
+9	रखनाइ	VM	
+10	महत्वपूर्ण	JJ	
+11	नहि	NEG	
+12	बुझलक	VM	
+13	तँ	CC	
+14	परमेश्वर	NN	
+15	ओकरा	PRP	
+16	सभ	QF	
+17	केँ	PSP	
+18	भ्रष्ट	JJ	
+19	मोनक	NN	
+20	वश	NN	
+21	मे	PSP	
+22	छोड़ि	VM	
+23	देलथिन	VAUX	
+24	जाहि	PRP	
+25	सँ	PSP	
+26	ओ	PRP	
+27	भ	VM	
+28	अनुचित	JJ	
+29	काज	NN	
+30	करय	VM	
+31	,	SYM	
+32	और	CC	
+33	तेँ	CC	
+34	ओ	PRP	
+35	सभ	QF	
+36	हर	QF	
+37	प्रकारक	NN	
+38	अधर्म	NN	
+39	,	SYM	
+40	दुष्ट्ता	NN	
+41	,	SYM	
+42	लोभ	NN	
+43	,	SYM	
+44	द्वेष	NN	
+45	आ	CC	
+46	ईर्ष्या	NN	
+47	,	SYM	
+48	हत्या	NN	
+49	,	SYM	
+50	झगड़ा	NN	
+51	,	SYM	
+52	छल-कपट	NN	
+53	आ	CC	
+54	डाह	NN	
+55	सँ	PSP	
+56	भरि	VM	
+57	गेल	VAUX	
+58	अछि	VAUX	
+59	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	चुगली	NN	
+4	लगौनिहार	VM	
+5	,	SYM	
+6	निन्दा	NN	
+7	कयनिहार	VM	
+8	,	SYM	
+9	परमेश्वषर	NN	
+10	सँ	PSP	
+11	घृणा	NN	
+12	कयनिहार	VM	
+13	,	SYM	
+14	जिद्दी	JJ	
+15	,	SYM	
+16	घमण्डी	JJ	
+17	और	CC	
+18	अहंकारी	JJ	
+19	अछि	VM	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	अधलाह	JJ	
+4	काज	NN	
+5	करबाक	VM	
+6	नव-नव	JJ	
+7	तरीका	NN	
+8	सभ	QF	
+9	गढ़ैत	VM	
+10	रहैत	VAUX	
+11	अछि	VAUX	
+12	,	SYM	
+13	माय-बाबूक	NN	
+14	आज्ञाक	NN	
+15	उल्लंघन	NN	
+16	करैत	VM	
+17	अछि	VAUX	
+18	,	SYM	
+19	ओ	PRP	
+20	सभ	QF	
+21	विवेकहीन	JJ	
+22	,	SYM	
+23	विश्वासघाती	JJ	
+24	,	SYM	
+25	प्रेम-शुन्य	JJ	
+26	और	CC	
+27	निर्दयी	JJ	
+28	भऽ	VM	
+29	गेल	VAUX	
+30	अछि	VAUX	
+31	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	सभ	QF	
+3	परमेश्वरक	NN	
+4	ई	DEM	
+5	उचित	JJ	
+6	फैसला	NN	
+7	जनैत	VM	
+8	अछि	VAUX	
+9	जे	CC	
+10	एहन	RB	
+11	काज	NN	
+12	कयनिहार	VM	
+13	मृत्युदण्ड	NN	
+14	पयबाक	VM	
+15	जोगरक	NN	
+16	अछि	VM	
+17	,	SYM	
+18	तैयो		
+19	ओ	PRP	
+20	सभ	QF	
+21	मात्र	QF	
+22	अपने	PRP	
+23	नहि	NEG	
+24	एहन	RB	
+25	काज	NN	
+26	करैत	VM	
+27	अछि	VAUX	
+28	,	SYM	
+29	बल्किक	NEG	
+30	एहन	RB	
+31	काज	NN	
+32	कयनिहार	VM	
+33	लोक	NN	
+34	सभक	QF	
+35	समर्थन	NN	
+36	सेहो	RP	
+37	करैत	VM	
+38	अछि	VAUX	
+39	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अहूँ	PRP	
+2	दोषी	JJ	
+3	छी	VM	
+4	!	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तेँ	RP	
+2	यौ	INJ	
+3	दोष	NN	
+4	लगौनिहार	VM	
+5	,	SYM	
+6	अहाँ	PRP	
+7	जे	PRP	
+8	केओ	PRP	
+9	होइ	VM	
+10	,	SYM	
+11	निरुत्तर	NN	
+12	छी	VM	
+13	,	SYM	
+14	किएक	WQ	
+15	तँ	CC	
+16	जाहि	PRP	
+17	बात	NN	
+18	मे	PSP	
+19	अहाँ	PRP	
+20	अनका	PRP	
+21	पर	PSP	
+22	दोष	NN	
+23	लगबैत	VM	
+24	छी	VAUX	
+25	ताही	PRP	
+26	मे	PSP	
+27	अहाँ	PRP	
+28	अपने	PRP	
+29	केँ	PSP	
+30	दोषी	JJ	
+31	ठहरबैत	VM	
+32	छी	VAUX	
+33	,	SYM	
+34	कारण	NN	
+35	,	SYM	
+36	जे	PRP	
+37	दोष	NN	
+38	अहाँ	PRP	
+39	अनका	PRP	
+40	पर	PSP	
+41	लगबैत	VM	
+42	छी	VAUX	
+43	सैह	DEM	
+44	काज	NN	
+45	अपनो	PRP	
+46	करैत	VM	
+47	छी	VAUX	
+48	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	और	CC	
+2	अपना	PRP	
+3	सभ	QF	
+4	जनैत	VM	
+5	छी	VAUX	
+6	जे	CC	
+7	एहन	RB	
+8	अधलाह	JJ	
+9	काज	NN	
+10	कयनिहार	VM	
+11	लोक	NN	
+12	सभ	QF	
+13	पर	PSP	
+14	परमेश्वरक	NN	
+15	दिस	NST	
+16	सँ	PSP	
+17	दण्डक	NN	
+18	आज्ञा	NN	
+19	उचिते	NN	
+20	होइत	VM	
+21	अछि	VAUX	
+22	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	यौ	INJ	
+2	जी	RP	
+3	,	SYM	
+4	अहाँ	PRP	
+5	दोसर	QC	
+6	पर	PSP	
+7	जे	PRP	
+8	एहन		
+9	काज	NN	
+10	करबाक	VM	
+11	दोष	NN	
+12	लगबैत	VM	
+13	छी	VAUX	
+14	आ	CC	
+15	स्वयं	PRP	
+16	वैह	DEM	
+17	काज	NN	
+18	करैत	VM	
+19	छी	VAUX	
+20	,	SYM	
+21	तँ	CC	
+22	की	WQ	
+23	अहाँ	PRP	
+24	सोचैत	VM	
+25	छी	VAUX	
+26	जे	CC	
+27	अहाँ	PRP	
+28	परमेश्वरक	NN	
+29	दण्डक	NN	
+30	आज्ञा	NN	
+31	सँ	PSP	
+32	बाँचि	VM	
+33	जायब	VAUX	
+34	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	वा	CC	
+2	की	WQ	
+3	अहाँ	PRP	
+4	परमेश्वरक	NN	
+5	असीम	JJ	
+6	कृपा	NN	
+7	,	SYM	
+8	सहनशीलता	NN	
+9	आ	CC	
+10	धैर्य	NN	
+11	केँ	PSP	
+12	तुच्छ	JJ	
+13	मानैत	VM	
+14	छी	VAUX	
+15	आ	CC	
+16	ई	PRP	
+17	नहि	NEG	
+18	जनैत	VM	
+19	छी	VAUX	
+20	जे	CC	
+21	परमेश्वर	NN	
+22	अपना	PRP	
+23	कृपा	NN	
+24	द्वारा	PSP	
+25	अहाँ	PRP	
+26	केँ	PSP	
+27	अपना	PRP	
+28	पापक	NN	
+29	लेल	PSP	
+30	पश्चात्ताप	NN	
+31	कऽ	VM	
+32	कऽ	VAUX	
+33	हृदय-परिवर्तन	NN	
+34	करबाक	VM	
+35	अवसर	NN	
+36	दऽ	VM	
+37	रहल	VAUX	
+38	छथि	VAUX	
+39	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	अपन	PRP	
+3	जिद्दीपन	JJ	
+4	आ	CC	
+5	अपरिवर्तित	JJ	
+6	हृदयक	NN	
+7	कारणेँ	NN	
+8	अहाँ	PRP	
+9	अपना	PRP	
+10	लेल	PSP	
+11	परमेश्वरक	NN	
+12	प्रकोप	NN	
+13	केँ	PSP	
+14	ओहि	DEM	
+15	दिनक	NN	
+16	लेल	PSP	
+17	संचित	NN	
+18	कऽ	VM	
+19	रहल	VAUX	
+20	छी	VAUX	
+21	जहिया	NST	
+22	परमेश्वरक	NN	
+23	प्रकोप	NN	
+24	आ	CC	
+25	उचित	JJ	
+26	न्याय	NN	
+27	प्रगट	NN	
+28	होयत	VM	
+29	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	परमेश्वरक	NN	
+2	न्याय	NN	
+3	उचित	JJ	
+4	अछि	VM	
+5	परमेश्वर	NN	
+6	प्रत्येक	QF	
+7	मनुष्य	NN	
+8	केँ	PSP	
+9	ओकर	PRP	
+10	काजक	NN	
+11	अनुरूप	PSP	
+12	फल	NN	
+13	देथिन	VM	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जे	PRP	
+2	लोक	NN	
+3	सभ	QF	
+4	धैर्यपूर्बक	RB	
+5	सत्कर्म	JJ	
+6	करैत	VM	
+7	रहि	VAUX	
+8	कऽ	VAUX	
+9	परमेश्वर	NN	
+10	सँ	PSP	
+11	देल	VM	
+12	सम्मान	NN	
+13	,	SYM	
+14	आदर	NN	
+15	और	CC	
+16	अमरत्व	NN	
+17	क	PSP	
+18	खोज	NN	
+19	मे	PSP	
+20	लागल	VM	
+21	रहैत	VAUX	
+22	अछि	VAUX	
+23	तकरा	PRP	
+24	परमेश्वर	NN	
+25	अनन्त्	JJ	
+26	जीवन	NN	
+27	देथिन	VM	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	जे	PRP	
+3	केओ	PRP	
+4	स्वा‍र्थी	JJ	
+5	लालसा	NN	
+6	सभक	QF	
+7	वश	NN	
+8	मे	PSP	
+9	रहैत	VM	
+10	अछि	VAUX	
+11	आ	CC	
+12	सत्य	NN	
+13	केँ	PSP	
+14	स्वीकार	NN	
+15	नहि	NEG	
+16	करैत	VM	
+17	अछि	VAUX	
+18	,	SYM	
+19	बल्कि	NEG	
+20	अधर्म	NN	
+21	पर	PSP	
+22	चलैत	VM	
+23	अछि	VAUX	
+24	,	SYM	
+25	तकरा	PRP	
+26	पर	PSP	
+27	परमेश्वरक	NN	
+28	दण्ड	NN	
+29	आ	CC	
+30	क्रोध	NN	
+31	बरसत	VM	
+32	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दुष्कर्म	NN	
+2	कयनिहार	VM	
+3	प्रत्येक	QF	
+4	मनुष्य	NN	
+5	पर	PSP	
+6	कष्टि	NN	
+7	आ	CC	
+8	संकट	NN	
+9	आओत	VM	
+10	,	SYM	
+11	पहिने	NST	
+12	यहूदी	NN	
+13	पर	PSP	
+14	आ	CC	
+15	फेर	NST	
+16	आन	PRP	
+17	जातिक	NN	
+18	लोक	NN	
+19	पर	PSP	
+20	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	सत्कर्म	NN	
+3	कयनिहार	VM	
+4	प्रत्ये‍क	QF	
+5	मनुष्य्	NN	
+6	केँ	PSP	
+7	सम्मान	NN	
+8	,	SYM	
+9	आदर	NN	
+10	आ	CC	
+11	शान्ति	NN	
+12	भेटतैक	VM	
+13	,	SYM	
+14	पहिने	NST	
+15	यहूदी	NN	
+16	केँ	PSP	
+17	आ	CC	
+18	फेर	NST	
+19	आन	PRP	
+20	जातिक	NN	
+21	लोक	NN	
+22	केँ	PSP	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	किएक	WQ	
+2	तँ	RP	
+3	परमेश्वमर	NN	
+4	ककरो	PRP	
+5	संग	PSP	
+6	पक्षपात	NN	
+7	नहि	NEG	
+8	करैत	VM	
+9	छथि	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	लोक	NN	
+3	,	SYM	
+4	जकरा	PRP	
+5	लग	NST	
+6	मूसा	NNP	
+7	द्वारा	PSP	
+8	देल	VM	
+9	गेल	VAUX	
+10	धर्म-नियम	NN	
+11	नहि	NEG	
+12	छलैक	VM	
+13	आ	CC	
+14	ओहि	DEM	
+15	अवस्था	NN	
+16	मे	PSP	
+17	पाप	NN	
+18	कयलक	VM	
+19	से	PRP	
+20	सभ	QF	
+21	बिनु	NEG	
+22	धर्म-नियमक	NN	
+23	आधार	NN	
+24	पर	PSP	
+25	नाश	NN	
+26	होयत	VM	
+27	,	SYM	
+28	और	CC	
+29	ओ	PRP	
+30	लोक	NN	
+31	,	SYM	
+32	जकरा	PRP	
+33	लग	NST	
+34	धर्म-नियम	NN	
+35	छलैक	VM	
+36	आ	CC	
+37	पाप	NN	
+38	कयलक	VM	
+39	तकर	PRP	
+40	न्याय	NN	
+41	धर्म-नियमक	NN	
+42	अनुरूप		
+43	कयल	VM	
+44	जयतैक	VAUX	
+45	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	किएक	WQ	
+2	तँ	RP	
+3	परमेश्वरक	NN	
+4	समक्ष	PSP	
+5	ओ	PRP	
+6	सभ	QF	
+7	धार्मिक	JJ	
+8	नहि	NEG	
+9	ठहरत	VM	
+10	जे	PRP	
+11	सभ	QF	
+12	धर्म-नियमक	NN	
+13	सुननिहार	VM	
+14	अछि	VAUX	
+15	,	SYM	
+16	बल्कि	NEG	
+17	वैह	PRP	
+18	सभ	QF	
+19	धार्मिक	JJ	
+20	ठहराओल	VM	
+21	जायत	VAUX	
+22	जे	PRP	
+23	सभ	QF	
+24	धर्म-नियमक	NN	
+25	पालन	NN	
+26	कयनिहार	VM	
+27	अछि	VAUX	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जखन	NST	
+2	गैर-यहूदी	JJ	
+3	लोक	NN	
+4	,	SYM	
+5	जकरा	PRP	
+6	सभ	WQ	
+7	केँ	PSP	
+8	धर्म-नियम	NN	
+9	नहि	NEG	
+10	भेटलैक	VM	
+11	,	SYM	
+12	से	PRP	
+13	सभ	QF	
+14	स्वभाव	NN	
+15	सँ	PSP	
+16	धर्म-नियमक	NN	
+17	बात	NN	
+18	सभ	QF	
+19	पर	PSP	
+20	चलैत	VM	
+21	अछि	VAUX	
+22	तखन	NST	
+23	ई	DEM	
+24	बात	NN	
+25	प्रमाणित	NN	
+26	होइत	VM	
+27	अछि	VAUX	
+28	जे	CC	
+29	,	SYM	
+30	ओना	RB	
+31	तँ	RP	
+32	मूसा	NNP	
+33	केँ	PSP	
+34	देल	VM	
+35	गेल	VAUX	
+36	धर्म-नियम	NN	
+37	ओकरा	PRP	
+38	सभ	QF	
+39	लग	NST	
+40	नहि	NEG	
+41	अछि	VM	
+42	,	SYM	
+43	तैयो		
+44	ओकरा	PRP	
+45	सभक	QF	
+46	भीतर	NST	
+47	एकटा	CL	
+48	नियम	NN	
+49	अछि—	VM	
+50	ओकरा	PRP	
+51	सभक	QF	
+52	आचरण	NN	
+53	सँ	PSP	
+54	ई	PRP	
+55	स्पलष्टस	RB	
+56	देखाइ	VM	
+57	दैत	VM	
+58	अछि	VAUX	
+59	जे	CC	
+60	,	SYM	
+61	धर्म-नियमक	NN	
+62	आदेश	NN	
+63	ओकरा	PRP	
+64	सभक	QF	
+65	हृदय	NN	
+66	पर	PSP	
+67	लिखल	VM	
+68	छैक	VAUX	
+69	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओकर	PRP	
+2	सभक	QF	
+3	भितरी	JJ	
+4	मोन	NN	
+5	ओकरा	PRP	
+6	सभ	QF	
+7	केँ	PSP	
+8	कखनो	NST	
+9	दोषी	JJ	
+10	तँ	CC	
+11	कखनो	NST	
+12	निर्दोष	JJ	
+13	ठहरा	VM	
+14	कऽ	VAUX	
+15	एहि	DEM	
+16	बातक	NN	
+17	गवाही	NN	
+18	सेहो	RP	
+19	दैत	VM	
+20	अछि	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ई	DEM	
+2	बात	NN	
+3	सभ	QF	
+4	ओहि	DEM	
+5	दिन	NN	
+6	स्पष्ट	JJ	
+7	होयत	VM	
+8	जहिया	NST	
+9	हमर	PRP	
+10	एहि	DEM	
+11	शुभ	JJ	
+12	समाचारक	NN	
+13	कथन	VM	
+14	अनुसार	RB	
+15	परमेश्वर	NN	
+16	यीशु	NNP	
+17	मसीहक	NNP	
+18	द्वारा	PSP	
+19	लोक	NN	
+20	सभक	QF	
+21	गुप्त	JJ	
+22	बात	NN	
+23	सभक	QF	
+24	न्याय	NN	
+25	करताह	VM	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	धर्म-नियमक		
+2	ज्ञान		
+3	अहाँ	PRP	
+4	केँ	PSP	
+5	बचाओत	VM	
+6	नहि	NEG	
+7	अहाँ	PRP	
+8	सभ	QF	
+9	,	SYM	
+10	जे	PRP	
+11	सभ	QF	
+12	यहूदी	NN	
+13	कहबैत	VM	
+14	छी	VAUX	
+15	,	SYM	
+16	धर्म-नियम	NN	
+17	पर	PSP	
+18	भरोसा	NN	
+19	रखैत	VM	
+20	छी	VAUX	
+21	आ	CC	
+22	परमेश्वरक	NN	
+23	लोक	NN	
+24	होयबाक	VM	
+25	घमण्ड	NN	
+26	करैत	VM	
+27	छी	VM	
+28	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	परमेश्वरक	NN	
+2	इच्छा	NN	
+3	क	PSP	
+4	ज्ञान	NN	
+5	अहाँ	PRP	
+6	सभ	QF	
+7	केँ	PSP	
+8	अछि	VM	
+9	और	CC	
+10	धर्म-नियमक	NN	
+11	शिक्षा	NN	
+12	पयबाक	VM	
+13	कारणेँ	NN	
+14	उत्तम	JJ	
+15	बातक	NN	
+16	मोल	NN	
+17	जनैत	VM	
+18	छी	VAUX	
+19	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अहाँ	PRP	
+2	सभक	QF	
+3	धारणा	NN	
+4	अछि	VM	
+5	जे	CC	
+6	,	SYM	
+7	अहाँ	PRP	
+8	सभ	QF	
+9	आन्हार	NN	
+10	सभक	QF	
+11	लेल	PSP	
+12	बाट	NN	
+13	देखौनिहार	VM	
+14	,	SYM	
+15	अन्हार	NN	
+16	मे	PSP	
+17	रहनिहार	VM	
+18	सभक	QF	
+19	लेल	PSP	
+20	इजोत	NN	
+21	,	SYM	
+22	मूर्ख	JJ	
+23	सभ	QF	
+24	केँ	PSP	
+25	बुझौनिहार	VM	
+26	,	SYM	
+27	और	CC	
+28	अज्ञानी	JJ	
+29	सभक	QF	
+30	गुरु	NN	
+31	छी	VM	
+32	,	SYM	
+33	किएक	WQ	
+34	तँ	RP	
+35	अहाँ	PRP	
+36	सभ	QF	
+37	केँ	PSP	
+38	धर्म-नियमक	NN	
+39	द्वारा	PSP	
+40	सम्पूर्ण	JJ	
+41	ज्ञान	NN	
+42	आ	CC	
+43	सत्य	NN	
+44	प्राप्त	NN	
+45	भऽ	VM	
+46	गेल	VAUX	
+47	अछि	VAUX	
+48	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	मुदा	CC	
+2	एकटा	CL	
+3	बात	NN	
+4	,	SYM	
+5	अहाँ	PRP	
+6	सभ	QF	
+7	जे	PRP	
+8	अनका	PRP	
+9	शिक्षा	NN	
+10	दैत	VM	
+11	छिऐक	VAUX	
+12	,	SYM	
+13	की	WQ	
+14	अपनो	PRP	
+15	केँ	PSP	
+16	शिक्षा	NN	
+17	दैत	VM	
+18	छी	VAUX	
+19	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अहाँ	PRP	
+2	सभ	QF	
+3	उपदेश	NN	
+4	दैत	VM	
+5	छी	VAUX	
+6	जे	CC	
+7	चोरी	NN	
+8	नहि	NEG	
+9	करू	VM	
+10	,	SYM	
+11	की	WQ	
+12	अपने	PRP	
+13	चोरी	NN	
+14	करैत	VM	
+15	छी	VAUX	
+16	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अहाँ	PRP	
+2	जे	PRP	
+3	कहैत	VM	
+4	छी	VAUX	
+5	जे	CC	
+6	,	SYM	
+7	परस्त्री	NN	
+8	गमन	VM	
+9	नहि	NEG	
+10	करू	VM	
+11	,	SYM	
+12	की	WQ	
+13	अहाँ	PRP	
+14	करैत	VM	
+15	छी	VAUX	
+16	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अहाँ	PRP	
+2	सभ	QF	
+3	मूर्ति	NN	
+4	सभ	QF	
+5	सँ	PSP	
+6	घृणा	NN	
+7	करैत	VM	
+8	छी	VAUX	
+9	,	SYM	
+10	की	WQ	
+11	अहाँ	PRP	
+12	सभ	QF	
+13	मन्दिर	NN	
+14	सभक	QF	
+15	धन	NN	
+16	केँ	PSP	
+17	लुटैत	VM	
+18	छी	VAUX	
+19	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अहाँ	PRP	
+2	सभ	QF	
+3	धर्म-नियम	NN	
+4	पर	PSP	
+5	घमण्ड	NN	
+6	करैत	VM	
+7	छी	VAUX	
+8	,	SYM	
+9	की	WQ	
+10	अहाँ	PRP	
+11	सभ	QF	
+12	धर्म-नियमक	NN	
+13	उल्लंघन	NN	
+14	कऽ	VM	
+15	कऽ	VAUX	
+16	परमेश्वरक	NN	
+17	अपमान	NN	
+18	करैत	VM	
+19	छियनि	VAUX	
+20	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जेना		
+2	कि	CC	
+3	धर्मशास्त्र	NN	
+4	मे	PSP	
+5	लिखल	VM	
+6	अछि	VAUX	
+7	,	SYM	
+8	तोरा	PRP	
+9	सभक	QF	
+10	कारणेँ	NN	
+11	अन्यक	PRP	
+12	जातिक	NN	
+13	बीच	PSP	
+14	मे	PSP	
+15	परमेश्वरक	NN	
+16	नामक	NN	
+17	निन्दा	NN	
+18	भऽ	VM	
+19	रहल	VAUX	
+20	अछि	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	धर्म-नियमक	NN	
+2	अनुरूप	RB	
+3	कयल	VM	
+4	जाय	VAUX	
+5	वला	PSP	
+6	विधि	NN	
+7	,	SYM	
+8	खतना	NN	
+9	,	SYM	
+10	सँ	PSP	
+11	तखने	NST	
+12	लाभ	NN	
+13	होइत	VM	
+14	अछि	VAUX	
+15	जखन	NST	
+16	अहाँ	PRP	
+17	धर्म-नियमक	NN	
+18	पालन	NN	
+19	करैत	VM	
+20	छी	VAUX	
+21	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	जँ	PRP	
+2	अहाँ	PRP	
+3	धर्म-नियमक	NN	
+4	उल्लंघन	NN	
+5	करैत	VM	
+6	छी	VAUX	
+7	तँ	RP	
+8	अहाँक	PRP	
+9	खतना	NN	
+10	करौनाइ	VM	
+11	बेकार	NN	
+12	अछि	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एही	PRP	
+2	तरहेँ	NN	
+3	,	SYM	
+4	जँ	PRP	
+5	बिनु	NEG	
+6	खतना	NN	
+7	कराओल	VM	
+8	कोनो	PRP	
+9	व्यक्तिक	NN	
+10	धर्म-नियमक	NN	
+11	पालन	NN	
+12	करैत	VM	
+13	अछि	VAUX	
+14	,	SYM	
+15	तँ	RP	
+16	की	WQ	
+17	ओ	PRP	
+18	तैयो	NST	
+19	खतना	NN	
+20	कराओल	VM	
+21	व्यक्ति	NN	
+22	नहि	NEG	
+23	मानल	VM	
+24	जायत	VAUX	
+25	?	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एतबे		
+2	नहि—ओहन	NEG	
+3	मनुष्य	NN	
+4	जकरा	PRP	
+5	शारीरिक	JJ	
+6	रूप	NN	
+7	मे	PSP	
+8	खतना	NN	
+9	नहि	NEG	
+10	कयल	VM	
+11	गेल	VAUX	
+12	छैक	VAUX	
+13	,	SYM	
+14	जँ	PRP	
+15	धर्म-नियम	NN	
+16	पर	PSP	
+17	चलैत	VM	
+18	अछि	VAUX	
+19	तँ	RP	
+20	ओ	PRP	
+21	अहाँ	PRP	
+22	केँ	PSP	
+23	,	SYM	
+24	जे	PRP	
+25	लिखित	JJ	
+26	रूप	NN	
+27	मे	PSP	
+28	धर्म-नियम	NN	
+29	पाबि	VM	
+30	कऽ	VAUX	
+31	और	CC	
+32	खतना	NN	
+33	कराइओ	VM	
+34	कऽ	VAUX	
+35	धर्म-नियमक	NN	
+36	उल्लंघन	NN	
+37	करैत	VM	
+38	छी	VAUX	
+39	,	SYM	
+40	दोषी	JJ	
+41	ठहराओत	VM	
+42	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	असल	JJ	
+2	यहूदी	NN	
+3	ओ	PRP	
+4	नहि	NEG	
+5	,	SYM	
+6	जे	PRP	
+7	मात्र	QF	
+8	बाहरी	JJ	
+9	रूप	NN	
+10	सँ	PSP	
+11	यहूदी	NN	
+12	देखाइ	VM	
+13	दैत	VAUX	
+14	अछि	VAUX	
+15	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	तहिना	RB	
+2	असल	JJ	
+3	खतना	NN	
+4	ओ	PRP	
+5	नहि	NEG	
+6	,	SYM	
+7	जे	PRP	
+8	मात्र	QF	
+9	शरीर	NN	
+10	मे	PSP	
+11	बाहरी	JJ	
+12	चेन्ही	NN	
+13	अछि	VM	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	असल	JJ	
+2	यहूदी	NN	
+3	तँ	RP	
+4	ओ	PRP	
+5	अछि	VM	
+6	जे	PRP	
+7	मोन	NN	
+8	सँ	PSP	
+9	यहूदी	NN	
+10	अछि	VM	
+11	,	SYM	
+12	और	CC	
+13	असल	JJ	
+14	खतना	NN	
+15	वैह	PRP	
+16	अछि	VM	
+17	जे	PRP	
+18	हृदय	NN	
+19	पर	PSP	
+20	कयल	VM	
+21	गेल	VAUX	
+22	अछि	VAUX	
+23	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहन		
+2	खतना	NN	
+3	लिखित	JJ	
+4	धर्म-नियम	NN	
+5	पर	PSP	
+6	निर्भर	NN	
+7	नहि	NEG	
+8	रहैत	VM	
+9	अछि	VAUX	
+10	,	SYM	
+11	बल्कि	NEG	
+12	पवित्र	JJ	
+13	आत्मा	NN	
+14	द्वारा	PSP	
+15	कयल	VM	
+16	जाइत	VAUX	
+17	अछि	VAUX	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहन		
+2	लोकक	NN	
+3	प्रशंसा	NN	
+4	मनुष्यक	NN	
+5	दिस	NST	
+6	सँ	PSP	
+7	नहि	NEG	
+8	,	SYM	
+9	बल्कि	CC	
+10	परमेश्वरक	NN	
+11	दिस	NST	
+12	सँ	PSP	
+13	होइत	VM	
+14	अछि	VAUX	
+15	।	SYM	
+</Sentence>
+
+</document>

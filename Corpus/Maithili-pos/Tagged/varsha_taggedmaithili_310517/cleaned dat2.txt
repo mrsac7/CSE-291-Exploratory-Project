@@ -1,0 +1,257 @@
+<document id="null">
+<head>
+
+</head>
+<Sentence id=''''>
+1	﻿कनाडाके	NNP	
+2	मंत्री	NN	
+3	अमरजीत	NNP	
+4	सोही	NNP	
+5	9से		
+6	12		
+7	जनवरीके	NNP	
+8	बीच	NST	
+9	वाइब्रेंट	UNK	
+10	गुजरात	NNP	
+11	समिटमे	NNP	
+12	हिस्सा	VM	
+13	लेबा	VAUX	
+14	आइब	VM	
+15	रहल	VAUX	
+16	छैथ	VAUX	
+17	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	खास	JJ	
+2	बात	NN	
+3	ई	PRP	
+4	अछि	VM	
+5	कि	CC	
+6	कहियो	NST	
+7	भारतमे	NNP	
+8	पुलिस	NN	
+9	हुनका	PRP	
+10	खालिस्तानकेर	NNP	
+11	आतंकवादी	NN	
+12	कहैत	VM	
+13	छल	VAUX	
+14	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सोहीपर	NNP	
+2	नक्सलि	NNP	
+3	आर	CC	
+4	लिट्टेसँ	NNP	
+5	संबंध	NN	
+6	होयबाक	VM	
+7	आरोप	NN	
+8	सेहो	RP	
+9	लागल	VM	
+10	छल	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	पंजाबके	NNP	
+2	संगरूर	NNP	
+3	जिलासे	NN	
+4	जुड़ल	VM	
+5	सोही	NNP	
+6	बरख	NN	
+7	1981मे		
+8	कनाडा	NNP	
+9	शिफ्ट	UNK	
+10	भ	VM	
+11	'	SYM	
+12	गेल	VAUX	
+13	छला	VAUX	
+14	आर	CC	
+15	1988मे		
+16	भूमि	NN	
+17	अधिकारपर	NN	
+18	एक	QC	
+19	थियेटर	NN	
+20	प्रोग्राममे	UNK	
+21	हिस्सा	VM	
+22	लेबे	VAUX	
+23	बिहार	NNP	
+24	आयल	VM	
+25	छला	VAUX	
+26	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओहि	DEM	
+2	समय	NN	
+3	हुनका	PRP	
+4	टाडाके	NNP	
+5	तहत	PSP	
+6	गिरफ्तारक	NN	
+7	'	SYM	
+8	लेल	PSP	
+9	गेल	VM	
+10	छलैन्ह	VAUX	
+11	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	सोही	NNP	
+2	करीब	NST	
+3	21		
+4	माह	NN	
+5	तक	NST	
+6	कैदमे	NN	
+7	रहला	VM	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अंतरराष्ट्रीय	JJ	
+2	संगठन	NN	
+3	सभ	QF	
+4	हुनकर	PRP	
+5	रिहाई	NN	
+6	लेल	PSP	
+7	आवाज	NN	
+8	उठौलन्हि	VM	
+9	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओनाकि		
+2	,	SYM	
+3	हुनका	PRP	
+4	खिलाफ	PSP	
+5	कहियो	NST	
+6	औपचारिक	JJ	
+7	तौर	NN	
+8	पर	PSP	
+9	चार्ज	UNK	
+10	नहि	NEG	
+11	दाखिल	NN	
+12	भेल	VM	
+13	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	बादमे	NST	
+2	सबूत	NN	
+3	सभक	QF	
+4	अभावमे	NN	
+5	सोही	NNP	
+6	बरी	VM	
+7	भ	VAUX	
+8	'	SYM	
+9	गेला	VAUX	
+10	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	गौरतलब	VM	
+2	अछि	VAUX	
+3	कि	CC	
+4	कनाडा	NNP	
+5	मे	PSP	
+6	बस	NN	
+7	ड्राइवर	NN	
+8	के	PSP	
+9	रूप	NN	
+10	मे	PSP	
+11	अप्पन	PRP	
+12	जिंदगी	NN	
+13	शुरू	VM	
+14	करै	VAUX	
+15	बला	PSP	
+16	सोही	NNP	
+17	बाद	NST	
+18	मे	PSP	
+19	ओताकेँ	NST	
+20	सिटी	NNP	
+21	काउंसलर	NNP	
+22	चुनल	VM	
+23	गेला	VAUX	
+24	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	दोबारा	JJ	
+2	मतगणना	NN	
+3	मे	PSP	
+4	महज	NN	
+5	92		
+6	मत	NN	
+7	से	PSP	
+8	एक	QC	
+9	मंत्री	NN	
+10	क	PSP	
+11	'	SYM	
+12	हरा	VM	
+13	ओ	PRP	
+14	संसद	NN	
+15	केर	PSP	
+16	चुनाव	NN	
+17	जीतला	VM	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	ओ	PRP	
+2	2013		
+3	मे	PSP	
+4	सेहो	RP	
+5	भारत	NNP	
+6	आयल	VM	
+7	छलाह	VAUX	
+8	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	एहिबेर	NST	
+2	एक	QC	
+3	अहम	JJ	
+4	व्यापारिक	NN	
+5	प्रतिनिधिमंडल	NN	
+6	केर	PSP	
+7	अगुवाई	NN	
+8	क	VM	
+9	'	SYM	
+10	रहल	VAUX	
+11	सोही	NNP	
+12	दिल्ली	NNP	
+13	,	SYM	
+14	अहमदाबाद	NNP	
+15	आर	CC	
+16	मुंबई	NNP	
+17	औता	VM	
+18	।	SYM	
+</Sentence>
+
+<Sentence id=''''>
+1	अपने	PRP	
+2	के	PSP	
+3	बता	VM	
+4	दी	VAUX	
+5	कनाडा	NNP	
+6	मे	PSP	
+7	4		
+8	सिख	JJ	
+9	मंत्री	NN	
+10	अछि	VM	
+11	,	SYM	
+12	जाहिमे	PRP	
+13	रक्षा	JJ	
+14	मंत्री	NN	
+15	हरजीत	NNP	
+16	सज्जन	NNP	
+17	सेहो	RP	
+18	जल्दे	RB	
+19	भारत	NNP	
+20	आबै	VM	
+21	बला	VAUX	
+22	छैथ	VAUX	
+23	।	SYM	
+</Sentence>
+
+</document>

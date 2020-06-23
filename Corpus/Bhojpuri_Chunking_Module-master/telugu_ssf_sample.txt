@@ -1,0 +1,73 @@
+<Sentence id='1'>	
+1	((	NP	<fs name='NP' drel='k1:VGF'>
+1.1	migilina	JJ	<fs af='migilina,adj,,,,,0,0_adj' name='migilina'>|<fs af='migilinaM,n,,sg,,,obl,obl'>|<fs af='migilinudu,n,,sg,,,obl,obl'>|<fs af='migulu,v,any,any,any,,ina,ina'>
+1.2	maharRulU	NN	<fs af='maharRi,n,,pl,,,I,I' name='maharRulU'>|<fs af='maharRi,n,,pl,,,0_U,0_U'>
+	))
+2	((	NP	<fs name='NP2' drel='k7p:VGF'>
+2.1	akkadike	NST	<fs af='akkada,n,,sg,,,ki_e,ki_e' name='akkadake'>
+	))
+3	((	VGF	<fs name='VGF'>
+3.1	cerukunnAru	VM	<fs af='ceruko,v,fm,pl,3,,A,A' name='cerukunnAru'>
+3.2	.	SYM	<fs af='&dot;,punc,,,,,,' name='.'>
+	))
+</Sentence>
+
+<Sentence id='2'>	
+1	((	NP	<fs name='NP' drel='k7t:VGF'>
+1.1	rAwri	NN	<fs af='rAwri,n,,sg,,,0,0' name='rAwri'>|<fs af='rAwri,n,,sg,,,obl,obl'>|<fs af='rAwri,n,,sg,,,0,0'>|<fs af='rAwri,n,,sg,,,obl,obl'>
+	))
+2	((	VGF	<fs name='VGF'>
+2.1	ayyiMxi	VM	<fs af='avvu,v,fn,sg,3,,A,A' name='ayyiMxi'>
+2.2	.	SYM	<fs af='&dot;,punc,,,,,,' name='.'>
+	))
+</Sentence>
+
+<Sentence id='3'>	
+1	((	VGNF	<fs name='VGNF' drel='nmod:NP'>
+1.1	Agu	VM	<fs af='Agu,v,,sg,2,,AjFArWa,AjFArWa' name='Agu'>
+1.2	,	SYM	<fs af='&comma;,punc,,,,,,' name=','>
+	))
+2	((	NP	<fs name='NP' drel='rad:VGF'>
+2.1	mahAwmA	NN	<fs af='mahAwmA,n,,sg,,,0,0' name='mahAwmA'>|<fs af='mahAwmA,n,,sg,,,obl,obl'>|<fs af='mahAwmudu,n,,sg,,,I,I'>
+2.2	!	SYM	<fs af='&exm;,punc,,,,,,' name='!'>
+	))
+3	((	VGF	<fs name='VGF'>
+3.1	Agu	VM	<fs af='Agu,v,,sg,2,,AjFArWa,AjFArWa' name='Agu2'>
+3.2	.	SYM	<fs af='&dot;,punc,,,,,,' name='.'>
+	))
+</Sentence>
+
+<Sentence id='4'>	
+1	((	NP	<fs name='NP' drel='k1:NULL__VGF'>
+1.1	ixeM	PRP	<fs af='ixeM,avy,,,,,0,0_avy' name='ixeM'>
+	))
+2	((	NP	<fs name='NP2' drel='k1s:NULL__VGF'>
+2.1	XarmaM	NN	<fs af='XarmaM,n,,sg,,,0,0' name='XarmaM'>
+	))
+3	((	NULL__VGF	<fs name='NULL__VGF'>
+3.1	NULL	VM	<fs name='NULL'>
+3.2	.	SYM	<fs af='&dot;,punc,,,,,,' name='.'>
+	))
+</Sentence>
+
+<Sentence id='5'>	
+1	((	NP	<fs name='NP' drel='ccof:NULL__CCP'>
+1.1	iMxrudu	NNP	<fs af='iMxrudu,n,,sg,,,0,0' name='iMxrudu'>
+	))
+2	((	NULL__CCP	<fs name='NULL__CCP' drel='nmod:NP2'>
+2.1	NULL	CC	<fs name='NULL'>
+	))
+3	((	BLK	<fs name='BLK' drel='ccof:NULL__CCP'>
+3.1	Axi	RP	<fs af='Axi,avy,,sg,,,0,0' name='Axi'>|<fs af='Axi,n,,sg,,,obl,obl'>
+	))
+4	((	NP	<fs name='NP2' drel='k4a:VGF'>
+4.1	xevawalaku	NN	<fs af='xevawa,n,,pl,,,ki,ki' name='xevawalaku'>
+	))
+5	((	NP	<fs name='NP3' drel='k2:VGF'>
+5.1	BayaM	NN	<fs af='BayaM,n,,sg,,,0,0' name='BayaM'>
+	))
+6	((	VGF	<fs name='NULL__VGF'>
+6.1	heVcciMxi	VM	<fs af='heVccu,v,fn,sg,3,,A,A' name='heVcciMxi'>
+6.2	.	SYM	<fs af='&dot;,punc,,,,,,' name='.'>
+	))
+</Sentence>
