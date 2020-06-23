@@ -1,4 +1,4 @@
-# %%
+	# %%
 from __future__ import absolute_import
 from __future__ import print_function
 from __future__ import division
@@ -35,8 +35,7 @@ max_len_char = 0
 EPOCHS = 10
 EMBED_DIM = 200
 BiRNN_UNITS = 200
-# POSTagging_file_path = data['MAG_TAGGING_INPUT_PATH']
-POSTagging_file_path = r'compiled-bhoj.txt'
+POSTagging_file_path = r'bhoj.txt'
 
 
 # %%
@@ -215,7 +214,7 @@ def classification_report(y_true, y_pred, labels):
 train, voc = load_data(POSTagging_file_path)
 (train_x, train_y) = train
 (vocab, class_labels, characters) = voc
-X_train2, x_test2, Y_train2, y_test2 = train_test_split(train_x, train_y, test_size=0.2)
+X_train2, x_test2, Y_train2, y_test2 = train_test_split(train_x, train_y, test_size=0.2, random_state=2018)
 Y_train = Y_train2
 y_test = y_test2
 # print(x_test2)
@@ -226,14 +225,66 @@ print(X_train.shape)
 print(class_labels)
 
 # %%
-from gensim.models import Word2Vec
-model_ted = Word2Vec(sentences=vocab, size=512, window=5, min_count=5, workers=4, sg=0)
+def get_sentence(POSTagging_file_path):
+    file_train = _parse_data(open(POSTagging_file_path))
+    sentences = list()
+    for sample in file_train:
+        l = list()
+        for row in sample:
+            if (len(row)>=3):
+                l.append(row[1].lower())
+        sentences.append(l)
+    return sentences
+    
+sent = get_sentence(POSTagging_file_path)
+
+from gensim.models import FastText, Word2Vec
+# model_ted = FastText(sentences=sent, size= 2 * (EMBED_DIM // 5), window=3, min_count=1, workers=4)
+# model_ted2 = FastText(sentences=sent, size= 2 * (EMBED_DIM // 5), window=3, min_count=30, workers=4)
+model_ted = Word2Vec(sent, size=2 * (EMBED_DIM // 5), window=3, min_count=1, workers=4, sg=0)
+model_ted2 = Word2Vec(sent, size=2 * (EMBED_DIM // 5), window=3, min_count=30, workers=4, sg=0)
+# model_ted = Word2Vec(sent, size=2 * (EMBED_DIM // 5), window=3, min_count=1, workers=4, sg=1)
+# model_ted2 = Word2Vec(sent, size=2 * (EMBED_DIM // 5), window=3, min_count=30, workers=4, sg=1)
+
+from sklearn.manifold import TSNE
+import matplotlib.pyplot as plt
+from matplotlib.font_manager import FontProperties
+#%matplotlib inline
+def tsne_plot(model):
+    "Creates and TSNE model and plots it"
+    labels = []
+    tokens = []
+
+    for word in model.wv.vocab:
+        tokens.append(model[word])
+        labels.append(word)
+    
+    tsne_model = TSNE(perplexity=30, n_components=2, init='pca', n_iter=2500, random_state=23)
+    new_values = tsne_model.fit_transform(tokens)
+
+    x = []
+    y = []
+    for value in new_values:
+        x.append(value[0])
+        y.append(value[1])
+    hindi_font = FontProperties(fname = "/content/drive/Shared drives/Explo/nirmala.ttf", size = 12)
+    plt.figure(figsize=(16, 16)) 
+    for i in range(len(x)):
+        plt.scatter(x[i],y[i])
+        plt.annotate(labels[i],
+                     xy=(x[i], y[i]),
+                     xytext=(5, 2),
+                     textcoords='offset points',
+                     ha='right',
+                     va='bottom', fontproperties=hindi_font)
+    plt.show()
+tsne_plot(model_ted2)
 
 def get_weight_matrix(embedding, vocab):
     # total vocabulary size plus 0 for unknown words
     vocab_size = len(vocab)
     # define weight matrix dimensions with all 0
-    weight_matrix = numpy.zeros((vocab_size, 80))
+    weight_matrix = numpy.zeros((vocab_size, 2 * (EMBED_DIM // 5)))
     # step vocab, store vectors using the Tokenizer's integer mapping
     #wordvectors = embedding.wv
     for i,word in enumerate(vocab):
@@ -261,11 +312,11 @@ inp = concatenate([embedded_word, char_emb])
 o = (Bidirectional(LSTM(BiRNN_UNITS, return_sequences=True, dropout=0.2)))(inp)
 
 # Regualrized Self attention layer at top of Bi-LSTM
-o = (SeqSelfAttention(attention_type=SeqSelfAttention.ATTENTION_TYPE_MUL,
+'''o = (SeqSelfAttention(attention_type=SeqSelfAttention.ATTENTION_TYPE_MUL,
                       kernel_regularizer=keras.regularizers.l2(1e-4),
                       bias_regularizer=keras.regularizers.l1(1e-4),
                       attention_regularizer_weight=1e-4,
-                      name='Attention'))(o)
+                      name='Attention'))(o)'''
 
 crf = CRF(len(class_labels), sparse_target=True, name='crf')
 

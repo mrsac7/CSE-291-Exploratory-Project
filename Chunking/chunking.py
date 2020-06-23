@@ -18,13 +18,13 @@ from keras.models import model_from_json
 
 import keras
 import numpy
-EPOCHS = 1
-EMBED_DIM = 400
+EPOCHS = 5
+EMBED_DIM = 200
 BiRNN_UNITS = 400
 max_len_char=-1
 max_len=None
-chunking_file_path = 'Mai_iob.txt'
-output_file = 'output.txt'
+chunking_file_path = 'bhoj.txt'
+#output_file = 'output-mai.txt'
 def load_data(chunking_file_path, min_freq=1):
 
     file_train = _parse_data(open(chunking_file_path))
@@ -156,15 +156,19 @@ x_pos_train,x_pos_test,__, ___ = train_test_split(x_pos, y, test_size=0.3,random
 print('==== training BiLSTM-CRF ====')
 
 # %%
-from gensim.models import Word2Vec
-model_ted = Word2Vec(sentences=vocab, size=100, window=3, min_count=1, workers=4, sg=0)
-model_ted.save('word2vec.model')
+# from gensim.models import Word2Vec
+# model_ted = Word2Vec(sentences=vocab, size=50, window=3, min_count=1, workers=4, sg=1)
+# model_ted.save('word2vec.model')
+from gensim.models import FastText, Word2Vec
+model_ted = FastText(sentences=vocab, size=EMBED_DIM//4, window=3, min_count=1, workers=4)
+# model_ted = Word2Vec(sent, size=2 * (EMBED_DIM // 5), window=3, min_count=1, workers=4, sg=0)
+# model_ted = Word2Vec(sent, size=2 * (EMBED_DIM // 5), window=3, min_count=1, workers=4, sg=1)
 
 def get_weight_matrix(embedding, vocab):
     # total vocabulary size plus 0 for unknown words
     vocab_size = len(vocab)
     # define weight matrix dimensions with all 0
-    weight_matrix = numpy.zeros((vocab_size, 100))
+    weight_matrix = numpy.zeros((vocab_size, 50))
     # step vocab, store vectors using the Tokenizer's integer mapping
     #wordvectors = embedding.wv
     for i,word in enumerate(vocab):
@@ -203,17 +207,17 @@ crf = CRF(len(class_labels), sparse_target=True,name='crf')
 o=(crf)(o)
 model=Model(input=[word_in,char_in,pos_in],output=o)
 model.compile('adam', loss=crf_loss, metrics=[crf_viterbi_accuracy])
-model.fit([X_train,np.array(X_char_train).reshape(len(X_char_train),max_len,max_len_char),x_pos_train.reshape(len(x_pos_train),max_len)],np.array(y_train).reshape(len(y_train), max_len, 1),batch_size=32, epochs=EPOCHS, validation_split=0.1, verbose=1)
+model.fit([X_train,numpy.array(X_char_train).reshape(len(X_char_train),max_len,max_len_char),x_pos_train.reshape(len(x_pos_train),max_len)],numpy.array(y_train).reshape(len(y_train), max_len, 1),batch_size=32, epochs=EPOCHS, validation_split=0.1, verbose=1)
 #validation
-model_json = model.to_json()
-with open("model.json", "w") as json_file:
-    json_file.write(model_json)
-# serialize weights to HDF5
-model.save_weights("model.h5")
-print("Saved model to disk")
+# model_json = model.to_json()
+# with open("model.json", "w") as json_file:
+#     json_file.write(model_json)
+# # serialize weights to HDF5
+# model.save_weights("model.h5")
+# print("Saved model to disk")
 l4=[0]*max_len_char
 l4=numpy.asarray(l4)
-y= model.predict([X_test,np.array(X_char_test).reshape((len(X_char_test),max_len, max_len_char)),x_pos_test.reshape(len(x_pos_test),max_len)])
+y= model.predict([X_test,numpy.array(X_char_test).reshape((len(X_char_test),max_len, max_len_char)),x_pos_test.reshape(len(x_pos_test),max_len)])
 y= y.argmax(-1)
 y_pred=[]
 test_y_true=[]
@@ -236,13 +240,13 @@ for i in range(len(X_test)):
 test_y_pred=numpy.asarray(y_pred)
 test_y_true=numpy.asarray(test_y_true)
 #writing output for validation
-f1=open(output_file,'w')
-for i in range(len(test_y_pred)):
-    for j in range(len(test_y_pred[i])):
-        s='|'+'\t'+'NN'+'\t'+str(class_labels[test_y_pred[i][j]])+'\t'+str(class_labels[test_y_true[i][j]])
-        f1.write(s+'\n')
-    f1.write('\n')
-f1.flush()
-f1.close()
+# f1=open(output_file,'w')
+# for i in range(len(test_y_pred)):
+#     for j in range(len(test_y_pred[i])):
+#         s='|'+'\t'+'NN'+'\t'+str(class_labels[test_y_pred[i][j]])+'\t'+str(class_labels[test_y_true[i][j]])
+#         f1.write(s+'\n')
+#     f1.write('\n')
+# f1.flush()
+# f1.close()
 print('\n---- Result of BiLSTM-CRF ----\n')
 classification_report(ctest_y_true, ctest_y_pred, class_labels)
